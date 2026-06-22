@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T14:41:01.011812+00:00",
+  "updated_at": "2026-06-22T17:43:04.644405+00:00",
   "local_date": "2026-06-22",
   "articles": [
     {
@@ -33,9 +33,9 @@
       "away": "Austria",
       "time": "19:00",
       "date": "2026-06-22T19:00:00+02:00",
-      "status": "TIMED",
-      "home_score": null,
-      "away_score": null,
+      "status": "IN_PLAY",
+      "home_score": 0,
+      "away_score": 0,
       "group": "GROUP_J"
     },
     {
@@ -60,13 +60,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner verso Wimbledon 2026: quando gioca, dove vederlo in tv e il torneo (in chiaro) prima dello Slam - libero.it",
-      "source": "libero.it",
-      "published": "Sun, 21 Jun 2026 06:35:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Ranking ATP: Sinner allunga su Alcaraz, balzo in avanti per Bellucci - Ubitennis",
       "source": "Ubitennis",
       "published": "Mon, 22 Jun 2026 08:59:02 GMT"
@@ -77,6 +70,41 @@
       "title": "Sinner, 77 settimane da numero 1. Djokovic mai così in basso dal 2022 | La nuova classifica Atp - Il Fatto Quotidiano",
       "source": "Il Fatto Quotidiano",
       "published": "Mon, 22 Jun 2026 09:13:11 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Ranking ATP: Sinner allunga, Bellucci vola, Cinà cresce - realtennis.it",
+      "source": "realtennis.it",
+      "published": "Mon, 22 Jun 2026 11:34:57 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel, ancora un’impresa per Dal Pozzo: semifinale a Roma! - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sat, 06 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel Valencia, finale col brivido: la spuntano Coello-Tapia - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 14 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Milano Premier Padel P1: iniziata la vendita dei biglietti per il torneo - Padelbiz",
+      "source": "Padelbiz",
+      "published": "Thu, 18 Jun 2026 10:38:47 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel: Sanchez/Ustero in finale dopo più di 4 ore. Tutto facile per Tapia/Coello - rtl.it",
+      "source": "rtl.it",
+      "published": "Sun, 07 Jun 2026 07:00:00 GMT"
     }
   ]
 }
