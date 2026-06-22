@@ -1,3 +1,4 @@
+```html
 <!DOCTYPE html>
 <html lang="it">
 <head>
@@ -25,96 +26,58 @@
     }
 
     body {
-      position: relative;
       background:
         radial-gradient(
           circle at 85% 50%,
-          rgba(36, 111, 164, 0.45) 0%,
-          rgba(12, 37, 66, 0.65) 35%,
-          rgba(5, 15, 28, 1) 75%
+          #174e78 0%,
+          #0a2947 38%,
+          #061321 78%
         );
-    }
-
-    body::before {
-      content: "";
-      position: absolute;
-      inset: 0;
-      background:
-        linear-gradient(
-          115deg,
-          transparent 0%,
-          transparent 45%,
-          rgba(255, 255, 255, 0.04) 46%,
-          transparent 48%
-        );
-      pointer-events: none;
     }
 
     .page {
       position: relative;
-      z-index: 1;
       width: 100%;
       height: 100%;
       display: flex;
       overflow: hidden;
     }
 
-    /* AREA LOGO */
-
     .brand {
-      position: relative;
-      width: 230px;
-      min-width: 230px;
+      width: 220px;
+      min-width: 220px;
       height: 100%;
-      padding: 14px 18px;
+      padding: 10px 15px;
+
       display: flex;
       flex-direction: column;
       justify-content: center;
       align-items: center;
-      text-align: center;
-      background:
-        linear-gradient(
-          180deg,
-          rgba(255, 255, 255, 0.08),
-          rgba(0, 0, 0, 0.20)
-        );
-      border-right: 1px solid rgba(255, 255, 255, 0.16);
-      box-shadow: 8px 0 24px rgba(0, 0, 0, 0.18);
-    }
 
-    .brand::after {
-      content: "";
-      position: absolute;
-      right: -2px;
-      top: 15%;
-      width: 3px;
-      height: 70%;
-      border-radius: 3px;
-      background: linear-gradient(
-        to bottom,
-        transparent,
-        #e53935,
-        transparent
-      );
+      text-align: center;
+      background: rgba(0, 0, 0, 0.25);
+      border-right: 1px solid rgba(255, 255, 255, 0.17);
     }
 
     .brand img {
       display: block;
-      max-width: 150px;
-      max-height: 78px;
+      max-width: 140px;
+      max-height: 72px;
       width: auto;
       height: auto;
       object-fit: contain;
-      margin-bottom: 8px;
+      margin-bottom: 7px;
+
       filter:
-        drop-shadow(0 4px 10px rgba(0, 0, 0, 0.35));
+        drop-shadow(
+          0 4px 8px rgba(0, 0, 0, 0.35)
+        );
     }
 
     .brand-title {
       font-size: 18px;
       font-weight: 900;
-      letter-spacing: 1.5px;
-      line-height: 1;
+      letter-spacing: 1.3px;
     }
 
     .brand-title span {
@@ -122,36 +85,35 @@
     }
 
     .brand-subtitle {
-      margin-top: 6px;
+      margin-top: 5px;
       font-size: 10px;
-      letter-spacing: 0.8px;
       text-transform: uppercase;
-      opacity: 0.72;
+      letter-spacing: 0.8px;
+      opacity: 0.7;
     }
 
-    /* AREA NOTIZIA */
-
-    .news-area {
+    .content {
       position: relative;
       flex: 1;
       min-width: 0;
       height: 100%;
-      padding: 16px 30px 19px;
+      padding: 12px 28px 17px;
+
       display: flex;
-      flex-direction: column;
-      justify-content: center;
+      align-items: center;
     }
 
-    .news-content {
+    .slide {
       width: 100%;
       opacity: 1;
       transform: translateY(0);
+
       transition:
-        opacity 0.4s ease,
-        transform 0.4s ease;
+        opacity 0.35s ease,
+        transform 0.35s ease;
     }
 
-    .news-content.hidden {
+    .slide-hidden {
       opacity: 0;
       transform: translateY(8px);
     }
@@ -159,163 +121,207 @@
     .top-line {
       display: flex;
       align-items: center;
-      gap: 12px;
+      gap: 10px;
       margin-bottom: 9px;
     }
 
     .category {
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      min-width: 88px;
+      display: inline-block;
       padding: 6px 14px;
       border-radius: 999px;
-      background: #e53935;
-      color: #ffffff;
+
       font-size: 13px;
       font-weight: 900;
       letter-spacing: 1px;
-      box-shadow:
-        0 4px 12px rgba(229, 57, 53, 0.28);
+
+      color: #ffffff;
+
+      background:
+        linear-gradient(
+          135deg,
+          #e53935,
+          #a81010
+        );
     }
 
-    .category.calcio {
-      background: linear-gradient(
-        135deg,
-        #e53935,
-        #b71c1c
-      );
+    .category-tennis {
+      color: #12210d;
+
+      background:
+        linear-gradient(
+          135deg,
+          #dce85f,
+          #79ae3b
+        );
     }
 
-    .category.tennis {
-      background: linear-gradient(
-        135deg,
-        #d4e157,
-        #7cb342
-      );
-      color: #10210b;
-    }
+    .category-padel {
+      color: #ffffff;
 
-    .category.padel {
-      background: linear-gradient(
-        135deg,
-        #29b6f6,
-        #1565c0
-      );
-    }
-
-    .live-label {
-      font-size: 11px;
-      font-weight: 700;
-      letter-spacing: 1.2px;
-      opacity: 0.72;
+      background:
+        linear-gradient(
+          135deg,
+          #2db9f4,
+          #1557b5
+        );
     }
 
     .live-dot {
       width: 8px;
+      min-width: 8px;
       height: 8px;
       border-radius: 50%;
+
       background: #ff3b30;
+
       box-shadow:
-        0 0 0 4px rgba(255, 59, 48, 0.14);
-      animation: pulse 1.6s infinite;
+        0 0 0 4px rgba(255, 59, 48, 0.15);
     }
 
-    @keyframes pulse {
-      0%,
-      100% {
-        opacity: 1;
-        transform: scale(1);
-      }
-
-      50% {
-        opacity: 0.55;
-        transform: scale(0.85);
-      }
+    .label {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      opacity: 0.75;
     }
 
     .headline {
       max-width: 100%;
-      font-size: clamp(22px, 2.15vw, 38px);
-      font-weight: 850;
+
+      font-size: 30px;
+      font-weight: 800;
       line-height: 1.16;
-      letter-spacing: -0.3px;
-      text-shadow:
-        0 3px 10px rgba(0, 0, 0, 0.50);
 
       white-space: normal;
-      overflow-wrap: anywhere;
+      word-break: normal;
+      overflow-wrap: break-word;
 
-      display: -webkit-box;
-      -webkit-line-clamp: 3;
-      -webkit-box-orient: vertical;
-      overflow: hidden;
-    }
-
-    .meta-line {
-      margin-top: 11px;
-      display: flex;
-      align-items: center;
-      gap: 12px;
-      font-size: 12px;
-      opacity: 0.78;
+      text-shadow:
+        0 3px 10px rgba(0, 0, 0, 0.48);
     }
 
     .source {
-      font-weight: 700;
+      margin-top: 10px;
+      font-size: 12px;
+      opacity: 0.72;
     }
 
-    .separator {
-      opacity: 0.45;
+    /* MONDIALI */
+
+    .matches-title {
+      margin-bottom: 10px;
+
+      font-size: 23px;
+      font-weight: 900;
+      letter-spacing: 0.3px;
+    }
+
+    .matches-grid {
+      width: 100%;
+
+      display: grid;
+      grid-template-columns:
+        repeat(2, minmax(0, 1fr));
+
+      gap: 8px 14px;
+    }
+
+    .match {
+      min-width: 0;
+      min-height: 62px;
+      padding: 9px 13px;
+
+      display: grid;
+      grid-template-columns: 65px 1fr;
+      align-items: center;
+      gap: 10px;
+
+      border-radius: 11px;
+      border: 1px solid rgba(255, 255, 255, 0.16);
+
+      background: rgba(0, 0, 0, 0.25);
+    }
+
+    .match-time {
+      font-size: 19px;
+      font-weight: 900;
+      color: #ffd84a;
+      text-align: center;
+    }
+
+    .match-teams {
+      min-width: 0;
+    }
+
+    .teams {
+      font-size: 17px;
+      font-weight: 800;
+      line-height: 1.15;
+    }
+
+    .match-info {
+      margin-top: 4px;
+
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+
+      opacity: 0.68;
+    }
+
+    .final-score {
+      font-size: 20px;
+      color: #ffffff;
     }
 
     .counter {
       position: absolute;
-      top: 16px;
-      right: 23px;
-      padding: 5px 10px;
+      top: 10px;
+      right: 18px;
+
+      padding: 4px 9px;
       border-radius: 999px;
+
       background: rgba(255, 255, 255, 0.08);
-      border: 1px solid rgba(255, 255, 255, 0.10);
-      font-size: 11px;
-      font-weight: 700;
-      opacity: 0.80;
+
+      font-size: 10px;
+      opacity: 0.75;
     }
 
     .updated {
       position: absolute;
-      right: 24px;
-      bottom: 12px;
-      font-size: 10px;
-      opacity: 0.55;
-    }
+      right: 20px;
+      bottom: 8px;
 
-    /* BARRA AVANZAMENTO */
+      font-size: 9px;
+      opacity: 0.5;
+    }
 
     .progress {
       position: absolute;
-      left: 230px;
+      left: 220px;
       right: 0;
       bottom: 0;
-      height: 6px;
-      background: rgba(255, 255, 255, 0.10);
+
+      height: 5px;
       overflow: hidden;
+
+      background: rgba(255, 255, 255, 0.1);
     }
 
     .progress-bar {
       width: 0%;
       height: 100%;
+
       background:
         linear-gradient(
           90deg,
           #ff3b30,
-          #ffcc00
+          #ffd428
         );
-      box-shadow:
-        0 0 12px rgba(255, 59, 48, 0.45);
     }
 
-    .progress-bar.animate {
+    .progress-animate {
       animation: progress 15s linear forwards;
     }
 
@@ -329,69 +335,63 @@
       }
     }
 
-    .error {
+    .error-message {
       width: 100%;
-      font-size: 18px;
+
+      font-size: 22px;
       font-weight: 700;
       text-align: center;
-      opacity: 0.85;
+
+      opacity: 0.9;
     }
 
-    /* ADATTAMENTO PER FASCIA BASSA */
-
-    @media (max-width: 1100px) {
+    @media (max-width: 1050px) {
       .brand {
-        width: 175px;
-        min-width: 175px;
-        padding: 9px;
+        width: 170px;
+        min-width: 170px;
       }
 
       .brand img {
-        max-width: 115px;
-        max-height: 58px;
+        max-width: 105px;
+        max-height: 55px;
       }
 
       .brand-title {
         font-size: 14px;
       }
 
-      .brand-subtitle {
-        font-size: 8px;
+      .content {
+        padding: 8px 14px 12px;
       }
 
-      .news-area {
-        padding: 10px 17px 14px;
+      .matches-title {
+        margin-bottom: 6px;
+        font-size: 17px;
+      }
+
+      .match {
+        min-height: 48px;
+        padding: 5px 8px;
+
+        grid-template-columns: 52px 1fr;
+      }
+
+      .match-time {
+        font-size: 14px;
+      }
+
+      .teams {
+        font-size: 13px;
       }
 
       .headline {
-        font-size: clamp(18px, 2vw, 28px);
+        font-size: 22px;
         line-height: 1.12;
       }
 
-      .category {
-        min-width: 70px;
-        padding: 4px 10px;
-        font-size: 10px;
-      }
-
-      .meta-line {
-        margin-top: 6px;
-        font-size: 10px;
-      }
-
       .progress {
-        left: 175px;
+        left: 170px;
         height: 4px;
-      }
-
-      .counter {
-        top: 8px;
-        right: 12px;
-      }
-
-      .updated {
-        right: 14px;
-        bottom: 7px;
       }
     }
   </style>
@@ -402,6 +402,7 @@
   <main class="page">
 
     <aside class="brand">
+
       <img
         src="logo-mariano.png"
         alt="Mariano Sports Arena"
@@ -413,47 +414,29 @@
       </div>
 
       <div class="brand-subtitle">
-        Calcio · Tennis · Padel
+        Mondiali · Tennis · Padel
       </div>
+
     </aside>
 
-    <section class="news-area">
+    <section class="content">
 
-      <div class="counter" id="counter">
-        0 / 0
+      <div
+        class="counter"
+        id="counter"
+      ></div>
+
+      <div
+        class="slide"
+        id="slide"
+      >
+        Caricamento contenuti...
       </div>
 
-      <div class="news-content" id="news-content">
-
-        <div class="top-line">
-          <div class="category" id="category">
-            SPORT
-          </div>
-
-          <div class="live-dot"></div>
-
-          <div class="live-label">
-            ULTIME NOTIZIE
-          </div>
-        </div>
-
-        <div class="headline" id="headline">
-          Caricamento notizie...
-        </div>
-
-        <div class="meta-line">
-          <span class="source" id="source"></span>
-
-          <span class="separator" id="separator">
-            •
-          </span>
-
-          <span id="published"></span>
-        </div>
-
-      </div>
-
-      <div class="updated" id="updated"></div>
+      <div
+        class="updated"
+        id="updated"
+      ></div>
 
     </section>
 
@@ -467,224 +450,517 @@
   </main>
 
   <script>
-    const categoryElement =
-      document.getElementById("category");
+    var slideElement =
+      document.getElementById("slide");
 
-    const headlineElement =
-      document.getElementById("headline");
-
-    const sourceElement =
-      document.getElementById("source");
-
-    const publishedElement =
-      document.getElementById("published");
-
-    const separatorElement =
-      document.getElementById("separator");
-
-    const progressBar =
-      document.getElementById("progress-bar");
-
-    const newsContent =
-      document.getElementById("news-content");
-
-    const counterElement =
+    var counterElement =
       document.getElementById("counter");
 
-    const updatedElement =
+    var updatedElement =
       document.getElementById("updated");
 
-    let articles = [];
-    let currentIndex = 0;
+    var progressBar =
+      document.getElementById("progress-bar");
 
-    const articleDuration = 15000;
+    var slideDuration = 15000;
+
+    var slides = [];
+    var currentSlide = 0;
+    var slideTimer = null;
+
+
+    function escapeHtml(value) {
+      if (
+        value === null ||
+        value === undefined
+      ) {
+        return "";
+      }
+
+      return String(value)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+    }
+
 
     function restartProgress() {
-      progressBar.classList.remove("animate");
+      progressBar.className =
+        "progress-bar";
 
       void progressBar.offsetWidth;
 
-      progressBar.classList.add("animate");
+      progressBar.className =
+        "progress-bar progress-animate";
     }
 
-    function formatPublishedDate(value) {
-      if (!value) {
-        return "";
-      }
-
-      const date = new Date(value);
-
-      if (Number.isNaN(date.getTime())) {
-        return "";
-      }
-
-      return date.toLocaleString("it-IT", {
-        day: "2-digit",
-        month: "2-digit",
-        hour: "2-digit",
-        minute: "2-digit"
-      });
-    }
 
     function getCategoryClass(category) {
-      const normalized =
+      var normalized =
         String(category || "").toLowerCase();
 
-      if (normalized.includes("calcio")) {
-        return "category calcio";
+      if (normalized === "tennis") {
+        return "category category-tennis";
       }
 
-      if (normalized.includes("tennis")) {
-        return "category tennis";
-      }
-
-      if (normalized.includes("padel")) {
-        return "category padel";
+      if (normalized === "padel") {
+        return "category category-padel";
       }
 
       return "category";
     }
 
-    function showArticleImmediately(article) {
-      const category =
-        article.category || "SPORT";
 
-      categoryElement.textContent =
-        category;
-
-      categoryElement.className =
-        getCategoryClass(category);
-
-      headlineElement.textContent =
-        article.title || "Notizia non disponibile";
-
-      sourceElement.textContent =
-        article.source
-          ? "Fonte: " + article.source
-          : "";
-
-      const published =
-        formatPublishedDate(article.published);
-
-      publishedElement.textContent =
-        published;
-
-      separatorElement.style.display =
-        article.source && published
-          ? "inline"
-          : "none";
-
-      counterElement.textContent =
-        (currentIndex + 1) +
-        " / " +
-        articles.length;
-
-      restartProgress();
-    }
-
-    function showArticle() {
-      if (!articles.length) {
-        headlineElement.textContent =
-          "Nessuna notizia disponibile";
-
-        return;
+    function getStatusText(match) {
+      if (match.status === "FINISHED") {
+        return "Risultato finale";
       }
 
-      const article =
-        articles[currentIndex];
+      if (
+        match.status === "IN_PLAY" ||
+        match.status === "PAUSED"
+      ) {
+        return "Partita in corso";
+      }
 
-      newsContent.classList.add("hidden");
+      if (match.group) {
+        return formatGroup(match.group);
+      }
 
-      setTimeout(function() {
-        showArticleImmediately(article);
-
-        newsContent.classList.remove("hidden");
-      }, 400);
-
-      currentIndex =
-        (currentIndex + 1) % articles.length;
+      return "Partita di oggi";
     }
 
-    function formatUpdateTime(value) {
+
+    function formatGroup(value) {
       if (!value) {
         return "";
       }
 
-      const date = new Date(value);
+      var text = String(value);
 
-      if (Number.isNaN(date.getTime())) {
+      text = text.replace(
+        "GROUP_",
+        "Girone "
+      );
+
+      text = text.replace(
+        "LAST_16",
+        "Ottavi di finale"
+      );
+
+      text = text.replace(
+        "QUARTER_FINALS",
+        "Quarti di finale"
+      );
+
+      text = text.replace(
+        "SEMI_FINALS",
+        "Semifinale"
+      );
+
+      text = text.replace(
+        "FINAL",
+        "Finale"
+      );
+
+      return text;
+    }
+
+
+    function renderMatches(matches) {
+      var rows = "";
+      var i;
+
+      for (i = 0; i < matches.length; i++) {
+        var match = matches[i];
+
+        var timeOrScore =
+          escapeHtml(match.time);
+
+        var hasScore =
+          match.home_score !== null &&
+          match.home_score !== undefined &&
+          match.away_score !== null &&
+          match.away_score !== undefined;
+
+        if (
+          match.status === "FINISHED" &&
+          hasScore
+        ) {
+          timeOrScore =
+            '<span class="final-score">' +
+            escapeHtml(match.home_score) +
+            " - " +
+            escapeHtml(match.away_score) +
+            "</span>";
+        }
+
+        if (
+          (
+            match.status === "IN_PLAY" ||
+            match.status === "PAUSED"
+          ) &&
+          hasScore
+        ) {
+          timeOrScore =
+            '<span class="final-score">' +
+            escapeHtml(match.home_score) +
+            " - " +
+            escapeHtml(match.away_score) +
+            "</span>";
+        }
+
+        rows +=
+          '<div class="match">' +
+
+            '<div class="match-time">' +
+              timeOrScore +
+            "</div>" +
+
+            '<div class="match-teams">' +
+
+              '<div class="teams">' +
+                escapeHtml(match.home) +
+                " - " +
+                escapeHtml(match.away) +
+              "</div>" +
+
+              '<div class="match-info">' +
+                escapeHtml(
+                  getStatusText(match)
+                ) +
+              "</div>" +
+
+            "</div>" +
+
+          "</div>";
+      }
+
+      return (
+        '<div class="top-line">' +
+
+          '<div class="category">' +
+            "MONDIALI" +
+          "</div>" +
+
+          '<div class="live-dot"></div>' +
+
+          '<div class="label">' +
+            "PARTITE DI OGGI" +
+          "</div>" +
+
+        "</div>" +
+
+        '<div class="matches-title">' +
+          "Incontri in programma e risultati" +
+        "</div>" +
+
+        '<div class="matches-grid">' +
+          rows +
+        "</div>"
+      );
+    }
+
+
+    function renderNews(article) {
+      return (
+        '<div class="top-line">' +
+
+          '<div class="' +
+            getCategoryClass(
+              article.category
+            ) +
+          '">' +
+
+            escapeHtml(
+              article.category || "SPORT"
+            ) +
+
+          "</div>" +
+
+          '<div class="live-dot"></div>' +
+
+          '<div class="label">' +
+            "ULTIME NOTIZIE" +
+          "</div>" +
+
+        "</div>" +
+
+        '<div class="headline">' +
+          escapeHtml(
+            article.title ||
+            "Notizia non disponibile"
+          ) +
+        "</div>" +
+
+        '<div class="source">' +
+          "Fonte: " +
+          escapeHtml(
+            article.source ||
+            "Fonte non indicata"
+          ) +
+        "</div>"
+      );
+    }
+
+
+    function renderMessage(article) {
+      return (
+        '<div class="top-line">' +
+
+          '<div class="category">' +
+            "MONDIALI" +
+          "</div>" +
+
+          '<div class="label">' +
+            "AGGIORNAMENTO" +
+          "</div>" +
+
+        "</div>" +
+
+        '<div class="headline">' +
+          escapeHtml(
+            article.title ||
+            "Calendario non disponibile"
+          ) +
+        "</div>"
+      );
+    }
+
+
+    function buildSlides(articles) {
+      var matches = [];
+      var messages = [];
+      var news = [];
+      var result = [];
+      var i;
+
+      for (i = 0; i < articles.length; i++) {
+        var article = articles[i];
+
+        if (
+          article.category === "MONDIALI" &&
+          article.type === "match"
+        ) {
+          matches.push(article);
+        }
+
+        if (
+          article.category === "MONDIALI" &&
+          article.type === "message"
+        ) {
+          messages.push(article);
+        }
+
+        if (
+          article.type === "news" &&
+          (
+            article.category === "TENNIS" ||
+            article.category === "PADEL"
+          )
+        ) {
+          news.push(article);
+        }
+      }
+
+      if (matches.length > 0) {
+        result.push({
+          type: "matches",
+          matches: matches
+        });
+      } else if (messages.length > 0) {
+        result.push({
+          type: "message",
+          article: messages[0]
+        });
+      }
+
+      for (i = 0; i < news.length; i++) {
+        result.push({
+          type: "news",
+          article: news[i]
+        });
+      }
+
+      return result;
+    }
+
+
+    function showSlide() {
+      if (slides.length === 0) {
+        slideElement.innerHTML =
+          '<div class="error-message">' +
+          "Nessun contenuto disponibile" +
+          "</div>";
+
+        counterElement.innerHTML = "";
+        return;
+      }
+
+      var selectedSlide =
+        slides[currentSlide];
+
+      slideElement.className =
+        "slide slide-hidden";
+
+      window.setTimeout(
+        function() {
+          if (
+            selectedSlide.type ===
+            "matches"
+          ) {
+            slideElement.innerHTML =
+              renderMatches(
+                selectedSlide.matches
+              );
+          }
+
+          if (
+            selectedSlide.type ===
+            "news"
+          ) {
+            slideElement.innerHTML =
+              renderNews(
+                selectedSlide.article
+              );
+          }
+
+          if (
+            selectedSlide.type ===
+            "message"
+          ) {
+            slideElement.innerHTML =
+              renderMessage(
+                selectedSlide.article
+              );
+          }
+
+          counterElement.innerHTML =
+            (currentSlide + 1) +
+            " / " +
+            slides.length;
+
+          slideElement.className =
+            "slide";
+
+          restartProgress();
+
+          currentSlide =
+            currentSlide + 1;
+
+          if (
+            currentSlide >=
+            slides.length
+          ) {
+            currentSlide = 0;
+          }
+        },
+        350
+      );
+    }
+
+
+    function formatUpdated(value) {
+      if (!value) {
         return "";
       }
 
-      return "Aggiornato alle " +
-        date.toLocaleTimeString("it-IT", {
-          hour: "2-digit",
-          minute: "2-digit"
-        });
+      var date = new Date(value);
+
+      if (isNaN(date.getTime())) {
+        return "";
+      }
+
+      return (
+        "Aggiornato alle " +
+        date.toLocaleTimeString(
+          "it-IT",
+          {
+            hour: "2-digit",
+            minute: "2-digit"
+          }
+        )
+      );
     }
 
+
     function loadNews() {
+      var url =
+        "./news.json?v=12&time=" +
+        new Date().getTime();
+
       fetch(
-        "news.json?time=" + Date.now(),
+        url,
         {
           cache: "no-store"
         }
       )
-        .then(function(response) {
-          if (!response.ok) {
-            throw new Error(
-              "Errore HTTP " + response.status
-            );
+        .then(
+          function(response) {
+            if (!response.ok) {
+              throw new Error(
+                "Errore HTTP " +
+                response.status
+              );
+            }
+
+            return response.json();
           }
+        )
+        .then(
+          function(data) {
+            var articles =
+              data.articles || [];
 
-          return response.json();
-        })
-        .then(function(data) {
-          if (
-            !data.articles ||
-            !data.articles.length
-          ) {
-            throw new Error(
-              "Nessuna notizia trovata"
-            );
+            slides =
+              buildSlides(articles);
+
+            currentSlide = 0;
+
+            updatedElement.innerHTML =
+              formatUpdated(
+                data.updated_at
+              );
+
+            showSlide();
+
+            if (slideTimer !== null) {
+              window.clearInterval(
+                slideTimer
+              );
+            }
+
+            slideTimer =
+              window.setInterval(
+                showSlide,
+                slideDuration
+              );
           }
+        )
+        .catch(
+          function(error) {
+            console.log(
+              "Errore caricamento:",
+              error
+            );
 
-          /*
-            Limitiamo la pagina a 12 notizie totali,
-            così il ciclo resta ordinato.
-          */
-          articles =
-            data.articles.slice(0, 12);
+            slideElement.innerHTML =
+              '<div class="error-message">' +
+              "Notizie momentaneamente non disponibili" +
+              "</div>";
 
-          currentIndex = 0;
-
-          updatedElement.textContent =
-            formatUpdateTime(data.updated_at);
-
-          showArticle();
-        })
-        .catch(function(error) {
-          console.error(error);
-
-          headlineElement.innerHTML =
-            '<div class="error">' +
-            'Notizie momentaneamente non disponibili' +
-            '</div>';
-
-          sourceElement.textContent = "";
-          publishedElement.textContent = "";
-          counterElement.textContent = "";
-        });
+            counterElement.innerHTML = "";
+            updatedElement.innerHTML = "";
+          }
+        );
     }
+
 
     loadNews();
 
-    setInterval(
-      showArticle,
-      articleDuration
-    );
-
-    setInterval(
+    window.setInterval(
       loadNews,
       30 * 60 * 1000
     );
