@@ -29,27 +29,29 @@ jobs:
           python <<'PY'
           import json
           import html
-          import re
           import os
+          import re
           import urllib.parse
           import urllib.request
           import xml.etree.ElementTree as ET
 
-          from datetime import datetime, timezone
+          from datetime import datetime, timedelta, timezone
           from zoneinfo import ZoneInfo
 
           ITALY_TZ = ZoneInfo("Europe/Rome")
-          now_italy = datetime.now(ITALY_TZ)
-          today = now_italy.date()
 
-          token = os.environ.get("FOOTBALL_DATA_TOKEN", "").strip()
+          now_italy = datetime.now(ITALY_TZ)
+          today_italy = now_italy.date()
+
+          token = os.environ.get(
+              "FOOTBALL_DATA_TOKEN",
+              ""
+          ).strip()
 
           if not token:
-              raise RuntimeError("FOOTBALL_DATA_TOKEN mancante")
-
-          headers = {
-              "User-Agent": "Mariano-Sports-Arena-Signage/1.0"
-          }
+              raise RuntimeError(
+                  "FOOTBALL_DATA_TOKEN mancante"
+              )
 
           blocked_phrases = [
               "guarda il video",
@@ -65,7 +67,6 @@ jobs:
               "virale",
               "sui social",
               "clicca qui",
-              "da non perdere",
               "che colpo",
               "il colpo di",
               "spettacolare punto",
@@ -101,6 +102,7 @@ jobs:
                   "qualificato",
                   "sinner"
               ],
+
               "PADEL": [
                   "risultato",
                   "torneo",
@@ -135,7 +137,10 @@ jobs:
               normalized = title.lower()
               score = 0
 
-              for keyword in important_keywords.get(category, []):
+              for keyword in important_keywords.get(
+                  category,
+                  []
+              ):
                   if keyword in normalized:
                       score += 2
 
@@ -146,7 +151,6 @@ jobs:
                       "domani",
                       "ufficiale",
                       "programma",
-                      "calendario",
                       "diretta"
                   ]
               ):
@@ -162,19 +166,14 @@ jobs:
                       "gossip"
                   ]
               ):
-                  score -= 5
+                  score -= 6
 
               return score
 
-          def fetch_json(url, extra_headers=None):
-              request_headers = dict(headers)
-
-              if extra_headers:
-                  request_headers.update(extra_headers)
-
+          def fetch_json(url, headers):
               request = urllib.request.Request(
                   url,
-                  headers=request_headers
+                  headers=headers
               )
 
               with urllib.request.urlopen(
@@ -185,20 +184,40 @@ jobs:
                       response.read().decode("utf-8")
                   )
 
+          def team_name(team):
+              return (
+                  team.get("shortName")
+                  or team.get("tla")
+                  or team.get("name")
+                  or "Da definire"
+              )
+
           def fetch_world_cup_matches():
-              date_string = today.isoformat()
+              /*
+              Cerca anche il giorno precedente e successivo,
+              poi filtra usando l'orario italiano.
+              */
+              date_from = (
+                  today_italy - timedelta(days=1)
+              ).isoformat()
+
+              date_to = (
+                  today_italy + timedelta(days=1)
+              ).isoformat()
 
               url = (
                   "https://api.football-data.org/v4/"
                   "competitions/WC/matches"
-                  f"?dateFrom={date_string}"
-                  f"&dateTo={date_string}"
+                  f"?dateFrom={date_from}"
+                  f"&dateTo={date_to}"
               )
 
               data = fetch_json(
                   url,
                   {
-                      "X-Auth-Token": token
+                      "X-Auth-Token": token,
+                      "User-Agent":
+                          "Mariano-Sports-Arena/1.0"
                   }
               )
 
@@ -211,61 +230,70 @@ jobs:
                       continue
 
                   match_time = datetime.fromisoformat(
-                      utc_date.replace("Z", "+00:00")
+                      utc_date.replace(
+                          "Z",
+                          "+00:00"
+                      )
                   ).astimezone(ITALY_TZ)
 
-                  home = (
-                      match.get("homeTeam", {}).get("shortName")
-                      or match.get("homeTeam", {}).get("name")
-                      or "Squadra 1"
+                  /*
+                  Questa è la correzione importante:
+                  accetta solo le partite che in Italia
+                  cadono effettivamente oggi.
+                  */
+                  if match_time.date() != today_italy:
+                      continue
+
+                  home = team_name(
+                      match.get("homeTeam", {})
                   )
 
-                  away = (
-                      match.get("awayTeam", {}).get("shortName")
-                      or match.get("awayTeam", {}).get("name")
-                      or "Squadra 2"
+                  away = team_name(
+                      match.get("awayTeam", {})
                   )
 
-                  status = match.get("status", "")
-                  score = match.get("score", {}).get("fullTime", {})
+                  status = match.get(
+                      "status",
+                      "SCHEDULED"
+                  )
 
-                  home_score = score.get("home")
-                  away_score = score.get("away")
+                  score_data = (
+                      match.get("score", {})
+                      .get("fullTime", {})
+                  )
 
-                  if status == "FINISHED":
-                      title = (
-                          f"{home} {home_score}-{away_score} {away}"
-                      )
-                      detail = "Risultato finale"
-
-                  elif status in [
-                      "IN_PLAY",
-                      "PAUSED"
-                  ]:
-                      title = (
-                          f"{home} {home_score}-{away_score} {away}"
-                      )
-                      detail = "Partita in corso"
-
-                  else:
-                      title = (
-                          f"{match_time.strftime('%H:%M')} "
-                          f"{home} - {away}"
-                      )
-                      detail = "Mondiali: partita di oggi"
+                  home_score = score_data.get("home")
+                  away_score = score_data.get("away")
 
                   matches.append({
+                      "type": "match",
                       "category": "MONDIALI",
-                      "title": title,
-                      "source": "football-data.org",
-                      "published": match_time.isoformat(),
-                      "detail": detail
+                      "home": home,
+                      "away": away,
+                      "time": match_time.strftime(
+                          "%H:%M"
+                      ),
+                      "date": match_time.isoformat(),
+                      "status": status,
+                      "home_score": home_score,
+                      "away_score": away_score,
+                      "group": (
+                          match.get("group")
+                          or match.get("stage")
+                          or ""
+                      )
                   })
+
+              matches.sort(
+                  key=lambda item: item["date"]
+              )
 
               return matches
 
           def fetch_google_news(category, query):
-              encoded_query = urllib.parse.quote_plus(query)
+              encoded_query = urllib.parse.quote_plus(
+                  query
+              )
 
               feed_url = (
                   "https://news.google.com/rss/search"
@@ -278,10 +306,8 @@ jobs:
               request = urllib.request.Request(
                   feed_url,
                   headers={
-                      "User-Agent": (
-                          "Mozilla/5.0 "
-                          "(Windows NT 10.0; Win64; x64)"
-                      )
+                      "User-Agent":
+                          "Mozilla/5.0"
                   }
               )
 
@@ -292,12 +318,13 @@ jobs:
                   xml_data = response.read()
 
               root = ET.fromstring(xml_data)
-              items = root.findall("./channel/item")
 
               results = []
               seen = set()
 
-              for item in items:
+              for item in root.findall(
+                  "./channel/item"
+              ):
                   title = clean_text(
                       item.findtext("title", "")
                   )
@@ -321,20 +348,28 @@ jobs:
                   if score < 1:
                       continue
 
-                  source_element = item.find("source")
+                  source_element = item.find(
+                      "source"
+                  )
 
                   source = (
-                      clean_text(source_element.text)
+                      clean_text(
+                          source_element.text
+                      )
                       if source_element is not None
                       and source_element.text
                       else "Google News"
                   )
 
                   published = clean_text(
-                      item.findtext("pubDate", "")
+                      item.findtext(
+                          "pubDate",
+                          ""
+                      )
                   )
 
                   results.append({
+                      "type": "news",
                       "category": category,
                       "title": title,
                       "source": source,
@@ -349,27 +384,29 @@ jobs:
                   reverse=True
               )
 
-              for result in results:
+              selected = results[:4]
+
+              for result in selected:
                   result.pop("_score", None)
 
-              return results[:4]
+              return selected
 
           articles = []
 
           try:
-              world_cup_matches = fetch_world_cup_matches()
+              matches = fetch_world_cup_matches()
 
-              if world_cup_matches:
-                  articles.extend(world_cup_matches)
+              if matches:
+                  articles.extend(matches)
               else:
                   articles.append({
+                      "type": "message",
                       "category": "MONDIALI",
                       "title": (
                           "Nessuna partita dei Mondiali "
                           "in programma oggi"
                       ),
-                      "source": "football-data.org",
-                      "published": now_italy.isoformat()
+                      "source": "football-data.org"
                   })
 
           except Exception as error:
@@ -379,20 +416,23 @@ jobs:
               )
 
               articles.append({
+                  "type": "message",
                   "category": "MONDIALI",
                   "title": (
-                      "Calendario Mondiali "
+                      "Calendario dei Mondiali "
                       "momentaneamente non disponibile"
                   ),
-                  "source": "football-data.org",
-                  "published": now_italy.isoformat()
+                  "source": "football-data.org"
               })
 
           try:
               articles.extend(
                   fetch_google_news(
                       "TENNIS",
-                      'tennis OR ATP OR WTA OR Sinner'
+                      (
+                          'tennis OR ATP OR WTA '
+                          'OR Sinner'
+                      )
                   )
               )
 
@@ -403,7 +443,10 @@ jobs:
               articles.extend(
                   fetch_google_news(
                       "PADEL",
-                      'padel OR "Premier Padel"'
+                      (
+                          'padel OR '
+                          '"Premier Padel"'
+                      )
                   )
               )
 
@@ -414,6 +457,7 @@ jobs:
               "updated_at": datetime.now(
                   timezone.utc
               ).isoformat(),
+              "local_date": today_italy.isoformat(),
               "articles": articles
           }
 
@@ -430,7 +474,7 @@ jobs:
               )
 
           print(
-              f"Salvate {len(articles)} notizie"
+              f"Salvati {len(articles)} elementi"
           )
           PY
 
@@ -444,6 +488,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "Nessuna modifica"
           else
-            git commit -m "Aggiorna Mondiali, tennis e padel"
+            git commit -m "Aggiorna partite e notizie sportive"
             git push
           fi
