@@ -22,11 +22,12 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Scarica le notizie
+      - name: Scarica e filtra le notizie
         run: |
           python <<'PY'
           import json
           import html
+          import re
           import urllib.parse
           import urllib.request
           import xml.etree.ElementTree as ET
@@ -47,6 +48,96 @@ jobs:
               }
           ]
 
+          blocked_phrases = [
+              "guarda il video",
+              "guarda che",
+              "il video",
+              "video:",
+              "video -",
+              "foto:",
+              "le foto",
+              "fotogallery",
+              "gallery",
+              "highlights",
+              "virale",
+              "sui social",
+              "impazza sui social",
+              "clicca qui",
+              "da non perdere",
+              "che colpo",
+              "il colpo di",
+              "spettacolare punto",
+              "punto incredibile",
+              "siparietto",
+              "curiosità",
+              "gossip",
+              "retroscena social"
+          ]
+
+          important_keywords = {
+              "CALCIO": [
+                  "risultato",
+                  "classifica",
+                  "partita",
+                  "campionato",
+                  "serie a",
+                  "champions",
+                  "europa league",
+                  "coppa",
+                  "mercato",
+                  "calciomercato",
+                  "trasferimento",
+                  "acquisto",
+                  "cessione",
+                  "infortunio",
+                  "convocati",
+                  "allenatore",
+                  "gol",
+                  "vittoria",
+                  "sconfitta",
+                  "pareggio"
+              ],
+
+              "TENNIS": [
+                  "risultato",
+                  "torneo",
+                  "atp",
+                  "wta",
+                  "slam",
+                  "wimbledon",
+                  "roland garros",
+                  "us open",
+                  "australian open",
+                  "classifica",
+                  "ranking",
+                  "finale",
+                  "semifinale",
+                  "quarti",
+                  "infortunio",
+                  "vittoria",
+                  "sconfitta",
+                  "eliminato",
+                  "qualificato"
+              ],
+
+              "PADEL": [
+                  "risultato",
+                  "torneo",
+                  "premier padel",
+                  "finale",
+                  "semifinale",
+                  "quarti",
+                  "classifica",
+                  "ranking",
+                  "vittoria",
+                  "sconfitta",
+                  "eliminato",
+                  "qualificato",
+                  "campionato",
+                  "open"
+              ]
+          }
+
           headers = {
               "User-Agent": (
                   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -54,11 +145,61 @@ jobs:
               )
           }
 
-          articles = []
+          def clean_text(value):
+              value = html.unescape(value or "")
+              value = re.sub(r"\s+", " ", value)
+              return value.strip()
+
+          def is_blocked(title):
+              normalized = title.lower()
+
+              return any(
+                  phrase in normalized
+                  for phrase in blocked_phrases
+              )
+
+          def importance_score(title, category):
+              normalized = title.lower()
+              score = 0
+
+              for keyword in important_keywords.get(category, []):
+                  if keyword in normalized:
+                      score += 2
+
+              if any(
+                  word in normalized
+                  for word in [
+                      "oggi",
+                      "domani",
+                      "ufficiale",
+                      "diretta",
+                      "programma",
+                      "calendario"
+                  ]
+              ):
+                  score += 1
+
+              if any(
+                  word in normalized
+                  for word in [
+                      "video",
+                      "foto",
+                      "social",
+                      "curiosità",
+                      "gossip"
+                  ]
+              ):
+                  score -= 5
+
+              return score
+
+          all_articles = []
           seen_titles = set()
 
           for search in searches:
-              encoded_query = urllib.parse.quote_plus(search["query"])
+              encoded_query = urllib.parse.quote_plus(
+                  search["query"]
+              )
 
               feed_url = (
                   "https://news.google.com/rss/search"
@@ -83,45 +224,76 @@ jobs:
                   root = ET.fromstring(xml_data)
                   items = root.findall("./channel/item")
 
-                  count = 0
+                  category_articles = []
 
                   for item in items:
-                      if count >= 6:
-                          break
-
-                      title = html.unescape(
-                          item.findtext("title", "").strip()
+                      title = clean_text(
+                          item.findtext("title", "")
                       )
 
-                      link = item.findtext("link", "").strip()
-                      published = item.findtext(
-                          "pubDate",
-                          ""
-                      ).strip()
+                      link = clean_text(
+                          item.findtext("link", "")
+                      )
+
+                      published = clean_text(
+                          item.findtext("pubDate", "")
+                      )
 
                       source_element = item.find("source")
 
                       source = (
-                          source_element.text.strip()
+                          clean_text(source_element.text)
                           if source_element is not None
                           and source_element.text
                           else "Google News"
                       )
 
-                      if not title or title in seen_titles:
+                      normalized_title = title.lower()
+
+                      if not title:
                           continue
 
-                      seen_titles.add(title)
+                      if normalized_title in seen_titles:
+                          continue
 
-                      articles.append({
+                      if is_blocked(title):
+                          print(
+                              "Esclusa notizia video/foto:",
+                              title
+                          )
+                          continue
+
+                      score = importance_score(
+                          title,
+                          search["category"]
+                      )
+
+                      if score < 1:
+                          print(
+                              "Esclusa notizia poco rilevante:",
+                              title
+                          )
+                          continue
+
+                      seen_titles.add(normalized_title)
+
+                      category_articles.append({
                           "category": search["category"],
                           "title": title,
                           "source": source,
                           "link": link,
-                          "published": published
+                          "published": published,
+                          "_score": score
                       })
 
-                      count += 1
+                  category_articles.sort(
+                      key=lambda article: article["_score"],
+                      reverse=True
+                  )
+
+                  for article in category_articles[:4]:
+                      article.pop("_score", None)
+                      all_articles.append(article)
 
               except Exception as error:
                   print(
@@ -133,7 +305,7 @@ jobs:
               "updated_at": datetime.now(
                   timezone.utc
               ).isoformat(),
-              "articles": articles
+              "articles": all_articles
           }
 
           with open(
@@ -149,7 +321,8 @@ jobs:
               )
 
           print(
-              f"Salvate {len(articles)} notizie"
+              f"Salvate {len(all_articles)} "
+              "notizie sportive filtrate"
           )
           PY
 
@@ -163,6 +336,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "Nessuna modifica"
           else
-            git commit -m "Aggiornamento automatico notizie sportive"
+            git commit -m "Aggiornamento notizie sportive filtrate"
             git push
           fi
