@@ -22,31 +22,34 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Scarica e filtra le notizie
+      - name: Crea feed sportivo
+        env:
+          FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
         run: |
           python <<'PY'
           import json
           import html
           import re
+          import os
           import urllib.parse
           import urllib.request
           import xml.etree.ElementTree as ET
-          from datetime import datetime, timezone
 
-          searches = [
-              {
-                  "category": "CALCIO",
-                  "query": 'calcio OR "Serie A" OR Champions League'
-              },
-              {
-                  "category": "TENNIS",
-                  "query": 'tennis OR ATP OR WTA OR Sinner'
-              },
-              {
-                  "category": "PADEL",
-                  "query": 'padel OR "Premier Padel"'
-              }
-          ]
+          from datetime import datetime, timezone
+          from zoneinfo import ZoneInfo
+
+          ITALY_TZ = ZoneInfo("Europe/Rome")
+          now_italy = datetime.now(ITALY_TZ)
+          today = now_italy.date()
+
+          token = os.environ.get("FOOTBALL_DATA_TOKEN", "").strip()
+
+          if not token:
+              raise RuntimeError("FOOTBALL_DATA_TOKEN mancante")
+
+          headers = {
+              "User-Agent": "Mariano-Sports-Arena-Signage/1.0"
+          }
 
           blocked_phrases = [
               "guarda il video",
@@ -61,7 +64,6 @@ jobs:
               "highlights",
               "virale",
               "sui social",
-              "impazza sui social",
               "clicca qui",
               "da non perdere",
               "che colpo",
@@ -71,33 +73,12 @@ jobs:
               "siparietto",
               "curiosità",
               "gossip",
-              "retroscena social"
+              "partite del primo turno",
+              "calendario completo",
+              "ecco le partite"
           ]
 
           important_keywords = {
-              "CALCIO": [
-                  "risultato",
-                  "classifica",
-                  "partita",
-                  "campionato",
-                  "serie a",
-                  "champions",
-                  "europa league",
-                  "coppa",
-                  "mercato",
-                  "calciomercato",
-                  "trasferimento",
-                  "acquisto",
-                  "cessione",
-                  "infortunio",
-                  "convocati",
-                  "allenatore",
-                  "gol",
-                  "vittoria",
-                  "sconfitta",
-                  "pareggio"
-              ],
-
               "TENNIS": [
                   "risultato",
                   "torneo",
@@ -117,9 +98,9 @@ jobs:
                   "vittoria",
                   "sconfitta",
                   "eliminato",
-                  "qualificato"
+                  "qualificato",
+                  "sinner"
               ],
-
               "PADEL": [
                   "risultato",
                   "torneo",
@@ -133,16 +114,8 @@ jobs:
                   "sconfitta",
                   "eliminato",
                   "qualificato",
-                  "campionato",
                   "open"
               ]
-          }
-
-          headers = {
-              "User-Agent": (
-                  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                  "AppleWebKit/537.36 Chrome/125 Safari/537.36"
-              )
           }
 
           def clean_text(value):
@@ -172,9 +145,9 @@ jobs:
                       "oggi",
                       "domani",
                       "ufficiale",
-                      "diretta",
                       "programma",
-                      "calendario"
+                      "calendario",
+                      "diretta"
                   ]
               ):
                   score += 1
@@ -193,13 +166,106 @@ jobs:
 
               return score
 
-          all_articles = []
-          seen_titles = set()
+          def fetch_json(url, extra_headers=None):
+              request_headers = dict(headers)
 
-          for search in searches:
-              encoded_query = urllib.parse.quote_plus(
-                  search["query"]
+              if extra_headers:
+                  request_headers.update(extra_headers)
+
+              request = urllib.request.Request(
+                  url,
+                  headers=request_headers
               )
+
+              with urllib.request.urlopen(
+                  request,
+                  timeout=30
+              ) as response:
+                  return json.loads(
+                      response.read().decode("utf-8")
+                  )
+
+          def fetch_world_cup_matches():
+              date_string = today.isoformat()
+
+              url = (
+                  "https://api.football-data.org/v4/"
+                  "competitions/WC/matches"
+                  f"?dateFrom={date_string}"
+                  f"&dateTo={date_string}"
+              )
+
+              data = fetch_json(
+                  url,
+                  {
+                      "X-Auth-Token": token
+                  }
+              )
+
+              matches = []
+
+              for match in data.get("matches", []):
+                  utc_date = match.get("utcDate")
+
+                  if not utc_date:
+                      continue
+
+                  match_time = datetime.fromisoformat(
+                      utc_date.replace("Z", "+00:00")
+                  ).astimezone(ITALY_TZ)
+
+                  home = (
+                      match.get("homeTeam", {}).get("shortName")
+                      or match.get("homeTeam", {}).get("name")
+                      or "Squadra 1"
+                  )
+
+                  away = (
+                      match.get("awayTeam", {}).get("shortName")
+                      or match.get("awayTeam", {}).get("name")
+                      or "Squadra 2"
+                  )
+
+                  status = match.get("status", "")
+                  score = match.get("score", {}).get("fullTime", {})
+
+                  home_score = score.get("home")
+                  away_score = score.get("away")
+
+                  if status == "FINISHED":
+                      title = (
+                          f"{home} {home_score}-{away_score} {away}"
+                      )
+                      detail = "Risultato finale"
+
+                  elif status in [
+                      "IN_PLAY",
+                      "PAUSED"
+                  ]:
+                      title = (
+                          f"{home} {home_score}-{away_score} {away}"
+                      )
+                      detail = "Partita in corso"
+
+                  else:
+                      title = (
+                          f"{match_time.strftime('%H:%M')} "
+                          f"{home} - {away}"
+                      )
+                      detail = "Mondiali: partita di oggi"
+
+                  matches.append({
+                      "category": "MONDIALI",
+                      "title": title,
+                      "source": "football-data.org",
+                      "published": match_time.isoformat(),
+                      "detail": detail
+                  })
+
+              return matches
+
+          def fetch_google_news(category, query):
+              encoded_query = urllib.parse.quote_plus(query)
 
               feed_url = (
                   "https://news.google.com/rss/search"
@@ -209,103 +275,146 @@ jobs:
                   "&ceid=IT:it"
               )
 
-              try:
-                  request = urllib.request.Request(
-                      feed_url,
-                      headers=headers
+              request = urllib.request.Request(
+                  feed_url,
+                  headers={
+                      "User-Agent": (
+                          "Mozilla/5.0 "
+                          "(Windows NT 10.0; Win64; x64)"
+                      )
+                  }
+              )
+
+              with urllib.request.urlopen(
+                  request,
+                  timeout=30
+              ) as response:
+                  xml_data = response.read()
+
+              root = ET.fromstring(xml_data)
+              items = root.findall("./channel/item")
+
+              results = []
+              seen = set()
+
+              for item in items:
+                  title = clean_text(
+                      item.findtext("title", "")
                   )
 
-                  with urllib.request.urlopen(
-                      request,
-                      timeout=30
-                  ) as response:
-                      xml_data = response.read()
+                  if not title:
+                      continue
 
-                  root = ET.fromstring(xml_data)
-                  items = root.findall("./channel/item")
+                  normalized = title.lower()
 
-                  category_articles = []
+                  if normalized in seen:
+                      continue
 
-                  for item in items:
-                      title = clean_text(
-                          item.findtext("title", "")
-                      )
+                  if is_blocked(title):
+                      continue
 
-                      link = clean_text(
-                          item.findtext("link", "")
-                      )
-
-                      published = clean_text(
-                          item.findtext("pubDate", "")
-                      )
-
-                      source_element = item.find("source")
-
-                      source = (
-                          clean_text(source_element.text)
-                          if source_element is not None
-                          and source_element.text
-                          else "Google News"
-                      )
-
-                      normalized_title = title.lower()
-
-                      if not title:
-                          continue
-
-                      if normalized_title in seen_titles:
-                          continue
-
-                      if is_blocked(title):
-                          print(
-                              "Esclusa notizia video/foto:",
-                              title
-                          )
-                          continue
-
-                      score = importance_score(
-                          title,
-                          search["category"]
-                      )
-
-                      if score < 1:
-                          print(
-                              "Esclusa notizia poco rilevante:",
-                              title
-                          )
-                          continue
-
-                      seen_titles.add(normalized_title)
-
-                      category_articles.append({
-                          "category": search["category"],
-                          "title": title,
-                          "source": source,
-                          "link": link,
-                          "published": published,
-                          "_score": score
-                      })
-
-                  category_articles.sort(
-                      key=lambda article: article["_score"],
-                      reverse=True
+                  score = importance_score(
+                      title,
+                      category
                   )
 
-                  for article in category_articles[:4]:
-                      article.pop("_score", None)
-                      all_articles.append(article)
+                  if score < 1:
+                      continue
 
-              except Exception as error:
-                  print(
-                      f"Errore categoria "
-                      f"{search['category']}: {error}"
+                  source_element = item.find("source")
+
+                  source = (
+                      clean_text(source_element.text)
+                      if source_element is not None
+                      and source_element.text
+                      else "Google News"
                   )
+
+                  published = clean_text(
+                      item.findtext("pubDate", "")
+                  )
+
+                  results.append({
+                      "category": category,
+                      "title": title,
+                      "source": source,
+                      "published": published,
+                      "_score": score
+                  })
+
+                  seen.add(normalized)
+
+              results.sort(
+                  key=lambda item: item["_score"],
+                  reverse=True
+              )
+
+              for result in results:
+                  result.pop("_score", None)
+
+              return results[:4]
+
+          articles = []
+
+          try:
+              world_cup_matches = fetch_world_cup_matches()
+
+              if world_cup_matches:
+                  articles.extend(world_cup_matches)
+              else:
+                  articles.append({
+                      "category": "MONDIALI",
+                      "title": (
+                          "Nessuna partita dei Mondiali "
+                          "in programma oggi"
+                      ),
+                      "source": "football-data.org",
+                      "published": now_italy.isoformat()
+                  })
+
+          except Exception as error:
+              print(
+                  "Errore recupero Mondiali:",
+                  error
+              )
+
+              articles.append({
+                  "category": "MONDIALI",
+                  "title": (
+                      "Calendario Mondiali "
+                      "momentaneamente non disponibile"
+                  ),
+                  "source": "football-data.org",
+                  "published": now_italy.isoformat()
+              })
+
+          try:
+              articles.extend(
+                  fetch_google_news(
+                      "TENNIS",
+                      'tennis OR ATP OR WTA OR Sinner'
+                  )
+              )
+
+          except Exception as error:
+              print("Errore tennis:", error)
+
+          try:
+              articles.extend(
+                  fetch_google_news(
+                      "PADEL",
+                      'padel OR "Premier Padel"'
+                  )
+              )
+
+          except Exception as error:
+              print("Errore padel:", error)
 
           output = {
               "updated_at": datetime.now(
                   timezone.utc
               ).isoformat(),
-              "articles": all_articles
+              "articles": articles
           }
 
           with open(
@@ -321,8 +430,7 @@ jobs:
               )
 
           print(
-              f"Salvate {len(all_articles)} "
-              "notizie sportive filtrate"
+              f"Salvate {len(articles)} notizie"
           )
           PY
 
@@ -336,6 +444,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "Nessuna modifica"
           else
-            git commit -m "Aggiornamento notizie sportive filtrate"
+            git commit -m "Aggiorna Mondiali, tennis e padel"
             git push
           fi
