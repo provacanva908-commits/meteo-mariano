@@ -1,3 +1,4 @@
+```yaml
 name: Aggiorna notizie sportive
 
 on:
@@ -25,10 +26,11 @@ jobs:
       - name: Crea feed sportivo
         env:
           FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
+
         run: |
           python <<'PY'
-          import json
           import html
+          import json
           import os
           import re
           import urllib.parse
@@ -37,6 +39,7 @@ jobs:
 
           from datetime import datetime, timedelta, timezone
           from zoneinfo import ZoneInfo
+
 
           ITALY_TZ = ZoneInfo("Europe/Rome")
 
@@ -53,6 +56,7 @@ jobs:
                   "FOOTBALL_DATA_TOKEN mancante"
               )
 
+
           blocked_phrases = [
               "guarda il video",
               "guarda che",
@@ -67,6 +71,7 @@ jobs:
               "virale",
               "sui social",
               "clicca qui",
+              "da non perdere",
               "che colpo",
               "il colpo di",
               "spettacolare punto",
@@ -74,10 +79,12 @@ jobs:
               "siparietto",
               "curiosità",
               "gossip",
+              "retroscena social",
               "partite del primo turno",
               "calendario completo",
               "ecco le partite"
           ]
+
 
           important_keywords = {
               "TENNIS": [
@@ -116,14 +123,18 @@ jobs:
                   "sconfitta",
                   "eliminato",
                   "qualificato",
+                  "campionato",
                   "open"
               ]
           }
 
+
           def clean_text(value):
               value = html.unescape(value or "")
               value = re.sub(r"\s+", " ", value)
+
               return value.strip()
+
 
           def is_blocked(title):
               normalized = title.lower()
@@ -132,6 +143,7 @@ jobs:
                   phrase in normalized
                   for phrase in blocked_phrases
               )
+
 
           def importance_score(title, category):
               normalized = title.lower()
@@ -170,6 +182,7 @@ jobs:
 
               return score
 
+
           def fetch_json(url, headers):
               request = urllib.request.Request(
                   url,
@@ -184,6 +197,7 @@ jobs:
                       response.read().decode("utf-8")
                   )
 
+
           def team_name(team):
               return (
                   team.get("shortName")
@@ -192,11 +206,12 @@ jobs:
                   or "Da definire"
               )
 
+
           def fetch_world_cup_matches():
-              /*
-              Cerca anche il giorno precedente e successivo,
-              poi filtra usando l'orario italiano.
-              */
+              # Cerca il giorno precedente e quello successivo,
+              # poi mantiene solo le partite che in Italia
+              # cadono effettivamente nella giornata di oggi.
+
               date_from = (
                   today_italy - timedelta(days=1)
               ).isoformat()
@@ -236,11 +251,9 @@ jobs:
                       )
                   ).astimezone(ITALY_TZ)
 
-                  /*
-                  Questa è la correzione importante:
-                  accetta solo le partite che in Italia
-                  cadono effettivamente oggi.
-                  */
+                  # Esclude gli incontri che, secondo l'ora italiana,
+                  # cadono nel giorno precedente o successivo.
+
                   if match_time.date() != today_italy:
                       continue
 
@@ -270,9 +283,7 @@ jobs:
                       "category": "MONDIALI",
                       "home": home,
                       "away": away,
-                      "time": match_time.strftime(
-                          "%H:%M"
-                      ),
+                      "time": match_time.strftime("%H:%M"),
                       "date": match_time.isoformat(),
                       "status": status,
                       "home_score": home_score,
@@ -289,6 +300,7 @@ jobs:
               )
 
               return matches
+
 
           def fetch_google_news(category, query):
               encoded_query = urllib.parse.quote_plus(
@@ -307,7 +319,8 @@ jobs:
                   feed_url,
                   headers={
                       "User-Agent":
-                          "Mozilla/5.0"
+                          "Mozilla/5.0 "
+                          "(Windows NT 10.0; Win64; x64)"
                   }
               )
 
@@ -348,14 +361,10 @@ jobs:
                   if score < 1:
                       continue
 
-                  source_element = item.find(
-                      "source"
-                  )
+                  source_element = item.find("source")
 
                   source = (
-                      clean_text(
-                          source_element.text
-                      )
+                      clean_text(source_element.text)
                       if source_element is not None
                       and source_element.text
                       else "Google News"
@@ -391,13 +400,16 @@ jobs:
 
               return selected
 
+
           articles = []
+
 
           try:
               matches = fetch_world_cup_matches()
 
               if matches:
                   articles.extend(matches)
+
               else:
                   articles.append({
                       "type": "message",
@@ -425,6 +437,7 @@ jobs:
                   "source": "football-data.org"
               })
 
+
           try:
               articles.extend(
                   fetch_google_news(
@@ -437,29 +450,39 @@ jobs:
               )
 
           except Exception as error:
-              print("Errore tennis:", error)
+              print(
+                  "Errore recupero tennis:",
+                  error
+              )
+
 
           try:
               articles.extend(
                   fetch_google_news(
                       "PADEL",
                       (
-                          'padel OR '
-                          '"Premier Padel"'
+                          'padel OR "Premier Padel"'
                       )
                   )
               )
 
           except Exception as error:
-              print("Errore padel:", error)
+              print(
+                  "Errore recupero padel:",
+                  error
+              )
+
 
           output = {
               "updated_at": datetime.now(
                   timezone.utc
               ).isoformat(),
+
               "local_date": today_italy.isoformat(),
+
               "articles": articles
           }
+
 
           with open(
               "news.json",
@@ -472,6 +495,7 @@ jobs:
                   ensure_ascii=False,
                   indent=2
               )
+
 
           print(
               f"Salvati {len(articles)} elementi"
@@ -491,3 +515,4 @@ jobs:
             git commit -m "Aggiorna partite e notizie sportive"
             git push
           fi
+```
