@@ -513,3 +513,4 @@ jobs:
           else
             git commit -m "Aggiorna partite e notizie sportive"
             git push
+            fi
