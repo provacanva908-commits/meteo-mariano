@@ -24,32 +24,25 @@
       color: white;
     }
 
-    /* Video di sfondo */
     #weather-video {
       position: fixed;
-      top: 50%;
-      left: 50%;
+      inset: 0;
       width: 100%;
       height: 100%;
-      min-width: 100%;
-      min-height: 100%;
       object-fit: cover;
-      transform: translate(-50%, -50%);
       z-index: 0;
     }
 
-    /* Oscurisce leggermente il video per rendere leggibili i testi */
     .video-overlay {
       position: fixed;
       inset: 0;
       z-index: 1;
-      background:
-        linear-gradient(
-          90deg,
-          rgba(5, 18, 32, 0.78) 0%,
-          rgba(5, 18, 32, 0.48) 45%,
-          rgba(5, 18, 32, 0.62) 100%
-        );
+      background: linear-gradient(
+        90deg,
+        rgba(5, 18, 32, 0.78) 0%,
+        rgba(5, 18, 32, 0.42) 45%,
+        rgba(5, 18, 32, 0.62) 100%
+      );
     }
 
     #weather-widget {
@@ -63,7 +56,6 @@
       gap: 18px;
     }
 
-    /* Zona logo e titolo */
     .branding {
       width: 230px;
       min-width: 230px;
@@ -81,7 +73,7 @@
     .branding img {
       display: block;
       max-width: 185px;
-      max-height: 75px;
+      max-height: 78px;
       width: auto;
       height: auto;
       object-fit: contain;
@@ -101,9 +93,9 @@
       margin-top: 4px;
       font-size: 11px;
       opacity: 0.85;
+      text-align: center;
     }
 
-    /* Previsioni */
     #forecast {
       flex: 1;
       min-width: 0;
@@ -115,7 +107,7 @@
     .day {
       min-width: 0;
       padding: 8px 5px;
-      border: 1px solid rgba(255, 255, 255, 0.18);
+      border: 1px solid rgba(255, 255, 255, 0.2);
       border-radius: 13px;
       background: rgba(0, 0, 0, 0.28);
       backdrop-filter: blur(5px);
@@ -128,7 +120,7 @@
     }
 
     .day.today {
-      border: 2px solid rgba(255, 255, 255, 0.75);
+      border: 2px solid rgba(255, 255, 255, 0.85);
       background: rgba(255, 255, 255, 0.18);
     }
 
@@ -208,7 +200,7 @@
 
       .branding img {
         max-width: 145px;
-        max-height: 55px;
+        max-height: 58px;
       }
 
       .branding-title {
@@ -251,7 +243,7 @@
     autoplay
     loop
     playsinline
-    preload="metadata"
+    preload="auto"
   ></video>
 
   <div class="video-overlay"></div>
@@ -353,7 +345,6 @@
       "https://api.open-meteo.com/v1/forecast" +
       "?latitude=45.6971" +
       "&longitude=9.1817" +
-      "&current=weather_code" +
       "&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max" +
       "&forecast_days=7" +
       "&timezone=Europe%2FRome";
@@ -435,19 +426,27 @@
           return response.json();
         })
         .then(function(data) {
-          if (!data.daily || !data.current) {
+          if (!data.daily) {
             throw new Error("Dati meteo non disponibili");
           }
 
-          setWeatherVideo(data.current.weather_code);
-
           const daily = data.daily;
+
+          /*
+            Lo sfondo usa soltanto il codice meteo del primo giorno,
+            cioè oggi. Le previsioni dei giorni successivi non cambiano
+            il video di sfondo.
+          */
+          setWeatherVideo(daily.weather_code[0]);
+
           let html = "";
 
           for (let i = 0; i < daily.time.length; i++) {
             const code = daily.weather_code[i];
+
             const description =
               descriptions[code] || "Non disponibile";
+
             const icon =
               icons[code] || "🌡️";
 
@@ -512,7 +511,6 @@
 
     loadWeather();
 
-    // Aggiornamento automatico ogni 30 minuti
     setInterval(loadWeather, 30 * 60 * 1000);
   </script>
 
