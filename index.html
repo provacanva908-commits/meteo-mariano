@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, maximum-scale=1"
+  >
+
+  <style>
+    html,
+    body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      background: transparent;
+      font-family: Arial, sans-serif;
+    }
+
+    #weather-widget {
+      box-sizing: border-box;
+      width: 100%;
+      height: 100%;
+      padding: 12px 20px;
+      background: #f5f7fb;
+      color: #222;
+      display: flex;
+      align-items: center;
+      gap: 24px;
+    }
+
+    .location {
+      font-size: 19px;
+      font-weight: bold;
+      white-space: nowrap;
+    }
+
+    #weather-status {
+      display: flex;
+      align-items: center;
+      gap: 22px;
+      flex: 1;
+    }
+
+    .temperature {
+      font-size: 34px;
+      font-weight: bold;
+      white-space: nowrap;
+    }
+
+    .description {
+      font-size: 18px;
+      white-space: nowrap;
+    }
+
+    .details {
+      font-size: 15px;
+      white-space: nowrap;
+    }
+
+    .error {
+      color: #b00020;
+      font-size: 16px;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="weather-widget">
+    <div class="location">Meteo Mariano Comense</div>
+
+    <div id="weather-status">
+      Caricamento meteo...
+    </div>
+  </div>
+
+  <script>
+    const descriptions = {
+      0: "Sereno",
+      1: "Prevalentemente sereno",
+      2: "Parzialmente nuvoloso",
+      3: "Coperto",
+      45: "Nebbia",
+      48: "Nebbia con brina",
+      51: "Pioviggine leggera",
+      53: "Pioviggine moderata",
+      55: "Pioviggine intensa",
+      56: "Pioviggine gelata leggera",
+      57: "Pioviggine gelata intensa",
+      61: "Pioggia leggera",
+      63: "Pioggia moderata",
+      65: "Pioggia forte",
+      66: "Pioggia gelata leggera",
+      67: "Pioggia gelata forte",
+      71: "Neve leggera",
+      73: "Neve moderata",
+      75: "Neve forte",
+      77: "Granelli di neve",
+      80: "Rovesci leggeri",
+      81: "Rovesci moderati",
+      82: "Rovesci forti",
+      85: "Rovesci di neve leggeri",
+      86: "Rovesci di neve forti",
+      95: "Temporale",
+      96: "Temporale con grandine",
+      99: "Forte temporale con grandine"
+    };
+
+    const weatherUrl =
+      "https://api.open-meteo.com/v1/forecast" +
+      "?latitude=45.6971" +
+      "&longitude=9.1817" +
+      "&current=temperature_2m,relative_humidity_2m,weather_code,wind_speed_10m" +
+      "&wind_speed_unit=kmh" +
+      "&timezone=Europe%2FRome";
+
+    function loadWeather() {
+      const widget = document.getElementById("weather-status");
+
+      fetch(weatherUrl, { cache: "no-store" })
+        .then(function (response) {
+          if (!response.ok) {
+            throw new Error("Errore HTTP " + response.status);
+          }
+
+          return response.json();
+        })
+        .then(function (data) {
+          if (!data.current) {
+            throw new Error("Dati meteo mancanti");
+          }
+
+          const current = data.current;
+
+          const description =
+            descriptions[current.weather_code] ||
+            "Condizioni non disponibili";
+
+          widget.innerHTML = `
+            <div class="temperature">
+              ${Math.round(current.temperature_2m)}°C
+            </div>
+
+            <div class="description">
+              ${description}
+            </div>
+
+            <div class="details">
+              Umidità: ${current.relative_humidity_2m}%
+              &nbsp;|&nbsp;
+              Vento: ${Math.round(current.wind_speed_10m)} km/h
+            </div>
+          `;
+        })
+        .catch(function (error) {
+          console.error(error);
+
+          widget.innerHTML = `
+            <div class="error">
+              Meteo momentaneamente non disponibile
+            </div>
+          `;
+        });
+    }
+
+    loadWeather();
+
+    setInterval(loadWeather, 15 * 60 * 1000);
+  </script>
+</body>
+</html>
