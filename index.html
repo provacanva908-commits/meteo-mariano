@@ -16,151 +16,311 @@
       width: 100%;
       height: 100%;
       overflow: hidden;
-      background: transparent;
+      background: #f5f7fb;
       font-family: Arial, sans-serif;
+      color: #222;
     }
 
     #weather-widget {
       box-sizing: border-box;
       width: 100%;
       height: 100%;
-      padding: 12px 20px;
+      padding: 10px 18px;
+      display: flex;
+      align-items: center;
+      gap: 20px;
       background: #f5f7fb;
-      color: #222;
-      display: flex;
-      align-items: center;
-      gap: 24px;
     }
 
-    .location {
-      font-size: 19px;
+    .title {
+      min-width: 210px;
+      font-size: 18px;
       font-weight: bold;
-      white-space: nowrap;
+      line-height: 1.2;
     }
 
-    #weather-status {
+    #forecast {
       display: flex;
-      align-items: center;
-      gap: 22px;
+      align-items: stretch;
+      justify-content: space-between;
+      gap: 8px;
       flex: 1;
+      height: 100%;
     }
 
-    .temperature {
-      font-size: 34px;
+    .day {
+      box-sizing: border-box;
+      flex: 1;
+      min-width: 100px;
+      padding: 7px 8px;
+      border-left: 1px solid #d8dce5;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    .day-name {
+      font-size: 15px;
+      font-weight: bold;
+      text-transform: capitalize;
+    }
+
+    .date {
+      margin-top: 2px;
+      font-size: 11px;
+      color: #666;
+    }
+
+    .icon {
+      margin: 3px 0;
+      font-size: 25px;
+      line-height: 1;
+    }
+
+    .temperatures {
+      font-size: 15px;
       font-weight: bold;
       white-space: nowrap;
+    }
+
+    .min {
+      color: #657080;
+      font-weight: normal;
     }
 
     .description {
-      font-size: 18px;
-      white-space: nowrap;
+      margin-top: 3px;
+      font-size: 11px;
+      line-height: 1.15;
     }
 
-    .details {
-      font-size: 15px;
-      white-space: nowrap;
+    .rain {
+      margin-top: 2px;
+      font-size: 11px;
+      color: #44546a;
     }
 
     .error {
       color: #b00020;
       font-size: 16px;
     }
+
+    @media (max-width: 1000px) {
+      .title {
+        min-width: 160px;
+        font-size: 15px;
+      }
+
+      .day {
+        min-width: 85px;
+        padding: 5px;
+      }
+
+      .day-name {
+        font-size: 13px;
+      }
+
+      .icon {
+        font-size: 21px;
+      }
+
+      .temperatures {
+        font-size: 13px;
+      }
+
+      .description,
+      .rain {
+        font-size: 10px;
+      }
+    }
   </style>
 </head>
 
 <body>
   <div id="weather-widget">
-    <div class="location">Meteo Mariano Comense</div>
 
-    <div id="weather-status">
-      Caricamento meteo...
+    <div class="title">
+      Meteo<br>
+      Mariano Sports Arena
     </div>
+
+    <div id="forecast">
+      Caricamento previsioni...
+    </div>
+
   </div>
 
   <script>
+    const forecastElement = document.getElementById("forecast");
+
     const descriptions = {
       0: "Sereno",
-      1: "Prevalentemente sereno",
+      1: "Quasi sereno",
       2: "Parzialmente nuvoloso",
       3: "Coperto",
       45: "Nebbia",
       48: "Nebbia con brina",
       51: "Pioviggine leggera",
-      53: "Pioviggine moderata",
+      53: "Pioviggine",
       55: "Pioviggine intensa",
-      56: "Pioviggine gelata leggera",
-      57: "Pioviggine gelata intensa",
+      56: "Pioviggine gelata",
+      57: "Pioviggine gelata",
       61: "Pioggia leggera",
-      63: "Pioggia moderata",
+      63: "Pioggia",
       65: "Pioggia forte",
-      66: "Pioggia gelata leggera",
+      66: "Pioggia gelata",
       67: "Pioggia gelata forte",
       71: "Neve leggera",
-      73: "Neve moderata",
+      73: "Neve",
       75: "Neve forte",
       77: "Granelli di neve",
       80: "Rovesci leggeri",
-      81: "Rovesci moderati",
+      81: "Rovesci",
       82: "Rovesci forti",
-      85: "Rovesci di neve leggeri",
-      86: "Rovesci di neve forti",
+      85: "Rovesci di neve",
+      86: "Forti rovesci di neve",
       95: "Temporale",
       96: "Temporale con grandine",
-      99: "Forte temporale con grandine"
+      99: "Forte temporale"
+    };
+
+    const icons = {
+      0: "☀️",
+      1: "🌤️",
+      2: "⛅",
+      3: "☁️",
+      45: "🌫️",
+      48: "🌫️",
+      51: "🌦️",
+      53: "🌦️",
+      55: "🌧️",
+      56: "🌧️",
+      57: "🌧️",
+      61: "🌦️",
+      63: "🌧️",
+      65: "🌧️",
+      66: "🌧️",
+      67: "🌧️",
+      71: "🌨️",
+      73: "🌨️",
+      75: "❄️",
+      77: "❄️",
+      80: "🌦️",
+      81: "🌧️",
+      82: "⛈️",
+      85: "🌨️",
+      86: "❄️",
+      95: "⛈️",
+      96: "⛈️",
+      99: "⛈️"
     };
 
     const weatherUrl =
       "https://api.open-meteo.com/v1/forecast" +
       "?latitude=45.6971" +
       "&longitude=9.1817" +
-      "&current=temperature_2m,relative_humidity_2m,weather_code,wind_speed_10m" +
-      "&wind_speed_unit=kmh" +
+      "&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max" +
+      "&forecast_days=7" +
       "&timezone=Europe%2FRome";
 
-    function loadWeather() {
-      const widget = document.getElementById("weather-status");
+    function formatDay(dateString) {
+      const date = new Date(dateString + "T12:00:00");
 
+      return date.toLocaleDateString("it-IT", {
+        weekday: "short"
+      });
+    }
+
+    function formatDate(dateString) {
+      const date = new Date(dateString + "T12:00:00");
+
+      return date.toLocaleDateString("it-IT", {
+        day: "2-digit",
+        month: "2-digit"
+      });
+    }
+
+    function loadWeather() {
       fetch(weatherUrl, { cache: "no-store" })
-        .then(function (response) {
+
+        .then(function(response) {
           if (!response.ok) {
             throw new Error("Errore HTTP " + response.status);
           }
 
           return response.json();
         })
-        .then(function (data) {
-          if (!data.current) {
-            throw new Error("Dati meteo mancanti");
+
+        .then(function(data) {
+          if (!data.daily) {
+            throw new Error("Previsioni non disponibili");
           }
 
-          const current = data.current;
+          const daily = data.daily;
+          let html = "";
 
-          const description =
-            descriptions[current.weather_code] ||
-            "Condizioni non disponibili";
+          for (let i = 0; i < daily.time.length; i++) {
+            const code = daily.weather_code[i];
 
-          widget.innerHTML = `
-            <div class="temperature">
-              ${Math.round(current.temperature_2m)}°C
-            </div>
+            const description =
+              descriptions[code] || "Dato non disponibile";
 
-            <div class="description">
-              ${description}
-            </div>
+            const icon =
+              icons[code] || "🌡️";
 
-            <div class="details">
-              Umidità: ${current.relative_humidity_2m}%
-              &nbsp;|&nbsp;
-              Vento: ${Math.round(current.wind_speed_10m)} km/h
-            </div>
-          `;
+            const maxTemp =
+              Math.round(daily.temperature_2m_max[i]);
+
+            const minTemp =
+              Math.round(daily.temperature_2m_min[i]);
+
+            const rain =
+              daily.precipitation_probability_max[i] ?? 0;
+
+            html += `
+              <div class="day">
+
+                <div class="day-name">
+                  ${formatDay(daily.time[i])}
+                </div>
+
+                <div class="date">
+                  ${formatDate(daily.time[i])}
+                </div>
+
+                <div class="icon">
+                  ${icon}
+                </div>
+
+                <div class="temperatures">
+                  ${maxTemp}°
+                  <span class="min">
+                    / ${minTemp}°
+                  </span>
+                </div>
+
+                <div class="description">
+                  ${description}
+                </div>
+
+                <div class="rain">
+                  Pioggia ${rain}%
+                </div>
+
+              </div>
+            `;
+          }
+
+          forecastElement.innerHTML = html;
         })
-        .catch(function (error) {
-          console.error(error);
 
-          widget.innerHTML = `
+        .catch(function(error) {
+          console.error("Errore meteo:", error);
+
+          forecastElement.innerHTML = `
             <div class="error">
-              Meteo momentaneamente non disponibile
+              Previsioni meteo momentaneamente non disponibili
             </div>
           `;
         });
@@ -168,7 +328,8 @@
 
     loadWeather();
 
-    setInterval(loadWeather, 15 * 60 * 1000);
+    // Aggiorna automaticamente ogni 30 minuti
+    setInterval(loadWeather, 30 * 60 * 1000);
   </script>
 </body>
 </html>
