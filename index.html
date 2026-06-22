@@ -9,116 +9,222 @@
   >
 
   <style>
+    * {
+      box-sizing: border-box;
+    }
+
     html,
     body {
       margin: 0;
-      padding: 0;
       width: 100%;
       height: 100%;
       overflow: hidden;
-      background: #f5f7fb;
-      font-family: Arial, sans-serif;
-      color: #222;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #26384a;
+      color: white;
+    }
+
+    /* Video di sfondo */
+    #weather-video {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      width: 100%;
+      height: 100%;
+      min-width: 100%;
+      min-height: 100%;
+      object-fit: cover;
+      transform: translate(-50%, -50%);
+      z-index: 0;
+    }
+
+    /* Oscurisce leggermente il video per rendere leggibili i testi */
+    .video-overlay {
+      position: fixed;
+      inset: 0;
+      z-index: 1;
+      background:
+        linear-gradient(
+          90deg,
+          rgba(5, 18, 32, 0.78) 0%,
+          rgba(5, 18, 32, 0.48) 45%,
+          rgba(5, 18, 32, 0.62) 100%
+        );
     }
 
     #weather-widget {
-      box-sizing: border-box;
+      position: relative;
+      z-index: 2;
       width: 100%;
       height: 100%;
-      padding: 10px 18px;
-      display: flex;
-      align-items: center;
-      gap: 20px;
-      background: #f5f7fb;
-    }
-
-    .title {
-      min-width: 210px;
-      font-size: 18px;
-      font-weight: bold;
-      line-height: 1.2;
-    }
-
-    #forecast {
+      padding: 12px 18px;
       display: flex;
       align-items: stretch;
-      justify-content: space-between;
-      gap: 8px;
+      gap: 18px;
+    }
+
+    /* Zona logo e titolo */
+    .branding {
+      width: 230px;
+      min-width: 230px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 8px 14px;
+      border-radius: 14px;
+      background: rgba(0, 0, 0, 0.22);
+      backdrop-filter: blur(4px);
+    }
+
+    .branding img {
+      display: block;
+      max-width: 185px;
+      max-height: 75px;
+      width: auto;
+      height: auto;
+      object-fit: contain;
+      margin: 0 auto 7px;
+    }
+
+    .branding-title {
+      width: 100%;
+      font-size: 17px;
+      font-weight: 700;
+      line-height: 1.15;
+      text-align: center;
+      text-shadow: 0 2px 5px rgba(0, 0, 0, 0.65);
+    }
+
+    .branding-subtitle {
+      margin-top: 4px;
+      font-size: 11px;
+      opacity: 0.85;
+    }
+
+    /* Previsioni */
+    #forecast {
       flex: 1;
-      height: 100%;
+      min-width: 0;
+      display: grid;
+      grid-template-columns: repeat(7, minmax(90px, 1fr));
+      gap: 8px;
     }
 
     .day {
-      box-sizing: border-box;
-      flex: 1;
-      min-width: 100px;
-      padding: 7px 8px;
-      border-left: 1px solid #d8dce5;
+      min-width: 0;
+      padding: 8px 5px;
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      border-radius: 13px;
+      background: rgba(0, 0, 0, 0.28);
+      backdrop-filter: blur(5px);
       text-align: center;
       display: flex;
       flex-direction: column;
+      align-items: center;
       justify-content: center;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.14);
+    }
+
+    .day.today {
+      border: 2px solid rgba(255, 255, 255, 0.75);
+      background: rgba(255, 255, 255, 0.18);
     }
 
     .day-name {
       font-size: 15px;
       font-weight: bold;
-      text-transform: capitalize;
-    }
-
-    .date {
-      margin-top: 2px;
-      font-size: 11px;
-      color: #666;
-    }
-
-    .icon {
-      margin: 3px 0;
-      font-size: 25px;
+      text-transform: uppercase;
       line-height: 1;
     }
 
+    .date {
+      margin-top: 3px;
+      font-size: 11px;
+      opacity: 0.82;
+    }
+
+    .icon {
+      margin: 4px 0;
+      font-size: 27px;
+      line-height: 1;
+      filter: drop-shadow(0 2px 3px rgba(0, 0, 0, 0.4));
+    }
+
     .temperatures {
-      font-size: 15px;
+      font-size: 16px;
       font-weight: bold;
       white-space: nowrap;
     }
 
     .min {
-      color: #657080;
+      font-size: 13px;
       font-weight: normal;
+      opacity: 0.82;
     }
 
     .description {
-      margin-top: 3px;
-      font-size: 11px;
+      margin-top: 4px;
+      min-height: 24px;
+      font-size: 10px;
       line-height: 1.15;
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
 
     .rain {
-      margin-top: 2px;
-      font-size: 11px;
-      color: #44546a;
+      margin-top: 3px;
+      font-size: 10px;
+      opacity: 0.9;
+    }
+
+    .loading,
+    .error {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 17px;
+      text-align: center;
     }
 
     .error {
-      color: #b00020;
-      font-size: 16px;
+      color: #ffe6e6;
     }
 
-    @media (max-width: 1000px) {
-      .title {
-        min-width: 160px;
-        font-size: 15px;
+    @media (max-width: 1050px) {
+      #weather-widget {
+        padding: 8px;
+        gap: 8px;
+      }
+
+      .branding {
+        width: 175px;
+        min-width: 175px;
+        padding: 6px;
+      }
+
+      .branding img {
+        max-width: 145px;
+        max-height: 55px;
+      }
+
+      .branding-title {
+        font-size: 14px;
+      }
+
+      #forecast {
+        gap: 4px;
       }
 
       .day {
-        min-width: 85px;
-        padding: 5px;
+        padding: 5px 3px;
       }
 
       .day-name {
-        font-size: 13px;
+        font-size: 12px;
       }
 
       .icon {
@@ -131,28 +237,55 @@
 
       .description,
       .rain {
-        font-size: 10px;
+        font-size: 9px;
       }
     }
   </style>
 </head>
 
 <body>
-  <div id="weather-widget">
 
-    <div class="title">
-      Meteo<br>
-      Mariano Sports Arena
-    </div>
+  <video
+    id="weather-video"
+    muted
+    autoplay
+    loop
+    playsinline
+    preload="metadata"
+  ></video>
 
-    <div id="forecast">
-      Caricamento previsioni...
-    </div>
+  <div class="video-overlay"></div>
 
-  </div>
+  <main id="weather-widget">
+
+    <section class="branding">
+      <img
+        src="logo-mariano.png"
+        alt="Mariano Sports Arena"
+        onerror="this.style.display='none'"
+      >
+
+      <div class="branding-title">
+        Meteo Mariano<br>
+        Sports Arena
+      </div>
+
+      <div class="branding-subtitle">
+        Previsioni prossimi 7 giorni
+      </div>
+    </section>
+
+    <section id="forecast">
+      <div class="loading">
+        Caricamento previsioni...
+      </div>
+    </section>
+
+  </main>
 
   <script>
     const forecastElement = document.getElementById("forecast");
+    const weatherVideo = document.getElementById("weather-video");
 
     const descriptions = {
       0: "Sereno",
@@ -220,9 +353,58 @@
       "https://api.open-meteo.com/v1/forecast" +
       "?latitude=45.6971" +
       "&longitude=9.1817" +
+      "&current=weather_code" +
       "&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max" +
       "&forecast_days=7" +
       "&timezone=Europe%2FRome";
+
+    function getBackgroundVideo(code) {
+      if (code === 0 || code === 1) {
+        return "sereno.mp4";
+      }
+
+      if (code === 2 || code === 3) {
+        return "nuvoloso.mp4";
+      }
+
+      if (code === 45 || code === 48) {
+        return "nebbia.mp4";
+      }
+
+      if (code >= 51 && code <= 67) {
+        return "pioggia.mp4";
+      }
+
+      if (code >= 71 && code <= 86) {
+        return "neve.mp4";
+      }
+
+      if (code >= 95) {
+        return "temporale.mp4";
+      }
+
+      return "nuvoloso.mp4";
+    }
+
+    function setWeatherVideo(weatherCode) {
+      const videoFile = getBackgroundVideo(weatherCode);
+
+      if (weatherVideo.dataset.currentVideo === videoFile) {
+        return;
+      }
+
+      weatherVideo.dataset.currentVideo = videoFile;
+      weatherVideo.src = videoFile;
+      weatherVideo.load();
+
+      const playPromise = weatherVideo.play();
+
+      if (playPromise !== undefined) {
+        playPromise.catch(function(error) {
+          console.log("Riproduzione video non disponibile:", error);
+        });
+      }
+    }
 
     function formatDay(dateString) {
       const date = new Date(dateString + "T12:00:00");
@@ -242,8 +424,9 @@
     }
 
     function loadWeather() {
-      fetch(weatherUrl, { cache: "no-store" })
-
+      fetch(weatherUrl, {
+        cache: "no-store"
+      })
         .then(function(response) {
           if (!response.ok) {
             throw new Error("Errore HTTP " + response.status);
@@ -251,21 +434,20 @@
 
           return response.json();
         })
-
         .then(function(data) {
-          if (!data.daily) {
-            throw new Error("Previsioni non disponibili");
+          if (!data.daily || !data.current) {
+            throw new Error("Dati meteo non disponibili");
           }
+
+          setWeatherVideo(data.current.weather_code);
 
           const daily = data.daily;
           let html = "";
 
           for (let i = 0; i < daily.time.length; i++) {
             const code = daily.weather_code[i];
-
             const description =
-              descriptions[code] || "Dato non disponibile";
-
+              descriptions[code] || "Non disponibile";
             const icon =
               icons[code] || "🌡️";
 
@@ -278,11 +460,14 @@
             const rain =
               daily.precipitation_probability_max[i] ?? 0;
 
+            const todayClass =
+              i === 0 ? "day today" : "day";
+
             html += `
-              <div class="day">
+              <article class="${todayClass}">
 
                 <div class="day-name">
-                  ${formatDay(daily.time[i])}
+                  ${i === 0 ? "OGGI" : formatDay(daily.time[i])}
                 </div>
 
                 <div class="date">
@@ -305,16 +490,15 @@
                 </div>
 
                 <div class="rain">
-                  Pioggia ${rain}%
+                  💧 ${rain}%
                 </div>
 
-              </div>
+              </article>
             `;
           }
 
           forecastElement.innerHTML = html;
         })
-
         .catch(function(error) {
           console.error("Errore meteo:", error);
 
@@ -328,8 +512,9 @@
 
     loadWeather();
 
-    // Aggiorna automaticamente ogni 30 minuti
+    // Aggiornamento automatico ogni 30 minuti
     setInterval(loadWeather, 30 * 60 * 1000);
   </script>
+
 </body>
 </html>
