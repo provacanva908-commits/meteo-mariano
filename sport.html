@@ -20,125 +20,303 @@
       margin: 0;
       overflow: hidden;
       font-family: Arial, Helvetica, sans-serif;
-      background: #07182d;
-      color: white;
+      background: #07111f;
+      color: #ffffff;
     }
 
     body {
+      position: relative;
       background:
         radial-gradient(
-          circle at 80% 50%,
-          #164d78 0%,
-          #07182d 55%,
-          #030b15 100%
+          circle at 85% 50%,
+          rgba(36, 111, 164, 0.45) 0%,
+          rgba(12, 37, 66, 0.65) 35%,
+          rgba(5, 15, 28, 1) 75%
         );
     }
 
+    body::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(
+          115deg,
+          transparent 0%,
+          transparent 45%,
+          rgba(255, 255, 255, 0.04) 46%,
+          transparent 48%
+        );
+      pointer-events: none;
+    }
+
     .page {
+      position: relative;
+      z-index: 1;
       width: 100%;
       height: 100%;
       display: flex;
-      align-items: stretch;
-      position: relative;
+      overflow: hidden;
     }
 
-    .brand {
-      width: 220px;
-      min-width: 220px;
-      padding: 12px;
-      background: rgba(0, 0, 0, 0.28);
-      border-right: 2px solid rgba(255,255,255,0.14);
+    /* AREA LOGO */
 
+    .brand {
+      position: relative;
+      width: 230px;
+      min-width: 230px;
+      height: 100%;
+      padding: 14px 18px;
       display: flex;
       flex-direction: column;
       justify-content: center;
       align-items: center;
-
       text-align: center;
+      background:
+        linear-gradient(
+          180deg,
+          rgba(255, 255, 255, 0.08),
+          rgba(0, 0, 0, 0.20)
+        );
+      border-right: 1px solid rgba(255, 255, 255, 0.16);
+      box-shadow: 8px 0 24px rgba(0, 0, 0, 0.18);
+    }
+
+    .brand::after {
+      content: "";
+      position: absolute;
+      right: -2px;
+      top: 15%;
+      width: 3px;
+      height: 70%;
+      border-radius: 3px;
+      background: linear-gradient(
+        to bottom,
+        transparent,
+        #e53935,
+        transparent
+      );
     }
 
     .brand img {
       display: block;
       max-width: 150px;
-      max-height: 75px;
+      max-height: 78px;
+      width: auto;
+      height: auto;
       object-fit: contain;
-      margin-bottom: 7px;
+      margin-bottom: 8px;
+      filter:
+        drop-shadow(0 4px 10px rgba(0, 0, 0, 0.35));
     }
 
     .brand-title {
       font-size: 18px;
-      font-weight: 800;
-      letter-spacing: 0.5px;
+      font-weight: 900;
+      letter-spacing: 1.5px;
+      line-height: 1;
+    }
+
+    .brand-title span {
+      color: #ff3b30;
     }
 
     .brand-subtitle {
-      margin-top: 4px;
-      font-size: 11px;
-      opacity: 0.8;
+      margin-top: 6px;
+      font-size: 10px;
+      letter-spacing: 0.8px;
+      text-transform: uppercase;
+      opacity: 0.72;
     }
 
+    /* AREA NOTIZIA */
+
     .news-area {
+      position: relative;
       flex: 1;
       min-width: 0;
-      padding: 13px 22px;
-
+      height: 100%;
+      padding: 16px 30px 19px;
       display: flex;
       flex-direction: column;
       justify-content: center;
+    }
+
+    .news-content {
+      width: 100%;
+      opacity: 1;
+      transform: translateY(0);
+      transition:
+        opacity 0.4s ease,
+        transform 0.4s ease;
+    }
+
+    .news-content.hidden {
+      opacity: 0;
+      transform: translateY(8px);
     }
 
     .top-line {
       display: flex;
       align-items: center;
       gap: 12px;
-      margin-bottom: 8px;
+      margin-bottom: 9px;
     }
 
     .category {
-      padding: 5px 12px;
-      border-radius: 5px;
-      background: #e31b23;
-      font-size: 14px;
-      font-weight: 800;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 88px;
+      padding: 6px 14px;
+      border-radius: 999px;
+      background: #e53935;
+      color: #ffffff;
+      font-size: 13px;
+      font-weight: 900;
       letter-spacing: 1px;
+      box-shadow:
+        0 4px 12px rgba(229, 57, 53, 0.28);
+    }
+
+    .category.calcio {
+      background: linear-gradient(
+        135deg,
+        #e53935,
+        #b71c1c
+      );
+    }
+
+    .category.tennis {
+      background: linear-gradient(
+        135deg,
+        #d4e157,
+        #7cb342
+      );
+      color: #10210b;
+    }
+
+    .category.padel {
+      background: linear-gradient(
+        135deg,
+        #29b6f6,
+        #1565c0
+      );
     }
 
     .live-label {
-      font-size: 12px;
-      opacity: 0.75;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 1.2px;
+      opacity: 0.72;
+    }
+
+    .live-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: #ff3b30;
+      box-shadow:
+        0 0 0 4px rgba(255, 59, 48, 0.14);
+      animation: pulse 1.6s infinite;
+    }
+
+    @keyframes pulse {
+      0%,
+      100% {
+        opacity: 1;
+        transform: scale(1);
+      }
+
+      50% {
+        opacity: 0.55;
+        transform: scale(0.85);
+      }
     }
 
     .headline {
       max-width: 100%;
-      font-size: clamp(21px, 2.1vw, 37px);
-      font-weight: 800;
-      line-height: 1.08;
-      text-shadow: 0 2px 7px rgba(0,0,0,0.55);
+      font-size: clamp(22px, 2.15vw, 38px);
+      font-weight: 850;
+      line-height: 1.16;
+      letter-spacing: -0.3px;
+      text-shadow:
+        0 3px 10px rgba(0, 0, 0, 0.50);
+
+      white-space: normal;
+      overflow-wrap: anywhere;
+
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .meta-line {
+      margin-top: 11px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-size: 12px;
+      opacity: 0.78;
     }
 
     .source {
-      margin-top: 9px;
-      font-size: 13px;
-      opacity: 0.8;
+      font-weight: 700;
     }
+
+    .separator {
+      opacity: 0.45;
+    }
+
+    .counter {
+      position: absolute;
+      top: 16px;
+      right: 23px;
+      padding: 5px 10px;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.08);
+      border: 1px solid rgba(255, 255, 255, 0.10);
+      font-size: 11px;
+      font-weight: 700;
+      opacity: 0.80;
+    }
+
+    .updated {
+      position: absolute;
+      right: 24px;
+      bottom: 12px;
+      font-size: 10px;
+      opacity: 0.55;
+    }
+
+    /* BARRA AVANZAMENTO */
 
     .progress {
       position: absolute;
-      left: 220px;
+      left: 230px;
       right: 0;
       bottom: 0;
-      height: 5px;
-      background: rgba(255,255,255,0.15);
+      height: 6px;
+      background: rgba(255, 255, 255, 0.10);
+      overflow: hidden;
     }
 
     .progress-bar {
       width: 0%;
       height: 100%;
-      background: #ffffff;
+      background:
+        linear-gradient(
+          90deg,
+          #ff3b30,
+          #ffcc00
+        );
+      box-shadow:
+        0 0 12px rgba(255, 59, 48, 0.45);
     }
 
     .progress-bar.animate {
-      animation: progress 8s linear forwards;
+      animation: progress 15s linear forwards;
     }
 
     @keyframes progress {
@@ -152,18 +330,24 @@
     }
 
     .error {
+      width: 100%;
       font-size: 18px;
+      font-weight: 700;
       text-align: center;
+      opacity: 0.85;
     }
 
-    @media (max-width: 1000px) {
+    /* ADATTAMENTO PER FASCIA BASSA */
+
+    @media (max-width: 1100px) {
       .brand {
-        width: 170px;
-        min-width: 170px;
+        width: 175px;
+        min-width: 175px;
+        padding: 9px;
       }
 
       .brand img {
-        max-width: 120px;
+        max-width: 115px;
         max-height: 58px;
       }
 
@@ -171,12 +355,43 @@
         font-size: 14px;
       }
 
-      .progress {
-        left: 170px;
+      .brand-subtitle {
+        font-size: 8px;
       }
 
       .news-area {
-        padding: 9px 15px;
+        padding: 10px 17px 14px;
+      }
+
+      .headline {
+        font-size: clamp(18px, 2vw, 28px);
+        line-height: 1.12;
+      }
+
+      .category {
+        min-width: 70px;
+        padding: 4px 10px;
+        font-size: 10px;
+      }
+
+      .meta-line {
+        margin-top: 6px;
+        font-size: 10px;
+      }
+
+      .progress {
+        left: 175px;
+        height: 4px;
+      }
+
+      .counter {
+        top: 8px;
+        right: 12px;
+      }
+
+      .updated {
+        right: 14px;
+        bottom: 7px;
       }
     }
   </style>
@@ -190,10 +405,11 @@
       <img
         src="logo-mariano.png"
         alt="Mariano Sports Arena"
+        onerror="this.style.display='none'"
       >
 
       <div class="brand-title">
-        SPORT NEWS
+        SPORT <span>NEWS</span>
       </div>
 
       <div class="brand-subtitle">
@@ -203,21 +419,41 @@
 
     <section class="news-area">
 
-      <div class="top-line">
-        <div class="category" id="category">
-          SPORT
-        </div>
-
-        <div class="live-label">
-          ULTIME NOTIZIE
-        </div>
+      <div class="counter" id="counter">
+        0 / 0
       </div>
 
-      <div class="headline" id="headline">
-        Caricamento notizie...
+      <div class="news-content" id="news-content">
+
+        <div class="top-line">
+          <div class="category" id="category">
+            SPORT
+          </div>
+
+          <div class="live-dot"></div>
+
+          <div class="live-label">
+            ULTIME NOTIZIE
+          </div>
+        </div>
+
+        <div class="headline" id="headline">
+          Caricamento notizie...
+        </div>
+
+        <div class="meta-line">
+          <span class="source" id="source"></span>
+
+          <span class="separator" id="separator">
+            •
+          </span>
+
+          <span id="published"></span>
+        </div>
+
       </div>
 
-      <div class="source" id="source"></div>
+      <div class="updated" id="updated"></div>
 
     </section>
 
@@ -240,11 +476,28 @@
     const sourceElement =
       document.getElementById("source");
 
+    const publishedElement =
+      document.getElementById("published");
+
+    const separatorElement =
+      document.getElementById("separator");
+
     const progressBar =
       document.getElementById("progress-bar");
 
+    const newsContent =
+      document.getElementById("news-content");
+
+    const counterElement =
+      document.getElementById("counter");
+
+    const updatedElement =
+      document.getElementById("updated");
+
     let articles = [];
     let currentIndex = 0;
+
+    const articleDuration = 15000;
 
     function restartProgress() {
       progressBar.classList.remove("animate");
@@ -252,6 +505,81 @@
       void progressBar.offsetWidth;
 
       progressBar.classList.add("animate");
+    }
+
+    function formatPublishedDate(value) {
+      if (!value) {
+        return "";
+      }
+
+      const date = new Date(value);
+
+      if (Number.isNaN(date.getTime())) {
+        return "";
+      }
+
+      return date.toLocaleString("it-IT", {
+        day: "2-digit",
+        month: "2-digit",
+        hour: "2-digit",
+        minute: "2-digit"
+      });
+    }
+
+    function getCategoryClass(category) {
+      const normalized =
+        String(category || "").toLowerCase();
+
+      if (normalized.includes("calcio")) {
+        return "category calcio";
+      }
+
+      if (normalized.includes("tennis")) {
+        return "category tennis";
+      }
+
+      if (normalized.includes("padel")) {
+        return "category padel";
+      }
+
+      return "category";
+    }
+
+    function showArticleImmediately(article) {
+      const category =
+        article.category || "SPORT";
+
+      categoryElement.textContent =
+        category;
+
+      categoryElement.className =
+        getCategoryClass(category);
+
+      headlineElement.textContent =
+        article.title || "Notizia non disponibile";
+
+      sourceElement.textContent =
+        article.source
+          ? "Fonte: " + article.source
+          : "";
+
+      const published =
+        formatPublishedDate(article.published);
+
+      publishedElement.textContent =
+        published;
+
+      separatorElement.style.display =
+        article.source && published
+          ? "inline"
+          : "none";
+
+      counterElement.textContent =
+        (currentIndex + 1) +
+        " / " +
+        articles.length;
+
+      restartProgress();
     }
 
     function showArticle() {
@@ -262,21 +590,37 @@
         return;
       }
 
-      const article = articles[currentIndex];
+      const article =
+        articles[currentIndex];
 
-      categoryElement.textContent =
-        article.category || "SPORT";
+      newsContent.classList.add("hidden");
 
-      headlineElement.textContent =
-        article.title;
+      setTimeout(function() {
+        showArticleImmediately(article);
 
-      sourceElement.textContent =
-        "Fonte: " + article.source;
-
-      restartProgress();
+        newsContent.classList.remove("hidden");
+      }, 400);
 
       currentIndex =
         (currentIndex + 1) % articles.length;
+    }
+
+    function formatUpdateTime(value) {
+      if (!value) {
+        return "";
+      }
+
+      const date = new Date(value);
+
+      if (Number.isNaN(date.getTime())) {
+        return "";
+      }
+
+      return "Aggiornato alle " +
+        date.toLocaleTimeString("it-IT", {
+          hour: "2-digit",
+          minute: "2-digit"
+        });
     }
 
     function loadNews() {
@@ -305,8 +649,17 @@
             );
           }
 
-          articles = data.articles;
+          /*
+            Limitiamo la pagina a 12 notizie totali,
+            così il ciclo resta ordinato.
+          */
+          articles =
+            data.articles.slice(0, 12);
+
           currentIndex = 0;
+
+          updatedElement.textContent =
+            formatUpdateTime(data.updated_at);
 
           showArticle();
         })
@@ -317,14 +670,24 @@
             '<div class="error">' +
             'Notizie momentaneamente non disponibili' +
             '</div>';
+
+          sourceElement.textContent = "";
+          publishedElement.textContent = "";
+          counterElement.textContent = "";
         });
     }
 
     loadNews();
 
-    setInterval(showArticle, 8000);
+    setInterval(
+      showArticle,
+      articleDuration
+    );
 
-    setInterval(loadNews, 30 * 60 * 1000);
+    setInterval(
+      loadNews,
+      30 * 60 * 1000
+    );
   </script>
 
 </body>
