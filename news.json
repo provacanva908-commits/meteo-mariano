@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T23:06:31.093017+00:00",
+  "updated_at": "2026-06-23T10:17:58.297587+00:00",
   "local_date": "2026-06-23",
   "articles": [
     {
@@ -9,9 +9,9 @@
       "away": "Senegal",
       "time": "02:00",
       "date": "2026-06-23T02:00:00+02:00",
-      "status": "TIMED",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "home_score": 3,
+      "away_score": 2,
       "group": "GROUP_I"
     },
     {
@@ -21,9 +21,9 @@
       "away": "Algeria",
       "time": "05:00",
       "date": "2026-06-23T05:00:00+02:00",
-      "status": "TIMED",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "home_score": 1,
+      "away_score": 2,
       "group": "GROUP_J"
     },
     {
@@ -53,30 +53,30 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner, 77 settimane in vetta al ranking Atp in vista di Wimbledon: ecco la classifica dei numeri 1 del mondo - lapresse.it",
-      "source": "lapresse.it",
-      "published": "Mon, 22 Jun 2026 08:04:16 GMT"
+      "title": "Quanti punti può guadagnare o perdere Sinner su Alcaraz a Wimbledon: tutti gli scenari del ranking ATP - OA Sport",
+      "source": "OA Sport",
+      "published": "Tue, 23 Jun 2026 04:00:58 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner verso Wimbledon 2026: quando gioca, dove vederlo in tv e il torneo (in chiaro) prima dello Slam - Libero",
-      "source": "Libero",
-      "published": "Sun, 21 Jun 2026 06:35:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner, 77 settimane da numero 1. Djokovic mai così in basso dal 2022 | La nuova classifica Atp - Il Fatto Quotidiano",
+      "title": "Sinner sempre più in vetta: 77 settimane da numero 1 nel ranking ATP - Il Fatto Quotidiano",
       "source": "Il Fatto Quotidiano",
       "published": "Mon, 22 Jun 2026 09:13:11 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP: Sinner allunga su Alcaraz, balzo in avanti per Bellucci - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Mon, 22 Jun 2026 08:59:02 GMT"
+      "title": "Sinner ora ha fiducia: “Ecco cosa ho fatto dopo la sconfitta al Roland Garros” - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Tue, 23 Jun 2026 07:55:55 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Quote Sinner vincente Wimbledon sfida Slam con Djokovic-Zverev - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Tue, 23 Jun 2026 02:37:37 GMT"
     },
     {
       "type": "news",
@@ -95,16 +95,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Successo per il prestigioso Torneo Open di Padel \"Floss Valeo\" a Barletta - BarlettaViva",
-      "source": "BarlettaViva",
-      "published": "Mon, 22 Jun 2026 14:15:00 GMT"
+      "title": "Premier Padel Valencia, finale col brivido: la spuntano Coello-Tapia - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 14 Jun 2026 07:00:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Valencia, finale col brivido: la spuntano Coello-Tapia - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 14 Jun 2026 07:00:00 GMT"
+      "title": "Premier Padel: Sanchez/Ustero in finale dopo più di 4 ore. Tutto facile per Tapia/Coello - rtl.it",
+      "source": "rtl.it",
+      "published": "Sun, 07 Jun 2026 07:00:00 GMT"
     }
   ]
 }
