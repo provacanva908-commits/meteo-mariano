@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T22:03:04.561141+00:00",
+  "updated_at": "2026-06-25T10:21:14.852069+00:00",
   "local_date": "2026-06-25",
   "articles": [
     {
@@ -9,9 +9,9 @@
       "away": "Haiti",
       "time": "00:00",
       "date": "2026-06-25T00:00:00+02:00",
-      "status": "TIMED",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "home_score": 4,
+      "away_score": 2,
       "group": "GROUP_C"
     },
     {
@@ -21,9 +21,9 @@
       "away": "Brazil",
       "time": "00:00",
       "date": "2026-06-25T00:00:00+02:00",
-      "status": "TIMED",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "home_score": 0,
+      "away_score": 3,
       "group": "GROUP_C"
     },
     {
@@ -33,9 +33,9 @@
       "away": "Mexico",
       "time": "03:00",
       "date": "2026-06-25T03:00:00+02:00",
-      "status": "TIMED",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "home_score": 0,
+      "away_score": 3,
       "group": "GROUP_A"
     },
     {
@@ -45,9 +45,9 @@
       "away": "Korea Republic",
       "time": "03:00",
       "date": "2026-06-25T03:00:00+02:00",
-      "status": "TIMED",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "home_score": 1,
+      "away_score": 0,
       "group": "GROUP_A"
     },
     {
@@ -79,21 +79,14 @@
       "category": "TENNIS",
       "title": "Jannik Sinner a Wimbledon 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis ATP - olympics.com",
       "source": "olympics.com",
-      "published": "Wed, 24 Jun 2026 20:14:11 GMT"
+      "published": "Thu, 25 Jun 2026 08:18:35 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jannik Sinner: “Solo un’esibizione, ma aiuta per i match ufficiale. Wimbledon? Il torneo più speciale” - OA Sport",
+      "title": "LIVE Darderi-Borges, ATP Maiorca 2026 in DIRETTA: caccia alla semifinale e possibile sorpasso su Musetti - OA Sport",
       "source": "OA Sport",
-      "published": "Wed, 24 Jun 2026 15:19:50 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "\"Ero solo stanco...\", la verità di Sinner su Roland Garros e come sta a Wimbledon - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Wed, 24 Jun 2026 16:28:00 GMT"
+      "published": "Thu, 25 Jun 2026 09:18:23 GMT"
     },
     {
       "type": "news",
@@ -101,6 +94,13 @@
       "title": "Giorgio Armani Tennis Classic: Sinner batte 2-0 Norrie. \"Wimbledon torneo speciale, sogno epilogo di un anno fa\" - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Wed, 24 Jun 2026 15:29:44 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Jannik Sinner doma Norrie (e il caldo) nell'unica esibizione pre-Wimbledon: vittoria 6-3 6-3 al Giorgio Armani Classic - eurosport.it",
+      "source": "eurosport.it",
+      "published": "Wed, 24 Jun 2026 15:14:47 GMT"
     },
     {
       "type": "news",
@@ -126,8 +126,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel: Sanchez/Ustero in finale dopo più di 4 ore. Tutto facile per Tapia/Coello - rtl.it",
-      "source": "rtl.it",
+      "title": "Premier Padel: Sanchez/Ustero in finale dopo più di 4 ore. Tutto facile per Tapia/Coello - RTL 102.5",
+      "source": "RTL 102.5",
       "published": "Sun, 07 Jun 2026 07:00:00 GMT"
     }
   ]
