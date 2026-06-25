@@ -1,85 +1,85 @@
 {
-  "updated_at": "2026-06-25T17:34:46.482793+00:00",
-  "local_date": "2026-06-25",
+  "updated_at": "2026-06-25T23:01:26.452323+00:00",
+  "local_date": "2026-06-26",
   "articles": [
     {
       "type": "match",
       "category": "MONDIALI",
-      "home": "Morocco",
-      "away": "Haiti",
-      "time": "00:00",
-      "date": "2026-06-25T00:00:00+02:00",
-      "status": "FINISHED",
-      "home_score": 4,
-      "away_score": 2,
-      "group": "GROUP_C"
-    },
-    {
-      "type": "match",
-      "category": "MONDIALI",
-      "home": "Scotland",
-      "away": "Brazil",
-      "time": "00:00",
-      "date": "2026-06-25T00:00:00+02:00",
-      "status": "FINISHED",
-      "home_score": 0,
-      "away_score": 3,
-      "group": "GROUP_C"
-    },
-    {
-      "type": "match",
-      "category": "MONDIALI",
-      "home": "Czechia",
-      "away": "Mexico",
-      "time": "03:00",
-      "date": "2026-06-25T03:00:00+02:00",
-      "status": "FINISHED",
-      "home_score": 0,
-      "away_score": 3,
-      "group": "GROUP_A"
-    },
-    {
-      "type": "match",
-      "category": "MONDIALI",
-      "home": "South Africa",
-      "away": "Korea Republic",
-      "time": "03:00",
-      "date": "2026-06-25T03:00:00+02:00",
-      "status": "FINISHED",
-      "home_score": 1,
-      "away_score": 0,
-      "group": "GROUP_A"
-    },
-    {
-      "type": "match",
-      "category": "MONDIALI",
-      "home": "Ecuador",
-      "away": "Germany",
-      "time": "22:00",
-      "date": "2026-06-25T22:00:00+02:00",
+      "home": "Tunisia",
+      "away": "Netherlands",
+      "time": "01:00",
+      "date": "2026-06-26T01:00:00+02:00",
       "status": "TIMED",
       "home_score": null,
       "away_score": null,
-      "group": "GROUP_E"
+      "group": "GROUP_F"
     },
     {
       "type": "match",
       "category": "MONDIALI",
-      "home": "Curaçao",
-      "away": "Ivory Coast",
-      "time": "22:00",
-      "date": "2026-06-25T22:00:00+02:00",
+      "home": "Japan",
+      "away": "Sweden",
+      "time": "01:00",
+      "date": "2026-06-26T01:00:00+02:00",
       "status": "TIMED",
       "home_score": null,
       "away_score": null,
-      "group": "GROUP_E"
+      "group": "GROUP_F"
+    },
+    {
+      "type": "match",
+      "category": "MONDIALI",
+      "home": "Turkey",
+      "away": "USA",
+      "time": "04:00",
+      "date": "2026-06-26T04:00:00+02:00",
+      "status": "TIMED",
+      "home_score": null,
+      "away_score": null,
+      "group": "GROUP_D"
+    },
+    {
+      "type": "match",
+      "category": "MONDIALI",
+      "home": "Paraguay",
+      "away": "Australia",
+      "time": "04:00",
+      "date": "2026-06-26T04:00:00+02:00",
+      "status": "TIMED",
+      "home_score": null,
+      "away_score": null,
+      "group": "GROUP_D"
+    },
+    {
+      "type": "match",
+      "category": "MONDIALI",
+      "home": "Norway",
+      "away": "France",
+      "time": "21:00",
+      "date": "2026-06-26T21:00:00+02:00",
+      "status": "TIMED",
+      "home_score": null,
+      "away_score": null,
+      "group": "GROUP_I"
+    },
+    {
+      "type": "match",
+      "category": "MONDIALI",
+      "home": "Senegal",
+      "away": "Iraq",
+      "time": "21:00",
+      "date": "2026-06-26T21:00:00+02:00",
+      "status": "TIMED",
+      "home_score": null,
+      "away_score": null,
+      "group": "GROUP_I"
     },
     {
       "type": "news",
       "category": "TENNIS",
       "title": "Jannik Sinner a Wimbledon 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis ATP - olympics.com",
       "source": "olympics.com",
-      "published": "Thu, 25 Jun 2026 14:19:36 GMT"
+      "published": "Thu, 25 Jun 2026 20:19:06 GMT"
     },
     {
       "type": "news",
@@ -98,16 +98,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Giorgio Armani Tennis Classic: Sinner batte 2-0 Norrie. \"Wimbledon torneo speciale, sogno epilogo di un anno fa\" - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Wed, 24 Jun 2026 15:29:44 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel Valencia, finale col brivido: la spuntano Coello-Tapia - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 14 Jun 2026 07:00:00 GMT"
+      "title": "WTA Eastbourne: Marcinko non si ferma, ora Keys. In semifinale anche Ostapenko e Maria - Ubitennis",
+      "source": "Ubitennis",
+      "published": "Thu, 25 Jun 2026 20:02:31 GMT"
     },
     {
       "type": "news",
@@ -115,6 +108,13 @@
       "title": "Valencia P1 Premier Padel 2026: I big ai quarti, Chingotto e Galan ancora col brivido - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Fri, 12 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel Valencia, finale col brivido: la spuntano Coello-Tapia - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 14 Jun 2026 07:00:00 GMT"
     },
     {
       "type": "news",
