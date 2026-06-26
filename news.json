@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T23:01:26.452323+00:00",
+  "updated_at": "2026-06-26T10:38:33.565781+00:00",
   "local_date": "2026-06-26",
   "articles": [
     {
@@ -9,9 +9,9 @@
       "away": "Netherlands",
       "time": "01:00",
       "date": "2026-06-26T01:00:00+02:00",
-      "status": "TIMED",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "home_score": 1,
+      "away_score": 3,
       "group": "GROUP_F"
     },
     {
@@ -21,9 +21,9 @@
       "away": "Sweden",
       "time": "01:00",
       "date": "2026-06-26T01:00:00+02:00",
-      "status": "TIMED",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "home_score": 1,
+      "away_score": 1,
       "group": "GROUP_F"
     },
     {
@@ -33,9 +33,9 @@
       "away": "USA",
       "time": "04:00",
       "date": "2026-06-26T04:00:00+02:00",
-      "status": "TIMED",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "home_score": 3,
+      "away_score": 2,
       "group": "GROUP_D"
     },
     {
@@ -45,9 +45,9 @@
       "away": "Australia",
       "time": "04:00",
       "date": "2026-06-26T04:00:00+02:00",
-      "status": "TIMED",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "home_score": 0,
+      "away_score": 0,
       "group": "GROUP_D"
     },
     {
@@ -77,30 +77,51 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Jannik Sinner oggi a Wimbledon 2026 contro Miomir Kecmanovic: programma, orario e dove vedere la partita in diretta tv e streaming · Tennis ATP - olympics.com",
+      "source": "olympics.com",
+      "published": "Fri, 26 Jun 2026 09:39:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Jannik Sinner a Wimbledon 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis ATP - olympics.com",
       "source": "olympics.com",
-      "published": "Thu, 25 Jun 2026 20:19:06 GMT"
+      "published": "Wed, 24 Jun 2026 15:30:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tyra Grant a Wimbledon 2026: esordio Slam per l'italiana, supera la qualificazioni ed entra nel tabellone · Tennis WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Thu, 25 Jun 2026 15:51:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner sempre più in vetta: 77 settimane da numero 1 nel ranking ATP - Il Fatto Quotidiano",
+      "title": "Wimbledon, Sinner fa l'esordio con Kecmanovic: può incontrare Djokovic solo in finale - Il Fatto Quotidiano",
       "source": "Il Fatto Quotidiano",
-      "published": "Mon, 22 Jun 2026 09:13:11 GMT"
+      "published": "Fri, 26 Jun 2026 09:43:41 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "WTA Eastbourne: Marcinko non si ferma, ora Keys. In semifinale anche Ostapenko e Maria - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Thu, 25 Jun 2026 20:02:31 GMT"
+      "title": "Il tabellone di Wimbledon 2026: con chi giocano Jannik Sinner e gli italiani nel singolare maschile · Tennis ATP - olympics.com",
+      "source": "olympics.com",
+      "published": "Fri, 26 Jun 2026 09:52:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel, ancora un’impresa per Dal Pozzo: semifinale a Roma! - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sat, 06 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Valladolid P2: Un programma regale per i quarti di finale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Fri, 26 Jun 2026 06:48:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Nel campionato di serie D femminile si ferma ai quarti il Golf Padel Asti - SportAsti",
+      "source": "SportAsti",
+      "published": "Fri, 26 Jun 2026 06:25:00 GMT"
     },
     {
       "type": "news",
@@ -108,27 +129,6 @@
       "title": "Valencia P1 Premier Padel 2026: I big ai quarti, Chingotto e Galan ancora col brivido - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Fri, 12 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel Valencia, finale col brivido: la spuntano Coello-Tapia - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 14 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel, Dal Pozzo vola ai quarti a Roma! È la prima italiana ad andare così avanti in un Major - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Fri, 05 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel: Sanchez/Ustero in finale dopo più di 4 ore. Tutto facile per Tapia/Coello - RTL 102.5",
-      "source": "RTL 102.5",
-      "published": "Sun, 07 Jun 2026 07:00:00 GMT"
     }
   ]
 }
