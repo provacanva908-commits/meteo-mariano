@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T17:19:00.282581+00:00",
+  "updated_at": "2026-06-26T21:51:01.773395+00:00",
   "local_date": "2026-06-26",
   "articles": [
     {
@@ -57,9 +57,9 @@
       "away": "France",
       "time": "21:00",
       "date": "2026-06-26T21:00:00+02:00",
-      "status": "TIMED",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "home_score": 1,
+      "away_score": 4,
       "group": "GROUP_I"
     },
     {
@@ -69,9 +69,9 @@
       "away": "Iraq",
       "time": "21:00",
       "date": "2026-06-26T21:00:00+02:00",
-      "status": "TIMED",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "home_score": 5,
+      "away_score": 0,
       "group": "GROUP_I"
     },
     {
@@ -84,6 +84,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Jannik Sinner a Wimbledon 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis ATP - olympics.com",
+      "source": "olympics.com",
+      "published": "Fri, 26 Jun 2026 20:26:57 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Jannik Sinner oggi a Wimbledon 2026 contro Miomir Kecmanovic: programma, orario e dove vedere la partita in diretta tv e streaming · Tennis ATP - olympics.com",
       "source": "olympics.com",
       "published": "Fri, 26 Jun 2026 09:39:00 GMT"
@@ -91,16 +98,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jannik Sinner a Wimbledon 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis ATP - olympics.com",
+      "title": "Tabellone Wimbledon 2026 · Con chi gioca Jannik Sinner e gli italiani in gara | Sorteggio Tennis ATP - olympics.com",
       "source": "olympics.com",
-      "published": "Fri, 26 Jun 2026 14:26:43 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner a Wimbledon 2026: il tabellone e gli avversari del numero 1 Atp - Sky TG24",
-      "source": "Sky TG24",
-      "published": "Fri, 26 Jun 2026 11:07:20 GMT"
+      "published": "Fri, 26 Jun 2026 09:52:00 GMT"
     },
     {
       "type": "news",
@@ -126,9 +126,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Nel campionato di serie D femminile si ferma ai quarti il Golf Padel Asti - SportAsti",
-      "source": "SportAsti",
-      "published": "Fri, 26 Jun 2026 06:25:00 GMT"
+      "title": "Valencia P1 Premier Padel 2026: I big ai quarti, Chingotto e Galan ancora col brivido - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Fri, 12 Jun 2026 07:00:00 GMT"
     }
   ]
 }
