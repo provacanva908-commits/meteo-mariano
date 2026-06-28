@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T16:51:07.690532+00:00",
+  "updated_at": "2026-06-28T20:44:38.820044+00:00",
   "local_date": "2026-06-28",
   "articles": [
     {
@@ -57,9 +57,9 @@
       "away": "Canada",
       "time": "21:00",
       "date": "2026-06-28T21:00:00+02:00",
-      "status": "TIMED",
-      "home_score": null,
-      "away_score": null,
+      "status": "PAUSED",
+      "home_score": 0,
+      "away_score": 0,
       "group": "LAST_32"
     },
     {
@@ -67,7 +67,7 @@
       "category": "TENNIS",
       "title": "Jannik Sinner a Wimbledon 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis ATP - olympics.com",
       "source": "olympics.com",
-      "published": "Sun, 28 Jun 2026 14:46:16 GMT"
+      "published": "Sun, 28 Jun 2026 17:47:28 GMT"
     },
     {
       "type": "news",
@@ -93,13 +93,6 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel, ancora un’impresa per Dal Pozzo: semifinale a Roma! - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sat, 06 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
       "title": "Valladolid P2: Un programma regale per i quarti di finale - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Fri, 26 Jun 2026 06:48:00 GMT"
@@ -107,7 +100,7 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Controversia a Valladolid: il pallone che ha cambiato la semifinale femminile tra Rodríguez/Dal Pozzo e Josemaría/González - padel-magazine.it",
+      "title": "Controversia a Valladolid: il pallone che ha deciso la semifinale femminile tra Rodríguez/Dal Pozzo e Josemaría/González - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sun, 28 Jun 2026 06:45:00 GMT"
     },
@@ -117,6 +110,13 @@
       "title": "Premier Padel Valencia, finale col brivido: la spuntano Coello-Tapia - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 14 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Valencia P1 Premier Padel 2026: I big ai quarti, Chingotto e Galan ancora col brivido - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Fri, 12 Jun 2026 07:00:00 GMT"
     }
   ]
 }
