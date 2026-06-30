@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T10:44:06.386830+00:00",
+  "updated_at": "2026-06-30T17:29:48.766078+00:00",
   "local_date": "2026-06-30",
   "articles": [
     {
@@ -21,9 +21,9 @@
       "away": "Norway",
       "time": "19:00",
       "date": "2026-06-30T19:00:00+02:00",
-      "status": "TIMED",
-      "home_score": null,
-      "away_score": null,
+      "status": "IN_PLAY",
+      "home_score": 0,
+      "away_score": 0,
       "group": "LAST_32"
     },
     {
@@ -48,16 +48,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Italiani a Wimbledon 2026 oggi: le partite del 30 giugno · Tennis ATP e WTA - olympics.com",
+      "title": "Jannik Sinner a Wimbledon 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis ATP - olympics.com",
       "source": "olympics.com",
-      "published": "Tue, 30 Jun 2026 07:21:00 GMT"
+      "published": "Tue, 30 Jun 2026 12:46:27 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jannik Sinner a Wimbledon 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis ATP - olympics.com",
+      "title": "Wimbledon 2026, italiani e italiane in campo: il programma del 30 giugno · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Tue, 30 Jun 2026 08:53:45 GMT"
+      "published": "Tue, 30 Jun 2026 07:21:00 GMT"
     },
     {
       "type": "news",
