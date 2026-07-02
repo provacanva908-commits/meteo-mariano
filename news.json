@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T22:51:16.935049+00:00",
+  "updated_at": "2026-07-02T10:16:05.973588+00:00",
   "local_date": "2026-07-02",
   "articles": [
     {
@@ -9,9 +9,9 @@
       "away": "Bosnia-H.",
       "time": "02:00",
       "date": "2026-07-02T02:00:00+02:00",
-      "status": "TIMED",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "home_score": 2,
+      "away_score": 0,
       "group": "LAST_32"
     },
     {
@@ -45,14 +45,14 @@
       "category": "TENNIS",
       "title": "Jannik Sinner a Wimbledon 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis ATP - olympics.com",
       "source": "olympics.com",
-      "published": "Wed, 01 Jul 2026 18:52:20 GMT"
+      "published": "Thu, 02 Jul 2026 06:58:02 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jannik Sinner oggi a Wimbledon 2026 contro Jenson Brooksby: programma, orario e dove vedere la partita in diretta tv e streaming · Tennis ATP - olympics.com",
+      "title": "Italiani a Wimbledon 2026 oggi: le partite del 2 luglio · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Wed, 01 Jul 2026 15:21:00 GMT"
+      "published": "Wed, 01 Jul 2026 22:01:00 GMT"
     },
     {
       "type": "news",
@@ -64,9 +64,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Altra vittoria per l’Italia femminile: semifinale vicina - FITP",
-      "source": "FITP",
-      "published": "Tue, 30 Jun 2026 07:00:00 GMT"
+      "title": "Premier Padel Valencia, finale col brivido: la spuntano Coello-Tapia - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 14 Jun 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -78,9 +78,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Valencia, finale col brivido: la spuntano Coello-Tapia - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 14 Jun 2026 07:00:00 GMT"
+      "title": "Valencia P1 Premier Padel 2026: I big ai quarti, Chingotto e Galan ancora col brivido - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Fri, 12 Jun 2026 07:00:00 GMT"
     }
   ]
 }
