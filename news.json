@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T15:57:00.542552+00:00",
+  "updated_at": "2026-07-03T20:34:24.120219+00:00",
   "local_date": "2026-07-03",
   "articles": [
     {
@@ -33,9 +33,9 @@
       "away": "Egypt",
       "time": "20:00",
       "date": "2026-07-03T20:00:00+02:00",
-      "status": "TIMED",
-      "home_score": null,
-      "away_score": null,
+      "status": "PAUSED",
+      "home_score": 1,
+      "away_score": 1,
       "group": "LAST_32"
     },
     {
@@ -57,14 +57,14 @@
       "category": "TENNIS",
       "title": "Jannik Sinner - Jenson Brooksby a Wimbledon 2026 oggi, risultato LIVE e cronaca in diretta | Tennis ATP - olympics.com",
       "source": "olympics.com",
-      "published": "Fri, 03 Jul 2026 15:10:00 GMT"
+      "published": "Fri, 03 Jul 2026 15:55:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jannik Sinner oggi a Wimbledon 2026 contro Jenson Brooksby: programma, orario e dove vedere la partita in diretta tv e streaming · Tennis ATP - olympics.com",
+      "title": "Jannik Sinner a Wimbledon 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis ATP - olympics.com",
       "source": "olympics.com",
-      "published": "Fri, 03 Jul 2026 15:53:59 GMT"
+      "published": "Fri, 03 Jul 2026 16:14:12 GMT"
     },
     {
       "type": "news",
@@ -72,6 +72,13 @@
       "title": "Premier Padel a Valladolid: Coello re a casa sua. Dal Pozzo, semifinale e rimpianti - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Mon, 29 Jun 2026 10:11:39 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Padel, l'Open Belvedere Fisioclinic 2026 entra nel vivo: domenica la finale con il campione del mondo Vincenzo Iaquinta - Cosenza Post",
+      "source": "Cosenza Post",
+      "published": "Fri, 03 Jul 2026 15:56:15 GMT"
     },
     {
       "type": "news",
@@ -86,13 +93,6 @@
       "title": "Bordeaux P2: è tempo dei quarti di finale, le partite si fanno sempre più difficili. - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Fri, 03 Jul 2026 07:16:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel Valencia, finale col brivido: la spuntano Coello-Tapia - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 14 Jun 2026 07:00:00 GMT"
     }
   ]
 }
