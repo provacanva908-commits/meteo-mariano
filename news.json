@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T15:47:26.008078+00:00",
+  "updated_at": "2026-07-04T20:14:00.243181+00:00",
   "local_date": "2026-07-04",
   "articles": [
     {
@@ -33,9 +33,9 @@
       "away": "Morocco",
       "time": "19:00",
       "date": "2026-07-04T19:00:00+02:00",
-      "status": "TIMED",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "home_score": 0,
+      "away_score": 3,
       "group": "LAST_16"
     },
     {
@@ -76,7 +76,7 @@
       "category": "TENNIS",
       "title": "Jannik Sinner a Wimbledon 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis ATP - olympics.com",
       "source": "olympics.com",
-      "published": "Sat, 04 Jul 2026 13:26:21 GMT"
+      "published": "Sat, 04 Jul 2026 16:27:59 GMT"
     },
     {
       "type": "news",
