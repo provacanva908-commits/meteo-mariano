@@ -1,14 +1,26 @@
 {
-  "updated_at": "2026-07-05T18:48:27.847185+00:00",
-  "local_date": "2026-07-05",
+  "updated_at": "2026-07-05T22:33:02.779746+00:00",
+  "local_date": "2026-07-06",
   "articles": [
     {
       "type": "match",
       "category": "MONDIALI",
-      "home": "Brazil",
-      "away": "Norway",
-      "time": "22:00",
-      "date": "2026-07-05T22:00:00+02:00",
+      "home": "Mexico",
+      "away": "England",
+      "time": "02:00",
+      "date": "2026-07-06T02:00:00+02:00",
+      "status": "TIMED",
+      "home_score": null,
+      "away_score": null,
+      "group": "LAST_16"
+    },
+    {
+      "type": "match",
+      "category": "MONDIALI",
+      "home": "Portugal",
+      "away": "Spain",
+      "time": "21:00",
+      "date": "2026-07-06T21:00:00+02:00",
       "status": "TIMED",
       "home_score": null,
       "away_score": null,
@@ -24,13 +36,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jannik SInner LIVE a Wimbledon 2026 contro Mochizuki Shintaro: aggiornamenti in diretta, cronaca e risultato in tempo reale | Tennis ATP oggi - olympics.com",
-      "source": "olympics.com",
-      "published": "Sun, 05 Jul 2026 17:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Jannik Sinner - Jenson Brooksby a Wimbledon 2026 oggi, risultato LIVE e cronaca in diretta | Tennis ATP - olympics.com",
       "source": "olympics.com",
       "published": "Fri, 03 Jul 2026 15:55:00 GMT"
@@ -38,9 +43,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jannik Sinner oggi a Wimbledon 2026 contro Mochizuki Shintaro: programma, orario e dove vedere la partita in diretta tv e streaming · Tennis ATP - olympics.com",
-      "source": "olympics.com",
-      "published": "Sun, 05 Jul 2026 12:15:00 GMT"
+      "title": "Sinner batte Mochizuki a Wimbledon 2026: Jannik vola ai quarti di finale, ora c'è Struff - today.it",
+      "source": "today.it",
+      "published": "Sun, 05 Jul 2026 20:58:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner-Struff, quarti di finale Wimbledon: orario, quando si gioca e dove vederla in tv - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Sun, 05 Jul 2026 20:59:20 GMT"
     },
     {
       "type": "news",
