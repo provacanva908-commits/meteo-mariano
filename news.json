@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T13:01:06.212781+00:00",
+  "updated_at": "2026-07-06T19:23:00.173492+00:00",
   "local_date": "2026-07-06",
   "articles": [
     {
@@ -21,17 +21,10 @@
       "away": "Spain",
       "time": "21:00",
       "date": "2026-07-06T21:00:00+02:00",
-      "status": "TIMED",
-      "home_score": null,
-      "away_score": null,
+      "status": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
       "group": "LAST_16"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Jannik Sinner centra per la quinta volta consecutiva i quarti di finale a Wimbledon. Il fuoriclasse azzurro ha eliminato il giapponese Shintaro Mochizuki agli ottavi dello Slam inglese, con il punteggio di 6-3 7-6 6-3 in 2 ore e 26 minuti. Un match controllato fin da - facebook.com",
-      "source": "facebook.com",
-      "published": "Mon, 06 Jul 2026 09:38:53 GMT"
     },
     {
       "type": "news",
@@ -46,6 +39,13 @@
       "title": "Jannik Sinner - Jenson Brooksby a Wimbledon 2026 oggi, risultato LIVE e cronaca in diretta | Tennis ATP - olympics.com",
       "source": "olympics.com",
       "published": "Fri, 03 Jul 2026 15:55:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Wimbledon, un super Flavio Cobolli raggiunge Jannik Sinner ai quarti di finale. Jasmine Paolini tra le prime 8 nel tabellone femminile - Open",
+      "source": "Open",
+      "published": "Mon, 06 Jul 2026 15:02:00 GMT"
     },
     {
       "type": "news",
@@ -78,9 +78,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Valladolid P2 Premier Padel 2026: Orari e Programmazione - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Sat, 20 Jun 2026 07:00:00 GMT"
+      "title": "MS Open 1500, successo per il primo torneo Open di padel del Valdarno: trionfano Lasgoity e Dip Nazar - Valdarno 24",
+      "source": "Valdarno 24",
+      "published": "Sun, 05 Jul 2026 14:03:51 GMT"
     }
   ]
 }
