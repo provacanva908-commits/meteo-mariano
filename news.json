@@ -1,42 +1,12 @@
 {
-  "updated_at": "2026-07-07T18:27:40.275255+00:00",
-  "local_date": "2026-07-07",
+  "updated_at": "2026-07-07T22:39:47.354697+00:00",
+  "local_date": "2026-07-08",
   "articles": [
     {
-      "type": "match",
+      "type": "message",
       "category": "MONDIALI",
-      "home": "USA",
-      "away": "Belgium",
-      "time": "02:00",
-      "date": "2026-07-07T02:00:00+02:00",
-      "status": "FINISHED",
-      "home_score": 1,
-      "away_score": 4,
-      "group": "LAST_16"
-    },
-    {
-      "type": "match",
-      "category": "MONDIALI",
-      "home": "Argentina",
-      "away": "Egypt",
-      "time": "18:00",
-      "date": "2026-07-07T18:00:00+02:00",
-      "status": "FINISHED",
-      "home_score": 3,
-      "away_score": 2,
-      "group": "LAST_16"
-    },
-    {
-      "type": "match",
-      "category": "MONDIALI",
-      "home": "Switzerland",
-      "away": "Colombia",
-      "time": "22:00",
-      "date": "2026-07-07T22:00:00+02:00",
-      "status": "TIMED",
-      "home_score": null,
-      "away_score": null,
-      "group": "LAST_16"
+      "title": "Nessuna partita dei Mondiali in programma oggi",
+      "source": "football-data.org"
     },
     {
       "type": "news",
@@ -44,13 +14,6 @@
       "title": "Jannik Sinner vola in semifinale a Wimbledon 2026: tre set per avere la meglio su Struff ai quarti · Tennis - olympics.com",
       "source": "olympics.com",
       "published": "Tue, 07 Jul 2026 14:55:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner si prende la semifinale di Wimbledon e... ripensa al Roland Garros: \"Spero non succeda più\" - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Tue, 07 Jul 2026 15:31:00 GMT"
     },
     {
       "type": "news",
@@ -68,31 +31,38 @@
     },
     {
       "type": "news",
-      "category": "PADEL",
-      "title": "Dal 14 maggio al 4 giugno torna il Torneo dei Quartieri di Padel - Comune di Orvieto",
-      "source": "Comune di Orvieto",
-      "published": "Wed, 06 May 2026 07:00:00 GMT"
+      "category": "TENNIS",
+      "title": "Wimbledon, oggi Sinner-Struff nei quarti di finale: orario, precedenti e dove vedere la partita - TGLA7",
+      "source": "TGLA7",
+      "published": "Tue, 07 Jul 2026 09:39:33 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Quinto Torneo dei Quartieri di Padel, è quella del Corsica la squadra da battere - Orvietonews",
-      "source": "Orvietonews",
-      "published": "Fri, 08 May 2026 07:00:00 GMT"
+      "title": "Posizione Premier Padel Bordeaux rivoluziona la classifica, Tapia e Coello prendono il largo, Icardo e Jensen si avvicinano alla top 4 - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Tue, 07 Jul 2026 07:59:50 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "L'Euroitalia fa di nuovo 2 su 2: donne già in semifinale - FITP",
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
       "source": "FITP",
-      "published": "Wed, 22 Oct 2025 07:00:00 GMT"
+      "published": "Thu, 02 Jul 2026 16:58:33 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Miami P1: Oggi arrivano le teste di serie n°1 - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Wed, 25 Mar 2026 07:00:00 GMT"
+      "title": "Premier Padel Valencia, finale col brivido: la spuntano Coello-Tapia - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 14 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "MS Open 1500, successo per il primo torneo Open di padel del Valdarno: trionfano Lasgoity e Dip Nazar - Valdarno 24",
+      "source": "Valdarno 24",
+      "published": "Mon, 06 Jul 2026 01:20:15 GMT"
     }
   ]
 }
