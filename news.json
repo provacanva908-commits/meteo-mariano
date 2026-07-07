@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T23:40:34.908181+00:00",
+  "updated_at": "2026-07-07T10:41:06.539170+00:00",
   "local_date": "2026-07-07",
   "articles": [
     {
@@ -9,9 +9,9 @@
       "away": "Belgium",
       "time": "02:00",
       "date": "2026-07-07T02:00:00+02:00",
-      "status": "TIMED",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "home_score": 1,
+      "away_score": 4,
       "group": "LAST_16"
     },
     {
@@ -41,44 +41,37 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jannik Sinner a Wimbledon 2026: risultato e cronaca della vittoria su Nuno Borges | Tennis ATP oggi - olympics.com",
-      "source": "olympics.com",
-      "published": "Wed, 01 Jul 2026 15:10:00 GMT"
+      "title": "Sinner-Struff oggi in TV, quarti di finale a Wimbledon: dove vederla, orario ufficiale e polemiche sul Centrale (negato) - Libero",
+      "source": "Libero",
+      "published": "Tue, 07 Jul 2026 05:29:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jannik Sinner - Jenson Brooksby a Wimbledon 2026 oggi, risultato LIVE e cronaca in diretta | Tennis ATP - olympics.com",
-      "source": "olympics.com",
-      "published": "Fri, 03 Jul 2026 15:55:00 GMT"
+      "title": "Sinner oggi in tv: a che ora gioca con Struff, in palio la semifinale di Wimbledon - Il Riformista",
+      "source": "Il Riformista",
+      "published": "Tue, 07 Jul 2026 08:45:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Wimbledon, un super Flavio Cobolli raggiunge Jannik Sinner ai quarti di finale. Jasmine Paolini tra le prime 8 nel tabellone femminile - Open",
-      "source": "Open",
-      "published": "Mon, 06 Jul 2026 15:02:00 GMT"
+      "title": "Wimbledon, oggi Sinner-Struff: orario quarti di finale e dove vederla in tv - Tennis Magazine Italia",
+      "source": "Tennis Magazine Italia",
+      "published": "Tue, 07 Jul 2026 05:02:33 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Quando gioca Sinner contro Struff a Wimbledon, l'orario dei quarti di finale e dove vederli in TV - Fanpage",
-      "source": "Fanpage",
-      "published": "Mon, 06 Jul 2026 10:05:42 GMT"
+      "title": "Wimbledon, oggi Sinner sfida Struff nei quarti di finale - Sky TG24",
+      "source": "Sky TG24",
+      "published": "Tue, 07 Jul 2026 07:08:37 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Open 1500 Città di Montevarchi giunge al termine. Lasgoity e Dip nazar si aggiudicano la vittoria al torneo di padel - ValdarnoPost",
-      "source": "ValdarnoPost",
-      "published": "Mon, 06 Jul 2026 05:00:49 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
-      "source": "FITP",
-      "published": "Thu, 02 Jul 2026 16:58:33 GMT"
+      "title": "Posizione Premier Padel Bordeaux rivoluziona la classifica, Tapia e Coello prendono il largo, Icardo e Jensen si avvicinano alla top 4 - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Tue, 07 Jul 2026 07:59:50 GMT"
     },
     {
       "type": "news",
@@ -92,7 +85,14 @@
       "category": "PADEL",
       "title": "MS Open 1500, successo per il primo torneo Open di padel del Valdarno: trionfano Lasgoity e Dip Nazar - Valdarno 24",
       "source": "Valdarno 24",
-      "published": "Sun, 05 Jul 2026 14:03:51 GMT"
+      "published": "Mon, 06 Jul 2026 01:20:15 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Torneo Valencia Premier Padel P1 2026 - Visit Valencia",
+      "source": "Visit Valencia",
+      "published": "Fri, 27 Mar 2026 17:28:11 GMT"
     }
   ]
 }
