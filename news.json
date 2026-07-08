@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T07:42:52.579514+00:00",
+  "updated_at": "2026-07-08T13:17:53.849785+00:00",
   "local_date": "2026-07-08",
   "articles": [
     {
@@ -11,16 +11,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jannik Sinner vola in semifinale a Wimbledon 2026: tre set per avere la meglio su Struff ai quarti · Tennis - olympics.com",
-      "source": "olympics.com",
-      "published": "Tue, 07 Jul 2026 14:55:00 GMT"
+      "title": "Sinner, un successo tira l'altro: la semifinale a Wimbledon assicura un posto alle Atp Finals - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Wed, 08 Jul 2026 07:34:48 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner, un successo tira l'altro: la semifinale a Wimbledon assicura un posto alle Atp Finals - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Wed, 08 Jul 2026 07:34:48 GMT"
+      "title": "Jannik Sinner vola in semifinale a Wimbledon 2026: tre set per avere la meglio su Struff ai quarti · Tennis - olympics.com",
+      "source": "olympics.com",
+      "published": "Tue, 07 Jul 2026 14:55:00 GMT"
     },
     {
       "type": "news",
@@ -46,6 +46,13 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
+      "source": "FITP",
+      "published": "Thu, 02 Jul 2026 16:58:33 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "Premier Padel Valencia, finale col brivido: la spuntano Coello-Tapia - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 14 Jun 2026 07:00:00 GMT"
@@ -56,13 +63,6 @@
       "title": "Torneo Valencia Premier Padel P1 2026 - Visit Valencia",
       "source": "Visit Valencia",
       "published": "Fri, 27 Mar 2026 17:28:11 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Valladolid P2 Premier Padel 2026: Orari e Programmazione - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Sat, 20 Jun 2026 07:00:00 GMT"
     }
   ]
 }
