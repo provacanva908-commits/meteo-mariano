@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T13:17:53.849785+00:00",
+  "updated_at": "2026-07-08T18:10:22.675506+00:00",
   "local_date": "2026-07-08",
   "articles": [
     {
@@ -7,6 +7,13 @@
       "category": "MONDIALI",
       "title": "Nessuna partita dei Mondiali in programma oggi",
       "source": "football-data.org"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Wimbledon 2026, Cobolli e Paolini eliminati ai quarti. Sinner unico italiano in semifinale - Sky TG24",
+      "source": "Sky TG24",
+      "published": "Wed, 08 Jul 2026 17:27:37 GMT"
     },
     {
       "type": "news",
@@ -31,10 +38,10 @@
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "LIVE Sinner-Struff 7-5, 7-6, 6-3, Wimbledon 2026 in DIRETTA: il n.1 vola in semifinale per la terza volta - OA Sport",
-      "source": "OA Sport",
-      "published": "Tue, 07 Jul 2026 16:56:34 GMT"
+      "category": "PADEL",
+      "title": "Sport e solidarietà, la Vibora Padel Cup diventa benefica: il 28 agosto torneo all’Open Padel Park - LeccePrima",
+      "source": "LeccePrima",
+      "published": "Wed, 08 Jul 2026 09:53:00 GMT"
     },
     {
       "type": "news",
@@ -56,13 +63,6 @@
       "title": "Premier Padel Valencia, finale col brivido: la spuntano Coello-Tapia - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 14 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Torneo Valencia Premier Padel P1 2026 - Visit Valencia",
-      "source": "Visit Valencia",
-      "published": "Fri, 27 Mar 2026 17:28:11 GMT"
     }
   ]
 }
