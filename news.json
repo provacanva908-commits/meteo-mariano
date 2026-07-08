@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T22:39:47.354697+00:00",
+  "updated_at": "2026-07-08T07:42:52.579514+00:00",
   "local_date": "2026-07-08",
   "articles": [
     {
@@ -18,23 +18,23 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Sinner, un successo tira l'altro: la semifinale a Wimbledon assicura un posto alle Atp Finals - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Wed, 08 Jul 2026 07:34:48 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner-Djokovic, Wimbledon 2026: orario semifinale, tv, streaming, ipotesi diretta in chiaro - OA Sport",
+      "source": "OA Sport",
+      "published": "Tue, 07 Jul 2026 22:18:03 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "LIVE Sinner-Struff 7-5, 7-6, 6-3, Wimbledon 2026 in DIRETTA: il n.1 vola in semifinale per la terza volta - OA Sport",
       "source": "OA Sport",
       "published": "Tue, 07 Jul 2026 16:56:34 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Dove vedere Sinner-Struff: l'orario e la diretta tv dei quarti di finale di Wimbledon - Men's Health",
-      "source": "Men's Health",
-      "published": "Tue, 07 Jul 2026 10:03:50 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Wimbledon, oggi Sinner-Struff nei quarti di finale: orario, precedenti e dove vedere la partita - TGLA7",
-      "source": "TGLA7",
-      "published": "Tue, 07 Jul 2026 09:39:33 GMT"
     },
     {
       "type": "news",
@@ -46,13 +46,6 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
-      "source": "FITP",
-      "published": "Thu, 02 Jul 2026 16:58:33 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
       "title": "Premier Padel Valencia, finale col brivido: la spuntano Coello-Tapia - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 14 Jun 2026 07:00:00 GMT"
@@ -60,9 +53,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "MS Open 1500, successo per il primo torneo Open di padel del Valdarno: trionfano Lasgoity e Dip Nazar - Valdarno 24",
-      "source": "Valdarno 24",
-      "published": "Mon, 06 Jul 2026 01:20:15 GMT"
+      "title": "Torneo Valencia Premier Padel P1 2026 - Visit Valencia",
+      "source": "Visit Valencia",
+      "published": "Fri, 27 Mar 2026 17:28:11 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Valladolid P2 Premier Padel 2026: Orari e Programmazione - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Sat, 20 Jun 2026 07:00:00 GMT"
     }
   ]
 }
