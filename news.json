@@ -1,19 +1,18 @@
 {
-  "updated_at": "2026-07-08T18:10:22.675506+00:00",
-  "local_date": "2026-07-08",
+  "updated_at": "2026-07-08T22:15:54.939303+00:00",
+  "local_date": "2026-07-09",
   "articles": [
     {
-      "type": "message",
+      "type": "match",
       "category": "MONDIALI",
-      "title": "Nessuna partita dei Mondiali in programma oggi",
-      "source": "football-data.org"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Wimbledon 2026, Cobolli e Paolini eliminati ai quarti. Sinner unico italiano in semifinale - Sky TG24",
-      "source": "Sky TG24",
-      "published": "Wed, 08 Jul 2026 17:27:37 GMT"
+      "home": "France",
+      "away": "Morocco",
+      "time": "22:00",
+      "date": "2026-07-09T22:00:00+02:00",
+      "status": "TIMED",
+      "home_score": null,
+      "away_score": null,
+      "group": "QUARTER_FINALS"
     },
     {
       "type": "news",
@@ -25,6 +24,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Wimbledon 2026, Cobolli e Paolini eliminati ai quarti. Sinner unico italiano in semifinale - Sky TG24",
+      "source": "Sky TG24",
+      "published": "Wed, 08 Jul 2026 11:27:27 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Jannik Sinner vola in semifinale a Wimbledon 2026: tre set per avere la meglio su Struff ai quarti · Tennis - olympics.com",
       "source": "olympics.com",
       "published": "Tue, 07 Jul 2026 14:55:00 GMT"
@@ -32,9 +38,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner-Djokovic, Wimbledon 2026: orario semifinale, tv, streaming, ipotesi diretta in chiaro - OA Sport",
-      "source": "OA Sport",
-      "published": "Tue, 07 Jul 2026 22:18:03 GMT"
+      "title": "Dove vedere Sinner-Struff: l'orario e la diretta tv dei quarti di finale di Wimbledon - Men's Health",
+      "source": "Men's Health",
+      "published": "Tue, 07 Jul 2026 10:03:50 GMT"
     },
     {
       "type": "news",
