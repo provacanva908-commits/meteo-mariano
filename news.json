@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T22:15:54.939303+00:00",
+  "updated_at": "2026-07-09T10:41:32.579546+00:00",
   "local_date": "2026-07-09",
   "articles": [
     {
@@ -13,6 +13,13 @@
       "home_score": null,
       "away_score": null,
       "group": "QUARTER_FINALS"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Jannik Sinner vola in semifinale a Wimbledon 2026: tre set per avere la meglio su Struff ai quarti · Tennis - olympics.com",
+      "source": "olympics.com",
+      "published": "Tue, 07 Jul 2026 14:55:00 GMT"
     },
     {
       "type": "news",
@@ -31,13 +38,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jannik Sinner vola in semifinale a Wimbledon 2026: tre set per avere la meglio su Struff ai quarti · Tennis - olympics.com",
-      "source": "olympics.com",
-      "published": "Tue, 07 Jul 2026 14:55:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Dove vedere Sinner-Struff: l'orario e la diretta tv dei quarti di finale di Wimbledon - Men's Health",
       "source": "Men's Health",
       "published": "Tue, 07 Jul 2026 10:03:50 GMT"
@@ -52,16 +52,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Posizione Premier Padel Bordeaux rivoluziona la classifica, Tapia e Coello prendono il largo, Icardo e Jensen si avvicinano alla top 4 - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Tue, 07 Jul 2026 07:59:50 GMT"
+      "title": "Torneo Valencia Premier Padel P1 2026 - Visit Valencia",
+      "source": "Visit Valencia",
+      "published": "Fri, 27 Mar 2026 17:28:11 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
-      "source": "FITP",
-      "published": "Thu, 02 Jul 2026 16:58:33 GMT"
+      "title": "Posizione Premier Padel Bordeaux rivoluziona la classifica, Tapia e Coello prendono il largo, Icardo e Jensen si avvicinano alla top 4 - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Tue, 07 Jul 2026 07:59:50 GMT"
     },
     {
       "type": "news",
