@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T17:23:43.964365+00:00",
+  "updated_at": "2026-07-10T21:34:19.938421+00:00",
   "local_date": "2026-07-10",
   "articles": [
     {
@@ -9,10 +9,17 @@
       "away": "Belgium",
       "time": "21:00",
       "date": "2026-07-10T21:00:00+02:00",
-      "status": "TIMED",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "home_score": 2,
+      "away_score": 1,
       "group": "QUARTER_FINALS"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner in finale a Wimbledon, come cambia ranking Atp e quanto guadagna se vince - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Fri, 10 Jul 2026 17:53:00 GMT"
     },
     {
       "type": "news",
@@ -24,28 +31,35 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner, un successo tira l'altro: la semifinale a Wimbledon assicura un posto alle Atp Finals - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Wed, 08 Jul 2026 07:33:56 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Jannik Sinner - Novak Djokovic 1-0, la semifinale di Wimbledon 2026 LIVE: tutti gli aggiornamenti in diretta · Tennis - olympics.com",
+      "title": "Jannik Sinner - Novak Djokovic 3-0, la semifinale di Wimbledon 2026 LIVE: tutti gli aggiornamenti in diretta · Tennis - olympics.com",
       "source": "olympics.com",
-      "published": "Fri, 10 Jul 2026 16:02:00 GMT"
+      "published": "Fri, 10 Jul 2026 17:42:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Dove vedere Sinner-Djokovic: l'orario e la diretta dell'attesissima semifinale di Wimbledon 2026 - Men's Health",
-      "source": "Men's Health",
-      "published": "Fri, 10 Jul 2026 10:04:49 GMT"
+      "title": "Jannik Sinner - Alexander Zverev oggi a Wimbledon 2026 in finale: programma, orario e dove vedere la partita in diretta tv e streaming · Tennis ATP - olympics.com",
+      "source": "olympics.com",
+      "published": "Fri, 10 Jul 2026 17:55:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Campionati Mondiali Universitari: Courrin e Bahurel raggiungono la finale, Bahurel e Mansart sfiorano la vittoria - padel-magazine.it",
+      "title": "Bordeaux P2 Premier Padel: Icardo e Jensen in finale! - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Sun, 05 Jul 2026 10:07:34 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
+      "source": "FITP",
+      "published": "Thu, 02 Jul 2026 16:58:33 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Campionati universitari mondiali: Courrin e Bahurel raggiungono la finale, Bahurel e Mansart sfiorano la vittoria. - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Fri, 10 Jul 2026 14:23:54 GMT"
     },
@@ -55,20 +69,6 @@
       "title": "Premier Padel Valencia, finale col brivido: la spuntano Coello-Tapia - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 14 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "I francesi puntano alle medaglie: Bahurel e Mansart in semifinale, Courrin continua la sua corsa nel doppio misto - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Thu, 09 Jul 2026 13:19:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Torneo Valencia Premier Padel P1 2026 - Visit Valencia",
-      "source": "Visit Valencia",
-      "published": "Fri, 27 Mar 2026 17:28:11 GMT"
     }
   ]
 }
