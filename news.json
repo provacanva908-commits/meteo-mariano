@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T22:47:16.470901+00:00",
+  "updated_at": "2026-07-10T10:36:03.396213+00:00",
   "local_date": "2026-07-10",
   "articles": [
     {
@@ -13,6 +13,13 @@
       "home_score": null,
       "away_score": null,
       "group": "QUARTER_FINALS"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "LIVE Sinner-Djokovic, Wimbledon 2026 in DIRETTA: la semifinale più attesa, rivincita degli Australian Open - OA Sport",
+      "source": "OA Sport",
+      "published": "Fri, 10 Jul 2026 03:45:31 GMT"
     },
     {
       "type": "news",
@@ -31,23 +38,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ufficiale, la semifinale Sinner-Djokovic a Wimbledon si vedrà anche in chiaro: ecco dove - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Thu, 09 Jul 2026 13:48:28 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Wimbledon: la semifinale Sinner-Djokovic e la finale maschile in diretta in chiaro - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Thu, 09 Jul 2026 14:42:30 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Sport e solidarietà, la Vibora Padel Cup diventa benefica: il 28 agosto torneo all’Open Padel Park - LeccePrima",
-      "source": "LeccePrima",
-      "published": "Wed, 08 Jul 2026 09:53:00 GMT"
+      "title": "Wimbledon oggi semifinale Sinner-Djokovic: orario, precedenti e dove vederla in chiaro - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Fri, 10 Jul 2026 05:30:00 GMT"
     },
     {
       "type": "news",
@@ -59,16 +52,23 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Posizione Premier Padel Bordeaux rivoluziona la classifica, Tapia e Coello prendono il largo, Icardo e Jensen si avvicinano alla top 4 - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Tue, 07 Jul 2026 07:59:50 GMT"
+      "title": "Premier Padel Valencia, finale col brivido: la spuntano Coello-Tapia - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 14 Jun 2026 07:00:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Campionati mondiali universitari: quattro quarti di finale ad alta posta in gioco per la squadra francese questo giovedì - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Thu, 09 Jul 2026 06:37:00 GMT"
+      "title": "Torneo Valencia Premier Padel P1 2026 - Visit Valencia",
+      "source": "Visit Valencia",
+      "published": "Fri, 27 Mar 2026 17:28:11 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Valladolid P2 Premier Padel 2026: Orari e Programmazione - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Sat, 20 Jun 2026 07:00:00 GMT"
     }
   ]
 }
