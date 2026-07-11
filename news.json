@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T06:03:54.316810+00:00",
+  "updated_at": "2026-07-11T10:40:48.213783+00:00",
   "local_date": "2026-07-11",
   "articles": [
     {
@@ -24,16 +24,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jannik Sinner vola in semifinale a Wimbledon 2026: tre set per avere la meglio su Struff ai quarti · Tennis - olympics.com",
-      "source": "olympics.com",
-      "published": "Tue, 07 Jul 2026 14:55:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Jannik Sinner - Alexander Zverev oggi a Wimbledon 2026 in finale: programma, orario e dove vedere la partita in diretta tv e streaming · Tennis ATP - olympics.com",
       "source": "olympics.com",
-      "published": "Fri, 10 Jul 2026 21:23:00 GMT"
+      "published": "Sat, 11 Jul 2026 09:20:00 GMT"
     },
     {
       "type": "news",
@@ -41,6 +34,13 @@
       "title": "Jannik Sinner - Novak Djokovic 3-0, la semifinale di Wimbledon 2026 LIVE: tutti gli aggiornamenti in diretta · Tennis - olympics.com",
       "source": "olympics.com",
       "published": "Fri, 10 Jul 2026 17:42:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Wimbledon: oggi la semifinale Sinner-Djokovic - ANSA",
+      "source": "ANSA",
+      "published": "Fri, 10 Jul 2026 13:02:13 GMT"
     },
     {
       "type": "news",
@@ -52,13 +52,6 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Campionati universitari mondiali: Courrin e Bahurel raggiungono la finale, Bahurel e Mansart sfiorano la vittoria. - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Fri, 10 Jul 2026 14:23:54 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
       "title": "Sport e solidarietà, la Vibora Padel Cup diventa benefica: il 28 agosto torneo all’Open Padel Park - LeccePrima",
       "source": "LeccePrima",
       "published": "Wed, 08 Jul 2026 09:53:00 GMT"
@@ -66,9 +59,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Torneo Valencia Premier Padel P1 2026 - Visit Valencia",
-      "source": "Visit Valencia",
-      "published": "Fri, 27 Mar 2026 17:28:11 GMT"
+      "title": "Campionati universitari mondiali: Courrin e Bahurel raggiungono la finale, Bahurel e Mansart sfiorano la vittoria. - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Fri, 10 Jul 2026 14:23:54 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel Valencia, finale col brivido: la spuntano Coello-Tapia - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 14 Jun 2026 07:00:00 GMT"
     }
   ]
 }
