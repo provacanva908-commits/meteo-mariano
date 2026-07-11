@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T10:40:48.213783+00:00",
+  "updated_at": "2026-07-11T14:35:53.628795+00:00",
   "local_date": "2026-07-11",
   "articles": [
     {
@@ -38,9 +38,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Wimbledon: oggi la semifinale Sinner-Djokovic - ANSA",
-      "source": "ANSA",
-      "published": "Fri, 10 Jul 2026 13:02:13 GMT"
+      "title": "Dove vedere Sinner-Djokovic: l'orario e la diretta dell'attesissima semifinale di Wimbledon 2026 - Men's Health",
+      "source": "Men's Health",
+      "published": "Fri, 10 Jul 2026 10:04:49 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "P2000 Win Win Padel Cabriès: Le prime otto teste di serie femminili hanno raggiunto i quarti di finale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 11 Jul 2026 14:19:53 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Pro Padel Campionato: partite giocate nella seconda giornata e una classifica sempre più serrata - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 11 Jul 2026 07:57:17 GMT"
     },
     {
       "type": "news",
@@ -55,20 +69,6 @@
       "title": "Sport e solidarietà, la Vibora Padel Cup diventa benefica: il 28 agosto torneo all’Open Padel Park - LeccePrima",
       "source": "LeccePrima",
       "published": "Wed, 08 Jul 2026 09:53:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Campionati universitari mondiali: Courrin e Bahurel raggiungono la finale, Bahurel e Mansart sfiorano la vittoria. - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Fri, 10 Jul 2026 14:23:54 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel Valencia, finale col brivido: la spuntano Coello-Tapia - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 14 Jun 2026 07:00:00 GMT"
     }
   ]
 }
