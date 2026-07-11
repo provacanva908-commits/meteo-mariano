@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-07-10T21:34:19.938421+00:00",
-  "local_date": "2026-07-10",
+  "updated_at": "2026-07-11T06:03:54.316810+00:00",
+  "local_date": "2026-07-11",
   "articles": [
     {
       "type": "match",
       "category": "MONDIALI",
-      "home": "Spain",
-      "away": "Belgium",
-      "time": "21:00",
-      "date": "2026-07-10T21:00:00+02:00",
-      "status": "FINISHED",
-      "home_score": 2,
-      "away_score": 1,
+      "home": "Norway",
+      "away": "England",
+      "time": "23:00",
+      "date": "2026-07-11T23:00:00+02:00",
+      "status": "TIMED",
+      "home_score": null,
+      "away_score": null,
       "group": "QUARTER_FINALS"
     },
     {
@@ -31,23 +31,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jannik Sinner - Novak Djokovic 3-0, la semifinale di Wimbledon 2026 LIVE: tutti gli aggiornamenti in diretta · Tennis - olympics.com",
+      "title": "Jannik Sinner - Alexander Zverev oggi a Wimbledon 2026 in finale: programma, orario e dove vedere la partita in diretta tv e streaming · Tennis ATP - olympics.com",
       "source": "olympics.com",
-      "published": "Fri, 10 Jul 2026 17:42:00 GMT"
+      "published": "Fri, 10 Jul 2026 21:23:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jannik Sinner - Alexander Zverev oggi a Wimbledon 2026 in finale: programma, orario e dove vedere la partita in diretta tv e streaming · Tennis ATP - olympics.com",
+      "title": "Jannik Sinner - Novak Djokovic 3-0, la semifinale di Wimbledon 2026 LIVE: tutti gli aggiornamenti in diretta · Tennis - olympics.com",
       "source": "olympics.com",
-      "published": "Fri, 10 Jul 2026 17:55:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Bordeaux P2 Premier Padel: Icardo e Jensen in finale! - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Sun, 05 Jul 2026 10:07:34 GMT"
+      "published": "Fri, 10 Jul 2026 17:42:00 GMT"
     },
     {
       "type": "news",
@@ -66,9 +59,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Valencia, finale col brivido: la spuntano Coello-Tapia - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 14 Jun 2026 07:00:00 GMT"
+      "title": "Sport e solidarietà, la Vibora Padel Cup diventa benefica: il 28 agosto torneo all’Open Padel Park - LeccePrima",
+      "source": "LeccePrima",
+      "published": "Wed, 08 Jul 2026 09:53:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Torneo Valencia Premier Padel P1 2026 - Visit Valencia",
+      "source": "Visit Valencia",
+      "published": "Fri, 27 Mar 2026 17:28:11 GMT"
     }
   ]
 }
