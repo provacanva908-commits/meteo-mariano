@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-11T20:28:36.821165+00:00",
-  "local_date": "2026-07-11",
+  "updated_at": "2026-07-11T23:37:44.528385+00:00",
+  "local_date": "2026-07-12",
   "articles": [
     {
       "type": "match",
       "category": "MONDIALI",
-      "home": "Norway",
-      "away": "England",
-      "time": "23:00",
-      "date": "2026-07-11T23:00:00+02:00",
+      "home": "Argentina",
+      "away": "Switzerland",
+      "time": "03:00",
+      "date": "2026-07-12T03:00:00+02:00",
       "status": "TIMED",
       "home_score": null,
       "away_score": null,
