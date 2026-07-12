@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T23:37:44.528385+00:00",
+  "updated_at": "2026-07-12T07:49:04.274273+00:00",
   "local_date": "2026-07-12",
   "articles": [
     {
@@ -9,9 +9,9 @@
       "away": "Switzerland",
       "time": "03:00",
       "date": "2026-07-12T03:00:00+02:00",
-      "status": "TIMED",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "home_score": 3,
+      "away_score": 1,
       "group": "QUARTER_FINALS"
     },
     {
@@ -24,23 +24,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jannik Sinner vola in semifinale a Wimbledon 2026: tre set per avere la meglio su Struff ai quarti · Tennis - olympics.com",
-      "source": "olympics.com",
-      "published": "Tue, 07 Jul 2026 14:55:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner, un successo tira l'altro: la semifinale a Wimbledon assicura un posto alle Atp Finals - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Wed, 08 Jul 2026 07:33:56 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Jannik Sinner - Alexander Zverev oggi a Wimbledon 2026 in finale: programma, orario e dove vedere la partita in diretta tv e streaming · Tennis ATP - olympics.com",
       "source": "olympics.com",
       "published": "Sat, 11 Jul 2026 09:20:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Jannik Sinner - Novak Djokovic 3-0, la semifinale di Wimbledon 2026 LIVE: tutti gli aggiornamenti in diretta · Tennis - olympics.com",
+      "source": "olympics.com",
+      "published": "Fri, 10 Jul 2026 17:42:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner-Djokovic oggi, semifinale Wimbledon: a che ora e dove vederla gratis (in chiaro) in diretta - today.it",
+      "source": "today.it",
+      "published": "Sat, 11 Jul 2026 16:15:37 GMT"
     },
     {
       "type": "news",
@@ -52,9 +52,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Pro Padel Campionato: partite giocate nella seconda giornata e una classifica sempre più serrata - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sat, 11 Jul 2026 07:57:17 GMT"
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
+      "source": "FITP",
+      "published": "Thu, 02 Jul 2026 16:58:33 GMT"
     },
     {
       "type": "news",
@@ -66,9 +66,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
-      "source": "FITP",
-      "published": "Thu, 02 Jul 2026 16:58:33 GMT"
+      "title": "Pro Padel Campionato: partite giocate nella seconda giornata e una classifica sempre più serrata - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 11 Jul 2026 07:57:17 GMT"
     }
   ]
 }
