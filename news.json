@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T07:49:04.274273+00:00",
+  "updated_at": "2026-07-12T11:43:56.446330+00:00",
   "local_date": "2026-07-12",
   "articles": [
     {
@@ -24,13 +24,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jannik Sinner - Alexander Zverev oggi a Wimbledon 2026 in finale: programma, orario e dove vedere la partita in diretta tv e streaming · Tennis ATP - olympics.com",
-      "source": "olympics.com",
-      "published": "Sat, 11 Jul 2026 09:20:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Jannik Sinner - Novak Djokovic 3-0, la semifinale di Wimbledon 2026 LIVE: tutti gli aggiornamenti in diretta · Tennis - olympics.com",
       "source": "olympics.com",
       "published": "Fri, 10 Jul 2026 17:42:00 GMT"
@@ -38,9 +31,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner-Djokovic oggi, semifinale Wimbledon: a che ora e dove vederla gratis (in chiaro) in diretta - today.it",
-      "source": "today.it",
-      "published": "Sat, 11 Jul 2026 16:15:37 GMT"
+      "title": "Jannik Sinner - Alexander Zverev oggi a Wimbledon 2026 in finale: programma, orario e dove vedere la partita in diretta tv e streaming · Tennis ATP - olympics.com",
+      "source": "olympics.com",
+      "published": "Sat, 11 Jul 2026 09:20:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Dove vedere Sinner-Djokovic: l'orario e la diretta dell'attesissima semifinale di Wimbledon 2026 - Men's Health",
+      "source": "Men's Health",
+      "published": "Fri, 10 Jul 2026 10:04:49 GMT"
     },
     {
       "type": "news",
@@ -59,16 +59,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Málaga P1: Fonteny/Boronad, Leygue/Ayats e Guichard/Geens a una vittoria dal tavolo finale - padel-magazine.it",
+      "title": "Pro Padel Campionato: partite giocate nella seconda giornata e una classifica sempre più serrata - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Sat, 11 Jul 2026 16:02:00 GMT"
+      "published": "Sat, 11 Jul 2026 07:57:17 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Pro Padel Campionato: partite giocate nella seconda giornata e una classifica sempre più serrata - padel-magazine.it",
+      "title": "Málaga P1: Fonteny/Boronad, Leygue/Ayats e Guichard/Geens a una vittoria dal tavolo finale - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Sat, 11 Jul 2026 07:57:17 GMT"
+      "published": "Sat, 11 Jul 2026 16:02:00 GMT"
     }
   ]
 }
