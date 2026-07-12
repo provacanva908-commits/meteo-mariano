@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T18:41:48.470119+00:00",
+  "updated_at": "2026-07-12T21:34:03.019011+00:00",
   "local_date": "2026-07-12",
   "articles": [
     {
@@ -17,6 +17,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Come cambia la classifica ATP dopo la vittoria di Sinner a Wimbledon - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Sun, 12 Jul 2026 18:59:11 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Jannik Sinner LIVE a Wimbledon 2026 contro Alexander Sascha Zverev: aggiornamenti in diretta, cronaca e risultato in tempo reale | Tennis ATP oggi - olympics.com",
       "source": "olympics.com",
       "published": "Sun, 12 Jul 2026 18:14:00 GMT"
@@ -24,23 +31,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jannik Sinner - Novak Djokovic 3-0, la semifinale di Wimbledon 2026 LIVE: tutti gli aggiornamenti in diretta · Tennis - olympics.com",
-      "source": "olympics.com",
-      "published": "Fri, 10 Jul 2026 17:42:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Jannik Sinner - Alexander Zverev oggi a Wimbledon 2026 in finale: programma, orario e dove vedere la partita in diretta tv e streaming · Tennis ATP - olympics.com",
-      "source": "olympics.com",
-      "published": "Sat, 11 Jul 2026 09:20:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Sinner in finale a Wimbledon, come cambia ranking e quanto guadagna se vince - Adnkronos",
       "source": "Adnkronos",
       "published": "Sun, 12 Jul 2026 07:31:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Quanti soldi guadagna Jannik Sinner con la vittoria a Wimbledon? Allungo in testa al ranking dei premi. E i milioni in carriera… - OA Sport",
+      "source": "OA Sport",
+      "published": "Sun, 12 Jul 2026 19:02:26 GMT"
     },
     {
       "type": "news",
@@ -66,9 +66,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Campionati universitari mondiali: Courrin e Bahurel raggiungono la finale, Bahurel e Mansart sfiorano la vittoria. - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Fri, 10 Jul 2026 14:23:54 GMT"
+      "title": "Torneo Valencia Premier Padel P1 2026 - Visit Valencia",
+      "source": "Visit Valencia",
+      "published": "Fri, 27 Mar 2026 17:28:11 GMT"
     }
   ]
 }
