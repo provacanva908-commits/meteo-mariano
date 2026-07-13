@@ -1,12 +1,18 @@
 {
-  "updated_at": "2026-07-13T20:42:06.318604+00:00",
-  "local_date": "2026-07-13",
+  "updated_at": "2026-07-13T23:38:28.368328+00:00",
+  "local_date": "2026-07-14",
   "articles": [
     {
-      "type": "message",
+      "type": "match",
       "category": "MONDIALI",
-      "title": "Nessuna partita dei Mondiali in programma oggi",
-      "source": "football-data.org"
+      "home": "France",
+      "away": "Spain",
+      "time": "21:00",
+      "date": "2026-07-14T21:00:00+02:00",
+      "status": "TIMED",
+      "home_score": null,
+      "away_score": null,
+      "group": "SEMI_FINALS"
     },
     {
       "type": "news",
@@ -18,9 +24,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner dopo la vittoria a Wimbledon: «Ho visto mamma uscire due volte...». Zverev lo omaggia: «Hai dimostrato perché sei il migliore» - Corriere della Sera",
+      "title": "Sinner resterà n.1 Atp fino a fine anno ed è già qualificato per le Finals di Torino - Corriere della Sera",
       "source": "Corriere della Sera",
-      "published": "Mon, 13 Jul 2026 11:00:00 GMT"
+      "published": "Mon, 13 Jul 2026 11:47:00 GMT"
     },
     {
       "type": "news",
@@ -32,9 +38,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner resterà n.1 Atp fino a fine anno ed è già qualificato per le Finals di Torino - Corriere della Sera",
+      "title": "Sinner dopo la vittoria a Wimbledon: «Ho visto mamma uscire due volte...». Zverev lo omaggia: «Hai dimostrato perché sei il migliore» - Corriere della Sera",
       "source": "Corriere della Sera",
-      "published": "Mon, 13 Jul 2026 11:47:00 GMT"
+      "published": "Mon, 13 Jul 2026 11:00:00 GMT"
     },
     {
       "type": "news",
