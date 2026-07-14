@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T23:38:28.368328+00:00",
+  "updated_at": "2026-07-14T07:22:11.958939+00:00",
   "local_date": "2026-07-14",
   "articles": [
     {
@@ -17,6 +17,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Classifica Atp LIVE: cosa cambia dopo il forfait di Alcaraz a Roma e al Roland Garros, il distacco da Sinner - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Tue, 14 Jul 2026 02:55:29 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Sinner sempre più re del ranking Atp: primato assicurato almeno fino a US Open - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Mon, 13 Jul 2026 08:33:00 GMT"
@@ -24,23 +31,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner resterà n.1 Atp fino a fine anno ed è già qualificato per le Finals di Torino - Corriere della Sera",
+      "title": "Semifinale speciale per Sinner a Wimbledon: Nole ora riconosce la propria inferiorità. «Mi ha dato una lezione» - Corriere della Sera",
       "source": "Corriere della Sera",
-      "published": "Mon, 13 Jul 2026 11:47:00 GMT"
+      "published": "Sat, 11 Jul 2026 16:56:36 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP: Sinner nella Top 10 dei numeri 1, Cobolli sale n.9 - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Mon, 13 Jul 2026 07:45:49 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner dopo la vittoria a Wimbledon: «Ho visto mamma uscire due volte...». Zverev lo omaggia: «Hai dimostrato perché sei il migliore» - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Mon, 13 Jul 2026 11:00:00 GMT"
+      "title": "Jannik Sinner a Wimbledon 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis ATP - olympics.com",
+      "source": "olympics.com",
+      "published": "Fri, 10 Jul 2026 17:42:00 GMT"
     },
     {
       "type": "news",
