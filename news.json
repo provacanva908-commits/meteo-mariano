@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T12:02:21.982486+00:00",
+  "updated_at": "2026-07-14T16:46:46.142520+00:00",
   "local_date": "2026-07-14",
   "articles": [
     {
@@ -52,6 +52,13 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "Guichard e Geens vengono sconfitti da García e Jiménez nei sedicesimi di finale del torneo Málaga P1 - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Tue, 14 Jul 2026 12:00:28 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
       "source": "FITP",
       "published": "Thu, 02 Jul 2026 16:58:33 GMT"
@@ -62,13 +69,6 @@
       "title": "P2000 Win Win Padel Cabriès: Le prime otto teste di serie femminili hanno raggiunto i quarti di finale - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sat, 11 Jul 2026 14:19:53 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Pro Padel Campionato: partite giocate nella seconda giornata e una classifica sempre più serrata - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sat, 11 Jul 2026 07:57:17 GMT"
     }
   ]
 }
