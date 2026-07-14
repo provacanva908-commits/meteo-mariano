@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T16:46:46.142520+00:00",
+  "updated_at": "2026-07-14T20:41:14.141546+00:00",
   "local_date": "2026-07-14",
   "articles": [
     {
@@ -9,10 +9,17 @@
       "away": "Spain",
       "time": "21:00",
       "date": "2026-07-14T21:00:00+02:00",
-      "status": "TIMED",
-      "home_score": null,
-      "away_score": null,
+      "status": "IN_PLAY",
+      "home_score": 0,
+      "away_score": 2,
       "group": "SEMI_FINALS"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Jannik Sinner LIVE a Wimbledon 2026 contro Alexander Sascha Zverev: aggiornamenti in diretta, cronaca e risultato in tempo reale | Tennis ATP oggi - olympics.com",
+      "source": "olympics.com",
+      "published": "Sun, 12 Jul 2026 18:14:00 GMT"
     },
     {
       "type": "news",
@@ -20,13 +27,6 @@
       "title": "Sinner sempre più re del ranking Atp: primato assicurato almeno fino a US Open - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Mon, 13 Jul 2026 08:33:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner dopo il bis a Wimbledon: «Durante il torneo ho alzato il livello» - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Tue, 14 Jul 2026 05:14:22 GMT"
     },
     {
       "type": "news",
