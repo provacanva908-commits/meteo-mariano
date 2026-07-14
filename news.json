@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-07-14T20:41:14.141546+00:00",
-  "local_date": "2026-07-14",
+  "updated_at": "2026-07-14T23:36:48.460244+00:00",
+  "local_date": "2026-07-15",
   "articles": [
     {
       "type": "match",
       "category": "MONDIALI",
-      "home": "France",
-      "away": "Spain",
+      "home": "England",
+      "away": "Argentina",
       "time": "21:00",
-      "date": "2026-07-14T21:00:00+02:00",
-      "status": "IN_PLAY",
-      "home_score": 0,
-      "away_score": 2,
+      "date": "2026-07-15T21:00:00+02:00",
+      "status": "TIMED",
+      "home_score": null,
+      "away_score": null,
       "group": "SEMI_FINALS"
     },
     {
