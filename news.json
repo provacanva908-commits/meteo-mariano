@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T12:07:16.267160+00:00",
+  "updated_at": "2026-07-15T16:53:11.990774+00:00",
   "local_date": "2026-07-15",
   "articles": [
     {
@@ -24,6 +24,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Sinner sempre più re del ranking Atp: primato assicurato almeno fino a US Open - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Mon, 13 Jul 2026 08:33:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Con la vittoria a Wimbledon, conquistata per il secondo anno consecutivo, Sinner scrive un’altra pagina di storia dello sport italiano. Grazie, campione! 🇮🇹 - instagram.com",
       "source": "instagram.com",
       "published": "Sun, 12 Jul 2026 19:21:34 GMT"
@@ -31,23 +38,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jannik Sinner vince Wimbledon: sconfitto in finale Alexander Zverev, l’azzurro conferma il titolo ai Championships - Comitato Olimpico Nazionale",
-      "source": "Comitato Olimpico Nazionale",
-      "published": "Sun, 12 Jul 2026 18:57:22 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner resterà n.1 Atp fino a fine anno ed è già qualificato per le Finals di Torino - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Mon, 13 Jul 2026 11:47:00 GMT"
+      "title": "Sinner fa il vuoto: il re del ranking Atp allunga ancora - RaiNews",
+      "source": "RaiNews",
+      "published": "Mon, 13 Jul 2026 08:04:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
       "title": "Padel / Jesi esce in semifinale al torneo di Ancona - vallesina.tv",
       "source": "vallesina.tv",
-      "published": "Wed, 15 Jul 2026 06:40:19 GMT"
+      "published": "Wed, 15 Jul 2026 09:58:59 GMT"
     },
     {
       "type": "news",
