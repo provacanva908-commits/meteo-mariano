@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T16:53:11.990774+00:00",
+  "updated_at": "2026-07-15T20:39:14.842503+00:00",
   "local_date": "2026-07-15",
   "articles": [
     {
@@ -9,9 +9,9 @@
       "away": "Argentina",
       "time": "21:00",
       "date": "2026-07-15T21:00:00+02:00",
-      "status": "TIMED",
-      "home_score": null,
-      "away_score": null,
+      "status": "IN_PLAY",
+      "home_score": 1,
+      "away_score": 0,
       "group": "SEMI_FINALS"
     },
     {
