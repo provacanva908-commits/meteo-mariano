@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T07:26:46.467514+00:00",
+  "updated_at": "2026-07-15T12:07:16.267160+00:00",
   "local_date": "2026-07-15",
   "articles": [
     {
@@ -24,13 +24,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner sempre più re del ranking Atp: primato assicurato almeno fino a US Open - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Mon, 13 Jul 2026 08:33:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Con la vittoria a Wimbledon, conquistata per il secondo anno consecutivo, Sinner scrive un’altra pagina di storia dello sport italiano. Grazie, campione! 🇮🇹 - instagram.com",
       "source": "instagram.com",
       "published": "Sun, 12 Jul 2026 19:21:34 GMT"
@@ -38,9 +31,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner fa il vuoto: il re del ranking Atp allunga ancora - RaiNews",
-      "source": "RaiNews",
-      "published": "Mon, 13 Jul 2026 08:04:00 GMT"
+      "title": "Jannik Sinner vince Wimbledon: sconfitto in finale Alexander Zverev, l’azzurro conferma il titolo ai Championships - Comitato Olimpico Nazionale",
+      "source": "Comitato Olimpico Nazionale",
+      "published": "Sun, 12 Jul 2026 18:57:22 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner resterà n.1 Atp fino a fine anno ed è già qualificato per le Finals di Torino - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Mon, 13 Jul 2026 11:47:00 GMT"
     },
     {
       "type": "news",
@@ -66,9 +66,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Guichard e Geens vengono sconfitti da García e Jiménez nei sedicesimi di finale del torneo Málaga P1 - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Tue, 14 Jul 2026 12:00:28 GMT"
+      "title": "Torneo Valencia Premier Padel P1 2026 - Visit Valencia",
+      "source": "Visit Valencia",
+      "published": "Fri, 27 Mar 2026 17:28:11 GMT"
     }
   ]
 }
