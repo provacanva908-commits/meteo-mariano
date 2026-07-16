@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T13:05:24.311966+00:00",
+  "updated_at": "2026-07-16T17:48:07.458865+00:00",
   "local_date": "2026-07-16",
   "articles": [
     {
@@ -25,23 +25,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jannik Sinner incassa altri 4,2 milioni: dopo la vittoria a Wimbledon ecco quanto vale oggi il patrimonio del numero uno al mondo - Leggo.it",
-      "source": "Leggo.it",
-      "published": "Thu, 16 Jul 2026 11:25:02 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Sinner fa il vuoto: il re del ranking Atp allunga ancora - RaiNews",
       "source": "RaiNews",
       "published": "Mon, 13 Jul 2026 08:04:00 GMT"
     },
     {
       "type": "news",
-      "category": "PADEL",
-      "title": "Málaga P1: Godallier a una sola vittoria dalla fase finale, Touly eliminato al primo turno - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Mon, 13 Jul 2026 06:30:00 GMT"
+      "category": "TENNIS",
+      "title": "Con la vittoria a Wimbledon, conquistata per il secondo anno consecutivo, Sinner scrive un’altra pagina di storia dello sport italiano. Grazie, campione! 🇮🇹 - instagram.com",
+      "source": "instagram.com",
+      "published": "Sun, 12 Jul 2026 19:21:34 GMT"
     },
     {
       "type": "news",
@@ -49,6 +42,13 @@
       "title": "Padel / Jesi esce in semifinale al torneo di Ancona - vallesina.tv",
       "source": "vallesina.tv",
       "published": "Wed, 15 Jul 2026 09:58:59 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Málaga P1: Godallier a una sola vittoria dalla fase finale, Touly eliminato al primo turno - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Mon, 13 Jul 2026 06:30:00 GMT"
     },
     {
       "type": "news",
