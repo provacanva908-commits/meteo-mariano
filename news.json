@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T17:48:07.458865+00:00",
+  "updated_at": "2026-07-16T20:39:13.776775+00:00",
   "local_date": "2026-07-16",
   "articles": [
     {
@@ -7,6 +7,13 @@
       "category": "MONDIALI",
       "title": "Nessuna partita dei Mondiali in programma oggi",
       "source": "football-data.org"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Jannik Sinner LIVE a Wimbledon 2026 contro Alexander Sascha Zverev: aggiornamenti in diretta, cronaca e risultato in tempo reale | Tennis ATP oggi - olympics.com",
+      "source": "olympics.com",
+      "published": "Sun, 12 Jul 2026 18:14:00 GMT"
     },
     {
       "type": "news",
@@ -28,13 +35,6 @@
       "title": "Sinner fa il vuoto: il re del ranking Atp allunga ancora - RaiNews",
       "source": "RaiNews",
       "published": "Mon, 13 Jul 2026 08:04:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Con la vittoria a Wimbledon, conquistata per il secondo anno consecutivo, Sinner scrive un’altra pagina di storia dello sport italiano. Grazie, campione! 🇮🇹 - instagram.com",
-      "source": "instagram.com",
-      "published": "Sun, 12 Jul 2026 19:21:34 GMT"
     },
     {
       "type": "news",
