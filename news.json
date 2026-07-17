@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T07:35:56.055148+00:00",
+  "updated_at": "2026-07-17T11:59:33.785660+00:00",
   "local_date": "2026-07-17",
   "articles": [
     {
@@ -18,16 +18,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Quanti punti difende Jannik Sinner fino agli US Open. Nel 2025 saltò un torneo prima dello Slam - OA Sport",
-      "source": "OA Sport",
-      "published": "Thu, 16 Jul 2026 09:05:05 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "LIVE Darderi-Borges, ATP Bastad 2026 in DIRETTA: attenzione al portoghese che affrontò Sinner a Wimbledon - OA Sport",
-      "source": "OA Sport",
-      "published": "Fri, 17 Jul 2026 03:25:03 GMT"
+      "title": "Con la vittoria a Wimbledon, conquistata per il secondo anno consecutivo, Sinner scrive un’altra pagina di storia dello sport italiano. Grazie, campione! 🇮🇹 - instagram.com",
+      "source": "instagram.com",
+      "published": "Sun, 12 Jul 2026 19:21:34 GMT"
     },
     {
       "type": "news",
@@ -35,6 +28,20 @@
       "title": "Barazzutti: \"Sinner ha vinto la finale di Wimbledon contro Zverev senza giocare il suo miglior tennis\" - eurosport.it",
       "source": "eurosport.it",
       "published": "Thu, 16 Jul 2026 14:51:24 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner fa il vuoto: il re del ranking Atp allunga ancora - RaiNews",
+      "source": "RaiNews",
+      "published": "Mon, 13 Jul 2026 08:04:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Si sono definiti i quarti di finale del campionato P1 di Malaga: ecco il programma completo per questo venerdì - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Fri, 17 Jul 2026 06:58:31 GMT"
     },
     {
       "type": "news",
@@ -46,13 +53,6 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Málaga P1: Godallier a una sola vittoria dalla fase finale, Touly eliminato al primo turno - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Mon, 13 Jul 2026 06:30:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
       "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
       "source": "FITP",
       "published": "Thu, 02 Jul 2026 16:58:33 GMT"
@@ -60,9 +60,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "La sfida tra Fernández e Araújo si è rivelata troppo difficile per Collombon e Sharifova, che sono state eliminate agli ottavi di finale del torneo Málaga P1. - padel-magazine.it",
+      "title": "Málaga P1: Una giornata di ottavi di finale XXL con i primi grandi scontri del torneo - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Thu, 16 Jul 2026 09:21:34 GMT"
+      "published": "Thu, 16 Jul 2026 07:15:42 GMT"
     }
   ]
 }
