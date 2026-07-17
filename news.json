@@ -1,12 +1,18 @@
 {
-  "updated_at": "2026-07-17T20:15:04.737518+00:00",
-  "local_date": "2026-07-17",
+  "updated_at": "2026-07-17T23:13:52.889922+00:00",
+  "local_date": "2026-07-18",
   "articles": [
     {
-      "type": "message",
+      "type": "match",
       "category": "MONDIALI",
-      "title": "Nessuna partita dei Mondiali in programma oggi",
-      "source": "football-data.org"
+      "home": "France",
+      "away": "England",
+      "time": "23:00",
+      "date": "2026-07-18T23:00:00+02:00",
+      "status": "TIMED",
+      "home_score": null,
+      "away_score": null,
+      "group": "THIRD_PLACE"
     },
     {
       "type": "news",
@@ -18,16 +24,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Darderi in semifinale all’Atp Bastad, Borges sconfitto in due set - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 17 Jul 2026 13:47:20 GMT"
+      "title": "WTA Atene su SuperTennis: Krejcikova in semifinale - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Fri, 17 Jul 2026 17:51:56 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis, Darderi vola in semifinale all'Atp di Bastad: battuto Nuno Borges - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Fri, 17 Jul 2026 14:46:30 GMT"
+      "title": "Darderi in semifinale all’Atp Bastad, Borges sconfitto in due set - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 17 Jul 2026 13:47:20 GMT"
     },
     {
       "type": "news",
@@ -39,16 +45,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Si sono definiti i quarti di finale del campionato P1 di Malaga: ecco il programma completo per questo venerdì - padel-magazine.it",
+      "title": "Sono definiti i quarti di finalisti del campionato Málaga P1: ecco il programma completo per questo venerdì. - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Fri, 17 Jul 2026 06:58:31 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Padel / Jesi esce in semifinale al torneo di Ancona - vallesina.tv",
-      "source": "vallesina.tv",
-      "published": "Wed, 15 Jul 2026 09:58:59 GMT"
     },
     {
       "type": "news",
@@ -56,6 +55,13 @@
       "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
       "source": "FITP",
       "published": "Thu, 02 Jul 2026 16:58:33 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Paquito Navarro infiamma Málaga dominando Stupaczuk/Yanguas e conquistando un'altra semifinale con Di Nenno - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Fri, 17 Jul 2026 15:06:01 GMT"
     },
     {
       "type": "news",
