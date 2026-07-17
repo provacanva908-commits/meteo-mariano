@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T11:59:33.785660+00:00",
+  "updated_at": "2026-07-17T16:38:12.709848+00:00",
   "local_date": "2026-07-17",
   "articles": [
     {
@@ -18,23 +18,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Con la vittoria a Wimbledon, conquistata per il secondo anno consecutivo, Sinner scrive un’altra pagina di storia dello sport italiano. Grazie, campione! 🇮🇹 - instagram.com",
-      "source": "instagram.com",
-      "published": "Sun, 12 Jul 2026 19:21:34 GMT"
+      "title": "Dove vedere in tv Darderi-Vallejo, ATP Bastad 2026: orario semifinale, programma, streaming - OA Sport",
+      "source": "OA Sport",
+      "published": "Fri, 17 Jul 2026 15:20:50 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Barazzutti: \"Sinner ha vinto la finale di Wimbledon contro Zverev senza giocare il suo miglior tennis\" - eurosport.it",
-      "source": "eurosport.it",
-      "published": "Thu, 16 Jul 2026 14:51:24 GMT"
+      "title": "Darderi in semifinale all’Atp Bastad, Borges sconfitto in due set - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 17 Jul 2026 13:47:20 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner fa il vuoto: il re del ranking Atp allunga ancora - RaiNews",
-      "source": "RaiNews",
-      "published": "Mon, 13 Jul 2026 08:04:00 GMT"
+      "title": "Tennis, Darderi vola in semifinale all'Atp di Bastad: battuto Nuno Borges - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Fri, 17 Jul 2026 14:46:30 GMT"
     },
     {
       "type": "news",
@@ -42,13 +42,6 @@
       "title": "Si sono definiti i quarti di finale del campionato P1 di Malaga: ecco il programma completo per questo venerdì - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Fri, 17 Jul 2026 06:58:31 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Padel / Jesi esce in semifinale al torneo di Ancona - vallesina.tv",
-      "source": "vallesina.tv",
-      "published": "Wed, 15 Jul 2026 09:58:59 GMT"
     },
     {
       "type": "news",
@@ -63,6 +56,13 @@
       "title": "Málaga P1: Una giornata di ottavi di finale XXL con i primi grandi scontri del torneo - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Thu, 16 Jul 2026 07:15:42 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "La sfida tra Fernández e Araújo si è rivelata troppo difficile per Collombon e Sharifova, che sono state eliminate agli ottavi di finale del torneo Málaga P1. - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Thu, 16 Jul 2026 09:21:34 GMT"
     }
   ]
 }
