@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T16:38:12.709848+00:00",
+  "updated_at": "2026-07-17T20:15:04.737518+00:00",
   "local_date": "2026-07-17",
   "articles": [
     {
@@ -18,13 +18,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Dove vedere in tv Darderi-Vallejo, ATP Bastad 2026: orario semifinale, programma, streaming - OA Sport",
-      "source": "OA Sport",
-      "published": "Fri, 17 Jul 2026 15:20:50 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Darderi in semifinale all’Atp Bastad, Borges sconfitto in due set - Sky Sport",
       "source": "Sky Sport",
       "published": "Fri, 17 Jul 2026 13:47:20 GMT"
@@ -38,10 +31,24 @@
     },
     {
       "type": "news",
+      "category": "TENNIS",
+      "title": "WTA Iasi su SuperTennis: Badosa e Sherif in semifinale - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Fri, 17 Jul 2026 17:51:56 GMT"
+    },
+    {
+      "type": "news",
       "category": "PADEL",
       "title": "Si sono definiti i quarti di finale del campionato P1 di Malaga: ecco il programma completo per questo venerdì - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Fri, 17 Jul 2026 06:58:31 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Padel / Jesi esce in semifinale al torneo di Ancona - vallesina.tv",
+      "source": "vallesina.tv",
+      "published": "Wed, 15 Jul 2026 09:58:59 GMT"
     },
     {
       "type": "news",
@@ -56,13 +63,6 @@
       "title": "Málaga P1: Una giornata di ottavi di finale XXL con i primi grandi scontri del torneo - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Thu, 16 Jul 2026 07:15:42 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "La sfida tra Fernández e Araújo si è rivelata troppo difficile per Collombon e Sharifova, che sono state eliminate agli ottavi di finale del torneo Málaga P1. - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Thu, 16 Jul 2026 09:21:34 GMT"
     }
   ]
 }
