@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T06:31:24.846008+00:00",
+  "updated_at": "2026-07-18T10:48:09.676333+00:00",
   "local_date": "2026-07-18",
   "articles": [
     {
@@ -31,23 +31,23 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "WTA Iasi su SuperTennis: Badosa e Sherif in semifinale - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Sat, 18 Jul 2026 06:11:57 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Darderi in semifinale all’Atp Bastad, Borges sconfitto in due set - Sky Sport",
       "source": "Sky Sport",
       "published": "Fri, 17 Jul 2026 13:47:20 GMT"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Con la vittoria a Wimbledon, conquistata per il secondo anno consecutivo, Sinner scrive un’altra pagina di storia dello sport italiano. Grazie, campione! 🇮🇹 - instagram.com",
-      "source": "instagram.com",
-      "published": "Sun, 12 Jul 2026 19:21:34 GMT"
-    },
-    {
-      "type": "news",
       "category": "PADEL",
-      "title": "Sono definiti i quarti di finalisti del campionato Málaga P1: ecco il programma completo per questo venerdì. - padel-magazine.it",
+      "title": "Galán e Lebrón si ritrovano nella semifinale P1 del Malaga 35 giorni dopo la sfida del Valencia - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Fri, 17 Jul 2026 06:58:31 GMT"
+      "published": "Sat, 18 Jul 2026 07:05:48 GMT"
     },
     {
       "type": "news",
