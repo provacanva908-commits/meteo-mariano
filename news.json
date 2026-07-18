@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-07-18T20:27:31.972534+00:00",
-  "local_date": "2026-07-18",
+  "updated_at": "2026-07-18T23:36:58.591068+00:00",
+  "local_date": "2026-07-19",
   "articles": [
     {
       "type": "match",
       "category": "MONDIALI",
-      "home": "France",
-      "away": "England",
-      "time": "23:00",
-      "date": "2026-07-18T23:00:00+02:00",
+      "home": "Spain",
+      "away": "Argentina",
+      "time": "21:00",
+      "date": "2026-07-19T21:00:00+02:00",
       "status": "TIMED",
       "home_score": null,
       "away_score": null,
-      "group": "THIRD_PLACE"
+      "group": "FINAL"
     },
     {
       "type": "news",
@@ -24,6 +24,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Dominio Sinner, seconda finale a Wimbledon: “Ogni finale Slam è speciale, è importante godersi il momento\" - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Wed, 15 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "WTA Atene su SuperTennis: Krejcikova in semifinale - SuperTennis",
       "source": "SuperTennis",
       "published": "Fri, 17 Jul 2026 17:51:56 GMT"
@@ -31,16 +38,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "WTA Iasi su SuperTennis: Badosa e Sherif in semifinale - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Sat, 18 Jul 2026 06:11:57 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner fa il vuoto: il re del ranking Atp allunga ancora - RaiNews",
-      "source": "RaiNews",
-      "published": "Mon, 13 Jul 2026 08:04:00 GMT"
+      "title": "Tennis, Darderi vola in semifinale all'Atp di Bastad: battuto Nuno Borges - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Fri, 17 Jul 2026 14:46:30 GMT"
     },
     {
       "type": "news",
