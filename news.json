@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T23:36:58.591068+00:00",
+  "updated_at": "2026-07-19T07:48:09.500018+00:00",
   "local_date": "2026-07-19",
   "articles": [
     {
@@ -24,13 +24,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Dominio Sinner, seconda finale a Wimbledon: “Ogni finale Slam è speciale, è importante godersi il momento\" - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Wed, 15 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "WTA Atene su SuperTennis: Krejcikova in semifinale - SuperTennis",
       "source": "SuperTennis",
       "published": "Fri, 17 Jul 2026 17:51:56 GMT"
@@ -38,9 +31,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis, Darderi vola in semifinale all'Atp di Bastad: battuto Nuno Borges - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Fri, 17 Jul 2026 14:46:30 GMT"
+      "title": "Barazzutti: \"Sinner ha vinto la finale di Wimbledon contro Zverev senza giocare il suo miglior tennis\" - eurosport.it",
+      "source": "eurosport.it",
+      "published": "Thu, 16 Jul 2026 14:51:24 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner fa il vuoto: il re del ranking Atp allunga ancora - RaiNews",
+      "source": "RaiNews",
+      "published": "Mon, 13 Jul 2026 08:04:00 GMT"
     },
     {
       "type": "news",
