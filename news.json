@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T18:42:58.367378+00:00",
+  "updated_at": "2026-07-19T21:36:56.154497+00:00",
   "local_date": "2026-07-19",
   "articles": [
     {
@@ -9,9 +9,9 @@
       "away": "Argentina",
       "time": "21:00",
       "date": "2026-07-19T21:00:00+02:00",
-      "status": "TIMED",
-      "home_score": null,
-      "away_score": null,
+      "status": "IN_PLAY",
+      "home_score": 0,
+      "away_score": 0,
       "group": "FINAL"
     },
     {
@@ -66,9 +66,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Torneo Valencia Premier Padel P1 2026 - Visit Valencia",
-      "source": "Visit Valencia",
-      "published": "Fri, 27 Mar 2026 17:28:11 GMT"
+      "title": "La sfida tra Fernández e Araújo si è rivelata troppo difficile per Collombon e Sharifova, che sono state eliminate agli ottavi di finale del torneo Málaga P1. - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Thu, 16 Jul 2026 09:21:34 GMT"
     }
   ]
 }
