@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T11:39:11.015013+00:00",
+  "updated_at": "2026-07-19T15:30:09.269938+00:00",
   "local_date": "2026-07-19",
   "articles": [
     {
@@ -24,13 +24,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "WTA Atene su SuperTennis: Krejcikova in semifinale - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Fri, 17 Jul 2026 17:51:56 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Cosa cambia per Sinner nel ranking ATP se andasse o no a Montreal: i possibili distacchi su Zverev e Alcaraz - OA Sport",
       "source": "OA Sport",
       "published": "Sun, 19 Jul 2026 09:22:23 GMT"
@@ -41,6 +34,13 @@
       "title": "Quante posizioni può guadagnare Luciano Darderi nel ranking ATP se vince la finale a Bastad: top20 in palio. E Musetti… - OA Sport",
       "source": "OA Sport",
       "published": "Sun, 19 Jul 2026 09:40:12 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "WTA Atene su SuperTennis: Krejcikova in semifinale - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Fri, 17 Jul 2026 17:51:56 GMT"
     },
     {
       "type": "news",
@@ -66,9 +66,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "La sfida tra Fernández e Araújo si è rivelata troppo difficile per Collombon e Sharifova, che sono state eliminate agli ottavi di finale del torneo Málaga P1. - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Thu, 16 Jul 2026 09:21:34 GMT"
+      "title": "Torneo Valencia Premier Padel P1 2026 - Visit Valencia",
+      "source": "Visit Valencia",
+      "published": "Fri, 27 Mar 2026 17:28:11 GMT"
     }
   ]
 }
