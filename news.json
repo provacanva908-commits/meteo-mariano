@@ -1,18 +1,12 @@
 {
-  "updated_at": "2026-07-19T21:36:56.154497+00:00",
-  "local_date": "2026-07-19",
+  "updated_at": "2026-07-20T08:28:09.063977+00:00",
+  "local_date": "2026-07-20",
   "articles": [
     {
-      "type": "match",
+      "type": "message",
       "category": "MONDIALI",
-      "home": "Spain",
-      "away": "Argentina",
-      "time": "21:00",
-      "date": "2026-07-19T21:00:00+02:00",
-      "status": "IN_PLAY",
-      "home_score": 0,
-      "away_score": 0,
-      "group": "FINAL"
+      "title": "Nessuna partita dei Mondiali in programma oggi",
+      "source": "football-data.org"
     },
     {
       "type": "news",
@@ -24,23 +18,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Cosa cambia per Sinner nel ranking ATP se andasse o no a Montreal: i possibili distacchi su Zverev e Alcaraz - OA Sport",
-      "source": "OA Sport",
-      "published": "Sun, 19 Jul 2026 09:22:23 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Quante posizioni può guadagnare Luciano Darderi nel ranking ATP se vince la finale a Bastad: top20 in palio. E Musetti… - OA Sport",
-      "source": "OA Sport",
-      "published": "Sun, 19 Jul 2026 09:40:12 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "WTA Atene su SuperTennis: Krejcikova in semifinale - SuperTennis",
+      "title": "Ranking ATP: Sinner supera Hewitt, Italia con 16 Top 200 - SuperTennis",
       "source": "SuperTennis",
-      "published": "Fri, 17 Jul 2026 17:51:56 GMT"
+      "published": "Mon, 20 Jul 2026 02:32:16 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Ranking ATP (20 luglio 2026): Jannik Sinner sempre sul trono, Cobolli stabile in top-10 - OA Sport",
+      "source": "OA Sport",
+      "published": "Mon, 20 Jul 2026 05:47:02 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Ranking ATP 20 luglio 2026: Sinner resta al comando, Cobolli conferma la Top 10 - TieBreakTennis",
+      "source": "TieBreakTennis",
+      "published": "Mon, 20 Jul 2026 08:18:16 GMT"
     },
     {
       "type": "news",
@@ -52,9 +46,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
-      "source": "FITP",
-      "published": "Thu, 02 Jul 2026 16:58:33 GMT"
+      "title": "Torneo Valencia Premier Padel P1 2026 - Visit Valencia",
+      "source": "Visit Valencia",
+      "published": "Fri, 27 Mar 2026 17:28:11 GMT"
     },
     {
       "type": "news",
@@ -66,9 +60,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "La sfida tra Fernández e Araújo si è rivelata troppo difficile per Collombon e Sharifova, che sono state eliminate agli ottavi di finale del torneo Málaga P1. - padel-magazine.it",
+      "title": "Paquito Navarro infiamma Málaga dominando Stupaczuk/Yanguas e conquistando un'altra semifinale con Di Nenno - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Thu, 16 Jul 2026 09:21:34 GMT"
+      "published": "Fri, 17 Jul 2026 15:06:01 GMT"
     }
   ]
 }
