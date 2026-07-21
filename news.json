@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T09:39:26.432660+00:00",
+  "updated_at": "2026-07-21T15:54:06.902198+00:00",
   "local_date": "2026-07-21",
   "articles": [
     {
@@ -7,13 +7,6 @@
       "category": "MONDIALI",
       "title": "Nessuna partita dei Mondiali in programma oggi",
       "source": "football-data.org"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner, quando torna in campo? Canada, Cincinnati e Us Open: quando può tornare ad affrontare Alcaraz e il ranking attuale - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "Tue, 21 Jul 2026 08:00:18 GMT"
     },
     {
       "type": "news",
@@ -28,6 +21,13 @@
       "title": "Ranking ATP: Sinner supera Hewitt, Italia con 16 Top 200 - SuperTennis",
       "source": "SuperTennis",
       "published": "Mon, 20 Jul 2026 02:32:16 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Jannik Sinner resterà numero 1 ATP almeno fino alla fine degli US Open: superato Hewitt, Agassi nel mirino - OA Sport",
+      "source": "OA Sport",
+      "published": "Mon, 20 Jul 2026 20:45:24 GMT"
     },
     {
       "type": "news",
@@ -55,7 +55,7 @@
       "category": "PADEL",
       "title": "Malaga P1 Premier Padel 2026: Orari e Programmazione - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
-      "published": "Sun, 12 Jul 2026 06:56:31 GMT"
+      "published": "Sun, 12 Jul 2026 07:00:00 GMT"
     },
     {
       "type": "news",
