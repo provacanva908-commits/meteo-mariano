@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T00:10:46.854642+00:00",
+  "updated_at": "2026-07-21T09:39:26.432660+00:00",
   "local_date": "2026-07-21",
   "articles": [
     {
@@ -11,9 +11,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP/WTA: Sinner stacca Hewitt e punta Agassi. Tsitsipas ok - Ok Tennis",
-      "source": "Ok Tennis",
-      "published": "Mon, 20 Jul 2026 09:03:00 GMT"
+      "title": "Sinner, quando torna in campo? Canada, Cincinnati e Us Open: quando può tornare ad affrontare Alcaraz e il ranking attuale - Il Messaggero",
+      "source": "Il Messaggero",
+      "published": "Tue, 21 Jul 2026 08:00:18 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Il paradosso di Jannik Sinner: classificato 35° al mondo per il servizio, ma domina comunque il circuito ATP. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "published": "Tue, 21 Jul 2026 08:26:52 GMT"
     },
     {
       "type": "news",
@@ -25,16 +32,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner, quando torna in campo? Canada, Cincinnati e Us Open: quando può tornare ad affrontare Alcaraz e il ranking attuale - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "Mon, 20 Jul 2026 09:42:16 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Jannik Sinner resterà numero 1 ATP almeno fino alla fine degli US Open: superato Hewitt, Agassi nel mirino - OA Sport",
-      "source": "OA Sport",
-      "published": "Mon, 20 Jul 2026 20:45:24 GMT"
+      "title": "WTA Atene su SuperTennis: Krejcikova in semifinale - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Fri, 17 Jul 2026 17:51:56 GMT"
     },
     {
       "type": "news",
@@ -53,16 +53,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Málaga P1: Una giornata di ottavi di finale XXL con i primi grandi scontri del torneo - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Thu, 16 Jul 2026 07:15:42 GMT"
+      "title": "Malaga P1 Premier Padel 2026: Orari e Programmazione - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Sun, 12 Jul 2026 06:56:31 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Paquito Navarro infiamma Málaga dominando Stupaczuk/Yanguas e conquistando un'altra semifinale con Di Nenno - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Fri, 17 Jul 2026 15:06:01 GMT"
+      "title": "Italy Major Premier Padel 2026: Orari e Programmazione - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Fri, 29 May 2026 07:00:00 GMT"
     }
   ]
 }
