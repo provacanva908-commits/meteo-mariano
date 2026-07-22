@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T16:55:53.203539+00:00",
+  "updated_at": "2026-07-22T18:15:26.891359+00:00",
   "local_date": "2026-07-22",
   "articles": [
     {
@@ -13,14 +13,7 @@
       "category": "TENNIS",
       "title": "Sinner, quando torna in campo? Canada, Cincinnati e Us Open: quando può tornare ad affrontare Alcaraz e il ranking attuale - Il Messaggero",
       "source": "Il Messaggero",
-      "published": "Wed, 22 Jul 2026 14:49:01 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Us Open, riecco Alcaraz dopo l'infortunio. Sinner guida una pattuglia di otto azzurri - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Wed, 22 Jul 2026 06:37:00 GMT"
+      "published": "Wed, 22 Jul 2026 18:08:28 GMT"
     },
     {
       "type": "news",
@@ -28,6 +21,13 @@
       "title": "\"Sinner boicotterà Us Open\", protesta spaventa Slam: cosa succede dopo caso montepremi - Adnkronos",
       "source": "Adnkronos",
       "published": "Wed, 22 Jul 2026 11:53:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Us Open, riecco Alcaraz dopo l'infortunio. Sinner guida una pattuglia di otto azzurri - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Wed, 22 Jul 2026 06:37:00 GMT"
     },
     {
       "type": "news",
@@ -60,9 +60,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Italy Major Premier Padel 2026: Orari e Programmazione - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Fri, 29 May 2026 07:00:00 GMT"
+      "title": "Padel Wheelchair, a Reggello la sesta tappa del torneo nazionale - Valdarno Oggi",
+      "source": "Valdarno Oggi",
+      "published": "Fri, 17 Jul 2026 17:28:01 GMT"
     }
   ]
 }
