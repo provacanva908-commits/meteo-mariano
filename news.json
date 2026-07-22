@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-21T20:39:48.468470+00:00",
-  "local_date": "2026-07-21",
+  "updated_at": "2026-07-22T00:02:20.566356+00:00",
+  "local_date": "2026-07-22",
   "articles": [
     {
       "type": "message",
@@ -11,16 +11,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Il paradosso di Jannik Sinner: classificato 35° al mondo per il servizio, ma domina comunque il circuito ATP. - Vietnam.vn",
-      "source": "Vietnam.vn",
-      "published": "Tue, 21 Jul 2026 08:26:52 GMT"
+      "title": "Ranking ATP: Sinner supera Hewitt, Italia con 16 Top 200 - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Mon, 20 Jul 2026 02:32:16 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP: Sinner supera Hewitt, Italia con 16 Top 200 - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Mon, 20 Jul 2026 02:32:16 GMT"
+      "title": "Il paradosso di Jannik Sinner: classificato 35° al mondo per il servizio, ma domina comunque il circuito ATP. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "published": "Tue, 21 Jul 2026 08:26:52 GMT"
     },
     {
       "type": "news",
