@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T09:35:35.393637+00:00",
+  "updated_at": "2026-07-22T15:23:34.140035+00:00",
   "local_date": "2026-07-22",
   "articles": [
     {
@@ -11,6 +11,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Sinner, quando torna in campo? Canada, Cincinnati e Us Open: quando può tornare ad affrontare Alcaraz e il ranking attuale - Il Messaggero",
+      "source": "Il Messaggero",
+      "published": "Wed, 22 Jul 2026 14:49:01 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Us Open, riecco Alcaraz dopo l'infortunio. Sinner guida una pattuglia di otto azzurri - Corriere della Sera",
       "source": "Corriere della Sera",
       "published": "Wed, 22 Jul 2026 06:37:00 GMT"
@@ -18,23 +25,16 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "\"Sinner boicotterà Us Open\", protesta spaventa Slam: cosa succede dopo caso montepremi - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Wed, 22 Jul 2026 11:53:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Ranking ATP: Sinner supera Hewitt, Italia con 16 Top 200 - SuperTennis",
       "source": "SuperTennis",
       "published": "Mon, 20 Jul 2026 02:32:16 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Jannik Sinner resterà numero 1 ATP almeno fino alla fine degli US Open: superato Hewitt, Agassi nel mirino - OA Sport",
-      "source": "OA Sport",
-      "published": "Mon, 20 Jul 2026 20:45:24 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner e diversi altri big potrebbero boicottare il torneo di doppio misto agli US Open - Il Tennis Italiano",
-      "source": "Il Tennis Italiano",
-      "published": "Wed, 22 Jul 2026 07:46:21 GMT"
     },
     {
       "type": "news",
