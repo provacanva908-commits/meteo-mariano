@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T22:46:09.559423+00:00",
+  "updated_at": "2026-07-24T23:49:23.589609+00:00",
   "local_date": "2026-07-25",
   "articles": [
     {
@@ -18,6 +18,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Darderi avanza in semifinale all'Atp Estoril 2026: Faria ko in tre set - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 24 Jul 2026 21:36:13 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Sinner, quando gioca? Canada, Cincinnati e Us Open: quali tornei salta, quando può tornare ad affrontare Alcaraz e il ranking attuale - Il Messaggero",
       "source": "Il Messaggero",
       "published": "Fri, 24 Jul 2026 09:40:09 GMT"
@@ -28,13 +35,6 @@
       "title": "Quando torna Jannik Sinner? Lunga pausa dopo Wimbledon: le date di Cincinnati e US Open - OA Sport",
       "source": "OA Sport",
       "published": "Fri, 24 Jul 2026 19:20:31 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Quote Sinner Alcaraz vincenti Us Open ultimo Slam stagione 2026 - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Thu, 23 Jul 2026 10:08:35 GMT"
     },
     {
       "type": "news",
