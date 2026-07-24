@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T03:49:58.798832+00:00",
+  "updated_at": "2026-07-24T06:20:19.015416+00:00",
   "local_date": "2026-07-24",
   "articles": [
     {
@@ -46,13 +46,6 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Bordeaux P2 Premier Padel: Icardo e Jensen in finale! - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Sun, 05 Jul 2026 10:07:34 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
       "title": "Torneo Valencia Premier Padel P1 2026 - Visit Valencia",
       "source": "Visit Valencia",
       "published": "Fri, 27 Mar 2026 17:28:11 GMT"
@@ -63,6 +56,13 @@
       "title": "Premier Padel Valencia, finale col brivido: la spuntano Coello-Tapia - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 14 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Malaga P1 Premier Padel 2026: Orari e Programmazione - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Sun, 12 Jul 2026 07:00:00 GMT"
     }
   ]
 }
