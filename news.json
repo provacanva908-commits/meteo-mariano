@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T14:28:49.621364+00:00",
+  "updated_at": "2026-07-24T16:03:22.647224+00:00",
   "local_date": "2026-07-24",
   "articles": [
     {
@@ -7,62 +7,6 @@
       "category": "MONDIALI",
       "title": "Nessuna partita dei Mondiali in programma oggi",
       "source": "football-data.org"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "LIVE Darderi-Faria, ATP Estoril 2026 in DIRETTA: Gaston vola in semifinale, ancora due match prima dell’azzurro - OA Sport",
-      "source": "OA Sport",
-      "published": "Fri, 24 Jul 2026 12:42:49 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner, quando gioca? Canada, Cincinnati e Us Open: quali tornei salta, quando può tornare ad affrontare Alcaraz e il ranking attuale - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "Fri, 24 Jul 2026 13:18:11 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Quote Sinner Alcaraz vincenti Us Open ultimo Slam stagione 2026 - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Thu, 23 Jul 2026 10:08:35 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ranking ATP: Sinner supera Hewitt, Italia con 16 Top 200 - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Mon, 20 Jul 2026 02:32:16 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Mon, 20 Jul 2026 12:19:59 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Bordeaux P2 Premier Padel: Icardo e Jensen in finale! - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Sun, 05 Jul 2026 10:07:34 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Torneo Valencia Premier Padel P1 2026 - Visit Valencia",
-      "source": "Visit Valencia",
-      "published": "Fri, 27 Mar 2026 17:28:11 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel Valencia, finale col brivido: la spuntano Coello-Tapia - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 14 Jun 2026 07:00:00 GMT"
     }
   ]
 }
