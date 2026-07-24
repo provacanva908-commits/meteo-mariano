@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T06:20:19.015416+00:00",
+  "updated_at": "2026-07-24T09:02:00.885249+00:00",
   "local_date": "2026-07-24",
   "articles": [
     {
@@ -25,16 +25,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Us Open, riecco Alcaraz dopo l'infortunio. Sinner guida una pattuglia di otto azzurri - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Wed, 22 Jul 2026 06:37:00 GMT"
+      "title": "Ranking ATP: Sinner supera Hewitt, Italia con 16 Top 200 - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Mon, 20 Jul 2026 02:32:16 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP: Sinner supera Hewitt, Italia con 16 Top 200 - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Mon, 20 Jul 2026 02:32:16 GMT"
+      "title": "Us Open, riecco Alcaraz dopo l'infortunio. Sinner guida una pattuglia di otto azzurri - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Wed, 22 Jul 2026 06:37:00 GMT"
     },
     {
       "type": "news",
@@ -42,6 +42,13 @@
       "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Mon, 20 Jul 2026 12:19:59 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Bordeaux P2 Premier Padel: Icardo e Jensen in finale! - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Sun, 05 Jul 2026 10:07:34 GMT"
     },
     {
       "type": "news",
@@ -56,13 +63,6 @@
       "title": "Premier Padel Valencia, finale col brivido: la spuntano Coello-Tapia - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 14 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Malaga P1 Premier Padel 2026: Orari e Programmazione - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Sun, 12 Jul 2026 07:00:00 GMT"
     }
   ]
 }
