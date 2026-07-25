@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T19:49:21.681742+00:00",
+  "updated_at": "2026-07-25T20:40:53.746115+00:00",
   "local_date": "2026-07-25",
   "articles": [
     {
@@ -46,6 +46,13 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "FIP Tour: Guichard continua la sua corsa a Porto, Blanqué e Hugounenq raggiungono i quarti di finale in Italia - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 25 Jul 2026 16:11:48 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "FIP Tour: i giocatori francesi puntano ai quarti di finale a Porto, Rovato, Alicante e Lelystad. - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sat, 25 Jul 2026 06:57:53 GMT"
@@ -56,13 +63,6 @@
       "title": "Torneo Valencia Premier Padel P1 2026 - Visit Valencia",
       "source": "Visit Valencia",
       "published": "Fri, 27 Mar 2026 17:28:11 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel Valencia, finale col brivido: la spuntano Coello-Tapia - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 14 Jun 2026 07:00:00 GMT"
     }
   ]
 }
