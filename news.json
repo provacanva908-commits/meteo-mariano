@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T18:29:46.801063+00:00",
+  "updated_at": "2026-07-25T19:49:21.681742+00:00",
   "local_date": "2026-07-25",
   "articles": [
     {
@@ -18,13 +18,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Darderi-Blockx diretta semifinale Atp di Estoril: segui il match che vale la finale. Tennis oggi LIVE - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Sat, 25 Jul 2026 17:44:15 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "ATP Montreal, Sinner spiega il forfait: “Priorità alla mia salute”. E la direttrice del torneo: “Troppi ritiri dell’ultimo minuto” - Ubitennis",
       "source": "Ubitennis",
       "published": "Sat, 25 Jul 2026 13:31:00 GMT"
@@ -35,6 +28,13 @@
       "title": "Darderi avanza in semifinale all'Atp Estoril 2026: Faria ko in tre set - Sky Sport",
       "source": "Sky Sport",
       "published": "Fri, 24 Jul 2026 21:36:13 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Quote Sinner Alcaraz vincenti Us Open ultimo Slam stagione 2026 - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Thu, 23 Jul 2026 10:08:35 GMT"
     },
     {
       "type": "news",
@@ -60,9 +60,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Malaga P1 Premier Padel 2026: Orari e Programmazione - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Sun, 12 Jul 2026 07:00:00 GMT"
+      "title": "Premier Padel Valencia, finale col brivido: la spuntano Coello-Tapia - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 14 Jun 2026 07:00:00 GMT"
     }
   ]
 }
