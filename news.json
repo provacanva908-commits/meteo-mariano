@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T05:14:16.189345+00:00",
+  "updated_at": "2026-07-25T07:29:56.104336+00:00",
   "local_date": "2026-07-25",
   "articles": [
     {
@@ -18,23 +18,23 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Darderi-Blockx oggi, ATP Estoril 2026: orario semifinale, tv, programma, streaming - OA Sport",
+      "source": "OA Sport",
+      "published": "Sat, 25 Jul 2026 05:52:32 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "LIVE Darderi-Blockx, ATP Estoril 2026 in DIRETTA: azzurro in campo in serata per la semifinale - OA Sport",
+      "source": "OA Sport",
+      "published": "Sat, 25 Jul 2026 06:50:28 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Darderi avanza in semifinale all'Atp Estoril 2026: Faria ko in tre set - Sky Sport",
       "source": "Sky Sport",
       "published": "Fri, 24 Jul 2026 21:36:13 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner, quando gioca? Canada, Cincinnati e Us Open: quali tornei salta, quando può tornare ad affrontare Alcaraz e il ranking attuale - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "Fri, 24 Jul 2026 09:40:09 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Quote Sinner Alcaraz vincenti Us Open ultimo Slam stagione 2026 - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Thu, 23 Jul 2026 10:08:35 GMT"
     },
     {
       "type": "news",
@@ -42,13 +42,6 @@
       "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Mon, 20 Jul 2026 12:19:59 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Bordeaux P2 Premier Padel: Icardo e Jensen in finale! - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Sun, 05 Jul 2026 10:07:34 GMT"
     },
     {
       "type": "news",
@@ -63,6 +56,13 @@
       "title": "Premier Padel Valencia, finale col brivido: la spuntano Coello-Tapia - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 14 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "PADEL | Weekend finale a Latina: in programma le finali e le premiazioni - Mondoreale",
+      "source": "Mondoreale",
+      "published": "Fri, 24 Jul 2026 12:49:27 GMT"
     }
   ]
 }
