@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T18:42:15.884497+00:00",
+  "updated_at": "2026-07-26T19:57:38.437247+00:00",
   "local_date": "2026-07-26",
   "articles": [
     {
@@ -18,13 +18,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Darderi avanza in semifinale all'Atp Estoril 2026: Faria ko in tre set - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 24 Jul 2026 21:36:13 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "ATP Montreal, Sinner spiega il forfait: “Priorità alla mia salute”. E la direttrice del torneo: “Troppi ritiri dell’ultimo minuto” - Ubitennis",
       "source": "Ubitennis",
       "published": "Sat, 25 Jul 2026 13:31:00 GMT"
@@ -35,6 +28,13 @@
       "title": "Us Open, riecco Alcaraz dopo l'infortunio. Sinner guida una pattuglia di otto azzurri - Corriere della Sera",
       "source": "Corriere della Sera",
       "published": "Wed, 22 Jul 2026 06:37:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner rinuncia a Montreal: il comunicato ufficiale e il dubbio sulla scelta in vista degli US Open - OA Sport",
+      "source": "OA Sport",
+      "published": "Sat, 25 Jul 2026 10:08:00 GMT"
     },
     {
       "type": "news",
@@ -53,16 +53,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Tour: Guichard continua la sua corsa a Porto, Blanqué e Hugounenq raggiungono i quarti di finale in Italia - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sat, 25 Jul 2026 16:11:48 GMT"
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
+      "source": "FITP",
+      "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Tour: Guichard, Godallier e Touly si assicurano un posto in semifinale. - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sun, 26 Jul 2026 07:55:41 GMT"
+      "title": "Bordeaux P2 Premier Padel: Icardo e Jensen in finale! - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Sun, 05 Jul 2026 10:07:34 GMT"
     }
   ]
 }
