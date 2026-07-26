@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T09:37:09.338485+00:00",
+  "updated_at": "2026-07-26T11:08:53.815820+00:00",
   "local_date": "2026-07-26",
   "articles": [
     {
@@ -7,13 +7,6 @@
       "category": "MONDIALI",
       "title": "Nessuna partita dei Mondiali in programma oggi",
       "source": "football-data.org"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Darderi-Blockx oggi, ATP Estoril 2026: orario semifinale, tv, programma, streaming - OA Sport",
-      "source": "OA Sport",
-      "published": "Sat, 25 Jul 2026 05:52:32 GMT"
     },
     {
       "type": "news",
@@ -38,6 +31,13 @@
     },
     {
       "type": "news",
+      "category": "TENNIS",
+      "title": "Us Open, riecco Alcaraz dopo l'infortunio. Sinner guida una pattuglia di otto azzurri - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Wed, 22 Jul 2026 06:37:00 GMT"
+    },
+    {
+      "type": "news",
       "category": "PADEL",
       "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
@@ -53,16 +53,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Tour: i giocatori francesi puntano ai quarti di finale a Porto, Rovato, Alicante e Lelystad. - padel-magazine.it",
+      "title": "FIP Tour: Guichard, Godallier e Touly si assicurano un posto in semifinale. - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Sat, 25 Jul 2026 06:57:53 GMT"
+      "published": "Sun, 26 Jul 2026 07:55:41 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Torneo Valencia Premier Padel P1 2026 - Visit Valencia",
-      "source": "Visit Valencia",
-      "published": "Fri, 27 Mar 2026 17:28:11 GMT"
+      "title": "FIP Tour: i giocatori francesi puntano ai quarti di finale a Porto, Rovato, Alicante e Lelystad. - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 25 Jul 2026 06:57:53 GMT"
     }
   ]
 }
