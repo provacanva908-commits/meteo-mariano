@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T01:17:28.718887+00:00",
+  "updated_at": "2026-07-26T04:48:06.553752+00:00",
   "local_date": "2026-07-26",
   "articles": [
     {
@@ -18,6 +18,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "ATP Estoril, Darderi ko in semifinale: l'azzurro sconfitto da Blockx in tre - Diretta",
+      "source": "Diretta",
+      "published": "Sat, 25 Jul 2026 21:57:18 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "ATP Montreal, Sinner spiega il forfait: “Priorità alla mia salute”. E la direttrice del torneo: “Troppi ritiri dell’ultimo minuto” - Ubitennis",
       "source": "Ubitennis",
       "published": "Sat, 25 Jul 2026 13:31:00 GMT"
@@ -28,13 +35,6 @@
       "title": "Quote Sinner Alcaraz vincenti Us Open ultimo Slam stagione 2026 - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Thu, 23 Jul 2026 10:08:35 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Darderi avanza in semifinale all'Atp Estoril 2026: Faria ko in tre set - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 24 Jul 2026 21:36:13 GMT"
     },
     {
       "type": "news",
