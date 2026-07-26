@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T04:48:06.553752+00:00",
+  "updated_at": "2026-07-26T07:29:27.222371+00:00",
   "local_date": "2026-07-26",
   "articles": [
     {
@@ -7,62 +7,6 @@
       "category": "MONDIALI",
       "title": "Nessuna partita dei Mondiali in programma oggi",
       "source": "football-data.org"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Darderi-Blockx oggi, ATP Estoril 2026: orario semifinale, tv, programma, streaming - OA Sport",
-      "source": "OA Sport",
-      "published": "Sat, 25 Jul 2026 05:52:32 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "ATP Estoril, Darderi ko in semifinale: l'azzurro sconfitto da Blockx in tre - Diretta",
-      "source": "Diretta",
-      "published": "Sat, 25 Jul 2026 21:57:18 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "ATP Montreal, Sinner spiega il forfait: “Priorità alla mia salute”. E la direttrice del torneo: “Troppi ritiri dell’ultimo minuto” - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Sat, 25 Jul 2026 13:31:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Quote Sinner Alcaraz vincenti Us Open ultimo Slam stagione 2026 - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Thu, 23 Jul 2026 10:08:35 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Mon, 20 Jul 2026 12:19:59 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Tour: Guichard continua la sua corsa a Porto, Blanqué e Hugounenq raggiungono i quarti di finale in Italia - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sat, 25 Jul 2026 16:11:48 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Tour: i giocatori francesi puntano ai quarti di finale a Porto, Rovato, Alicante e Lelystad. - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sat, 25 Jul 2026 06:57:53 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Torneo Valencia Premier Padel P1 2026 - Visit Valencia",
-      "source": "Visit Valencia",
-      "published": "Fri, 27 Mar 2026 17:28:11 GMT"
     }
   ]
 }
