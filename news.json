@@ -1,19 +1,12 @@
 {
-  "updated_at": "2026-07-27T16:37:57.955911+00:00",
+  "updated_at": "2026-07-27T18:13:28.245193+00:00",
   "local_date": "2026-07-27",
   "articles": [
     {
       "type": "message",
       "category": "MONDIALI",
-      "title": "Calendario dei Mondiali momentaneamente non disponibile",
+      "title": "Nessuna partita dei Mondiali in programma oggi",
       "source": "football-data.org"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ranking ATP, Sinner non si stacca dalla vetta, lontanissimo Zverev - Diretta",
-      "source": "Diretta",
-      "published": "Mon, 27 Jul 2026 13:16:18 GMT"
     },
     {
       "type": "news",
@@ -25,6 +18,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Ranking ATP, Sinner non si stacca dalla vetta, lontanissimo Zverev - Diretta",
+      "source": "Diretta",
+      "published": "Mon, 27 Jul 2026 13:16:18 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Ranking ATP: comanda sempre Sinner, stabile Cobolli (n.9) - SuperTennis",
       "source": "SuperTennis",
       "published": "Mon, 27 Jul 2026 06:27:58 GMT"
@@ -32,9 +32,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking Atp, per Sinner 82 settimane al vertice - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
-      "published": "Mon, 27 Jul 2026 09:46:34 GMT"
+      "title": "Ranking Atp, Sinner sempre saldamente al comando - ANSA",
+      "source": "ANSA",
+      "published": "Mon, 27 Jul 2026 08:29:00 GMT"
     },
     {
       "type": "news",
