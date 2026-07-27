@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T08:22:13.620023+00:00",
+  "updated_at": "2026-07-27T11:50:44.265133+00:00",
   "local_date": "2026-07-27",
   "articles": [
     {
@@ -11,16 +11,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis: ranking Atp, Sinner sale a 82 settimane da n.1, Cobolli n.9 - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Mon, 27 Jul 2026 07:32:18 GMT"
+      "title": "Ranking ATP: comanda sempre Sinner, stabile Cobolli (n.9) - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Mon, 27 Jul 2026 06:27:58 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP (27 luglio 2026): Jannik Sinner stabile sul trono, Cobolli in top-10 - OA Sport",
-      "source": "OA Sport",
-      "published": "Mon, 27 Jul 2026 05:43:51 GMT"
+      "title": "Ranking Atp, per Sinner 82 settimane al vertice - Il Sole 24 ORE",
+      "source": "Il Sole 24 ORE",
+      "published": "Mon, 27 Jul 2026 09:46:34 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Ranking Atp, Sinner sempre saldamente al comando - ANSA",
+      "source": "ANSA",
+      "published": "Mon, 27 Jul 2026 08:29:00 GMT"
     },
     {
       "type": "news",
@@ -28,13 +35,6 @@
       "title": "Ranking Atp, Sinner n.1 da 82 settimane. Cobolli in Top 10 - lapresse.it",
       "source": "lapresse.it",
       "published": "Mon, 27 Jul 2026 07:33:36 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ranking ATP: comanda sempre Sinner, stabile Cobolli (n.9) - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Mon, 27 Jul 2026 06:27:58 GMT"
     },
     {
       "type": "news",
