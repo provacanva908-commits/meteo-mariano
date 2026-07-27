@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T19:59:05.233881+00:00",
+  "updated_at": "2026-07-27T21:20:09.305407+00:00",
   "local_date": "2026-07-27",
   "articles": [
     {
@@ -18,6 +18,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Ranking ATP, Sinner non si stacca dalla vetta, lontanissimo Zverev - Diretta",
+      "source": "Diretta",
+      "published": "Mon, 27 Jul 2026 13:16:18 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Ranking ATP: comanda sempre Sinner, stabile Cobolli (n.9) - SuperTennis",
       "source": "SuperTennis",
       "published": "Mon, 27 Jul 2026 06:27:58 GMT"
@@ -28,13 +35,6 @@
       "title": "Ranking Atp, Sinner sempre saldamente al comando - ANSA",
       "source": "ANSA",
       "published": "Mon, 27 Jul 2026 08:29:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ranking Atp, per Sinner 82 settimane al vertice - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
-      "published": "Mon, 27 Jul 2026 09:46:34 GMT"
     },
     {
       "type": "news",
