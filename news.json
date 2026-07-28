@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-28T20:52:51.302483+00:00",
-  "local_date": "2026-07-28",
+  "updated_at": "2026-07-28T22:04:28.302228+00:00",
+  "local_date": "2026-07-29",
   "articles": [
     {
       "type": "message",
@@ -11,16 +11,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner cerca il tris al Six Kings Slam: il torneo dei Paperoni su Netflix dal 21 al 24 ottobre - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Tue, 28 Jul 2026 17:42:59 GMT"
+      "title": "Ranking ATP: comanda sempre Sinner, stabile Cobolli (n.9) - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Mon, 27 Jul 2026 06:27:58 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP: comanda sempre Sinner, stabile Cobolli (n.9) - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Mon, 27 Jul 2026 06:27:58 GMT"
+      "title": "Sinner cerca il tris al Six Kings Slam: il torneo dei Paperoni su Netflix dal 21 al 24 ottobre - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Tue, 28 Jul 2026 17:42:59 GMT"
     },
     {
       "type": "news",
@@ -60,9 +60,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Torneo Valencia Premier Padel P1 2026 - Visit Valencia",
-      "source": "Visit Valencia",
-      "published": "Fri, 27 Mar 2026 17:28:11 GMT"
+      "title": "FIP Tour: i giocatori francesi puntano ai quarti di finale a Porto, Rovato, Alicante e Lelystad. - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 25 Jul 2026 06:57:53 GMT"
     }
   ]
 }
