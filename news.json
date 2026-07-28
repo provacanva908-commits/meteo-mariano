@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T14:38:28.662160+00:00",
+  "updated_at": "2026-07-28T16:24:18.186121+00:00",
   "local_date": "2026-07-28",
   "articles": [
     {
@@ -46,13 +46,6 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Mon, 20 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
       "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
       "source": "FITP",
       "published": "Thu, 02 Jul 2026 17:00:00 GMT"
@@ -63,6 +56,13 @@
       "title": "FIP Tour: Guichard continua la sua corsa a Porto, Blanqué e Hugounenq raggiungono i quarti di finale in Italia - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sat, 25 Jul 2026 16:11:48 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Torneo Valencia Premier Padel P1 2026 - Visit Valencia",
+      "source": "Visit Valencia",
+      "published": "Fri, 27 Mar 2026 17:28:11 GMT"
     }
   ]
 }
