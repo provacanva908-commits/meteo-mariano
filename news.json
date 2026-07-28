@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T17:56:51.363989+00:00",
+  "updated_at": "2026-07-28T19:45:05.456861+00:00",
   "local_date": "2026-07-28",
   "articles": [
     {
@@ -11,13 +11,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP: comanda sempre Sinner, stabile Cobolli (n.9) - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Mon, 27 Jul 2026 06:27:58 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Sinner cerca il tris al Six Kings Slam: il torneo dei Paperoni su Netflix dal 21 al 24 ottobre - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Tue, 28 Jul 2026 17:42:59 GMT"
@@ -25,16 +18,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Washington Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Mon, 27 Jul 2026 13:55:56 GMT"
+      "title": "Ranking ATP: comanda sempre Sinner, stabile Cobolli (n.9) - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Mon, 27 Jul 2026 06:27:58 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Lorenzo Musetti - Matteo Arnaldi all'ATP 500 di Washington 2026 LIVE: risultato e aggiornamenti in diretta · Tennis - olympics.com",
+      "title": "Musetti-Vukic, ATP Washington: in palio i quarti di finale - Planetwin365 news",
+      "source": "Planetwin365 news",
+      "published": "Tue, 28 Jul 2026 10:35:47 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Washington Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Mon, 27 Jul 2026 17:40:00 GMT"
+      "published": "Mon, 27 Jul 2026 13:55:56 GMT"
     },
     {
       "type": "news",
