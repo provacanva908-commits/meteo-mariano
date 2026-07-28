@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T04:28:04.156804+00:00",
+  "updated_at": "2026-07-28T07:19:31.423187+00:00",
   "local_date": "2026-07-28",
   "articles": [
     {
@@ -18,13 +18,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP, Sinner non si stacca dalla vetta, lontanissimo Zverev - Diretta",
-      "source": "Diretta",
-      "published": "Mon, 27 Jul 2026 13:16:18 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Ranking ATP: comanda sempre Sinner, stabile Cobolli (n.9) - SuperTennis",
       "source": "SuperTennis",
       "published": "Mon, 27 Jul 2026 06:27:58 GMT"
@@ -38,10 +31,10 @@
     },
     {
       "type": "news",
-      "category": "PADEL",
-      "title": "FIP Tour: Godallier accede alla finale, Touly eliminato in semifinale. - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sun, 26 Jul 2026 11:26:04 GMT"
+      "category": "TENNIS",
+      "title": "Ranking Atp, Sinner sempre saldamente al comando - ANSA",
+      "source": "ANSA",
+      "published": "Mon, 27 Jul 2026 08:29:00 GMT"
     },
     {
       "type": "news",
@@ -63,6 +56,13 @@
       "title": "FIP Tour: Guichard continua la sua corsa a Porto, Blanqué e Hugounenq raggiungono i quarti di finale in Italia - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sat, 25 Jul 2026 16:11:48 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Torneo Valencia Premier Padel P1 2026 - Visit Valencia",
+      "source": "Visit Valencia",
+      "published": "Fri, 27 Mar 2026 17:28:11 GMT"
     }
   ]
 }
