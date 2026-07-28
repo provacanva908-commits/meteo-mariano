@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T07:19:31.423187+00:00",
+  "updated_at": "2026-07-28T10:02:53.855292+00:00",
   "local_date": "2026-07-28",
   "articles": [
     {
@@ -25,23 +25,30 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking Atp, per Sinner 82 settimane al vertice - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
-      "published": "Mon, 27 Jul 2026 09:46:34 GMT"
+      "title": "Quote Sinner Alcaraz vincenti Us Open ultimo Slam stagione 2026 - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Thu, 23 Jul 2026 10:08:35 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking Atp, Sinner sempre saldamente al comando - ANSA",
-      "source": "ANSA",
-      "published": "Mon, 27 Jul 2026 08:29:00 GMT"
+      "title": "Washington Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Mon, 27 Jul 2026 13:55:56 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Tour: Godallier accede alla finale, Touly eliminato in semifinale. - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sun, 26 Jul 2026 11:26:04 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
       "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
-      "published": "Mon, 20 Jul 2026 12:19:59 GMT"
+      "published": "Mon, 20 Jul 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -56,13 +63,6 @@
       "title": "FIP Tour: Guichard continua la sua corsa a Porto, Blanqué e Hugounenq raggiungono i quarti di finale in Italia - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sat, 25 Jul 2026 16:11:48 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Torneo Valencia Premier Padel P1 2026 - Visit Valencia",
-      "source": "Visit Valencia",
-      "published": "Fri, 27 Mar 2026 17:28:11 GMT"
     }
   ]
 }
