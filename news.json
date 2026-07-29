@@ -1,13 +1,20 @@
 {
-  "updated_at": "2026-07-29T19:55:31.424136+00:00",
+  "updated_at": "2026-07-29T20:00:47.276251+00:00",
   "local_date": "2026-07-29",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Pisa. Ufficiale! La società annuncia la cessione di 9 giocatori! - SestaPorta.News Pisa",
-      "source": "SestaPorta.News Pisa",
+      "title": "Calciomercato Pisa. Ufficiale! La società annuncia la cessione di 9 giocatori! - sestaporta.news",
+      "source": "sestaporta.news",
       "published": "Wed, 29 Jul 2026 16:05:57 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Milan Futuro, ufficiale l'acquisto di Calvani dalla Lazio - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Wed, 29 Jul 2026 11:30:05 GMT"
     },
     {
       "type": "news",
@@ -22,13 +29,6 @@
       "title": "Calciomercato: Inter in chiusura su Stones, Diawara fa le visite al Milan - ANSA",
       "source": "ANSA",
       "published": "Tue, 28 Jul 2026 18:25:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Inter, ufficiale il rinnovo di Bisseck: la durata del nuovo contratto e quanto guadagnerà - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 29 Jul 2026 13:17:03 GMT"
     },
     {
       "type": "news",
@@ -61,8 +61,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP: comanda sempre Sinner, stabile Cobolli (n.9) - SuperTennis",
-      "source": "SuperTennis",
+      "title": "Ranking ATP: comanda sempre Sinner, stabile Cobolli (n.9) - supertennis.tv",
+      "source": "supertennis.tv",
       "published": "Mon, 27 Jul 2026 06:27:58 GMT"
     },
     {
