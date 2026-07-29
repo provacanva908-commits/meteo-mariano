@@ -38,7 +38,6 @@ jobs:
 
           blocked_phrases = [
               "guarda il video",
-              "guarda che",
               "video:",
               "foto:",
               "fotogallery",
@@ -54,6 +53,28 @@ jobs:
           ]
 
           important_keywords = {
+              "CALCIOMERCATO": [
+                  "calciomercato",
+                  "mercato",
+                  "trattativa",
+                  "ufficiale",
+                  "accordo",
+                  "firma",
+                  "prestito",
+                  "rinnovo",
+                  "cessione",
+                  "acquisto",
+                  "offerta",
+                  "inter",
+                  "milan",
+                  "juventus",
+                  "napoli",
+                  "roma",
+                  "lazio",
+                  "atalanta",
+                  "como",
+                  "monza"
+              ],
               "CALCIO": [
                   "serie a",
                   "champions",
@@ -76,27 +97,6 @@ jobs:
                   "convocati",
                   "calendario",
                   "partita"
-              ],
-              "CALCIOMERCATO": [
-                  "calciomercato",
-                  "mercato",
-                  "trattativa",
-                  "ufficiale",
-                  "accordo",
-                  "firma",
-                  "prestito",
-                  "rinnovo",
-                  "cessione",
-                  "acquisto",
-                  "offerta",
-                  "inter",
-                  "milan",
-                  "juventus",
-                  "napoli",
-                  "roma",
-                  "atalanta",
-                  "como",
-                  "monza"
               ],
               "TENNIS": [
                   "sinner",
