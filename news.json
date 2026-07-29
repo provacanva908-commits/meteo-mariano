@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T13:24:37.537309+00:00",
+  "updated_at": "2026-07-29T15:30:46.197627+00:00",
   "local_date": "2026-07-29",
   "articles": [
     {
@@ -11,13 +11,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner cerca il tris al Six Kings Slam: il torneo dei Paperoni su Netflix dal 21 al 24 ottobre - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Tue, 28 Jul 2026 17:42:59 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Sinner giocherà di nuovo il Six Kings Slam in Arabia Saudita. È il torneo più ricco della storia del tennis - Il Fatto Quotidiano",
       "source": "Il Fatto Quotidiano",
       "published": "Wed, 29 Jul 2026 10:21:51 GMT"
@@ -25,8 +18,15 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP: comanda sempre Sinner, stabile Cobolli (n.9) - SuperTennis",
-      "source": "SuperTennis",
+      "title": "Sinner cerca il tris al Six Kings Slam: il torneo dei Paperoni su Netflix dal 21 al 24 ottobre - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Tue, 28 Jul 2026 17:42:59 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Ranking ATP: comanda sempre Sinner, stabile Cobolli (n.9) - supertennis.tv",
+      "source": "supertennis.tv",
       "published": "Mon, 27 Jul 2026 06:27:58 GMT"
     },
     {
