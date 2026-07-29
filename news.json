@@ -1,19 +1,62 @@
 {
-  "updated_at": "2026-07-29T19:45:28.333379+00:00",
+  "updated_at": "2026-07-29T19:55:31.424136+00:00",
   "local_date": "2026-07-29",
   "articles": [
     {
-      "type": "message",
-      "category": "MONDIALI",
-      "title": "Nessuna partita dei Mondiali in programma oggi",
-      "source": "football-data.org"
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Pisa. Ufficiale! La società annuncia la cessione di 9 giocatori! - SestaPorta.News Pisa",
+      "source": "SestaPorta.News Pisa",
+      "published": "Wed, 29 Jul 2026 16:05:57 GMT"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner giocherà di nuovo il Six Kings Slam in Arabia Saudita. È il torneo più ricco della storia del tennis - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "Wed, 29 Jul 2026 10:21:51 GMT"
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Juve, accordo di massima per Alajbegovic - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Wed, 29 Jul 2026 14:48:03 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato: Inter in chiusura su Stones, Diawara fa le visite al Milan - ANSA",
+      "source": "ANSA",
+      "published": "Tue, 28 Jul 2026 18:25:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Inter, ufficiale il rinnovo di Bisseck: la durata del nuovo contratto e quanto guadagnerà - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Wed, 29 Jul 2026 13:17:03 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Bar e locali dove vedere la Serie A Enilive a Roma e nel Lazio - DAZN",
+      "source": "DAZN",
+      "published": "Wed, 29 Jul 2026 18:58:11 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Amichevoli estive di Serie A, le sfide di oggi: in campo Como, Fiorentina e Frosinone - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Wed, 29 Jul 2026 15:57:36 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Ranieri: \"La Roma, la Nazionale e i conflitti di interesse: ecco come è andata l'anno scorso\" - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Wed, 29 Jul 2026 18:24:04 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Online i calendari di Serie A Silver: inizio fissato al 19 settembre per i due gironi del campionato cadetto - FIGH: Federazione Italiana Giuoco Handball",
+      "source": "FIGH: Federazione Italiana Giuoco Handball",
+      "published": "Wed, 29 Jul 2026 13:06:24 GMT"
     },
     {
       "type": "news",
@@ -25,16 +68,30 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner cerca il tris al Six Kings Slam: il torneo dei Paperoni su Netflix dal 21 al 24 ottobre - gazzetta.it",
-      "source": "gazzetta.it",
-      "published": "Tue, 28 Jul 2026 17:42:59 GMT"
+      "title": "Jannik Sinner, Netflix prepara il bis del Six Kings Slam: la sfida stellare con Alcaraz e Djokovic nasconde una novità - Libero",
+      "source": "Libero",
+      "published": "Wed, 29 Jul 2026 12:35:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Washington Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Mon, 27 Jul 2026 13:55:56 GMT"
+      "title": "Tennis, forfait di Sinner e di Djokovic al torneo Montreal - RaiNews",
+      "source": "RaiNews",
+      "published": "Fri, 24 Jul 2026 20:26:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "⁠US OPEN 2026. Djokovic e Sabalenka nel doppio misto, ma non c’è Sinner: le 16 coppie ufficiali⁠ - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Mon, 27 Jul 2026 19:25:55 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Pretoria P1: Premier Padel Fernández e Calvo debuttano in Sudafrica, Coello e Tapia puntano al sesto titolo consecutivo - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Mon, 27 Jul 2026 07:42:55 GMT"
     },
     {
       "type": "news",
@@ -53,16 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Tour: Guichard continua la sua corsa a Porto, Blanqué e Hugounenq raggiungono i quarti di finale in Italia - padel-magazine.it",
+      "title": "FIP Tour: Guichard, Godallier e Touly si assicurano un posto in semifinale. - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Sat, 25 Jul 2026 16:11:48 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Tour: i giocatori francesi puntano ai quarti di finale a Porto, Rovato, Alicante e Lelystad. - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sat, 25 Jul 2026 06:57:53 GMT"
+      "published": "Sun, 26 Jul 2026 07:55:41 GMT"
     }
   ]
 }
