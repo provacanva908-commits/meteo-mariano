@@ -1,26 +1,19 @@
 {
-  "updated_at": "2026-07-30T04:18:52.760823+00:00",
+  "updated_at": "2026-07-30T07:07:21.983479+00:00",
   "local_date": "2026-07-30",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Pisa. Ufficiale! La società annuncia la cessione di 9 giocatori! - SestaPorta.News Pisa",
-      "source": "SestaPorta.News Pisa",
-      "published": "Wed, 29 Jul 2026 16:05:57 GMT"
+      "title": "Calciomercato Serie A: Roma su Abde, Napoli insiste per Badiashile. Juventus chiude Kolo Muani, Inter rinnova Bisseck - - Web Lombardia",
+      "source": "- Web Lombardia",
+      "published": "Thu, 30 Jul 2026 06:07:38 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Milan Futuro, ufficiale l'acquisto di Calvani dalla Lazio - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Wed, 29 Jul 2026 11:30:05 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Juve, accordo di massima per Alajbegovic - Sky Sport",
-      "source": "Sky Sport",
+      "title": "Calciomercato Juve, accordo di massima per Alajbegovic - sport.sky.it",
+      "source": "sport.sky.it",
       "published": "Wed, 29 Jul 2026 14:48:03 GMT"
     },
     {
@@ -32,6 +25,13 @@
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Ufficiale | Loïs Openda in prestito all’Olympique Lyonnais - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Tue, 28 Jul 2026 16:35:27 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
       "title": "Bar e locali dove vedere la Serie A Enilive a Roma e nel Lazio - DAZN",
       "source": "DAZN",
@@ -40,23 +40,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Amichevoli estive di Serie A, le sfide di oggi: in campo Monza e Parma - Sky Sport",
-      "source": "Sky Sport",
+      "title": "Amichevoli estive di Serie A, le sfide di oggi: in campo Monza e Parma - sport.sky.it",
+      "source": "sport.sky.it",
       "published": "Wed, 29 Jul 2026 21:29:45 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, colpo Monza a centrocampo: dall’Inter arriva Akinsanmiro - Il Cittadino di Monza e Brianza",
-      "source": "Il Cittadino di Monza e Brianza",
-      "published": "Wed, 29 Jul 2026 20:34:00 GMT"
+      "title": "Luca Carleo indagato frode Ops: era appena stato nominato referente di Futuro Nazionale - MilanoToday",
+      "source": "MilanoToday",
+      "published": "Thu, 30 Jul 2026 04:23:34 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "I presidenti di A spiazzati e delusi per Mancini ct: «È la Nazionale dei circoli romani» - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Wed, 29 Jul 2026 09:05:00 GMT"
+      "title": "L’esperienza di Arpa FVG al 52° Convegno Nazionale dell’Associazione Italiana di Acustica: il controllo del rumore degli impianti idroelettrici - ARPA FVG - Arpa Friuli Venezia Giulia",
+      "source": "Arpa Friuli Venezia Giulia",
+      "published": "Thu, 30 Jul 2026 06:29:51 GMT"
     },
     {
       "type": "news",
@@ -68,8 +68,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "⁠US OPEN 2026. Djokovic e Sabalenka nel doppio misto, ma non c’è Sinner: le 16 coppie ufficiali⁠ - Sky Sport",
-      "source": "Sky Sport",
+      "title": "⁠US OPEN 2026. Djokovic e Sabalenka nel doppio misto, ma non c’è Sinner: le 16 coppie ufficiali⁠ - sport.sky.it",
+      "source": "sport.sky.it",
       "published": "Mon, 27 Jul 2026 19:25:55 GMT"
     },
     {
@@ -82,9 +82,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner ci aveva visto lungo nel 2020: 'Alcaraz? Fortissimo' - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 29 Jul 2026 09:48:28 GMT"
+      "title": "Sinner giocherà di nuovo il Six Kings Slam in Arabia Saudita. È il torneo più ricco della storia del tennis - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Wed, 29 Jul 2026 10:21:51 GMT"
     },
     {
       "type": "news",
@@ -103,16 +103,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Tour: Godallier accede alla finale, Touly eliminato in semifinale. - padel-magazine.it",
+      "title": "Pretoria P1: Lebrón e Augsburger vogliono raggiungere Coello e Tapia, Galán e Chingotto riaccendono la corsa al titolo - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Sun, 26 Jul 2026 11:26:04 GMT"
+      "published": "Wed, 29 Jul 2026 07:34:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Pretoria P1: Lebrón e Augsburger vogliono raggiungere Coello e Tapia, Galán e Chingotto riaccendono la corsa al titolo - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Wed, 29 Jul 2026 07:34:00 GMT"
+      "title": "Bordeaux P2 Premier Padel: Icardo e Jensen in finale! - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Sun, 05 Jul 2026 10:07:34 GMT"
     }
   ]
 }
