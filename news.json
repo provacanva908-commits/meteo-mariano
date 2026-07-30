@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-07-30T17:05:34.959423+00:00",
+  "updated_at": "2026-07-30T18:43:50.272994+00:00",
   "local_date": "2026-07-30",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli, ufficiale un'altra operazione in uscita per gli azzurri: l'annuncio - NapoliToday",
+      "source": "NapoliToday",
+      "published": "Thu, 30 Jul 2026 18:10:00 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -12,37 +19,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Inter, Stones ha firmato il contratto. Atteso l'annuncio ufficiale - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Thu, 30 Jul 2026 07:42:18 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Calciomercato Milan, Soulé più di un’idea: le cifre della trattativa - Il Riformista",
       "source": "Il Riformista",
       "published": "Thu, 30 Jul 2026 12:36:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan: idea Soulè dalla Roma, i dettagli - Fantacalcio",
-      "source": "Fantacalcio",
-      "published": "Thu, 30 Jul 2026 07:20:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato: Inter in chiusura su Stones, Diawara fa le visite al Milan - ANSA",
-      "source": "ANSA",
-      "published": "Tue, 28 Jul 2026 18:25:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Moda e calcio: Dsquared2 si allea con la Roma, Manuel Ritz con il Monza - FashionNetwork Italia",
-      "source": "FashionNetwork Italia",
-      "published": "Thu, 30 Jul 2026 14:06:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Dove vedere tutte le partite del Monza in Serie A e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
-      "source": "Goal.com",
-      "published": "Thu, 30 Jul 2026 15:58:45 GMT"
     },
     {
       "type": "news",
@@ -54,9 +40,30 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calcio: ufficiale Castro alla Roma, operazione da 35 milioni - ANSA",
-      "source": "ANSA",
-      "published": "Thu, 30 Jul 2026 10:44:00 GMT"
+      "title": "Moda e calcio: Dsquared2 si allea con la Roma, Manuel Ritz con il Monza - FashionNetwork Italia",
+      "source": "FashionNetwork Italia",
+      "published": "Thu, 30 Jul 2026 14:06:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Coppa Italia al Picco nella serata di Ferragosto: Spezia-Torres apre la stagione ufficiale aquilotta - Città della Spezia",
+      "source": "Città della Spezia",
+      "published": "Thu, 30 Jul 2026 15:30:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "U23s, Away to Cittadella in Coppa Italia Serie C Round One - Atalanta",
+      "source": "Atalanta",
+      "published": "Thu, 30 Jul 2026 17:26:53 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Chi vincerà gli US Open 2026? Sinner favorito, Alcaraz e Djokovic all’inseguimento - Planetwin365 news",
+      "source": "Planetwin365 news",
+      "published": "Thu, 30 Jul 2026 10:48:08 GMT"
     },
     {
       "type": "news",
@@ -68,23 +75,16 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Tennis oggi · Washington 2026 ATP e WTA: Risultati di tutte le partite in diretta - olympics.com",
+      "source": "olympics.com",
+      "published": "Mon, 27 Jul 2026 15:01:50 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Ranking ATP: comanda sempre Sinner, stabile Cobolli (n.9) - SuperTennis",
       "source": "SuperTennis",
       "published": "Mon, 27 Jul 2026 06:27:58 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Zverev svela la preferenza tra Sinner e Alcaraz, poi la sorpresa: “Oro olimpico o Slam? La Germania era in fermento…” - OA Sport",
-      "source": "OA Sport",
-      "published": "Thu, 30 Jul 2026 06:38:08 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Achille Lauro a Torino da Jannik Sinner per inaugurare le Atp Finals 2026 - Radio Italia",
-      "source": "Radio Italia",
-      "published": "Thu, 30 Jul 2026 10:21:00 GMT"
     },
     {
       "type": "news",
