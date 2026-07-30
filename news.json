@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-07-30T18:43:50.272994+00:00",
+  "updated_at": "2026-07-30T20:07:46.494628+00:00",
   "local_date": "2026-07-30",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Serie A, Stones firma con l'Inter, ufficiale lo scambio Roma-Bologna - Toro News",
+      "source": "Toro News",
+      "published": "Thu, 30 Jul 2026 19:05:06 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -12,22 +19,15 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Roma, offerta ufficiale per Read che piace anche all'Inter - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Thu, 30 Jul 2026 07:34:56 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Inter, Stones ha firmato il contratto. Atteso l'annuncio ufficiale - Sky Sport",
+      "title": "Inter, Stones ha firmato: c'è l'annuncio ufficiale - Sky Sport",
       "source": "Sky Sport",
-      "published": "Thu, 30 Jul 2026 07:42:18 GMT"
+      "published": "Thu, 30 Jul 2026 19:39:43 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan, Soulé più di un’idea: le cifre della trattativa - Il Riformista",
-      "source": "Il Riformista",
+      "title": "Calciomercato Milan, Soulé più di un’idea: le cifre della trattativa - ilriformista.it",
+      "source": "ilriformista.it",
       "published": "Thu, 30 Jul 2026 12:36:00 GMT"
     },
     {
@@ -36,13 +36,6 @@
       "title": "Calcio: John Stones a Milano, visite e poi firma con l'Inter - ANSA",
       "source": "ANSA",
       "published": "Thu, 30 Jul 2026 09:18:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Moda e calcio: Dsquared2 si allea con la Roma, Manuel Ritz con il Monza - FashionNetwork Italia",
-      "source": "FashionNetwork Italia",
-      "published": "Thu, 30 Jul 2026 14:06:00 GMT"
     },
     {
       "type": "news",
@@ -60,10 +53,10 @@
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Chi vincerà gli US Open 2026? Sinner favorito, Alcaraz e Djokovic all’inseguimento - Planetwin365 news",
-      "source": "Planetwin365 news",
-      "published": "Thu, 30 Jul 2026 10:48:08 GMT"
+      "category": "CALCIO",
+      "title": "Italia, come potrebbe giocare la Nazionale di Mancini tra rientri, volti nuovi e conferme - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Thu, 30 Jul 2026 06:04:10 GMT"
     },
     {
       "type": "news",
@@ -85,6 +78,13 @@
       "title": "Ranking ATP: comanda sempre Sinner, stabile Cobolli (n.9) - SuperTennis",
       "source": "SuperTennis",
       "published": "Mon, 27 Jul 2026 06:27:58 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner, ecco il kit per gli Us Open: ‘sfida’ a distanza con Alcaraz - OglioPoNews",
+      "source": "OglioPoNews",
+      "published": "Thu, 30 Jul 2026 11:05:20 GMT"
     },
     {
       "type": "news",
