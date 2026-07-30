@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-07-29T23:45:18.425487+00:00",
+  "updated_at": "2026-07-30T01:05:55.474507+00:00",
   "local_date": "2026-07-30",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Milan Futuro, ufficiale l'acquisto di Calvani dalla Lazio - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Wed, 29 Jul 2026 11:30:05 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -12,23 +19,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Milan Futuro, ufficiale l'acquisto di Calvani dalla Lazio - sportmediaset.mediaset.it",
-      "source": "sportmediaset.mediaset.it",
-      "published": "Wed, 29 Jul 2026 11:30:05 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Juve, accordo di massima per Alajbegovic - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 29 Jul 2026 14:48:03 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato: Inter in chiusura su Stones, Diawara fa le visite al Milan - ansa.it",
-      "source": "ansa.it",
+      "title": "Calciomercato: Inter in chiusura su Stones, Diawara fa le visite al Milan - ANSA",
+      "source": "ANSA",
       "published": "Tue, 28 Jul 2026 18:25:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Ufficiale | Loïs Openda in prestito all’Olympique Lyonnais - juventus.com",
+      "source": "juventus.com",
+      "published": "Tue, 28 Jul 2026 16:35:27 GMT"
     },
     {
       "type": "news",
@@ -54,9 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Ranieri: \"La Roma, la Nazionale e i conflitti di interesse: ecco come è andata l'anno scorso\" - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Wed, 29 Jul 2026 18:24:04 GMT"
+      "title": "I presidenti di A spiazzati e delusi per Mancini ct: «È la Nazionale dei circoli romani» - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Wed, 29 Jul 2026 09:05:00 GMT"
     },
     {
       "type": "news",
@@ -82,9 +82,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Fognini sul forfait di Sinner: “Non mi sorprende. Oggi chiunque può vincere un 1000, ma nella mia epoca…” - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Wed, 29 Jul 2026 09:46:32 GMT"
+      "title": "LIVE Cocciaretto-Navarro 6-3, 4-6, 6-3, WTA Washington 2026 in DIRETTA: l’azzurra vince un match rocambolesco contro la padrona di casa e vola ai quarti di finale - OA Sport",
+      "source": "OA Sport",
+      "published": "Wed, 29 Jul 2026 21:06:51 GMT"
     },
     {
       "type": "news",
