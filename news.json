@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T20:07:46.494628+00:00",
+  "updated_at": "2026-07-30T21:31:56.242635+00:00",
   "local_date": "2026-07-30",
   "articles": [
     {
@@ -26,8 +26,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan, Soulé più di un’idea: le cifre della trattativa - ilriformista.it",
-      "source": "ilriformista.it",
+      "title": "Calciomercato Milan, Soulé più di un’idea: le cifre della trattativa - Il Riformista",
+      "source": "Il Riformista",
       "published": "Thu, 30 Jul 2026 12:36:00 GMT"
     },
     {
@@ -47,16 +47,23 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Italia, come potrebbe giocare la Nazionale di Mancini tra rientri, volti nuovi e conferme - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Thu, 30 Jul 2026 06:04:10 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "U23s, Away to Cittadella in Coppa Italia Serie C Round One - Atalanta",
       "source": "Atalanta",
       "published": "Thu, 30 Jul 2026 17:26:53 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Italia, come potrebbe giocare la Nazionale di Mancini tra rientri, volti nuovi e conferme - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Thu, 30 Jul 2026 06:04:10 GMT"
+      "category": "TENNIS",
+      "title": "Sinner, ecco il kit per gli Us Open: ‘sfida’ a distanza con Alcaraz - Cremaoggi",
+      "source": "Cremaoggi",
+      "published": "Thu, 30 Jul 2026 15:10:25 GMT"
     },
     {
       "type": "news",
@@ -78,13 +85,6 @@
       "title": "Ranking ATP: comanda sempre Sinner, stabile Cobolli (n.9) - SuperTennis",
       "source": "SuperTennis",
       "published": "Mon, 27 Jul 2026 06:27:58 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner, ecco il kit per gli Us Open: ‘sfida’ a distanza con Alcaraz - OglioPoNews",
-      "source": "OglioPoNews",
-      "published": "Thu, 30 Jul 2026 11:05:20 GMT"
     },
     {
       "type": "news",
