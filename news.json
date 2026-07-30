@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-07-30T01:05:55.474507+00:00",
+  "updated_at": "2026-07-30T04:18:52.760823+00:00",
   "local_date": "2026-07-30",
   "articles": [
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Milan Futuro, ufficiale l'acquisto di Calvani dalla Lazio - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Wed, 29 Jul 2026 11:30:05 GMT"
-    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -19,16 +12,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato: Inter in chiusura su Stones, Diawara fa le visite al Milan - ANSA",
-      "source": "ANSA",
-      "published": "Tue, 28 Jul 2026 18:25:00 GMT"
+      "title": "Milan Futuro, ufficiale l'acquisto di Calvani dalla Lazio - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Wed, 29 Jul 2026 11:30:05 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale | Loïs Openda in prestito all’Olympique Lyonnais - juventus.com",
-      "source": "juventus.com",
-      "published": "Tue, 28 Jul 2026 16:35:27 GMT"
+      "title": "Calciomercato Juve, accordo di massima per Alajbegovic - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Wed, 29 Jul 2026 14:48:03 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato: Inter in chiusura su Stones, Diawara fa le visite al Milan - ANSA",
+      "source": "ANSA",
+      "published": "Tue, 28 Jul 2026 18:25:00 GMT"
     },
     {
       "type": "news",
@@ -75,16 +75,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner ci aveva visto lungo nel 2020: 'Alcaraz? Fortissimo' - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 29 Jul 2026 09:48:28 GMT"
+      "title": "Tennis, forfait di Sinner e di Djokovic al torneo Montreal - RaiNews",
+      "source": "RaiNews",
+      "published": "Fri, 24 Jul 2026 20:26:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "LIVE Cocciaretto-Navarro 6-3, 4-6, 6-3, WTA Washington 2026 in DIRETTA: l’azzurra vince un match rocambolesco contro la padrona di casa e vola ai quarti di finale - OA Sport",
-      "source": "OA Sport",
-      "published": "Wed, 29 Jul 2026 21:06:51 GMT"
+      "title": "Sinner ci aveva visto lungo nel 2020: 'Alcaraz? Fortissimo' - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Wed, 29 Jul 2026 09:48:28 GMT"
     },
     {
       "type": "news",
@@ -110,9 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Tour: Guichard, Godallier e Touly si assicurano un posto in semifinale. - padel-magazine.it",
+      "title": "Pretoria P1: Lebrón e Augsburger vogliono raggiungere Coello e Tapia, Galán e Chingotto riaccendono la corsa al titolo - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Sun, 26 Jul 2026 07:55:41 GMT"
+      "published": "Wed, 29 Jul 2026 07:34:00 GMT"
     }
   ]
 }
