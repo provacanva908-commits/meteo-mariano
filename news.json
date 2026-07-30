@@ -1,20 +1,13 @@
 {
-  "updated_at": "2026-07-30T13:16:31.550931+00:00",
+  "updated_at": "2026-07-30T15:27:17.900985+00:00",
   "local_date": "2026-07-30",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio: un ex centravanti del Milan per l'attacco di Gattuso - romatoday.it",
-      "source": "romatoday.it",
-      "published": "Thu, 30 Jul 2026 08:52:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, offerta di 25 milioni al Feyenoord per Read: trattativa in corso - MARIONE",
-      "source": "MARIONE",
-      "published": "Thu, 30 Jul 2026 09:03:08 GMT"
+      "title": "Inter, accordo col Monza per la cessione di Akinsanmiro - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Thu, 30 Jul 2026 10:16:24 GMT"
     },
     {
       "type": "news",
@@ -32,31 +25,38 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Dove vedere tutte le partite dell'Inter in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
-      "source": "Goal.com",
-      "published": "Thu, 30 Jul 2026 12:45:16 GMT"
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato: Inter in chiusura su Stones, Diawara fa le visite al Milan - ANSA",
+      "source": "ANSA",
+      "published": "Tue, 28 Jul 2026 18:25:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Dove vedere tutte le partite del Napoli in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
+      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
       "source": "Goal.com",
-      "published": "Thu, 30 Jul 2026 13:00:44 GMT"
+      "published": "Thu, 30 Jul 2026 13:06:44 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Dove vedere tutte le partite della Juventus in Serie A, Europa League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
-      "source": "Goal.com",
-      "published": "Thu, 30 Jul 2026 11:55:29 GMT"
+      "title": "Calcio: John Stones a Milano, visite e poi firma con l'Inter - ANSA",
+      "source": "ANSA",
+      "published": "Thu, 30 Jul 2026 09:18:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Dove vedere tutte le partite dell'Atalanta in Serie A, Conference League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
-      "source": "Goal.com",
-      "published": "Thu, 30 Jul 2026 11:48:46 GMT"
+      "title": "Moda e calcio: Dsquared2 si allea con la Roma, Manuel Ritz con il Monza - FashionNetwork Italia",
+      "source": "FashionNetwork Italia",
+      "published": "Thu, 30 Jul 2026 14:06:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Calcio: ufficiale Castro alla Roma, operazione da 35 milioni - ANSA",
+      "source": "ANSA",
+      "published": "Thu, 30 Jul 2026 10:44:00 GMT"
     },
     {
       "type": "news",
@@ -75,15 +75,15 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP: comanda sempre Sinner, stabile Cobolli (n.9) - SuperTennis",
-      "source": "SuperTennis",
+      "title": "Ranking ATP: comanda sempre Sinner, stabile Cobolli (n.9) - supertennis.tv",
+      "source": "supertennis.tv",
       "published": "Mon, 27 Jul 2026 06:27:58 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Zverev svela la preferenza tra Sinner e Alcaraz, poi la sorpresa: “Oro olimpico o Slam? La Germania era in fermento…” - oasport.it",
-      "source": "oasport.it",
+      "title": "Zverev svela la preferenza tra Sinner e Alcaraz, poi la sorpresa: “Oro olimpico o Slam? La Germania era in fermento…” - OA Sport",
+      "source": "OA Sport",
       "published": "Thu, 30 Jul 2026 06:38:08 GMT"
     },
     {
