@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T01:17:47.790196+00:00",
+  "updated_at": "2026-07-31T04:49:56.820541+00:00",
   "local_date": "2026-07-31",
   "articles": [
     {
@@ -12,16 +12,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale un'altra operazione in uscita per gli azzurri: l'annuncio - napolitoday.it",
-      "source": "napolitoday.it",
+      "title": "Calciomercato Napoli, ufficiale un'altra operazione in uscita per gli azzurri: l'annuncio - NapoliToday",
+      "source": "NapoliToday",
       "published": "Thu, 30 Jul 2026 18:10:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Inter, Stones ha firmato: c'è l'annuncio ufficiale - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Thu, 30 Jul 2026 07:42:18 GMT"
     },
     {
       "type": "news",
@@ -32,10 +25,24 @@
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Inter, Stones ha firmato: c'è l'annuncio ufficiale - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Thu, 30 Jul 2026 07:42:18 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
       "title": "Amichevoli estive di Serie A, oggi Juventus-Nizza su Sky - Sky Sport",
       "source": "Sky Sport",
-      "published": "Thu, 30 Jul 2026 22:29:42 GMT"
+      "published": "Fri, 31 Jul 2026 01:34:52 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Castro, è subito derby: \"Roma, che accoglienza, voglio fare bene in Champions e segnare alla Lazio\" - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Thu, 30 Jul 2026 15:58:09 GMT"
     },
     {
       "type": "news",
@@ -43,13 +50,6 @@
       "title": "Calcio: John Stones a Milano, visite e poi firma con l'Inter - ANSA",
       "source": "ANSA",
       "published": "Thu, 30 Jul 2026 09:18:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Italia, come potrebbe giocare la Nazionale di Mancini tra rientri, volti nuovi e conferme - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Thu, 30 Jul 2026 06:04:10 GMT"
     },
     {
       "type": "news",
@@ -82,9 +82,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Rusedski: “Sinner, Alcaraz e Djokovic danneggiano Montreal. Masters 1000 lunghi? I giocatori vogliono più soldi” - OA Sport",
-      "source": "OA Sport",
-      "published": "Thu, 30 Jul 2026 20:26:39 GMT"
+      "title": "Pronostici tennis oggi 31/7/2026: quote ATP WTA Washington - bwin",
+      "source": "bwin",
+      "published": "Fri, 31 Jul 2026 04:22:00 GMT"
     },
     {
       "type": "news",
