@@ -1,27 +1,20 @@
 {
-  "updated_at": "2026-07-31T21:17:27.479895+00:00",
-  "local_date": "2026-07-31",
+  "updated_at": "2026-07-31T22:28:58.326241+00:00",
+  "local_date": "2026-08-01",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale un'altra cessione: il comunicato e la formula dell'operazione - napolitoday.it",
-      "source": "napolitoday.it",
+      "title": "Calciomercato Napoli, ufficiale un'altra cessione: il comunicato e la formula dell'operazione - NapoliToday",
+      "source": "NapoliToday",
       "published": "Fri, 31 Jul 2026 12:30:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale un'altra operazione in uscita per gli azzurri: l'annuncio - napolitoday.it",
-      "source": "napolitoday.it",
+      "title": "Calciomercato Napoli, ufficiale un'altra operazione in uscita per gli azzurri: l'annuncio - NapoliToday",
+      "source": "NapoliToday",
       "published": "Thu, 30 Jul 2026 18:10:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, Givairo Read apre alla cessione: \"Sono pronto per un top club\" - Il Riformista",
-      "source": "Il Riformista",
-      "published": "Fri, 31 Jul 2026 15:13:00 GMT"
     },
     {
       "type": "news",
@@ -32,24 +25,17 @@
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato: Inter in chiusura su Stones, Diawara fa le visite al Milan - ANSA",
+      "source": "ANSA",
+      "published": "Tue, 28 Jul 2026 18:25:00 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
       "title": "Amichevoli estive di Serie A, oggi Juventus-Nizza su Sky - Sky Sport",
       "source": "Sky Sport",
-      "published": "Fri, 31 Jul 2026 11:12:11 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Secondo extracomunitario in Serie A dalla stagione 2026/2027, Castiglia: \"Più competitività internazionale nel rispetto della riforma\" - Divisione Calcio a 5",
-      "source": "Divisione Calcio a 5",
-      "published": "Fri, 31 Jul 2026 14:58:59 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Codacons, Unione Nazionale Consumatori: l'inflazione di luglio sottovaluta il rialzo dei carburanti - Borsa Italiana",
-      "source": "Borsa Italiana",
-      "published": "Fri, 31 Jul 2026 10:33:00 GMT"
+      "published": "Fri, 31 Jul 2026 18:09:17 GMT"
     },
     {
       "type": "news",
@@ -57,6 +43,20 @@
       "title": "Addio a Franco Baresi, bandiera del Milan e leggenda del calcio italiano - Domani",
       "source": "Domani",
       "published": "Fri, 31 Jul 2026 09:45:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Franco Baresi è morto. A 66 anni se ne va la leggenda del Milan e del calcio italiano - RaiNews",
+      "source": "RaiNews",
+      "published": "Fri, 31 Jul 2026 07:39:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Calcio: Roma in Galles per il ritiro, domani l'amichevole contro il Cardiff - ANSA",
+      "source": "ANSA",
+      "published": "Fri, 31 Jul 2026 15:45:00 GMT"
     },
     {
       "type": "news",
@@ -75,15 +75,15 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jannik Sinner pianifica la corsa alle ATP Finals: confermata la presenza in un torneo in Asia - OA Sport",
-      "source": "OA Sport",
+      "title": "Jannik Sinner pianifica la corsa alle ATP Finals: confermata la presenza in un torneo in Asia - oasport.it",
+      "source": "oasport.it",
       "published": "Fri, 31 Jul 2026 20:24:59 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "WTA Toronto, il tabellone: possibile semifinale Sabalenka-Swiatek. Cocciaretto con Gibson, poi l'insidia Osorio - ubitennis.com",
-      "source": "ubitennis.com",
+      "title": "WTA Toronto, il tabellone: possibile semifinale Sabalenka-Swiatek. Cocciaretto con Gibson, poi l'insidia Osorio - Ubitennis",
+      "source": "Ubitennis",
       "published": "Fri, 31 Jul 2026 19:14:28 GMT"
     },
     {
@@ -96,8 +96,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
-      "source": "FITP",
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - fitp.it",
+      "source": "fitp.it",
       "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     },
     {
