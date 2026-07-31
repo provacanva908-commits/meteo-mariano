@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T15:01:57.623825+00:00",
+  "updated_at": "2026-07-31T16:53:41.948490+00:00",
   "local_date": "2026-07-31",
   "articles": [
     {
@@ -26,9 +26,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio: per l'attacco di Gattuso spunta Pinamonti - RomaToday",
-      "source": "RomaToday",
-      "published": "Fri, 31 Jul 2026 09:52:00 GMT"
+      "title": "Calciomercato Roma, Givairo Read apre alla cessione: \"Sono pronto per un top club\" - Il Riformista",
+      "source": "Il Riformista",
+      "published": "Fri, 31 Jul 2026 15:13:00 GMT"
     },
     {
       "type": "news",
@@ -40,13 +40,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Codacons, Unione Nazionale Consumatori: l'inflazione di luglio sottovaluta il rialzo dei carburanti - Borsa Italiana",
-      "source": "Borsa Italiana",
-      "published": "Fri, 31 Jul 2026 10:33:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Secondo extracomunitario in Serie A dalla stagione 2026/2027, Castiglia: \"Più competitività internazionale nel rispetto della riforma\" - Divisione Calcio a 5",
       "source": "Divisione Calcio a 5",
       "published": "Fri, 31 Jul 2026 14:59:16 GMT"
@@ -54,9 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Addio a Franco Baresi, bandiera del Milan e leggenda del calcio italiano - Domani",
-      "source": "Domani",
-      "published": "Fri, 31 Jul 2026 09:45:00 GMT"
+      "title": "Fondazione Sandretto Re Rebaudengo entra nel Sistema Museale Nazionale: riconoscimento ufficiale come Museo - Finestre sull'Arte",
+      "source": "Finestre sull'Arte",
+      "published": "Fri, 31 Jul 2026 15:08:35 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Codacons, Unione Nazionale Consumatori: l'inflazione di luglio sottovaluta il rialzo dei carburanti - Borsa Italiana",
+      "source": "Borsa Italiana",
+      "published": "Fri, 31 Jul 2026 10:33:00 GMT"
     },
     {
       "type": "news",
@@ -68,8 +68,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP: comanda sempre Sinner, stabile Cobolli (n.9) - SuperTennis",
-      "source": "SuperTennis",
+      "title": "Ranking ATP: comanda sempre Sinner, stabile Cobolli (n.9) - supertennis.tv",
+      "source": "supertennis.tv",
       "published": "Mon, 27 Jul 2026 06:27:58 GMT"
     },
     {
