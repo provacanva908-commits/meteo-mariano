@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T07:45:32.724656+00:00",
+  "updated_at": "2026-07-31T10:23:07.309829+00:00",
   "local_date": "2026-07-31",
   "articles": [
     {
@@ -12,13 +12,6 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Società. Cessione-Grifo, la firma attesa oggi. Poi sotto con il calciomercato - La Nazione",
-      "source": "La Nazione",
-      "published": "Fri, 31 Jul 2026 06:31:48 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "Calciomercato Napoli, ufficiale un'altra operazione in uscita per gli azzurri: l'annuncio - NapoliToday",
       "source": "NapoliToday",
       "published": "Thu, 30 Jul 2026 18:10:00 GMT"
@@ -26,44 +19,44 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Inter, Stones ha firmato: c'è l'annuncio ufficiale - sport.sky.it",
-      "source": "sport.sky.it",
-      "published": "Fri, 31 Jul 2026 07:27:11 GMT"
+      "title": "Società. Cessione-Grifo, la firma attesa oggi. Poi sotto con il calciomercato - La Nazione",
+      "source": "La Nazione",
+      "published": "Fri, 31 Jul 2026 06:32:28 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato: Inter in chiusura su Stones, Diawara fa le visite al Milan - ANSA",
+      "source": "ANSA",
+      "published": "Tue, 28 Jul 2026 18:25:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Amichevoli estive di Serie A, oggi Juventus-Nizza su Sky - sport.sky.it",
-      "source": "sport.sky.it",
-      "published": "Fri, 31 Jul 2026 04:33:57 GMT"
+      "title": "Lo sport italiano saluta Franco Baresi, lo storico capitano del Milan e della nazionale di calcio è morto a 66 anni - olympics.com",
+      "source": "olympics.com",
+      "published": "Fri, 31 Jul 2026 07:59:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Addio a Franco Baresi, leggenda del Milan e della Nazionale - AIC - Associazione Italiana Calciatori",
-      "source": "AIC - Associazione Italiana Calciatori",
-      "published": "Fri, 31 Jul 2026 06:15:44 GMT"
+      "title": "Amichevoli estive di Serie A, oggi Juventus-Nizza su Sky - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 31 Jul 2026 07:35:17 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Il calcio in TV oggi, venerdì 31 luglio: amichevoli per Juventus e Como. Dove vederle - Libero",
-      "source": "Libero",
-      "published": "Fri, 31 Jul 2026 07:08:00 GMT"
+      "title": "Addio a Franco Baresi, bandiera del Milan e leggenda del calcio italiano - Domani",
+      "source": "Domani",
+      "published": "Fri, 31 Jul 2026 09:45:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
       "title": "Morto Franco Baresi, bandiera del Milan e della Nazionale - ANSA",
       "source": "ANSA",
-      "published": "Fri, 31 Jul 2026 07:15:34 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Tennis oggi · Washington 2026 ATP e WTA: Risultati di tutte le partite in diretta - olympics.com",
-      "source": "olympics.com",
-      "published": "Mon, 27 Jul 2026 15:01:50 GMT"
+      "published": "Fri, 31 Jul 2026 08:40:22 GMT"
     },
     {
       "type": "news",
@@ -85,6 +78,13 @@
       "title": "Pronostici tennis oggi 31/7/2026: quote ATP WTA Washington - bwin",
       "source": "bwin",
       "published": "Fri, 31 Jul 2026 04:22:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Su che canale Musetti-Jodar oggi, ATP Washington 2026: orario, partite precedenti, streaming - OA Sport",
+      "source": "OA Sport",
+      "published": "Fri, 31 Jul 2026 06:55:37 GMT"
     },
     {
       "type": "news",
