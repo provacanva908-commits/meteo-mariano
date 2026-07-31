@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T04:49:56.820541+00:00",
+  "updated_at": "2026-07-31T07:45:32.724656+00:00",
   "local_date": "2026-07-31",
   "articles": [
     {
@@ -12,6 +12,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Società. Cessione-Grifo, la firma attesa oggi. Poi sotto con il calciomercato - La Nazione",
+      "source": "La Nazione",
+      "published": "Fri, 31 Jul 2026 06:31:48 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Calciomercato Napoli, ufficiale un'altra operazione in uscita per gli azzurri: l'annuncio - NapoliToday",
       "source": "NapoliToday",
       "published": "Thu, 30 Jul 2026 18:10:00 GMT"
@@ -19,51 +26,37 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato: Inter in chiusura su Stones, Diawara fa le visite al Milan - ANSA",
+      "title": "Inter, Stones ha firmato: c'è l'annuncio ufficiale - sport.sky.it",
+      "source": "sport.sky.it",
+      "published": "Fri, 31 Jul 2026 07:27:11 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Amichevoli estive di Serie A, oggi Juventus-Nizza su Sky - sport.sky.it",
+      "source": "sport.sky.it",
+      "published": "Fri, 31 Jul 2026 04:33:57 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Addio a Franco Baresi, leggenda del Milan e della Nazionale - AIC - Associazione Italiana Calciatori",
+      "source": "AIC - Associazione Italiana Calciatori",
+      "published": "Fri, 31 Jul 2026 06:15:44 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Il calcio in TV oggi, venerdì 31 luglio: amichevoli per Juventus e Como. Dove vederle - Libero",
+      "source": "Libero",
+      "published": "Fri, 31 Jul 2026 07:08:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Morto Franco Baresi, bandiera del Milan e della Nazionale - ANSA",
       "source": "ANSA",
-      "published": "Tue, 28 Jul 2026 18:25:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Inter, Stones ha firmato: c'è l'annuncio ufficiale - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Thu, 30 Jul 2026 07:42:18 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Amichevoli estive di Serie A, oggi Juventus-Nizza su Sky - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 31 Jul 2026 01:34:52 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Castro, è subito derby: \"Roma, che accoglienza, voglio fare bene in Champions e segnare alla Lazio\" - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Thu, 30 Jul 2026 15:58:09 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Calcio: John Stones a Milano, visite e poi firma con l'Inter - ANSA",
-      "source": "ANSA",
-      "published": "Thu, 30 Jul 2026 09:18:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "U23s, Away to Cittadella in Coppa Italia Serie C Round One - Atalanta",
-      "source": "Atalanta",
-      "published": "Thu, 30 Jul 2026 17:26:53 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner spoilera il nuovo kit, che stile a Us Open. E Alcaraz lo 'sfida' - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Thu, 30 Jul 2026 09:18:00 GMT"
+      "published": "Fri, 31 Jul 2026 07:15:34 GMT"
     },
     {
       "type": "news",
@@ -78,6 +71,13 @@
       "title": "Ranking ATP: comanda sempre Sinner, stabile Cobolli (n.9) - SuperTennis",
       "source": "SuperTennis",
       "published": "Mon, 27 Jul 2026 06:27:58 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner spoilera il nuovo kit, che stile a Us Open. E Alcaraz lo 'sfida' - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Thu, 30 Jul 2026 09:18:00 GMT"
     },
     {
       "type": "news",
