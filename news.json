@@ -1,13 +1,20 @@
 {
-  "updated_at": "2026-07-31T12:26:27.352275+00:00",
+  "updated_at": "2026-07-31T15:01:57.623825+00:00",
   "local_date": "2026-07-31",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Serie A, Stones firma con l'Inter, ufficiale lo scambio Roma-Bologna - toronews.net",
-      "source": "toronews.net",
+      "title": "Calciomercato Serie A, Stones firma con l'Inter, ufficiale lo scambio Roma-Bologna - Toro News",
+      "source": "Toro News",
       "published": "Thu, 30 Jul 2026 19:05:06 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli, ufficiale un'altra cessione: il comunicato e la formula dell'operazione - NapoliToday",
+      "source": "NapoliToday",
+      "published": "Fri, 31 Jul 2026 12:30:00 GMT"
     },
     {
       "type": "news",
@@ -19,13 +26,6 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Società. Cessione-Grifo, la firma attesa oggi. Poi sotto con il calciomercato - La Nazione",
-      "source": "La Nazione",
-      "published": "Fri, 31 Jul 2026 06:32:28 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "Calciomercato Lazio: per l'attacco di Gattuso spunta Pinamonti - RomaToday",
       "source": "RomaToday",
       "published": "Fri, 31 Jul 2026 09:52:00 GMT"
@@ -33,23 +33,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Lo sport italiano saluta Franco Baresi, lo storico capitano del Milan e della nazionale di calcio è morto a 66 anni - olympics.com",
-      "source": "olympics.com",
-      "published": "Fri, 31 Jul 2026 07:59:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Amichevoli estive di Serie A, oggi Juventus-Nizza su Sky - Sky Sport",
       "source": "Sky Sport",
-      "published": "Fri, 31 Jul 2026 07:35:17 GMT"
+      "published": "Fri, 31 Jul 2026 11:12:11 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Addio a Franco Baresi, leggenda del Milan e della Nazionale - AIC - Associazione Italiana Calciatori",
-      "source": "AIC - Associazione Italiana Calciatori",
-      "published": "Fri, 31 Jul 2026 06:15:44 GMT"
+      "title": "Codacons, Unione Nazionale Consumatori: l'inflazione di luglio sottovaluta il rialzo dei carburanti - Borsa Italiana",
+      "source": "Borsa Italiana",
+      "published": "Fri, 31 Jul 2026 10:33:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Secondo extracomunitario in Serie A dalla stagione 2026/2027, Castiglia: \"Più competitività internazionale nel rispetto della riforma\" - Divisione Calcio a 5",
+      "source": "Divisione Calcio a 5",
+      "published": "Fri, 31 Jul 2026 14:59:16 GMT"
     },
     {
       "type": "news",
@@ -61,16 +61,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Djokovic sfida Sinner e Alcaraz a Cincinnati, in Ohio prove generali di US Open: confronto impietoso con Montreal - Virgilio Sport",
-      "source": "Virgilio Sport",
-      "published": "Fri, 31 Jul 2026 12:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner: Djokovic, Federer e Nadal sarebbero andati a Montreal per il record dei Masters, ma il ritiro di Jannik è colpa dell’ATP - Virgilio Sport",
-      "source": "Virgilio Sport",
-      "published": "Fri, 31 Jul 2026 09:00:00 GMT"
+      "title": "Djokovic torna a Cincinnati per preparare lo Us Open: reunion di lusso con Sinner e Alcaraz - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Fri, 31 Jul 2026 12:52:35 GMT"
     },
     {
       "type": "news",
@@ -82,9 +75,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner e Alcaraz verso gli US Open, gli spoiler spiazzano i fan: Jannik \"appesantito\", Carlos si fa le trecce - Virgilio Sport",
-      "source": "Virgilio Sport",
-      "published": "Thu, 30 Jul 2026 14:06:00 GMT"
+      "title": "Sinner spoilera il nuovo kit, che stile a Us Open. E Alcaraz lo 'sfida' - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Thu, 30 Jul 2026 09:18:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner torna a Pechino: arriva l'annuncio ufficiale e i tifosi sognano il tris - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Fri, 31 Jul 2026 14:30:09 GMT"
     },
     {
       "type": "news",
@@ -96,8 +96,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - fitp.it",
-      "source": "fitp.it",
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
+      "source": "FITP",
       "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     },
     {
