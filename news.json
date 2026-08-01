@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T11:02:38.571575+00:00",
+  "updated_at": "2026-08-01T12:10:19.379412+00:00",
   "local_date": "2026-08-01",
   "articles": [
     {
@@ -40,13 +40,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Amichevoli estive di Serie A:oggi l'Inter contro il City su Sky alle 13.30 - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sat, 01 Aug 2026 06:29:25 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Il calcio in TV oggi: la programmazione di sabato 1 agosto 2026, arrivano Manchester City-Inter e Lazio-Avellino - Libero",
       "source": "Libero",
       "published": "Sat, 01 Aug 2026 09:19:00 GMT"
@@ -54,9 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Esercito Italiano e Nazionale Femminile di Rugby - esercito.difesa.it",
-      "source": "esercito.difesa.it",
-      "published": "Sat, 01 Aug 2026 09:06:48 GMT"
+      "title": "Amichevoli estive di Serie A:oggi l'Inter contro il City su Sky alle 13.30 - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sat, 01 Aug 2026 06:29:25 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Calciomercato Palermo, ufficiale l'arrivo in prestito di Vavassori dall'Atalanta - PalermoToday",
+      "source": "PalermoToday",
+      "published": "Sat, 01 Aug 2026 09:43:00 GMT"
     },
     {
       "type": "news",
@@ -75,16 +75,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Washington 2026, Taylor Fritz in semifinale, eliminati Shelton e de Minaur - OA Sport",
-      "source": "OA Sport",
-      "published": "Sat, 01 Aug 2026 04:36:11 GMT"
+      "title": "ATP 500 Washington – Musetti illude, ma Jodar vince in rimonta e conquista la semifinale - Il Tennis Italiano",
+      "source": "Il Tennis Italiano",
+      "published": "Sat, 01 Aug 2026 00:54:43 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP 500 Washington – Musetti illude, ma Jodar vince in rimonta e conquista la semifinale - Il Tennis Italiano",
-      "source": "Il Tennis Italiano",
-      "published": "Sat, 01 Aug 2026 00:54:43 GMT"
+      "title": "ATP Washington 2026, Taylor Fritz in semifinale, eliminati Shelton e de Minaur - OA Sport",
+      "source": "OA Sport",
+      "published": "Sat, 01 Aug 2026 04:36:11 GMT"
     },
     {
       "type": "news",
@@ -110,9 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Tour: Godallier accede alla finale, Touly eliminato in semifinale. - padel-magazine.it",
+      "title": "FIP Tour: Vanbauce ai quarti di finale, Touly e Bahurel brillano, Vives continua il suo percorso - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Sun, 26 Jul 2026 11:26:04 GMT"
+      "published": "Fri, 31 Jul 2026 21:04:13 GMT"
     }
   ]
 }
