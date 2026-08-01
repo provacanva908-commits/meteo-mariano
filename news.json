@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-01T21:38:39.359402+00:00",
-  "local_date": "2026-08-01",
+  "updated_at": "2026-08-01T22:39:16.161902+00:00",
+  "local_date": "2026-08-02",
   "articles": [
     {
       "type": "news",
@@ -40,7 +40,7 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calciomercato Serie A - Como, assalto a Kean per la Champions. Il Parma cala il colpo - Toro News",
+      "title": "Calciomercato Serie A: Como, assalto a Kean per la Champions. Il Parma cala il colpo - Toro News",
       "source": "Toro News",
       "published": "Sat, 01 Aug 2026 19:08:10 GMT"
     },
@@ -49,7 +49,7 @@
       "category": "CALCIO",
       "title": "Amichevoli Serie A, tutti i risultati dei match di oggi - Sky Sport",
       "source": "Sky Sport",
-      "published": "Sat, 01 Aug 2026 21:14:15 GMT"
+      "published": "Sat, 01 Aug 2026 09:35:11 GMT"
     },
     {
       "type": "news",
@@ -68,23 +68,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jannik Sinner padrone del ranking Elo: numero 1, Alcaraz lontanissimo. Cos’è questa classifica speciale - oasport.it",
-      "source": "oasport.it",
+      "title": "Jannik Sinner padrone del ranking Elo: numero 1, Alcaraz lontanissimo. Cos’è questa classifica speciale - OA Sport",
+      "source": "OA Sport",
       "published": "Sat, 01 Aug 2026 13:05:26 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Washington: Musetti rimontato, Jodar in semifinale - Ubitennis",
-      "source": "Ubitennis",
+      "title": "ATP Washington: Musetti rimontato, Jodar in semifinale - ubitennis.com",
+      "source": "ubitennis.com",
       "published": "Sat, 01 Aug 2026 00:49:13 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP: comanda sempre Sinner, stabile Cobolli (n.9) - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Mon, 27 Jul 2026 06:27:58 GMT"
+      "title": "WTA Memphis: la 16enne Liutova batte anche Kalieva e vola in finale. Sarà Vidmanova a contenderle la vittoria - ubitennis.com",
+      "source": "ubitennis.com",
+      "published": "Sat, 01 Aug 2026 22:18:48 GMT"
     },
     {
       "type": "news",
