@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T01:13:36.266099+00:00",
+  "updated_at": "2026-08-01T04:41:28.556382+00:00",
   "local_date": "2026-08-01",
   "articles": [
     {
@@ -26,9 +26,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato: Soulé nel mirino del Milan, puntata al rialzo del Como per Chalobah - ANSA",
+      "title": "Calciomercato: Inter in chiusura su Stones, Diawara fa le visite al Milan - ANSA",
       "source": "ANSA",
-      "published": "Fri, 31 Jul 2026 20:34:00 GMT"
+      "published": "Tue, 28 Jul 2026 18:25:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Le amichevoli delle big di serie A ad agosto 2026, il calendario completo: date, orari e stadi delle sfide estive di Inter, Juve, Milan,... - Leggo.it",
+      "source": "Leggo.it",
+      "published": "Sat, 01 Aug 2026 03:00:32 GMT"
     },
     {
       "type": "news",
@@ -47,16 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Gold: Gara1 dei quarti di finale dalle emozioni forti - FIBS (Federazione Italiana Baseball Softball)",
-      "source": "FIBS (Federazione Italiana Baseball Softball)",
-      "published": "Fri, 31 Jul 2026 22:31:30 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Amichevoli estive di Serie A: vittorie per Como e Juve, pareggia il Sassuolo - Sky Sport",
       "source": "Sky Sport",
-      "published": "Fri, 31 Jul 2026 18:09:17 GMT"
+      "published": "Fri, 31 Jul 2026 19:38:44 GMT"
     },
     {
       "type": "news",
@@ -64,6 +64,13 @@
       "title": "Djokovic torna a Cincinnati per preparare lo Us Open: reunion di lusso con Sinner e Alcaraz - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Fri, 31 Jul 2026 12:52:35 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "ATP Washington: Musetti rimontato, Jodar in semifinale - Ubitennis",
+      "source": "Ubitennis",
+      "published": "Sat, 01 Aug 2026 00:49:13 GMT"
     },
     {
       "type": "news",
@@ -78,13 +85,6 @@
       "title": "Jannik Sinner pianifica la corsa alle ATP Finals: confermata la presenza in un torneo in Asia - OA Sport",
       "source": "OA Sport",
       "published": "Fri, 31 Jul 2026 20:24:59 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "ATP Washington: Musetti rimontato, Jodar in semifinale - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Sat, 01 Aug 2026 00:49:13 GMT"
     },
     {
       "type": "news",
