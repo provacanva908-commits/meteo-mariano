@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-01T15:10:27.421895+00:00",
+  "updated_at": "2026-08-01T16:14:27.921250+00:00",
   "local_date": "2026-08-01",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Serie A, Stones firma con l'Inter, ufficiale lo scambio Roma-Bologna - toronews.net",
-      "source": "toronews.net",
+      "title": "Calciomercato Serie A, Stones firma con l'Inter, ufficiale lo scambio Roma-Bologna - Toro News",
+      "source": "Toro News",
       "published": "Thu, 30 Jul 2026 19:05:06 GMT"
     },
     {
@@ -19,15 +19,15 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale un'altra cessione: il comunicato e la formula dell'operazione - napolitoday.it",
-      "source": "napolitoday.it",
+      "title": "Calciomercato Napoli, ufficiale un'altra cessione: il comunicato e la formula dell'operazione - NapoliToday",
+      "source": "NapoliToday",
       "published": "Fri, 31 Jul 2026 12:30:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale un'altra operazione in uscita per gli azzurri: l'annuncio - napolitoday.it",
-      "source": "napolitoday.it",
+      "title": "Calciomercato Napoli, ufficiale un'altra operazione in uscita per gli azzurri: l'annuncio - NapoliToday",
+      "source": "NapoliToday",
       "published": "Thu, 30 Jul 2026 18:10:00 GMT"
     },
     {
@@ -61,8 +61,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jannik Sinner padrone del ranking Elo: numero 1, Alcaraz lontanissimo. Cos’è questa classifica speciale - OA Sport",
-      "source": "OA Sport",
+      "title": "Jannik Sinner padrone del ranking Elo: numero 1, Alcaraz lontanissimo. Cos’è questa classifica speciale - oasport.it",
+      "source": "oasport.it",
       "published": "Sat, 01 Aug 2026 13:05:26 GMT"
     },
     {
@@ -82,9 +82,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP 500 Washington – Musetti illude, ma Jodar vince in rimonta e conquista la semifinale - Il Tennis Italiano",
-      "source": "Il Tennis Italiano",
-      "published": "Sat, 01 Aug 2026 00:54:43 GMT"
+      "title": "Ranking ATP: comanda sempre Sinner, stabile Cobolli (n.9) - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Mon, 27 Jul 2026 06:27:58 GMT"
     },
     {
       "type": "news",
@@ -96,16 +96,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Pretoria P1: Premier Padel Fernández e Calvo debuttano in Sudafrica, Coello e Tapia puntano al sesto titolo consecutivo - padel-magazine.it",
+      "title": "Tapia e Coello interrompono la loro routine... prima di sfoggiare di nuovo i loro abiti portafortuna a Pretoria. - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Mon, 27 Jul 2026 07:42:55 GMT"
+      "published": "Sat, 01 Aug 2026 09:21:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Tour: Godallier accede alla finale, Touly eliminato in semifinale. - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sun, 26 Jul 2026 11:26:04 GMT"
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
+      "source": "FITP",
+      "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     },
     {
       "type": "news",
