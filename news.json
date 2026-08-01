@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T12:10:19.379412+00:00",
+  "updated_at": "2026-08-01T13:57:24.558997+00:00",
   "local_date": "2026-08-01",
   "articles": [
     {
@@ -49,7 +49,7 @@
       "category": "CALCIO",
       "title": "Amichevoli estive di Serie A:oggi l'Inter contro il City su Sky alle 13.30 - Sky Sport",
       "source": "Sky Sport",
-      "published": "Sat, 01 Aug 2026 06:29:25 GMT"
+      "published": "Sat, 01 Aug 2026 10:27:20 GMT"
     },
     {
       "type": "news",
@@ -61,9 +61,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "WTA Memphis, è il torneo delle sorprese: favola Liutova, in semifinale anche la 'sorella d'arte' Kalieva - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Sat, 01 Aug 2026 09:58:04 GMT"
+      "title": "Jannik Sinner padrone del ranking Elo: numero 1, Alcaraz lontanissimo. Cos’è questa classifica speciale - OA Sport",
+      "source": "OA Sport",
+      "published": "Sat, 01 Aug 2026 13:05:26 GMT"
     },
     {
       "type": "news",
@@ -96,13 +96,6 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
-      "source": "FITP",
-      "published": "Thu, 02 Jul 2026 17:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
       "title": "Pretoria P1: Premier Padel Fernández e Calvo debuttano in Sudafrica, Coello e Tapia puntano al sesto titolo consecutivo - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Mon, 27 Jul 2026 07:42:55 GMT"
@@ -110,9 +103,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Tour: Vanbauce ai quarti di finale, Touly e Bahurel brillano, Vives continua il suo percorso - padel-magazine.it",
+      "title": "FIP Tour: Godallier accede alla finale, Touly eliminato in semifinale. - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Fri, 31 Jul 2026 21:04:13 GMT"
+      "published": "Sun, 26 Jul 2026 11:26:04 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Tour: Guichard, Godallier e Touly si assicurano un posto in semifinale. - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sun, 26 Jul 2026 07:55:41 GMT"
     }
   ]
 }
