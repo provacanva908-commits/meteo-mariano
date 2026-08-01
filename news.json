@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-01T20:40:54.230913+00:00",
+  "updated_at": "2026-08-01T21:38:39.359402+00:00",
   "local_date": "2026-08-01",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato: l'Inter stringe per Jones, visite mediche e firma per Koulierakis alla Roma - ANSA",
+      "source": "ANSA",
+      "published": "Sat, 01 Aug 2026 17:59:00 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -25,13 +32,6 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Palermo FC: rifiutata un'offerta, prende quota un nome nuovo. Oggi un annuncio… - Mediagol",
-      "source": "Mediagol",
-      "published": "Sat, 01 Aug 2026 06:22:52 GMT"
-    },
-    {
-      "type": "news",
       "category": "CALCIO",
       "title": "Serie A: ufficiale Koulierakis alla Roma, al Wolfsburg 17 milioni - Corriere delle Alpi",
       "source": "Corriere delle Alpi",
@@ -40,16 +40,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Amichevoli estive di Serie A:oggi l'Inter contro il City su Sky alle 13.30 - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sat, 01 Aug 2026 16:29:07 GMT"
+      "title": "Calciomercato Serie A - Como, assalto a Kean per la Champions. Il Parma cala il colpo - Toro News",
+      "source": "Toro News",
+      "published": "Sat, 01 Aug 2026 19:08:10 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calciomercato Serie A - Como, assalto a Kean per la Champions. Il Parma cala il colpo - Toro News",
-      "source": "Toro News",
-      "published": "Sat, 01 Aug 2026 19:08:10 GMT"
+      "title": "Amichevoli Serie A, tutti i risultati dei match di oggi - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sat, 01 Aug 2026 21:14:15 GMT"
     },
     {
       "type": "news",
@@ -68,8 +68,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jannik Sinner padrone del ranking Elo: numero 1, Alcaraz lontanissimo. Cos’è questa classifica speciale - OA Sport",
-      "source": "OA Sport",
+      "title": "Jannik Sinner padrone del ranking Elo: numero 1, Alcaraz lontanissimo. Cos’è questa classifica speciale - oasport.it",
+      "source": "oasport.it",
       "published": "Sat, 01 Aug 2026 13:05:26 GMT"
     },
     {
@@ -96,6 +96,13 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "FIP Tour – Blanqué e Joris in semifinale in Italia, Vives, Guy de Chamisso e Sireix eliminati ai quarti di finale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 01 Aug 2026 20:31:05 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "Tapia e Coello interrompono la loro routine... prima di sfoggiare di nuovo i loro abiti portafortuna a Pretoria. - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sat, 01 Aug 2026 09:21:00 GMT"
@@ -106,13 +113,6 @@
       "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
       "source": "FITP",
       "published": "Thu, 02 Jul 2026 17:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "P1 Pretoria: Leal/Guerrero inarrestabili! Finisce la streak di Coello/Tapia - padelmagazine.it",
-      "source": "padelmagazine.it",
-      "published": "Sat, 01 Aug 2026 19:47:40 GMT"
     }
   ]
 }
