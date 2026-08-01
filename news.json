@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T09:28:16.917700+00:00",
+  "updated_at": "2026-08-01T11:02:38.571575+00:00",
   "local_date": "2026-08-01",
   "articles": [
     {
@@ -8,6 +8,13 @@
       "title": "Calciomercato Serie A, Stones firma con l'Inter, ufficiale lo scambio Roma-Bologna - Toro News",
       "source": "Toro News",
       "published": "Thu, 30 Jul 2026 19:05:06 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Palermo, ufficiale l'arrivo in prestito di Vavassori dall'Atalanta - PalermoToday",
+      "source": "PalermoToday",
+      "published": "Sat, 01 Aug 2026 09:43:00 GMT"
     },
     {
       "type": "news",
@@ -25,17 +32,17 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato: Inter in chiusura su Stones, Diawara fa le visite al Milan - ansa.it",
-      "source": "ansa.it",
-      "published": "Tue, 28 Jul 2026 18:25:00 GMT"
+      "category": "CALCIO",
+      "title": "Amichevoli Serie A: da Chelsea-Milan a Juventus-Inter: il programma completo - Il Messaggero",
+      "source": "Il Messaggero",
+      "published": "Sat, 01 Aug 2026 10:27:34 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Le amichevoli delle big di serie A ad agosto 2026, il calendario completo: date, orari e stadi delle sfide estive di Inter, Juve, Milan,... - leggo.it",
-      "source": "leggo.it",
-      "published": "Sat, 01 Aug 2026 03:00:32 GMT"
+      "title": "Amichevoli estive di Serie A:oggi l'Inter contro il City su Sky alle 13.30 - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sat, 01 Aug 2026 06:29:25 GMT"
     },
     {
       "type": "news",
@@ -47,16 +54,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calcio. È morto Franco Baresi, simbolo del Milan e della Nazionale. Bergomi: “È stato un amico e un capitano vero” - agensir.it",
-      "source": "agensir.it",
-      "published": "Fri, 31 Jul 2026 14:15:53 GMT"
+      "title": "Esercito Italiano e Nazionale Femminile di Rugby - esercito.difesa.it",
+      "source": "esercito.difesa.it",
+      "published": "Sat, 01 Aug 2026 09:06:48 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Il mondo del calcio piange Franco Baresi, l'omaggio di Inter e Juventus e l'emozionante lettera di Paolo Maldini: \"Come faremo senza il nostro Capitano?\" - Goal.com",
-      "source": "Goal.com",
-      "published": "Sat, 01 Aug 2026 05:40:24 GMT"
+      "category": "TENNIS",
+      "title": "WTA Memphis, è il torneo delle sorprese: favola Liutova, in semifinale anche la 'sorella d'arte' Kalieva - Ubitennis",
+      "source": "Ubitennis",
+      "published": "Sat, 01 Aug 2026 09:58:04 GMT"
     },
     {
       "type": "news",
@@ -75,22 +82,15 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP 500 Washington – Musetti illude, ma Jodar vince in rimonta e conquista la semifinale - tennisitaliano.it",
-      "source": "tennisitaliano.it",
+      "title": "ATP 500 Washington – Musetti illude, ma Jodar vince in rimonta e conquista la semifinale - Il Tennis Italiano",
+      "source": "Il Tennis Italiano",
       "published": "Sat, 01 Aug 2026 00:54:43 GMT"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Wta Washington, Cocciaretto eliminata: Osaka vola in semifinale - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Fri, 31 Jul 2026 20:32:17 GMT"
-    },
-    {
-      "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Mon, 20 Jul 2026 07:00:00 GMT"
     },
     {
