@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T07:16:55.030092+00:00",
+  "updated_at": "2026-08-01T09:28:16.917700+00:00",
   "local_date": "2026-08-01",
   "articles": [
     {
@@ -26,23 +26,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato: Inter in chiusura su Stones, Diawara fa le visite al Milan - ANSA",
-      "source": "ANSA",
+      "title": "Calciomercato: Inter in chiusura su Stones, Diawara fa le visite al Milan - ansa.it",
+      "source": "ansa.it",
       "published": "Tue, 28 Jul 2026 18:25:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Le amichevoli delle big di serie A ad agosto 2026, il calendario completo: date, orari e stadi delle sfide estive di Inter, Juve, Milan,... - Leggo.it",
-      "source": "Leggo.it",
+      "title": "Le amichevoli delle big di serie A ad agosto 2026, il calendario completo: date, orari e stadi delle sfide estive di Inter, Juve, Milan,... - leggo.it",
+      "source": "leggo.it",
       "published": "Sat, 01 Aug 2026 03:00:32 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Addio a Franco Baresi, bandiera del Milan e leggenda del calcio italiano - Domani",
-      "source": "Domani",
-      "published": "Fri, 31 Jul 2026 09:45:00 GMT"
+      "title": "Il calcio in TV oggi: la programmazione di sabato 1 agosto 2026, arrivano Manchester City-Inter e Lazio-Avellino - Libero",
+      "source": "Libero",
+      "published": "Sat, 01 Aug 2026 09:19:00 GMT"
     },
     {
       "type": "news",
@@ -61,16 +61,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Djokovic torna a Cincinnati per preparare lo Us Open: reunion di lusso con Sinner e Alcaraz - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Fri, 31 Jul 2026 12:52:35 GMT"
+      "title": "ATP Washington: Musetti rimontato, Jodar in semifinale - Ubitennis",
+      "source": "Ubitennis",
+      "published": "Sat, 01 Aug 2026 00:49:13 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Washington: Musetti rimontato, Jodar in semifinale - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Sat, 01 Aug 2026 00:49:13 GMT"
+      "title": "ATP Washington 2026, Taylor Fritz in semifinale, eliminati Shelton e de Minaur - OA Sport",
+      "source": "OA Sport",
+      "published": "Sat, 01 Aug 2026 04:36:11 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "ATP 500 Washington – Musetti illude, ma Jodar vince in rimonta e conquista la semifinale - tennisitaliano.it",
+      "source": "tennisitaliano.it",
+      "published": "Sat, 01 Aug 2026 00:54:43 GMT"
     },
     {
       "type": "news",
@@ -81,16 +88,9 @@
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "ATP 500 Washington – Musetti illude, ma Jodar vince in rimonta e conquista la semifinale - Il Tennis Italiano",
-      "source": "Il Tennis Italiano",
-      "published": "Sat, 01 Aug 2026 00:54:43 GMT"
-    },
-    {
-      "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Mon, 20 Jul 2026 07:00:00 GMT"
     },
     {
