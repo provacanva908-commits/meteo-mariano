@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-02T15:15:20.340442+00:00",
+  "updated_at": "2026-08-02T16:25:53.504663+00:00",
   "local_date": "2026-08-02",
   "articles": [
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Serie A, Stones firma con l'Inter, ufficiale lo scambio Roma-Bologna - toronews.net",
-      "source": "toronews.net",
-      "published": "Thu, 30 Jul 2026 19:05:06 GMT"
-    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -19,9 +12,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Palermo, ufficiale l'arrivo in prestito di Vavassori dall'Atalanta - palermotoday.it",
-      "source": "palermotoday.it",
+      "title": "Calciomercato Palermo, ufficiale l'arrivo in prestito di Vavassori dall'Atalanta - PalermoToday",
+      "source": "PalermoToday",
       "published": "Sat, 01 Aug 2026 09:43:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato: l'Inter stringe per Jones, visite mediche e firma per Koulierakis alla Roma - ANSA",
+      "source": "ANSA",
+      "published": "Sat, 01 Aug 2026 17:59:00 GMT"
     },
     {
       "type": "news",
@@ -35,7 +35,7 @@
       "category": "CALCIO",
       "title": "Amichevoli Serie A, risultati e marcatori di oggi: in campo Atalanta, Lazio e Torino - Sky Sport",
       "source": "Sky Sport",
-      "published": "Sun, 02 Aug 2026 14:37:26 GMT"
+      "published": "Sun, 02 Aug 2026 09:00:43 GMT"
     },
     {
       "type": "news",
@@ -47,16 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Il calcio in TV oggi, domenica 2 agosto 2026: dove vedere Ascoli-Lazio e Burnley-Torino - Libero",
-      "source": "Libero",
+      "title": "Il calcio in TV oggi, domenica 2 agosto 2026: dove vedere Ascoli-Lazio e Burnley-Torino - libero.it",
+      "source": "libero.it",
       "published": "Sun, 02 Aug 2026 12:14:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calcio, cessione del Perugia: ora è ufficiale - PerugiaToday",
-      "source": "PerugiaToday",
-      "published": "Sun, 02 Aug 2026 08:11:18 GMT"
+      "title": "Allegri ha le spalle larghe per la Champions, saprà averle anche il Napoli? - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 02 Aug 2026 10:00:24 GMT"
     },
     {
       "type": "news",
@@ -64,6 +64,13 @@
       "title": "Djokovic torna a Cincinnati per preparare lo Us Open: reunion di lusso con Sinner e Alcaraz - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Fri, 31 Jul 2026 12:52:35 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Tennis oggi · ATP Montreal 2026 e WTA Toronto: Risultati di tutte le partite in diretta - olympics.com",
+      "source": "olympics.com",
+      "published": "Sun, 02 Aug 2026 16:01:42 GMT"
     },
     {
       "type": "news",
@@ -78,13 +85,6 @@
       "title": "ATP Washington: Musetti rimontato, Jodar in semifinale - Ubitennis",
       "source": "Ubitennis",
       "published": "Sat, 01 Aug 2026 00:49:13 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Tabellone Montreal 2026: con chi gioca Lorenzo Musetti e gli italiani al Canadian Open | Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Sun, 02 Aug 2026 14:00:00 GMT"
     },
     {
       "type": "news",
