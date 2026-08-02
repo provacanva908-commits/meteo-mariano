@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T04:44:26.151598+00:00",
+  "updated_at": "2026-08-02T07:24:25.477482+00:00",
   "local_date": "2026-08-02",
   "articles": [
     {
@@ -33,13 +33,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Il mondo del calcio piange Franco Baresi, l'omaggio di Inter e Juventus e l'emozionante lettera di Paolo Maldini: \"Come faremo senza il nostro Capitano?\" - Goal.com",
-      "source": "Goal.com",
-      "published": "Sun, 02 Aug 2026 01:10:28 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Ultima settimana per volare ai Mondiali 2027 con la Nazionale: la promo per i tifosi italiani attiva fino al 7 agosto - FIGH: Federazione Italiana Giuoco Handball",
       "source": "FIGH: Federazione Italiana Giuoco Handball",
       "published": "Sat, 01 Aug 2026 19:37:16 GMT"
@@ -47,16 +40,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Amichevoli Serie A, tutti i risultati dei match di oggi - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sat, 01 Aug 2026 09:35:11 GMT"
+      "title": "Come riformare il calcio internazionale - Pallonate in faccia",
+      "source": "Pallonate in faccia",
+      "published": "Sun, 02 Aug 2026 05:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Nazionale U16 Femminile: San Bonifacio, Italia-Slovacchia 47-37. Domenica Gara2, live Youtube Italbasket - Federazione Italiana Pallacanestro",
-      "source": "Federazione Italiana Pallacanestro",
-      "published": "Sat, 01 Aug 2026 18:37:17 GMT"
+      "title": "Il mondo del calcio piange Franco Baresi, l'omaggio di Inter e Juventus e l'emozionante lettera di Paolo Maldini: \"Come faremo senza il nostro Capitano?\" - Goal.com",
+      "source": "Goal.com",
+      "published": "Sun, 02 Aug 2026 05:40:28 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Amichevoli Serie A, tutti i risultati dei match di oggi - sport.sky.it",
+      "source": "sport.sky.it",
+      "published": "Sat, 01 Aug 2026 09:35:11 GMT"
     },
     {
       "type": "news",
@@ -110,9 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Tapia e Coello interrompono la loro routine... prima di sfoggiare di nuovo i loro abiti portafortuna a Pretoria. - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sat, 01 Aug 2026 09:21:00 GMT"
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
+      "source": "FITP",
+      "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     }
   ]
 }
