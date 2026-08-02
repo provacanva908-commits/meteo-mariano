@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-02T19:55:58.965562+00:00",
+  "updated_at": "2026-08-02T21:03:36.540747+00:00",
   "local_date": "2026-08-02",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale un'altra cessione: il comunicato e la formula dell'operazione - NapoliToday",
-      "source": "NapoliToday",
+      "title": "Calciomercato Napoli, ufficiale un'altra cessione: il comunicato e la formula dell'operazione - napolitoday.it",
+      "source": "napolitoday.it",
       "published": "Fri, 31 Jul 2026 12:30:00 GMT"
     },
     {
@@ -19,8 +19,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale un'altra operazione in uscita per gli azzurri: l'annuncio - NapoliToday",
-      "source": "NapoliToday",
+      "title": "Calciomercato Napoli, ufficiale un'altra operazione in uscita per gli azzurri: l'annuncio - napolitoday.it",
+      "source": "napolitoday.it",
       "published": "Thu, 30 Jul 2026 18:10:00 GMT"
     },
     {
@@ -40,13 +40,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "L’Altravoce Il Quotidiano Nazionale – Inflazione, l’Italia meglio dei partner Ue - Unimpresa - Unione Nazionale di Imprese",
-      "source": "Unimpresa - Unione Nazionale di Imprese",
-      "published": "Sun, 02 Aug 2026 10:40:52 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Il calcio in TV oggi, domenica 2 agosto 2026: dove vedere Ascoli-Lazio e Burnley-Torino - Libero",
       "source": "Libero",
       "published": "Sun, 02 Aug 2026 12:14:00 GMT"
@@ -54,9 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calcio, cessione del Perugia: ora è ufficiale - PerugiaToday",
-      "source": "PerugiaToday",
+      "title": "Calcio, cessione del Perugia: ora è ufficiale - perugiatoday.it",
+      "source": "perugiatoday.it",
       "published": "Sun, 02 Aug 2026 08:11:18 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Categoria Enel. Cecconi da record nazionale ragazzi nei 50 farfalla - Federazione Italiana Nuoto",
+      "source": "Federazione Italiana Nuoto",
+      "published": "Sun, 02 Aug 2026 16:17:42 GMT"
     },
     {
       "type": "news",
