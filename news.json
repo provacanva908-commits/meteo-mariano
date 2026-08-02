@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T18:39:07.570572+00:00",
+  "updated_at": "2026-08-02T19:55:58.965562+00:00",
   "local_date": "2026-08-02",
   "articles": [
     {
@@ -26,9 +26,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, Romagnoli in campo, ma resta sul mercato: tutti gli scenari - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Sun, 02 Aug 2026 08:04:15 GMT"
+      "title": "Calciomercato: l'Inter insiste per Jones. La Roma ci prova per Read - ANSA",
+      "source": "ANSA",
+      "published": "Sun, 02 Aug 2026 17:23:00 GMT"
     },
     {
       "type": "news",
@@ -54,9 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Allegri ha le spalle larghe per la Champions, saprà averle anche il Napoli? - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 02 Aug 2026 10:00:24 GMT"
+      "title": "Calcio, cessione del Perugia: ora è ufficiale - PerugiaToday",
+      "source": "PerugiaToday",
+      "published": "Sun, 02 Aug 2026 08:11:18 GMT"
     },
     {
       "type": "news",
@@ -96,6 +96,13 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "Tapia e Coello interrompono la loro routine... prima di sfoggiare di nuovo i loro abiti portafortuna a Pretoria. - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 01 Aug 2026 09:21:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "FIP Tour – Blanqué e Joris in semifinale in Italia, Vives, Guy de Chamisso e Sireix eliminati ai quarti di finale - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sat, 01 Aug 2026 20:31:05 GMT"
@@ -106,13 +113,6 @@
       "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
       "source": "FITP",
       "published": "Thu, 02 Jul 2026 17:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Traguardo monumentale: Leal e Guerrero interrompono la striscia vincente di Coello e Tapia e accedono alla finale di Pretoria - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sat, 01 Aug 2026 18:50:47 GMT"
     }
   ]
 }
