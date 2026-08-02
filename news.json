@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T17:35:03.819694+00:00",
+  "updated_at": "2026-08-02T18:39:07.570572+00:00",
   "local_date": "2026-08-02",
   "articles": [
     {
@@ -40,15 +40,15 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "L’Altravoce Il Quotidiano Nazionale – Inflazione, l’Italia meglio dei partner Ue - unimpresa.it",
-      "source": "unimpresa.it",
+      "title": "L’Altravoce Il Quotidiano Nazionale – Inflazione, l’Italia meglio dei partner Ue - Unimpresa - Unione Nazionale di Imprese",
+      "source": "Unimpresa - Unione Nazionale di Imprese",
       "published": "Sun, 02 Aug 2026 10:40:52 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Il calcio in TV oggi, domenica 2 agosto 2026: dove vedere Ascoli-Lazio e Burnley-Torino - libero.it",
-      "source": "libero.it",
+      "title": "Il calcio in TV oggi, domenica 2 agosto 2026: dove vedere Ascoli-Lazio e Burnley-Torino - Libero",
+      "source": "Libero",
       "published": "Sun, 02 Aug 2026 12:14:00 GMT"
     },
     {
@@ -103,16 +103,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Traguardo monumentale: Leal e Guerrero interrompono la striscia vincente di Coello e Tapia e accedono alla finale di Pretoria - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sat, 01 Aug 2026 18:50:47 GMT"
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
+      "source": "FITP",
+      "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
-      "source": "FITP",
-      "published": "Thu, 02 Jul 2026 17:00:00 GMT"
+      "title": "Traguardo monumentale: Leal e Guerrero interrompono la striscia vincente di Coello e Tapia e accedono alla finale di Pretoria - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 01 Aug 2026 18:50:47 GMT"
     }
   ]
 }
