@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T11:05:28.405726+00:00",
+  "updated_at": "2026-08-02T12:14:14.078154+00:00",
   "local_date": "2026-08-02",
   "articles": [
     {
@@ -19,8 +19,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale un'altra cessione: il comunicato e la formula dell'operazione - napolitoday.it",
-      "source": "napolitoday.it",
+      "title": "Calciomercato Napoli, ufficiale un'altra cessione: il comunicato e la formula dell'operazione - NapoliToday",
+      "source": "NapoliToday",
       "published": "Fri, 31 Jul 2026 12:30:00 GMT"
     },
     {
@@ -33,8 +33,8 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Amichevoli Serie A, risultati e marcatori di oggi: in campo Atalanta, Lazio e Torino - sport.sky.it",
-      "source": "sport.sky.it",
+      "title": "Amichevoli Serie A, risultati e marcatori di oggi: in campo Atalanta, Lazio e Torino - Sky Sport",
+      "source": "Sky Sport",
       "published": "Sun, 02 Aug 2026 09:00:43 GMT"
     },
     {
@@ -110,8 +110,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
-      "source": "FITP",
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - fitp.it",
+      "source": "fitp.it",
       "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     }
   ]
