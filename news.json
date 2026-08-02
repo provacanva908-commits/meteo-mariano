@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T07:24:25.477482+00:00",
+  "updated_at": "2026-08-02T09:34:11.798554+00:00",
   "local_date": "2026-08-02",
   "articles": [
     {
@@ -19,16 +19,30 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli, ufficiale un'altra cessione: il comunicato e la formula dell'operazione - napolitoday.it",
+      "source": "napolitoday.it",
+      "published": "Fri, 31 Jul 2026 12:30:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Calciomercato Palermo, ufficiale l'arrivo in prestito di Vavassori dall'Atalanta - PalermoToday",
       "source": "PalermoToday",
       "published": "Sat, 01 Aug 2026 09:43:00 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale un'altra cessione: il comunicato e la formula dell'operazione - NapoliToday",
-      "source": "NapoliToday",
-      "published": "Fri, 31 Jul 2026 12:30:00 GMT"
+      "category": "CALCIO",
+      "title": "Amichevoli Serie A, risultati e marcatori di oggi: in campo Atalanta, Lazio e Torino - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sun, 02 Aug 2026 09:00:43 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Calciomercato Serie A: Como, assalto a Kean per la Champions. Il Parma cala il colpo - Toro News",
+      "source": "Toro News",
+      "published": "Sun, 02 Aug 2026 07:12:37 GMT"
     },
     {
       "type": "news",
@@ -43,20 +57,6 @@
       "title": "Come riformare il calcio internazionale - Pallonate in faccia",
       "source": "Pallonate in faccia",
       "published": "Sun, 02 Aug 2026 05:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Il mondo del calcio piange Franco Baresi, l'omaggio di Inter e Juventus e l'emozionante lettera di Paolo Maldini: \"Come faremo senza il nostro Capitano?\" - Goal.com",
-      "source": "Goal.com",
-      "published": "Sun, 02 Aug 2026 05:40:28 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Amichevoli Serie A, tutti i risultati dei match di oggi - sport.sky.it",
-      "source": "sport.sky.it",
-      "published": "Sat, 01 Aug 2026 09:35:11 GMT"
     },
     {
       "type": "news",
@@ -82,9 +82,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "WTA Memphis: la 16enne Liutova batte anche Kalieva e vola in finale. Sarà Vidmanova a contenderle la vittoria - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Sat, 01 Aug 2026 22:18:48 GMT"
+      "title": "ATP Washington, vittoria e finale per Jodar, che giocherà con Fritz - Diretta",
+      "source": "Diretta",
+      "published": "Sun, 02 Aug 2026 05:19:36 GMT"
     },
     {
       "type": "news",
