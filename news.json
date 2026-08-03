@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-03T07:39:23.041332+00:00",
+  "updated_at": "2026-08-03T10:58:47.406677+00:00",
   "local_date": "2026-08-03",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale un'altra cessione: il comunicato e la formula dell'operazione - NapoliToday",
-      "source": "NapoliToday",
-      "published": "Fri, 31 Jul 2026 12:30:00 GMT"
+      "title": "Calciomercato Napoli, ufficiale un'altra cessione: il comunicato e la formula dell'operazione - napolitoday.it",
+      "source": "napolitoday.it",
+      "published": "Fri, 31 Jul 2026 12:52:06 GMT"
     },
     {
       "type": "news",
@@ -19,9 +19,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale un'altra operazione in uscita per gli azzurri: l'annuncio - NapoliToday",
-      "source": "NapoliToday",
-      "published": "Thu, 30 Jul 2026 18:10:00 GMT"
+      "title": "Calciomercato: l'Inter stringe per Jones, visite mediche e firma per Koulierakis alla Roma - ANSA",
+      "source": "ANSA",
+      "published": "Sat, 01 Aug 2026 17:59:00 GMT"
     },
     {
       "type": "news",
@@ -29,6 +29,13 @@
       "title": "Calciomercato: l'Inter insiste per Jones. La Roma ci prova per Read - ANSA",
       "source": "ANSA",
       "published": "Sun, 02 Aug 2026 17:23:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Ufficiale il calendario della Regular Season della LBA Serie A SisalClub 2026/27: si parte il 27 settembre - legabasket.it",
+      "source": "legabasket.it",
+      "published": "Mon, 03 Aug 2026 10:00:00 GMT"
     },
     {
       "type": "news",
@@ -47,16 +54,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calciomercato Serie A, acquisti ufficiali dell'estate 2026: Juve, ufficiale Kolo Muani - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sun, 02 Aug 2026 16:41:33 GMT"
+      "title": "Serie A, ecco il calendario: via il 27 settembre. Remake della finale Venezia-Milano a fine dicembre - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Mon, 03 Aug 2026 10:35:43 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "È stato convocato in Nazionale e in Champions, il talento dell'Atalanta va da Pippo Inzaghi per migliorare ancora - Sprint e Sport",
-      "source": "Sprint e Sport",
-      "published": "Mon, 03 Aug 2026 06:04:17 GMT"
+      "category": "TENNIS",
+      "title": "Ranking Atp: Sinner n.1 e Alcaraz scavalca Zverev, Cobolli sempre più su - lapresse.it",
+      "source": "lapresse.it",
+      "published": "Mon, 03 Aug 2026 08:34:50 GMT"
     },
     {
       "type": "news",
@@ -68,23 +75,16 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Ranking Atp, 83 settimane da numero uno del mondo per Sinner. Cobolli sale 8°, Alcaraz torna 2 - Il Quotidiano del Sud",
+      "source": "Il Quotidiano del Sud",
+      "published": "Mon, 03 Aug 2026 10:31:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Tennis oggi · ATP Montreal 2026 e WTA Toronto: Risultati di tutte le partite in diretta - olympics.com",
       "source": "olympics.com",
       "published": "Sun, 02 Aug 2026 16:01:42 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ranking Atp, Alcaraz si riprende il secondo posto - ANSA",
-      "source": "ANSA",
-      "published": "Mon, 03 Aug 2026 07:16:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "ATP Washington: Musetti rimontato, Jodar in semifinale - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Sat, 01 Aug 2026 00:49:13 GMT"
     },
     {
       "type": "news",
@@ -110,8 +110,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
-      "source": "FITP",
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - fitp.it",
+      "source": "fitp.it",
       "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     }
   ]
