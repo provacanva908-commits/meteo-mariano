@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-03T22:30:12.725238+00:00",
+  "updated_at": "2026-08-03T23:42:08.981053+00:00",
   "local_date": "2026-08-04",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato, Palermo in trattativa con l'Olympiacos per Gabriel Strefezza: accordo vicino - PalermoToday",
-      "source": "PalermoToday",
+      "title": "Calciomercato, Palermo in trattativa con l'Olympiacos per Gabriel Strefezza: accordo vicino - palermotoday.it",
+      "source": "palermotoday.it",
       "published": "Mon, 03 Aug 2026 16:46:14 GMT"
     },
     {
@@ -19,29 +19,22 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale | Vasilije Adzic passa in prestito al Sassuolo - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Mon, 03 Aug 2026 15:47:35 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "Ufficiale | Joao Mario in prestito alla Fiorentina - Juventus.com",
       "source": "Juventus.com",
       "published": "Mon, 03 Aug 2026 16:47:40 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Basket, il calendario della serie A: si parte con Milano-Trieste, Varese-Bologna e Roma-Napoli - la Repubblica",
-      "source": "la Repubblica",
-      "published": "Mon, 03 Aug 2026 10:27:51 GMT"
+      "category": "CALCIOMERCATO",
+      "title": "Ufficiale | Vasilije Adzic passa in prestito al Sassuolo - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Mon, 03 Aug 2026 15:47:35 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Premi Uefa '26-'27, almeno 56,5 milioni all'Inter. Le cifre di Juve, Milan, Roma e Napoli - Sky Sport",
-      "source": "Sky Sport",
+      "title": "Premi Uefa '26-'27, almeno 56,5 milioni all'Inter. Le cifre di Juve, Milan, Roma e Napoli - sport.sky.it",
+      "source": "sport.sky.it",
       "published": "Mon, 03 Aug 2026 19:11:52 GMT"
     },
     {
@@ -54,9 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Amichevoli Serie A, risultati e marcatori di oggi: in campo Atalanta, Lazio e Torino - Sky Sport",
-      "source": "Sky Sport",
+      "title": "Amichevoli Serie A, risultati e marcatori di oggi: in campo Atalanta, Lazio e Torino - sport.sky.it",
+      "source": "sport.sky.it",
       "published": "Sun, 02 Aug 2026 09:00:43 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "LBA, il calendario ufficiale della Serie A 2026/2027 - Pallacanestro Trieste",
+      "source": "Pallacanestro Trieste",
+      "published": "Mon, 03 Aug 2026 10:35:00 GMT"
     },
     {
       "type": "news",
