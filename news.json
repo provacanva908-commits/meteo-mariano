@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-03T10:58:47.406677+00:00",
+  "updated_at": "2026-08-03T13:46:28.878447+00:00",
   "local_date": "2026-08-03",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale un'altra cessione: il comunicato e la formula dell'operazione - napolitoday.it",
-      "source": "napolitoday.it",
+      "title": "Calciomercato Napoli, ufficiale un'altra cessione: il comunicato e la formula dell'operazione - NapoliToday",
+      "source": "NapoliToday",
       "published": "Fri, 31 Jul 2026 12:52:06 GMT"
     },
     {
@@ -19,9 +19,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato: l'Inter stringe per Jones, visite mediche e firma per Koulierakis alla Roma - ANSA",
-      "source": "ANSA",
-      "published": "Sat, 01 Aug 2026 17:59:00 GMT"
+      "title": "Calciomercato Pisa. Ufficiale, Durmush allo spezia in prestito con diritto di riscatto e contro riscatto - SestaPorta.News Pisa",
+      "source": "SestaPorta.News Pisa",
+      "published": "Mon, 03 Aug 2026 12:34:50 GMT"
     },
     {
       "type": "news",
@@ -33,9 +33,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Ufficiale il calendario della Regular Season della LBA Serie A SisalClub 2026/27: si parte il 27 settembre - legabasket.it",
-      "source": "legabasket.it",
+      "title": "Ufficiale il calendario della Regular Season della LBA Serie A SisalClub 2026/27: si parte il 27 settembre - Lega Basket Serie A",
+      "source": "Lega Basket Serie A",
       "published": "Mon, 03 Aug 2026 10:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "LBA, il calendario ufficiale della Serie A 2026/2027 - Pallacanestro Trieste",
+      "source": "Pallacanestro Trieste",
+      "published": "Mon, 03 Aug 2026 10:35:00 GMT"
     },
     {
       "type": "news",
@@ -47,16 +54,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "PARA CLIMBING: AD ARCO LA NAZIONALE AZZURRA PREPARA I PROSSIMI APPUNTAMENTI INTERNAZIONALI - Federazione Arrampicata Sportiva Italiana",
-      "source": "Federazione Arrampicata Sportiva Italiana",
-      "published": "Mon, 03 Aug 2026 05:12:51 GMT"
+      "title": "Bar e locali dove vedere le partite amichevoli di calcio Serie A a Roma e nel Lazio - DAZN",
+      "source": "DAZN",
+      "published": "Mon, 03 Aug 2026 13:15:04 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, ecco il calendario: via il 27 settembre. Remake della finale Venezia-Milano a fine dicembre - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Mon, 03 Aug 2026 10:35:43 GMT"
+      "category": "TENNIS",
+      "title": "Classifica Atp LIVE: cosa cambia dopo il forfait di Alcaraz a Roma e al Roland Garros, il distacco da Sinner - corrieredellosport.it",
+      "source": "corrieredellosport.it",
+      "published": "Mon, 03 Aug 2026 08:19:00 GMT"
     },
     {
       "type": "news",
@@ -68,23 +75,16 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Ranking ATP (3 agosto 2026): Sinner leader, Alcaraz si riprende il numero 2 - OA Sport",
+      "source": "OA Sport",
+      "published": "Mon, 03 Aug 2026 07:22:25 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Djokovic torna a Cincinnati per preparare lo Us Open: reunion di lusso con Sinner e Alcaraz - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Fri, 31 Jul 2026 12:52:35 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ranking Atp, 83 settimane da numero uno del mondo per Sinner. Cobolli sale 8°, Alcaraz torna 2 - Il Quotidiano del Sud",
-      "source": "Il Quotidiano del Sud",
-      "published": "Mon, 03 Aug 2026 10:31:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Tennis oggi · ATP Montreal 2026 e WTA Toronto: Risultati di tutte le partite in diretta - olympics.com",
-      "source": "olympics.com",
-      "published": "Sun, 02 Aug 2026 16:01:42 GMT"
     },
     {
       "type": "news",
@@ -110,8 +110,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - fitp.it",
-      "source": "fitp.it",
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
+      "source": "FITP",
       "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     }
   ]
