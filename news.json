@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-03T21:16:40.450974+00:00",
-  "local_date": "2026-08-03",
+  "updated_at": "2026-08-03T22:30:12.725238+00:00",
+  "local_date": "2026-08-04",
   "articles": [
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Palermo, ufficiale l'arrivo in prestito di Vavassori dall'Atalanta - PalermoToday",
-      "source": "PalermoToday",
-      "published": "Sat, 01 Aug 2026 09:43:00 GMT"
-    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -22,6 +15,13 @@
       "title": "Calciomercato Napoli, gli azzurri acquistano un giovane talento a titolo definitivo: il comunicato ufficiale - NapoliToday",
       "source": "NapoliToday",
       "published": "Mon, 03 Aug 2026 14:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Ufficiale | Vasilije Adzic passa in prestito al Sassuolo - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Mon, 03 Aug 2026 15:47:35 GMT"
     },
     {
       "type": "news",
