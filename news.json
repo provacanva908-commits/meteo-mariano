@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T13:46:28.878447+00:00",
+  "updated_at": "2026-08-03T16:11:27.081748+00:00",
   "local_date": "2026-08-03",
   "articles": [
     {
@@ -12,9 +12,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Palermo, ufficiale l'arrivo in prestito di Vavassori dall'Atalanta - PalermoToday",
-      "source": "PalermoToday",
-      "published": "Sat, 01 Aug 2026 09:43:00 GMT"
+      "title": "Calciomercato Napoli, gli azzurri acquistano un giovane talento a titolo definitivo: il comunicato ufficiale - NapoliToday",
+      "source": "NapoliToday",
+      "published": "Mon, 03 Aug 2026 14:00:00 GMT"
     },
     {
       "type": "news",
@@ -26,9 +26,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato: l'Inter insiste per Jones. La Roma ci prova per Read - ANSA",
-      "source": "ANSA",
-      "published": "Sun, 02 Aug 2026 17:23:00 GMT"
+      "title": "Ufficiale | Vasilije Adzic passa in prestito al Sassuolo - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Mon, 03 Aug 2026 15:47:35 GMT"
     },
     {
       "type": "news",
@@ -54,15 +54,22 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Bar e locali dove vedere le partite amichevoli di calcio Serie A a Roma e nel Lazio - DAZN",
-      "source": "DAZN",
-      "published": "Mon, 03 Aug 2026 13:15:04 GMT"
+      "title": "Basket, serie A, arriva il calendario 2026/27. La Maxima Roma esordirà in casa contro Napoli, la SPQR a Treviso - Corriere Adriatico",
+      "source": "Corriere Adriatico",
+      "published": "Mon, 03 Aug 2026 12:57:30 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Classifica Atp LIVE: cosa cambia dopo il forfait di Alcaraz a Roma e al Roland Garros, il distacco da Sinner - corrieredellosport.it",
-      "source": "corrieredellosport.it",
+      "title": "Il ranking Atp verso gli Us Open: ecco chi può trovare Sinner in semifinale - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Mon, 03 Aug 2026 16:07:30 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Classifica Atp LIVE: cosa cambia dopo il forfait di Alcaraz a Roma e al Roland Garros, il distacco da Sinner - Corriere dello Sport",
+      "source": "Corriere dello Sport",
       "published": "Mon, 03 Aug 2026 08:19:00 GMT"
     },
     {
@@ -71,13 +78,6 @@
       "title": "Ranking Atp: Sinner n.1 e Alcaraz scavalca Zverev, Cobolli sempre più su - lapresse.it",
       "source": "lapresse.it",
       "published": "Mon, 03 Aug 2026 08:34:50 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ranking ATP (3 agosto 2026): Sinner leader, Alcaraz si riprende il numero 2 - OA Sport",
-      "source": "OA Sport",
-      "published": "Mon, 03 Aug 2026 07:22:25 GMT"
     },
     {
       "type": "news",
@@ -96,6 +96,13 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "Pretoria P1: Coello e Tapia, niente finale dopo 27 tornei! - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Sun, 02 Aug 2026 08:43:45 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "Tapia e Coello interrompono la loro routine... prima di sfoggiare di nuovo i loro abiti portafortuna a Pretoria. - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sat, 01 Aug 2026 09:21:00 GMT"
@@ -106,13 +113,6 @@
       "title": "FIP Tour – Blanqué e Joris in semifinale in Italia, Vives, Guy de Chamisso e Sireix eliminati ai quarti di finale - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sat, 01 Aug 2026 20:31:05 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
-      "source": "FITP",
-      "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     }
   ]
 }
