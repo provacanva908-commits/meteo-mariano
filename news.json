@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-03T20:00:30.621439+00:00",
+  "updated_at": "2026-08-03T21:16:40.450974+00:00",
   "local_date": "2026-08-03",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Palermo, ufficiale l'arrivo in prestito di Vavassori dall'Atalanta - PalermoToday",
+      "source": "PalermoToday",
+      "published": "Sat, 01 Aug 2026 09:43:00 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -19,16 +26,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale | Joao Mario in prestito alla Fiorentina - juventus.com",
-      "source": "juventus.com",
+      "title": "Ufficiale | Joao Mario in prestito alla Fiorentina - Juventus.com",
+      "source": "Juventus.com",
       "published": "Mon, 03 Aug 2026 16:47:40 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Ufficiale | Vasilije Adzic passa in prestito al Sassuolo - juventus.com",
-      "source": "juventus.com",
-      "published": "Mon, 03 Aug 2026 15:47:35 GMT"
     },
     {
       "type": "news",
@@ -70,7 +70,7 @@
       "category": "TENNIS",
       "title": "Classifica Atp LIVE: cosa cambia dopo il forfait di Alcaraz a Roma e al Roland Garros, il distacco da Sinner - Corriere dello Sport",
       "source": "Corriere dello Sport",
-      "published": "Mon, 03 Aug 2026 08:19:00 GMT"
+      "published": "Mon, 03 Aug 2026 19:49:58 GMT"
     },
     {
       "type": "news",
