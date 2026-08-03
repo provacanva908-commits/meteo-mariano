@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T18:10:31.602004+00:00",
+  "updated_at": "2026-08-03T20:00:30.621439+00:00",
   "local_date": "2026-08-03",
   "articles": [
     {
@@ -19,16 +19,30 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Pisa. Ufficiale, Durmush allo spezia in prestito con diritto di riscatto e contro riscatto - SestaPorta.News Pisa",
-      "source": "SestaPorta.News Pisa",
-      "published": "Mon, 03 Aug 2026 12:34:50 GMT"
+      "title": "Ufficiale | Joao Mario in prestito alla Fiorentina - juventus.com",
+      "source": "juventus.com",
+      "published": "Mon, 03 Aug 2026 16:47:40 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale | Joao Mario in prestito alla Fiorentina - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Mon, 03 Aug 2026 16:43:24 GMT"
+      "title": "Ufficiale | Vasilije Adzic passa in prestito al Sassuolo - juventus.com",
+      "source": "juventus.com",
+      "published": "Mon, 03 Aug 2026 15:47:35 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Basket, il calendario della serie A: si parte con Milano-Trieste, Varese-Bologna e Roma-Napoli - la Repubblica",
+      "source": "la Repubblica",
+      "published": "Mon, 03 Aug 2026 10:27:51 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Premi Uefa '26-'27, almeno 56,5 milioni all'Inter. Le cifre di Juve, Milan, Roma e Napoli - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Mon, 03 Aug 2026 19:11:52 GMT"
     },
     {
       "type": "news",
@@ -40,44 +54,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "LBA, il calendario ufficiale della Serie A 2026/2027 - Pallacanestro Trieste",
-      "source": "Pallacanestro Trieste",
-      "published": "Mon, 03 Aug 2026 10:35:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Amichevoli Serie A, risultati e marcatori di oggi: in campo Atalanta, Lazio e Torino - Sky Sport",
       "source": "Sky Sport",
       "published": "Sun, 02 Aug 2026 09:00:43 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "La composizione ufficiale dei gironi, s.s. 2026-2027 - Lega Nazionale Dilettanti",
-      "source": "Lega Nazionale Dilettanti",
-      "published": "Mon, 03 Aug 2026 16:56:24 GMT"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
       "title": "Il ranking Atp verso gli Us Open: ecco chi può trovare Sinner in semifinale - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
-      "published": "Mon, 03 Aug 2026 16:08:53 GMT"
+      "published": "Mon, 03 Aug 2026 16:08:57 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Classifica Atp LIVE: cosa cambia dopo il forfait di Alcaraz a Roma e al Roland Garros, il distacco da Sinner - corrieredellosport.it",
-      "source": "corrieredellosport.it",
-      "published": "Mon, 03 Aug 2026 09:35:43 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ranking Atp: Sinner n.1 e Alcaraz scavalca Zverev, Cobolli sempre più su - lapresse.it",
-      "source": "lapresse.it",
-      "published": "Mon, 03 Aug 2026 08:34:50 GMT"
+      "title": "Classifica Atp LIVE: cosa cambia dopo il forfait di Alcaraz a Roma e al Roland Garros, il distacco da Sinner - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Mon, 03 Aug 2026 08:19:00 GMT"
     },
     {
       "type": "news",
@@ -85,6 +78,13 @@
       "title": "Djokovic torna a Cincinnati per preparare lo Us Open: reunion di lusso con Sinner e Alcaraz - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Fri, 31 Jul 2026 12:52:35 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Ranking Atp: Sinner n.1 e Alcaraz scavalca Zverev, Cobolli sempre più su - lapresse.it",
+      "source": "lapresse.it",
+      "published": "Mon, 03 Aug 2026 08:34:50 GMT"
     },
     {
       "type": "news",
