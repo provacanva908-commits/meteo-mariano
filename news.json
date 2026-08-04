@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T22:45:43.346259+00:00",
+  "updated_at": "2026-08-04T23:48:02.158264+00:00",
   "local_date": "2026-08-05",
   "articles": [
     {
@@ -68,13 +68,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP/WTA: Alcaraz n. 2. Volano Eala e Jodar, balzo Liutova - Ok Tennis",
-      "source": "Ok Tennis",
-      "published": "Tue, 04 Aug 2026 16:55:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Djokovic torna a Cincinnati per preparare lo Us Open: reunion di lusso con Sinner e Alcaraz - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Fri, 31 Jul 2026 12:52:35 GMT"
@@ -82,9 +75,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP: Sinner settimana 83 in vetta, Alcaraz torna n. 2, Cobolli ottavo per un giorno. Fritz lo sorpassa - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Tue, 04 Aug 2026 08:56:14 GMT"
+      "title": "Classifica Atp LIVE: cosa cambia dopo il forfait di Alcaraz a Roma e al Roland Garros, il distacco da Sinner - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Mon, 03 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Ranking Atp, Alcaraz si riprende il secondo posto - ANSA",
+      "source": "ANSA",
+      "published": "Mon, 03 Aug 2026 07:16:00 GMT"
     },
     {
       "type": "news",
