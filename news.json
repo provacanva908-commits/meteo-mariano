@@ -1,20 +1,13 @@
 {
-  "updated_at": "2026-08-04T14:55:45.902161+00:00",
+  "updated_at": "2026-08-04T16:58:25.528238+00:00",
   "local_date": "2026-08-04",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "BM Mercato | Olimpia Milano, ufficiale Andrea Loro: accordo pluriennale e prestito a Verona - Basket Magazine",
-      "source": "Basket Magazine",
-      "published": "Tue, 04 Aug 2026 14:17:27 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Palermo, ufficiale l'arrivo in prestito di Vavassori dall'Atalanta - PalermoToday",
-      "source": "PalermoToday",
-      "published": "Sat, 01 Aug 2026 09:43:00 GMT"
+      "title": "Calciomercato Napoli, gli azzurri acquistano un giovane talento a titolo definitivo: il comunicato ufficiale - NapoliToday",
+      "source": "NapoliToday",
+      "published": "Mon, 03 Aug 2026 14:00:00 GMT"
     },
     {
       "type": "news",
@@ -26,9 +19,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, gli azzurri acquistano un giovane talento a titolo definitivo: il comunicato ufficiale - napolitoday.it",
-      "source": "napolitoday.it",
-      "published": "Mon, 03 Aug 2026 14:00:00 GMT"
+      "title": "Calciomercato: l'Inter insiste per Jones. La Roma ci prova per Read - ANSA",
+      "source": "ANSA",
+      "published": "Sun, 02 Aug 2026 17:23:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Ufficiale | Vasilije Adzic passa in prestito al Sassuolo - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Mon, 03 Aug 2026 15:47:35 GMT"
     },
     {
       "type": "news",
@@ -47,16 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "COPPA ITALIA | MONZA – AVELLINO: INFO BIGLIETTI - Associazione Calcio Monza S.p.A. *",
-      "source": "Associazione Calcio Monza S.p.A. *",
-      "published": "Tue, 04 Aug 2026 13:06:12 GMT"
+      "title": "Calcio Monza, oggi test con il Milan Futuro. Mercato: ecco Akinsanmiro - MBNews",
+      "source": "MBNews",
+      "published": "Tue, 04 Aug 2026 16:01:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Como, mercato da Champions: spese da record per Fabregas - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Tue, 04 Aug 2026 06:19:11 GMT"
+      "title": "Ufficiale. Aimo Diana è il nuovo allenatore del Perugia Calcio! - TifoGrifo.com",
+      "source": "TifoGrifo.com",
+      "published": "Tue, 04 Aug 2026 15:13:53 GMT"
     },
     {
       "type": "news",
