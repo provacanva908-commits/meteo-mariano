@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T10:07:07.568161+00:00",
+  "updated_at": "2026-08-04T12:18:07.512311+00:00",
   "local_date": "2026-08-04",
   "articles": [
     {
@@ -40,23 +40,23 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Premi Uefa '26-'27, almeno 56,5 milioni all'Inter. Le cifre di Juve, Milan, Roma e Napoli - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Mon, 03 Aug 2026 19:11:52 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "ANBC-FIPE: a Roma l’Assemblea Nazionale del Banqueting e Catering - FIPE - Federazione Italiana Pubblici Esercizi",
+      "source": "FIPE - Federazione Italiana Pubblici Esercizi",
+      "published": "Tue, 04 Aug 2026 10:41:59 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Sondaggi politici oggi: Fratelli d’Italia scende sotto il 27%, Futuro nazionale di Vannacci sale al 7% - Quotidiano Nazionale",
       "source": "Quotidiano Nazionale",
       "published": "Mon, 03 Aug 2026 16:24:02 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Basket, ecco il cammino di Treviso in Serie A: debutto con Roma, poi Milano e il derby con Venezia - TrevisoToday",
-      "source": "TrevisoToday",
-      "published": "Tue, 04 Aug 2026 04:29:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "COPPA ITALIA | MONZA – AVELLINO: INFO BIGLIETTI - acmonza.com",
-      "source": "acmonza.com",
-      "published": "Tue, 04 Aug 2026 10:00:55 GMT"
     },
     {
       "type": "news",
