@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-08-04T12:18:07.512311+00:00",
+  "updated_at": "2026-08-04T14:55:45.902161+00:00",
   "local_date": "2026-08-04",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "BM Mercato | Olimpia Milano, ufficiale Andrea Loro: accordo pluriennale e prestito a Verona - Basket Magazine",
+      "source": "Basket Magazine",
+      "published": "Tue, 04 Aug 2026 14:17:27 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "Calciomercato Palermo, ufficiale l'arrivo in prestito di Vavassori dall'Atalanta - PalermoToday",
       "source": "PalermoToday",
       "published": "Sat, 01 Aug 2026 09:43:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale un'altra cessione: il comunicato e la formula dell'operazione - NapoliToday",
-      "source": "NapoliToday",
-      "published": "Fri, 31 Jul 2026 12:30:00 GMT"
     },
     {
       "type": "news",
@@ -26,8 +26,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, gli azzurri acquistano un giovane talento a titolo definitivo: il comunicato ufficiale - NapoliToday",
-      "source": "NapoliToday",
+      "title": "Calciomercato Napoli, gli azzurri acquistano un giovane talento a titolo definitivo: il comunicato ufficiale - napolitoday.it",
+      "source": "napolitoday.it",
       "published": "Mon, 03 Aug 2026 14:00:00 GMT"
     },
     {
@@ -40,13 +40,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Premi Uefa '26-'27, almeno 56,5 milioni all'Inter. Le cifre di Juve, Milan, Roma e Napoli - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Mon, 03 Aug 2026 19:11:52 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "ANBC-FIPE: a Roma l’Assemblea Nazionale del Banqueting e Catering - FIPE - Federazione Italiana Pubblici Esercizi",
       "source": "FIPE - Federazione Italiana Pubblici Esercizi",
       "published": "Tue, 04 Aug 2026 10:41:59 GMT"
@@ -54,9 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Sondaggi politici oggi: Fratelli d’Italia scende sotto il 27%, Futuro nazionale di Vannacci sale al 7% - Quotidiano Nazionale",
-      "source": "Quotidiano Nazionale",
-      "published": "Mon, 03 Aug 2026 16:24:02 GMT"
+      "title": "COPPA ITALIA | MONZA – AVELLINO: INFO BIGLIETTI - Associazione Calcio Monza S.p.A. *",
+      "source": "Associazione Calcio Monza S.p.A. *",
+      "published": "Tue, 04 Aug 2026 13:06:12 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Como, mercato da Champions: spese da record per Fabregas - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Tue, 04 Aug 2026 06:19:11 GMT"
     },
     {
       "type": "news",
@@ -84,7 +84,7 @@
       "category": "TENNIS",
       "title": "Nuovo ranking ATP: Sinner in vetta, ma alle sue spalle torna Alcaraz. +2 per Musetti - Tennis Magazine Italia",
       "source": "Tennis Magazine Italia",
-      "published": "Tue, 04 Aug 2026 09:33:53 GMT"
+      "published": "Tue, 04 Aug 2026 09:57:27 GMT"
     },
     {
       "type": "news",
