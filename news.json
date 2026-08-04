@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T16:58:25.528238+00:00",
+  "updated_at": "2026-08-04T18:45:03.374917+00:00",
   "local_date": "2026-08-04",
   "articles": [
     {
@@ -40,23 +40,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "ANBC-FIPE: a Roma l’Assemblea Nazionale del Banqueting e Catering - FIPE - Federazione Italiana Pubblici Esercizi",
-      "source": "FIPE - Federazione Italiana Pubblici Esercizi",
-      "published": "Tue, 04 Aug 2026 10:41:59 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Calcio Monza, oggi test con il Milan Futuro. Mercato: ecco Akinsanmiro - MBNews",
-      "source": "MBNews",
-      "published": "Tue, 04 Aug 2026 16:01:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Ufficiale. Aimo Diana è il nuovo allenatore del Perugia Calcio! - TifoGrifo.com",
       "source": "TifoGrifo.com",
       "published": "Tue, 04 Aug 2026 15:13:53 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Como, mercato da Champions: spese da record per Fabregas - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Tue, 04 Aug 2026 06:19:11 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "COPPA ITALIA | MONZA – AVELLINO: INFO BIGLIETTI - Associazione Calcio Monza S.p.A. *",
+      "source": "Associazione Calcio Monza S.p.A. *",
+      "published": "Tue, 04 Aug 2026 13:06:12 GMT"
     },
     {
       "type": "news",
@@ -75,16 +75,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP: Sinner settimana 83 in vetta, Alcaraz torna n. 2, Cobolli ottavo per un giorno. Fritz lo sorpassa - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Tue, 04 Aug 2026 08:56:14 GMT"
+      "title": "Ranking ATP/WTA: Alcaraz n. 2. Volano Eala e Jodar, balzo Liutova - oktennis.it",
+      "source": "oktennis.it",
+      "published": "Tue, 04 Aug 2026 16:55:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Nuovo ranking ATP: Sinner in vetta, ma alle sue spalle torna Alcaraz. +2 per Musetti - Tennis Magazine Italia",
-      "source": "Tennis Magazine Italia",
-      "published": "Tue, 04 Aug 2026 09:57:27 GMT"
+      "title": "Mouratoglou: \"Alcaraz è il miglior tennista a Parigi ed agli Us Open, Sinner invece è il migliore agli AO Open e a Wimbledon\" - Il Tennis Italiano",
+      "source": "Il Tennis Italiano",
+      "published": "Tue, 04 Aug 2026 14:48:33 GMT"
     },
     {
       "type": "news",
