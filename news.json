@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-04T20:14:08.196548+00:00",
+  "updated_at": "2026-08-04T21:41:23.234636+00:00",
   "local_date": "2026-08-04",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, gli azzurri acquistano un giovane talento a titolo definitivo: il comunicato ufficiale - napolitoday.it",
-      "source": "napolitoday.it",
+      "title": "Calciomercato Napoli, gli azzurri acquistano un giovane talento a titolo definitivo: il comunicato ufficiale - NapoliToday",
+      "source": "NapoliToday",
       "published": "Mon, 03 Aug 2026 14:00:00 GMT"
     },
     {
@@ -47,8 +47,8 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "MONZA-MILAN FUTURO 4-2 NELLA QUARTA AMICHEVOLE ESTIVA - Associazione Calcio Monza S.p.A. *",
-      "source": "Associazione Calcio Monza S.p.A. *",
+      "title": "MONZA-MILAN FUTURO 4-2 NELLA QUARTA AMICHEVOLE ESTIVA - acmonza.com",
+      "source": "acmonza.com",
       "published": "Tue, 04 Aug 2026 18:25:16 GMT"
     },
     {
@@ -68,23 +68,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Classifica Atp LIVE: cosa cambia dopo il forfait di Alcaraz a Roma e al Roland Garros, il distacco da Sinner - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Tue, 04 Aug 2026 08:59:55 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ranking ATP/WTA: Alcaraz n. 2. Volano Eala e Jodar, balzo Liutova - oktennis.it",
-      "source": "oktennis.it",
+      "title": "Ranking ATP/WTA: Alcaraz n. 2. Volano Eala e Jodar, balzo Liutova - Ok Tennis",
+      "source": "Ok Tennis",
       "published": "Tue, 04 Aug 2026 16:55:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Mouratoglou: \"Alcaraz è il miglior tennista a Parigi ed agli Us Open, Sinner invece è il migliore agli AO Open e a Wimbledon\" - tennisitaliano.it",
-      "source": "tennisitaliano.it",
+      "title": "Mouratoglou: \"Alcaraz è il miglior tennista a Parigi ed agli Us Open, Sinner invece è il migliore agli AO Open e a Wimbledon\" - Il Tennis Italiano",
+      "source": "Il Tennis Italiano",
       "published": "Tue, 04 Aug 2026 14:48:33 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Ranking ATP: Sinner settimana 83 in vetta, Alcaraz torna n. 2, Cobolli ottavo per un giorno. Fritz lo sorpassa - Ubitennis",
+      "source": "Ubitennis",
+      "published": "Tue, 04 Aug 2026 08:56:14 GMT"
     },
     {
       "type": "news",
@@ -110,9 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Tour – Blanqué e Joris in semifinale in Italia, Vives, Guy de Chamisso e Sireix eliminati ai quarti di finale - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sat, 01 Aug 2026 20:31:05 GMT"
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
+      "source": "FITP",
+      "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     }
   ]
 }
