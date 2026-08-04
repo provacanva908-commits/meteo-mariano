@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-04T18:45:03.374917+00:00",
+  "updated_at": "2026-08-04T20:14:08.196548+00:00",
   "local_date": "2026-08-04",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, gli azzurri acquistano un giovane talento a titolo definitivo: il comunicato ufficiale - NapoliToday",
-      "source": "NapoliToday",
+      "title": "Calciomercato Napoli, gli azzurri acquistano un giovane talento a titolo definitivo: il comunicato ufficiale - napolitoday.it",
+      "source": "napolitoday.it",
       "published": "Mon, 03 Aug 2026 14:00:00 GMT"
     },
     {
@@ -40,9 +40,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Ufficiale. Aimo Diana è il nuovo allenatore del Perugia Calcio! - TifoGrifo.com",
-      "source": "TifoGrifo.com",
-      "published": "Tue, 04 Aug 2026 15:13:53 GMT"
+      "title": "Calcio Monza, oggi test con il Milan Futuro. Mercato: ecco Akinsanmiro - MBNews",
+      "source": "MBNews",
+      "published": "Tue, 04 Aug 2026 16:01:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "MONZA-MILAN FUTURO 4-2 NELLA QUARTA AMICHEVOLE ESTIVA - Associazione Calcio Monza S.p.A. *",
+      "source": "Associazione Calcio Monza S.p.A. *",
+      "published": "Tue, 04 Aug 2026 18:25:16 GMT"
     },
     {
       "type": "news",
@@ -50,13 +57,6 @@
       "title": "Como, mercato da Champions: spese da record per Fabregas - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Tue, 04 Aug 2026 06:19:11 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "COPPA ITALIA | MONZA – AVELLINO: INFO BIGLIETTI - Associazione Calcio Monza S.p.A. *",
-      "source": "Associazione Calcio Monza S.p.A. *",
-      "published": "Tue, 04 Aug 2026 13:06:12 GMT"
     },
     {
       "type": "news",
@@ -82,8 +82,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Mouratoglou: \"Alcaraz è il miglior tennista a Parigi ed agli Us Open, Sinner invece è il migliore agli AO Open e a Wimbledon\" - Il Tennis Italiano",
-      "source": "Il Tennis Italiano",
+      "title": "Mouratoglou: \"Alcaraz è il miglior tennista a Parigi ed agli Us Open, Sinner invece è il migliore agli AO Open e a Wimbledon\" - tennisitaliano.it",
+      "source": "tennisitaliano.it",
       "published": "Tue, 04 Aug 2026 14:48:33 GMT"
     },
     {
