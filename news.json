@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-08-04T04:32:14.438128+00:00",
+  "updated_at": "2026-08-04T07:20:05.787122+00:00",
   "local_date": "2026-08-04",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Palermo, ufficiale l'arrivo in prestito di Vavassori dall'Atalanta - PalermoToday",
+      "source": "PalermoToday",
+      "published": "Sat, 01 Aug 2026 09:43:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli, ufficiale un'altra cessione: il comunicato e la formula dell'operazione - NapoliToday",
+      "source": "NapoliToday",
+      "published": "Fri, 31 Jul 2026 12:30:00 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -18,17 +32,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato: Inter su Diaby, Juventus e Roma al lavoro - Il Globo",
-      "source": "Il Globo",
-      "published": "Mon, 03 Aug 2026 23:20:18 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Ufficiale | Vasilije Adzic passa in prestito al Sassuolo - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Mon, 03 Aug 2026 15:47:35 GMT"
+      "category": "CALCIO",
+      "title": "Amichevoli Serie A, risultati e marcatori di oggi: in campo Atalanta, Lazio e Torino - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sun, 02 Aug 2026 09:00:43 GMT"
     },
     {
       "type": "news",
@@ -40,13 +47,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Amichevoli Serie A, risultati e marcatori di oggi: in campo Atalanta, Lazio e Torino - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sun, 02 Aug 2026 09:00:43 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Ufficiale il calendario della Regular Season della LBA Serie A SisalClub 2026/27: si parte il 27 settembre - Lega Basket Serie A",
       "source": "Lega Basket Serie A",
       "published": "Mon, 03 Aug 2026 10:00:00 GMT"
@@ -54,9 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "LBA, il calendario ufficiale della Serie A 2026/2027 - Pallacanestro Trieste",
-      "source": "Pallacanestro Trieste",
-      "published": "Mon, 03 Aug 2026 10:35:00 GMT"
+      "title": "La composizione ufficiale dei gironi 2026-2027 - Lega Nazionale Dilettanti",
+      "source": "Lega Nazionale Dilettanti",
+      "published": "Mon, 03 Aug 2026 16:56:24 GMT"
     },
     {
       "type": "news",
@@ -70,7 +70,7 @@
       "category": "TENNIS",
       "title": "Classifica Atp LIVE: cosa cambia dopo il forfait di Alcaraz a Roma e al Roland Garros, il distacco da Sinner - Corriere dello Sport",
       "source": "Corriere dello Sport",
-      "published": "Mon, 03 Aug 2026 08:19:00 GMT"
+      "published": "Tue, 04 Aug 2026 05:58:12 GMT"
     },
     {
       "type": "news",
@@ -82,9 +82,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking Atp: Sinner n.1 e Alcaraz scavalca Zverev, Cobolli sempre più su - lapresse.it",
-      "source": "lapresse.it",
-      "published": "Mon, 03 Aug 2026 08:34:50 GMT"
+      "title": "Sinner quando gioca? Da Cincinnati agli Us Open, il programma di Jannik e l'attuale ranking - Il Messaggero",
+      "source": "Il Messaggero",
+      "published": "Mon, 03 Aug 2026 16:06:19 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Mon, 20 Jul 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -106,13 +113,6 @@
       "title": "FIP Tour – Blanqué e Joris in semifinale in Italia, Vives, Guy de Chamisso e Sireix eliminati ai quarti di finale - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sat, 01 Aug 2026 20:31:05 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Traguardo monumentale: Leal e Guerrero interrompono la striscia vincente di Coello e Tapia e accedono alla finale di Pretoria - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sat, 01 Aug 2026 18:50:47 GMT"
     }
   ]
 }
