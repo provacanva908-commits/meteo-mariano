@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T22:18:33.271026+00:00",
+  "updated_at": "2026-08-05T23:27:03.133973+00:00",
   "local_date": "2026-08-06",
   "articles": [
     {
@@ -12,15 +12,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale la cessione di Gutierrez: il comunicato del club azzurro - NapoliToday",
-      "source": "NapoliToday",
-      "published": "Wed, 05 Aug 2026 08:15:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Napoli, ufficiale la cessione di Gutierrez al Bayer Leverkusen: i dettagli dell'accordo - Corriere dello Sport",
-      "source": "Corriere dello Sport",
+      "title": "Napoli, ufficiale la cessione di Gutierrez al Bayer Leverkusen: i dettagli dell'accordo - corrieredellosport.it",
+      "source": "corrieredellosport.it",
       "published": "Wed, 05 Aug 2026 08:41:00 GMT"
     },
     {
@@ -29,6 +22,13 @@
       "title": "Calciomercato Napoli, gli azzurri acquistano un giovane talento a titolo definitivo: il comunicato ufficiale - NapoliToday",
       "source": "NapoliToday",
       "published": "Mon, 03 Aug 2026 14:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Lazio: Lotito pesca dal Belgio il nuovo difensore per Gattuso - RomaToday",
+      "source": "RomaToday",
+      "published": "Wed, 05 Aug 2026 11:10:00 GMT"
     },
     {
       "type": "news",
@@ -68,9 +68,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Classifica Atp LIVE: cosa cambia dopo il forfait di Alcaraz a Roma e al Roland Garros, il distacco da Sinner - Corriere dello Sport",
-      "source": "Corriere dello Sport",
+      "title": "Classifica Atp LIVE: cosa cambia dopo il forfait di Alcaraz a Roma e al Roland Garros, il distacco da Sinner - corrieredellosport.it",
+      "source": "corrieredellosport.it",
       "published": "Mon, 03 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Nargiso: “Sinner e Alcaraz? Vi spiego perché nel tennis di oggi ci sono tanti infortuni” - la Repubblica",
+      "source": "la Repubblica",
+      "published": "Wed, 05 Aug 2026 22:37:49 GMT"
     },
     {
       "type": "news",
@@ -78,13 +85,6 @@
       "title": "Sinner quando gioca? Da Cincinnati agli Us Open, il programma di Jannik e l'attuale ranking - Il Messaggero",
       "source": "Il Messaggero",
       "published": "Wed, 05 Aug 2026 06:17:58 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ranking ATP: Sinner raggiunge le 83 settimane da n.1, Jodar debutta in Top 15 - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Tue, 04 Aug 2026 08:04:41 GMT"
     },
     {
       "type": "news",
@@ -103,16 +103,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
-      "source": "FITP",
-      "published": "Thu, 02 Jul 2026 17:00:00 GMT"
+      "title": "Tapia e Coello interrompono la loro routine... prima di sfoggiare di nuovo i loro abiti portafortuna a Pretoria. - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 01 Aug 2026 09:21:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 02 Aug 2026 21:04:47 GMT"
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
+      "source": "FITP",
+      "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     }
   ]
 }
