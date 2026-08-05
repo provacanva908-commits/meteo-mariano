@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T16:22:39.126945+00:00",
+  "updated_at": "2026-08-05T18:03:58.406318+00:00",
   "local_date": "2026-08-05",
   "articles": [
     {
@@ -33,6 +33,20 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Il calcio in TV oggi, mercoledì 5 agosto: prima Milan-Inter, poi Juventus, Lazio e Napoli. Dove vederle - Libero",
+      "source": "Libero",
+      "published": "Wed, 05 Aug 2026 08:28:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Lazio-Mantova, Lotito chiude curve e distinti per la partita di Coppa Italia - romatoday.it",
+      "source": "romatoday.it",
+      "published": "Wed, 05 Aug 2026 13:39:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Amichevoli Serie A, risultati e marcatori di oggi: in campo Atalanta, Lazio e Torino - Sky Sport",
       "source": "Sky Sport",
       "published": "Sun, 02 Aug 2026 09:00:43 GMT"
@@ -43,20 +57,6 @@
       "title": "Ufficiale: Zola torna in Nazionale. Malagò: \"Coordinerà i progetti giovanili del Club Italia\" - Goal.com",
       "source": "Goal.com",
       "published": "Wed, 05 Aug 2026 12:45:41 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Guide turistiche: è possibile richiedere il nuovo tesserino ufficiale nazionale di riconoscimento - CNA Modena",
-      "source": "CNA Modena",
-      "published": "Wed, 05 Aug 2026 13:54:42 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A a Perth: il calcio italiano conquista l’Australia - We Build Value",
-      "source": "We Build Value",
-      "published": "Wed, 05 Aug 2026 09:33:30 GMT"
     },
     {
       "type": "news",
@@ -75,16 +75,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner quando gioca? Da Cincinnati agli Us Open, il programma di Jannik e l'attuale ranking - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "Wed, 05 Aug 2026 14:11:48 GMT"
+      "title": "Djokovic torna a Cincinnati per preparare lo Us Open: reunion di lusso con Sinner e Alcaraz - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Fri, 31 Jul 2026 12:52:35 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner, blitz a Milano: come sta il n.1 prima degli US Open - Oggi",
-      "source": "Oggi",
-      "published": "Wed, 05 Aug 2026 05:32:44 GMT"
+      "title": "Sinner quando gioca? Da Cincinnati agli Us Open, il programma di Jannik e l'attuale ranking - Il Messaggero",
+      "source": "Il Messaggero",
+      "published": "Wed, 05 Aug 2026 06:17:58 GMT"
     },
     {
       "type": "news",
