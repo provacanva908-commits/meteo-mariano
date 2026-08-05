@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T10:08:54.252672+00:00",
+  "updated_at": "2026-08-05T12:17:03.369565+00:00",
   "local_date": "2026-08-05",
   "articles": [
     {
@@ -12,6 +12,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli, ufficiale la cessione di Gutierrez al Bayer Leverkusen - Il Mattino",
+      "source": "Il Mattino",
+      "published": "Wed, 05 Aug 2026 08:10:14 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Calciomercato Roma, accordo con Molina e l’Atletico: le cifre del trasferimento - Il Riformista",
       "source": "Il Riformista",
       "published": "Wed, 05 Aug 2026 07:25:00 GMT"
@@ -19,16 +26,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, gli azzurri acquistano un giovane talento a titolo definitivo: il comunicato ufficiale - NapoliToday",
-      "source": "NapoliToday",
-      "published": "Mon, 03 Aug 2026 14:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato, Palermo in trattativa con l'Olympiacos per Gabriel Strefezza: accordo vicino - PalermoToday",
-      "source": "PalermoToday",
-      "published": "Mon, 03 Aug 2026 16:46:14 GMT"
+      "title": "Napoli, ufficiale la cessione di Gutierrez al Bayer Leverkusen: i dettagli dell'accordo - corrieredellosport.it",
+      "source": "corrieredellosport.it",
+      "published": "Wed, 05 Aug 2026 08:41:00 GMT"
     },
     {
       "type": "news",
@@ -40,23 +40,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Amichevoli Serie A, risultati e marcatori di oggi: in campo Atalanta, Lazio e Torino - sport.sky.it",
-      "source": "sport.sky.it",
+      "title": "Amichevoli Serie A, risultati e marcatori di oggi: in campo Atalanta, Lazio e Torino - Sky Sport",
+      "source": "Sky Sport",
       "published": "Sun, 02 Aug 2026 09:00:43 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "MONZA-MILAN FUTURO 4-2 NELLA QUARTA AMICHEVOLE ESTIVA - acmonza.com",
-      "source": "acmonza.com",
-      "published": "Tue, 04 Aug 2026 18:25:16 GMT"
+      "title": "Serie A Q8, Play Off Promozione: Roma parte forte. Icierre Lamezia subito avanti nella notte di Scoglitti - Lega Nazionale Dilettanti",
+      "source": "Lega Nazionale Dilettanti",
+      "published": "Wed, 05 Aug 2026 12:03:41 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A a Perth: il calcio italiano conquista l’Australia - We Build Value",
-      "source": "We Build Value",
-      "published": "Wed, 05 Aug 2026 09:33:30 GMT"
+      "title": "Reale Mutua Torino, ufficiale la firma del giovane Alberto Mossi - Lega Nazionale Pallacanestro",
+      "source": "Lega Nazionale Pallacanestro",
+      "published": "Wed, 05 Aug 2026 10:27:57 GMT"
     },
     {
       "type": "news",
@@ -68,8 +68,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Classifica Atp LIVE: cosa cambia dopo il forfait di Alcaraz a Roma e al Roland Garros, il distacco da Sinner - Corriere dello Sport",
-      "source": "Corriere dello Sport",
+      "title": "Classifica Atp LIVE: cosa cambia dopo il forfait di Alcaraz a Roma e al Roland Garros, il distacco da Sinner - corrieredellosport.it",
+      "source": "corrieredellosport.it",
       "published": "Mon, 03 Aug 2026 07:00:00 GMT"
     },
     {
@@ -84,7 +84,7 @@
       "category": "TENNIS",
       "title": "Sinner quando gioca? Da Cincinnati agli Us Open, il programma di Jannik e l'attuale ranking - Il Messaggero",
       "source": "Il Messaggero",
-      "published": "Wed, 05 Aug 2026 09:46:11 GMT"
+      "published": "Wed, 05 Aug 2026 09:47:11 GMT"
     },
     {
       "type": "news",
@@ -110,9 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Tour – Blanqué e Joris in semifinale in Italia, Vives, Guy de Chamisso e Sireix eliminati ai quarti di finale - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sat, 01 Aug 2026 20:31:05 GMT"
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
+      "source": "FITP",
+      "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     }
   ]
 }
