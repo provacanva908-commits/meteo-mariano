@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-05T01:18:52.250628+00:00",
+  "updated_at": "2026-08-05T04:37:11.282500+00:00",
   "local_date": "2026-08-05",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Palermo, ufficiale l'arrivo in prestito di Vavassori dall'Atalanta - PalermoToday",
+      "source": "PalermoToday",
+      "published": "Sat, 01 Aug 2026 09:43:00 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -19,16 +26,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale | Vasilije Adzic passa in prestito al Sassuolo - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Mon, 03 Aug 2026 15:47:35 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato: l'Inter insiste per Jones. La Roma ci prova per Read - ANSA",
-      "source": "ANSA",
-      "published": "Sun, 02 Aug 2026 17:23:00 GMT"
+      "title": "Calciomercato, news di oggi in diretta: Roma vicina a Molina, Nico Gonzalez all'Inter può portare Frattesi alla Juve - fanpage.it",
+      "source": "fanpage.it",
+      "published": "Wed, 05 Aug 2026 04:30:09 GMT"
     },
     {
       "type": "news",
@@ -54,9 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Como, mercato da Champions: spese da record per Fabregas - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Tue, 04 Aug 2026 06:19:11 GMT"
+      "title": "Scuole di specializzazione Odontoiatria, Senna (CAO nazionale): “Bene sblocco, che garantisce continuità delle cure venendo incontro ai fabbisogni assistenziali della popolazione” - portale.fnomceo.it",
+      "source": "portale.fnomceo.it",
+      "published": "Tue, 04 Aug 2026 16:20:01 GMT"
     },
     {
       "type": "news",
@@ -82,9 +82,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking Atp, Alcaraz si riprende il secondo posto - ANSA",
-      "source": "ANSA",
-      "published": "Mon, 03 Aug 2026 07:16:00 GMT"
+      "title": "Atp Montreal, italiani in campo oggi (senza Sinner): come vederli in tv e streaming - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Tue, 04 Aug 2026 10:46:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Mon, 20 Jul 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -106,13 +113,6 @@
       "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
       "source": "FITP",
       "published": "Thu, 02 Jul 2026 17:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 02 Aug 2026 21:04:47 GMT"
     }
   ]
 }
