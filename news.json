@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T04:37:11.282500+00:00",
+  "updated_at": "2026-08-05T07:24:36.394770+00:00",
   "local_date": "2026-08-05",
   "articles": [
     {
@@ -12,23 +12,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli, ufficiale un'altra cessione: il comunicato e la formula dell'operazione - NapoliToday",
+      "source": "NapoliToday",
+      "published": "Fri, 31 Jul 2026 12:30:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato, news di oggi in diretta: Roma vicina a Molina, Nico Gonzalez all'Inter può portare Frattesi alla Juve - Fanpage",
+      "source": "Fanpage",
+      "published": "Wed, 05 Aug 2026 04:30:09 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Calciomercato Napoli, gli azzurri acquistano un giovane talento a titolo definitivo: il comunicato ufficiale - NapoliToday",
       "source": "NapoliToday",
       "published": "Mon, 03 Aug 2026 14:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato, Palermo in trattativa con l'Olympiacos per Gabriel Strefezza: accordo vicino - PalermoToday",
-      "source": "PalermoToday",
-      "published": "Mon, 03 Aug 2026 16:46:14 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato, news di oggi in diretta: Roma vicina a Molina, Nico Gonzalez all'Inter può portare Frattesi alla Juve - fanpage.it",
-      "source": "fanpage.it",
-      "published": "Wed, 05 Aug 2026 04:30:09 GMT"
     },
     {
       "type": "news",
@@ -40,9 +40,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "FIRMATA OGGI LA CONCESSIONE DI AUTODROMO NAZIONALE MONZA AD ACI FINO AL 31 DICEMBRE 2044 - Autodromo Nazionale Monza",
-      "source": "Autodromo Nazionale Monza",
-      "published": "Tue, 04 Aug 2026 16:30:50 GMT"
+      "title": "PARA CLIMBING: AD ARCO LA NAZIONALE AZZURRA PREPARA I PROSSIMI APPUNTAMENTI INTERNAZIONALI - Federazione Arrampicata Sportiva Italiana",
+      "source": "Federazione Arrampicata Sportiva Italiana",
+      "published": "Mon, 03 Aug 2026 05:12:51 GMT"
     },
     {
       "type": "news",
@@ -68,6 +68,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Ranking ATP/WTA: Alcaraz n. 2. Volano Eala e Jodar, balzo Liutova - oktennis.it",
+      "source": "oktennis.it",
+      "published": "Tue, 04 Aug 2026 16:55:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Djokovic torna a Cincinnati per preparare lo Us Open: reunion di lusso con Sinner e Alcaraz - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Fri, 31 Jul 2026 12:52:35 GMT"
@@ -78,13 +85,6 @@
       "title": "Classifica Atp LIVE: cosa cambia dopo il forfait di Alcaraz a Roma e al Roland Garros, il distacco da Sinner - Corriere dello Sport",
       "source": "Corriere dello Sport",
       "published": "Mon, 03 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Atp Montreal, italiani in campo oggi (senza Sinner): come vederli in tv e streaming - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Tue, 04 Aug 2026 10:46:00 GMT"
     },
     {
       "type": "news",
@@ -110,9 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
-      "source": "FITP",
-      "published": "Thu, 02 Jul 2026 17:00:00 GMT"
+      "title": "FIP Tour – Blanqué e Joris in semifinale in Italia, Vives, Guy de Chamisso e Sireix eliminati ai quarti di finale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 01 Aug 2026 20:31:05 GMT"
     }
   ]
 }
