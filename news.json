@@ -1,27 +1,20 @@
 {
-  "updated_at": "2026-08-05T07:24:36.394770+00:00",
+  "updated_at": "2026-08-05T10:08:54.252672+00:00",
   "local_date": "2026-08-05",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Palermo, ufficiale l'arrivo in prestito di Vavassori dall'Atalanta - PalermoToday",
-      "source": "PalermoToday",
-      "published": "Sat, 01 Aug 2026 09:43:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale un'altra cessione: il comunicato e la formula dell'operazione - NapoliToday",
+      "title": "Calciomercato Napoli, ufficiale la cessione di Gutierrez: il comunicato del club azzurro - NapoliToday",
       "source": "NapoliToday",
-      "published": "Fri, 31 Jul 2026 12:30:00 GMT"
+      "published": "Wed, 05 Aug 2026 08:15:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato, news di oggi in diretta: Roma vicina a Molina, Nico Gonzalez all'Inter può portare Frattesi alla Juve - Fanpage",
-      "source": "Fanpage",
-      "published": "Wed, 05 Aug 2026 04:30:09 GMT"
+      "title": "Calciomercato Roma, accordo con Molina e l’Atletico: le cifre del trasferimento - Il Riformista",
+      "source": "Il Riformista",
+      "published": "Wed, 05 Aug 2026 07:25:00 GMT"
     },
     {
       "type": "news",
@@ -32,31 +25,38 @@
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato, Palermo in trattativa con l'Olympiacos per Gabriel Strefezza: accordo vicino - PalermoToday",
+      "source": "PalermoToday",
+      "published": "Mon, 03 Aug 2026 16:46:14 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
-      "title": "Amichevoli Serie A, risultati e marcatori di oggi: in campo Atalanta, Lazio e Torino - Sky Sport",
-      "source": "Sky Sport",
+      "title": "Il calcio in TV oggi, mercoledì 5 agosto: prima Milan-Inter, poi Juventus, Lazio e Napoli. Dove vederle - Libero",
+      "source": "Libero",
+      "published": "Wed, 05 Aug 2026 08:28:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Amichevoli Serie A, risultati e marcatori di oggi: in campo Atalanta, Lazio e Torino - sport.sky.it",
+      "source": "sport.sky.it",
       "published": "Sun, 02 Aug 2026 09:00:43 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "PARA CLIMBING: AD ARCO LA NAZIONALE AZZURRA PREPARA I PROSSIMI APPUNTAMENTI INTERNAZIONALI - Federazione Arrampicata Sportiva Italiana",
-      "source": "Federazione Arrampicata Sportiva Italiana",
-      "published": "Mon, 03 Aug 2026 05:12:51 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "MONZA-MILAN FUTURO 4-2 NELLA QUARTA AMICHEVOLE ESTIVA - Associazione Calcio Monza S.p.A. *",
-      "source": "Associazione Calcio Monza S.p.A. *",
+      "title": "MONZA-MILAN FUTURO 4-2 NELLA QUARTA AMICHEVOLE ESTIVA - acmonza.com",
+      "source": "acmonza.com",
       "published": "Tue, 04 Aug 2026 18:25:16 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Scuole di specializzazione Odontoiatria, Senna (CAO nazionale): “Bene sblocco, che garantisce continuità delle cure venendo incontro ai fabbisogni assistenziali della popolazione” - portale.fnomceo.it",
-      "source": "portale.fnomceo.it",
-      "published": "Tue, 04 Aug 2026 16:20:01 GMT"
+      "title": "Serie A a Perth: il calcio italiano conquista l’Australia - We Build Value",
+      "source": "We Build Value",
+      "published": "Wed, 05 Aug 2026 09:33:30 GMT"
     },
     {
       "type": "news",
@@ -68,9 +68,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP/WTA: Alcaraz n. 2. Volano Eala e Jodar, balzo Liutova - oktennis.it",
-      "source": "oktennis.it",
-      "published": "Tue, 04 Aug 2026 16:55:00 GMT"
+      "title": "Classifica Atp LIVE: cosa cambia dopo il forfait di Alcaraz a Roma e al Roland Garros, il distacco da Sinner - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Mon, 03 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -82,9 +82,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Classifica Atp LIVE: cosa cambia dopo il forfait di Alcaraz a Roma e al Roland Garros, il distacco da Sinner - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Mon, 03 Aug 2026 07:00:00 GMT"
+      "title": "Sinner quando gioca? Da Cincinnati agli Us Open, il programma di Jannik e l'attuale ranking - Il Messaggero",
+      "source": "Il Messaggero",
+      "published": "Wed, 05 Aug 2026 09:46:11 GMT"
     },
     {
       "type": "news",
