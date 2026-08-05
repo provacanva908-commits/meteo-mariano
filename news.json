@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T23:48:02.158264+00:00",
+  "updated_at": "2026-08-05T01:18:52.250628+00:00",
   "local_date": "2026-08-05",
   "articles": [
     {
@@ -19,16 +19,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato: l'Inter insiste per Jones. La Roma ci prova per Read - ANSA",
-      "source": "ANSA",
-      "published": "Sun, 02 Aug 2026 17:23:00 GMT"
+      "title": "Ufficiale | Vasilije Adzic passa in prestito al Sassuolo - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Mon, 03 Aug 2026 15:47:35 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale | Vasilije Adzic passa in prestito al Sassuolo - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Mon, 03 Aug 2026 15:47:35 GMT"
+      "title": "Calciomercato: l'Inter insiste per Jones. La Roma ci prova per Read - ANSA",
+      "source": "ANSA",
+      "published": "Sun, 02 Aug 2026 17:23:00 GMT"
     },
     {
       "type": "news",
@@ -47,16 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Ufficiale, Brookfield acquista il 100% di Oaktree: cosa cambia per l'Inter - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Tue, 04 Aug 2026 18:10:18 GMT"
+      "title": "MONZA-MILAN FUTURO 4-2 NELLA QUARTA AMICHEVOLE ESTIVA - Associazione Calcio Monza S.p.A. *",
+      "source": "Associazione Calcio Monza S.p.A. *",
+      "published": "Tue, 04 Aug 2026 18:25:16 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calcio Monza, oggi test con il Milan Futuro. Mercato: ecco Akinsanmiro - mbnews.it",
-      "source": "mbnews.it",
-      "published": "Tue, 04 Aug 2026 16:01:00 GMT"
+      "title": "Como, mercato da Champions: spese da record per Fabregas - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Tue, 04 Aug 2026 06:19:11 GMT"
     },
     {
       "type": "news",
@@ -89,13 +89,6 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Mon, 20 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
       "title": "Pretoria P1: Coello e Tapia, niente finale dopo 27 tornei! - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Sun, 02 Aug 2026 08:43:45 GMT"
@@ -113,6 +106,13 @@
       "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
       "source": "FITP",
       "published": "Thu, 02 Jul 2026 17:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 02 Aug 2026 21:04:47 GMT"
     }
   ]
 }
