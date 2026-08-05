@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-05T21:03:42.389364+00:00",
-  "local_date": "2026-08-05",
+  "updated_at": "2026-08-05T22:18:33.271026+00:00",
+  "local_date": "2026-08-06",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Foggia, arriva il portiere ex Napoli e Bari Marfella: ufficiale anche il prestito di Oviszach - foggiatoday.it",
-      "source": "foggiatoday.it",
+      "title": "Calciomercato Foggia, arriva il portiere ex Napoli e Bari Marfella: ufficiale anche il prestito di Oviszach - FoggiaToday - cronaca e notizie da Foggia",
+      "source": "FoggiaToday - cronaca e notizie da Foggia",
       "published": "Wed, 05 Aug 2026 18:20:44 GMT"
     },
     {
@@ -40,6 +40,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Serie A, nuove linee guida per i diritti tv nell’era Internet - ItaliaOggi",
+      "source": "ItaliaOggi",
+      "published": "Wed, 05 Aug 2026 17:44:21 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Amichevoli Serie A, risultati e marcatori di oggi: in campo Atalanta, Lazio e Torino - Sky Sport",
       "source": "Sky Sport",
       "published": "Sun, 02 Aug 2026 09:00:43 GMT"
@@ -50,13 +57,6 @@
       "title": "Lazio-Mantova, Lotito chiude curve e distinti per la partita di Coppa Italia - RomaToday",
       "source": "RomaToday",
       "published": "Wed, 05 Aug 2026 13:39:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A Q8, Play Off Promozione: Roma e Icierre Lamezia non si fermano, sarà sfida decisiva nell'ultima giornata - Lega Nazionale Dilettanti",
-      "source": "Lega Nazionale Dilettanti",
-      "published": "Wed, 05 Aug 2026 19:40:43 GMT"
     },
     {
       "type": "news",
@@ -82,9 +82,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner, blitz a Milano: come sta il n.1 prima degli US Open - Oggi",
-      "source": "Oggi",
-      "published": "Wed, 05 Aug 2026 05:32:44 GMT"
+      "title": "Ranking ATP: Sinner raggiunge le 83 settimane da n.1, Jodar debutta in Top 15 - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Tue, 04 Aug 2026 08:04:41 GMT"
     },
     {
       "type": "news",
@@ -110,9 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Traguardo monumentale: Leal e Guerrero interrompono la striscia vincente di Coello e Tapia e accedono alla finale di Pretoria - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sat, 01 Aug 2026 18:50:47 GMT"
+      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 02 Aug 2026 21:04:47 GMT"
     }
   ]
 }
