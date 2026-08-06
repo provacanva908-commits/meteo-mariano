@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T10:01:47.687905+00:00",
+  "updated_at": "2026-08-06T12:14:54.753852+00:00",
   "local_date": "2026-08-06",
   "articles": [
     {
@@ -12,9 +12,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato, Palermo in trattativa con l'Olympiacos per Gabriel Strefezza: accordo vicino - PalermoToday",
-      "source": "PalermoToday",
-      "published": "Mon, 03 Aug 2026 16:46:14 GMT"
+      "title": "Roma-Pellegrini, rinnovo mai così vicino: le ultime novità di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Thu, 06 Aug 2026 11:13:23 GMT"
     },
     {
       "type": "news",
@@ -54,9 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calciomercato Lazio: Romagnoli può ancora partire ma restare in Serie A. Le utlime sul difensore di Gattuso - RomaToday",
-      "source": "RomaToday",
-      "published": "Thu, 06 Aug 2026 09:01:59 GMT"
+      "title": "Cremonese, preso Vogliacco: esperienza tra Serie A ed Europa League - La Provincia di Cremona",
+      "source": "La Provincia di Cremona",
+      "published": "Thu, 06 Aug 2026 10:10:25 GMT"
     },
     {
       "type": "news",
@@ -68,23 +68,23 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Sinner-Alcaraz si potrebbe giocare prima della finale agli US Open. Cambia il ranking, ma i dubbi dello spagnolo… - OA Sport",
+      "source": "OA Sport",
+      "published": "Thu, 06 Aug 2026 07:25:13 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Zverev out a Montreal, Sinner numero uno al mondo anche dopo gli Us Open: tutti i calcoli del ranking Atp - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Thu, 06 Aug 2026 11:50:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Jannik Sinner allunga nel ranking ATP! Come cambia la classifica con l’eliminazione di Zverev e il nuovo vantaggio su Alcaraz - OA Sport",
       "source": "OA Sport",
       "published": "Thu, 06 Aug 2026 06:07:01 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Classifica Atp LIVE: cosa cambia dopo il forfait di Alcaraz a Roma e al Roland Garros, il distacco da Sinner - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Mon, 03 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Le lacrime di Draper, il polso di Alcaraz, i controlli di Sinner: il tennis oggi è troppo usurante? - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Wed, 05 Aug 2026 15:59:07 GMT"
     },
     {
       "type": "news",
