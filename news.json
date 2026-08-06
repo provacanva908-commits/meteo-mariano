@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T04:20:24.243118+00:00",
+  "updated_at": "2026-08-06T07:12:25.848525+00:00",
   "local_date": "2026-08-06",
   "articles": [
     {
@@ -19,16 +19,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato, Palermo in trattativa con l'Olympiacos per Gabriel Strefezza: accordo vicino - palermotoday.it",
-      "source": "palermotoday.it",
+      "title": "Calciomercato, Palermo in trattativa con l'Olympiacos per Gabriel Strefezza: accordo vicino - PalermoToday",
+      "source": "PalermoToday",
       "published": "Mon, 03 Aug 2026 16:46:14 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Napoli, ufficiale la cessione di Gutierrez al Bayer Leverkusen: i dettagli dell'accordo - Corriere dello Sport",
+      "title": "Angelino lascia la Roma: ufficiale il prestito al Deportivo La Coruña - Corriere dello Sport",
       "source": "Corriere dello Sport",
-      "published": "Wed, 05 Aug 2026 08:41:00 GMT"
+      "published": "Wed, 05 Aug 2026 19:39:00 GMT"
     },
     {
       "type": "news",
@@ -47,8 +47,8 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, nuove linee guida per i diritti tv nell’era Internet - Italia Oggi",
-      "source": "Italia Oggi",
+      "title": "Serie A, nuove linee guida per i diritti tv nell’era Internet - ItaliaOggi",
+      "source": "ItaliaOggi",
       "published": "Wed, 05 Aug 2026 17:44:21 GMT"
     },
     {
@@ -82,9 +82,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP: Sinner raggiunge le 83 settimane da n.1, Jodar debutta in Top 15 - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Tue, 04 Aug 2026 08:04:41 GMT"
+      "title": "Nargiso: “Sinner e Alcaraz? Vi spiego perché nel tennis di oggi ci sono tanti infortuni” - la Repubblica",
+      "source": "la Repubblica",
+      "published": "Wed, 05 Aug 2026 18:46:50 GMT"
     },
     {
       "type": "news",
@@ -103,16 +103,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Tapia e Coello interrompono la loro routine... prima di sfoggiare di nuovo i loro abiti portafortuna a Pretoria. - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sat, 01 Aug 2026 09:21:00 GMT"
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
+      "source": "FITP",
+      "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
-      "source": "FITP",
-      "published": "Thu, 02 Jul 2026 17:00:00 GMT"
+      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 02 Aug 2026 21:04:47 GMT"
     }
   ]
 }
