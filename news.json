@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-06T07:12:25.848525+00:00",
+  "updated_at": "2026-08-06T10:01:47.687905+00:00",
   "local_date": "2026-08-06",
   "articles": [
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Foggia, arriva il portiere ex Napoli e Bari Marfella: ufficiale anche il prestito di Oviszach - FoggiaToday - cronaca e notizie da Foggia",
-      "source": "FoggiaToday - cronaca e notizie da Foggia",
-      "published": "Wed, 05 Aug 2026 18:20:44 GMT"
-    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -32,10 +25,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Il calcio in TV oggi, mercoledì 5 agosto: prima Milan-Inter, poi Juventus, Lazio e Napoli. Dove vederle - Libero",
-      "source": "Libero",
-      "published": "Wed, 05 Aug 2026 08:28:00 GMT"
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Palermo, arriva l'annuncio ufficiale più atteso: Strefezza è rosanero - PalermoToday",
+      "source": "PalermoToday",
+      "published": "Thu, 06 Aug 2026 08:04:36 GMT"
     },
     {
       "type": "news",
@@ -47,16 +40,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, nuove linee guida per i diritti tv nell’era Internet - ItaliaOggi",
-      "source": "ItaliaOggi",
-      "published": "Wed, 05 Aug 2026 17:44:21 GMT"
+      "title": "La Champions punto di partenza: Roma, Como e il peso del mercato estivo - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Thu, 06 Aug 2026 07:13:43 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Lazio-Mantova, Lotito chiude curve e distinti per la partita di Coppa Italia - RomaToday",
+      "title": "Milan, Inter e Juventus: idee vaghe e lontane. Nel calcio d'estate i nuovi funzionano ma c'è il peso dei partenti - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Thu, 06 Aug 2026 05:31:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Calciomercato Lazio: Romagnoli può ancora partire ma restare in Serie A. Le utlime sul difensore di Gattuso - RomaToday",
       "source": "RomaToday",
-      "published": "Wed, 05 Aug 2026 13:39:00 GMT"
+      "published": "Thu, 06 Aug 2026 09:01:59 GMT"
     },
     {
       "type": "news",
@@ -64,6 +64,13 @@
       "title": "Il ranking Atp verso gli Us Open: ecco chi può trovare Sinner in semifinale - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Mon, 03 Aug 2026 16:08:57 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Jannik Sinner allunga nel ranking ATP! Come cambia la classifica con l’eliminazione di Zverev e il nuovo vantaggio su Alcaraz - OA Sport",
+      "source": "OA Sport",
+      "published": "Thu, 06 Aug 2026 06:07:01 GMT"
     },
     {
       "type": "news",
@@ -78,13 +85,6 @@
       "title": "Le lacrime di Draper, il polso di Alcaraz, i controlli di Sinner: il tennis oggi è troppo usurante? - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Wed, 05 Aug 2026 15:59:07 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Nargiso: “Sinner e Alcaraz? Vi spiego perché nel tennis di oggi ci sono tanti infortuni” - la Repubblica",
-      "source": "la Repubblica",
-      "published": "Wed, 05 Aug 2026 18:46:50 GMT"
     },
     {
       "type": "news",
