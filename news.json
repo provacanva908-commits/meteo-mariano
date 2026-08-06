@@ -1,27 +1,13 @@
 {
-  "updated_at": "2026-08-06T12:14:54.753852+00:00",
+  "updated_at": "2026-08-06T14:40:01.687201+00:00",
   "local_date": "2026-08-06",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, gli azzurri acquistano un giovane talento a titolo definitivo: il comunicato ufficiale - NapoliToday",
-      "source": "NapoliToday",
-      "published": "Mon, 03 Aug 2026 14:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Roma-Pellegrini, rinnovo mai così vicino: le ultime novità di calciomercato - Sky Sport",
-      "source": "Sky Sport",
+      "title": "Roma-Pellegrini, rinnovo mai così vicino: le ultime novità di calciomercato - sport.sky.it",
+      "source": "sport.sky.it",
       "published": "Thu, 06 Aug 2026 11:13:23 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Angelino lascia la Roma: ufficiale il prestito al Deportivo La Coruña - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Wed, 05 Aug 2026 19:39:00 GMT"
     },
     {
       "type": "news",
@@ -32,10 +18,17 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Amichevoli Serie A, risultati e marcatori di oggi: in campo Atalanta, Lazio e Torino - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sun, 02 Aug 2026 09:00:43 GMT"
+      "category": "CALCIOMERCATO",
+      "title": "Ufficiale | Vasilije Adzic passa in prestito al Sassuolo - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Mon, 03 Aug 2026 15:47:35 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Angelino lascia la Roma: ufficiale il prestito al Deportivo La Coruña - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Wed, 05 Aug 2026 19:39:00 GMT"
     },
     {
       "type": "news",
@@ -54,9 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Cremonese, preso Vogliacco: esperienza tra Serie A ed Europa League - La Provincia di Cremona",
-      "source": "La Provincia di Cremona",
-      "published": "Thu, 06 Aug 2026 10:10:25 GMT"
+      "title": "Lions Alto Lazio Rugby, diramato il calendario della serie A: si parte il 18 ottobre con la trasferta a Paganica - TusciaUp",
+      "source": "TusciaUp",
+      "published": "Thu, 06 Aug 2026 14:16:38 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Il regolamento, il calendario e gli abbinamenti dei primi due turni - Lega Nazionale Dilettanti",
+      "source": "Lega Nazionale Dilettanti",
+      "published": "Thu, 06 Aug 2026 12:56:57 GMT"
     },
     {
       "type": "news",
