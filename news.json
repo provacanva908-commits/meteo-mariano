@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T10:13:07.425619+00:00",
+  "updated_at": "2026-08-07T11:11:08.901864+00:00",
   "local_date": "2026-08-07",
   "articles": [
     {
@@ -12,16 +12,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, gli azzurri acquistano un giovane talento a titolo definitivo: il comunicato ufficiale - NapoliToday",
-      "source": "NapoliToday",
-      "published": "Mon, 03 Aug 2026 14:00:00 GMT"
+      "title": "Leao tra Milan e Galatasaray: il punto sulla trattativa. Le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 07 Aug 2026 07:05:03 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Leao tra Milan e Galatasaray: il punto sulla trattativa. Le news di calciomercato - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Thu, 06 Aug 2026 21:31:19 GMT"
+      "title": "Calciomercato Milan, chi sono gli esuberi: le squadre interessate e quanto costano - Sisal",
+      "source": "Sisal",
+      "published": "Fri, 07 Aug 2026 10:30:00 GMT"
     },
     {
       "type": "news",
@@ -33,6 +33,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Scommesse calcio, Serie A: l’Inter prenota il bis scudetto, a 2,10 su Sisal. Juventus e Milan puntano al ritorno in Champions - JAMMA",
+      "source": "JAMMA",
+      "published": "Fri, 07 Aug 2026 11:08:19 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "SNPA CONTRIBUISCE ALL’ATTUAZIONE DEL PIANO NAZIONALE DI ADATTAMENTO AL CAMBIAMENTO CLIMATICO - FIDC - Federazione Italiana Della Caccia - sito ufficiale - federcaccia.org",
       "source": "federcaccia.org",
       "published": "Fri, 07 Aug 2026 08:39:34 GMT"
@@ -40,23 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Amichevoli Serie A, risultati e marcatori di oggi: in campo Atalanta, Lazio e Torino - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sun, 02 Aug 2026 09:00:43 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Italia, ufficiale lo staff di Roberto Mancini - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Thu, 06 Aug 2026 18:27:23 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Frosinone, abbonamenti Serie A 2026/2027: da oggi parte la vendita libera - FrosinoneToday",
       "source": "FrosinoneToday",
       "published": "Fri, 07 Aug 2026 05:54:27 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Giornata nazionale del sacrificio del lavoro italiano nel mondo - Comune di Portogruaro",
+      "source": "Comune di Portogruaro",
+      "published": "Fri, 07 Aug 2026 10:14:46 GMT"
     },
     {
       "type": "news",
