@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T14:33:07.979788+00:00",
+  "updated_at": "2026-08-07T15:32:20.247769+00:00",
   "local_date": "2026-08-07",
   "articles": [
     {
@@ -26,16 +26,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Leao tra Milan e Galatasaray: il punto sulla trattativa. Le news di calciomercato - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Thu, 06 Aug 2026 21:31:19 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Scommesse calcio, Serie A: l’Inter prenota il bis scudetto, a 2,10 su Sisal. Juventus e Milan puntano al ritorno in Champions - JAMMA",
-      "source": "JAMMA",
-      "published": "Fri, 07 Aug 2026 11:08:19 GMT"
+      "title": "Calciomercato Milan, i rossoneri tirano la corda dopo l'offerta per Leao. Galatasaray: rilancio o addio - Il Riformista",
+      "source": "Il Riformista",
+      "published": "Fri, 07 Aug 2026 14:32:00 GMT"
     },
     {
       "type": "news",
@@ -49,14 +42,21 @@
       "category": "CALCIO",
       "title": "Come acquistare i biglietti della Juventus 2026/27: prezzi della Serie A, calendario e altro - Goal.com",
       "source": "Goal.com",
-      "published": "Fri, 07 Aug 2026 13:08:49 GMT"
+      "published": "Fri, 07 Aug 2026 13:10:16 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Come acquistare i biglietti dell'Inter 2026/27: prezzi della Serie A, calendario e altro - Goal.com",
-      "source": "Goal.com",
-      "published": "Fri, 07 Aug 2026 12:54:40 GMT"
+      "title": "Giornata nazionale del sacrificio del lavoro italiano nel mondo - Comune di Portogruaro",
+      "source": "Comune di Portogruaro",
+      "published": "Fri, 07 Aug 2026 10:14:46 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Roma-Fiorentina: ecco i tagliandi per la prima di Serie A! - AS Roma",
+      "source": "AS Roma",
+      "published": "Fri, 07 Aug 2026 10:46:28 GMT"
     },
     {
       "type": "news",
