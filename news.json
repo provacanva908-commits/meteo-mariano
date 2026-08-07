@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T16:29:50.839394+00:00",
+  "updated_at": "2026-08-07T17:28:30.949995+00:00",
   "local_date": "2026-08-07",
   "articles": [
     {
@@ -12,13 +12,6 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan, chi sono gli esuberi: le squadre interessate e quanto costano - Sisal",
-      "source": "Sisal",
-      "published": "Fri, 07 Aug 2026 10:30:34 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "Calciomercato Lazio: il nuovo attaccante di Gattuso lo finanzia Ratkov - RomaToday",
       "source": "RomaToday",
       "published": "Fri, 07 Aug 2026 09:01:49 GMT"
@@ -26,16 +19,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Padova, è ufficiale: arriva Pompetti dal Catanzaro - La Piazza Web",
-      "source": "La Piazza Web",
-      "published": "Fri, 07 Aug 2026 13:13:00 GMT"
+      "title": "Calciomercato Padova, è ufficiale: arriva Pompetti dal Catanzaro - lapiazzaweb.it",
+      "source": "lapiazzaweb.it",
+      "published": "Fri, 07 Aug 2026 13:13:02 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "SNPA CONTRIBUISCE ALL’ATTUAZIONE DEL PIANO NAZIONALE DI ADATTAMENTO AL CAMBIAMENTO CLIMATICO - FIDC - Federazione Italiana Della Caccia - sito ufficiale - FIDC - Federazione Italiana Della Caccia",
-      "source": "FIDC - Federazione Italiana Della Caccia",
-      "published": "Fri, 07 Aug 2026 08:39:34 GMT"
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Milan, i rossoneri tirano la corda dopo l'offerta per Leao. Galatasaray: rilancio o addio - Il Riformista",
+      "source": "Il Riformista",
+      "published": "Fri, 07 Aug 2026 14:32:00 GMT"
     },
     {
       "type": "news",
@@ -54,15 +47,22 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "COPPA ITALIA | MONZA – AVELLINO: VENDITA BIGLIETTI SETTORE OSPITI - Associazione Calcio Monza S.p.A. *",
-      "source": "Associazione Calcio Monza S.p.A. *",
-      "published": "Fri, 07 Aug 2026 10:27:42 GMT"
+      "title": "Estate 2026, ecco le date di chiusura degli uffici di AVIS Nazionale - AVIS - Associazione volontari italiani del Sangue",
+      "source": "AVIS - Associazione volontari italiani del Sangue",
+      "published": "Fri, 07 Aug 2026 16:00:45 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Roma, Cristante: \"C'è tanta voglia di giocare la Champions. Lo scudetto...\" - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 07 Aug 2026 12:45:52 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Il ranking Atp verso gli Us Open: ecco chi può trovare Sinner in semifinale - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Il ranking Atp verso gli Us Open: ecco chi può trovare Sinner in semifinale - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Mon, 03 Aug 2026 16:08:57 GMT"
     },
     {
@@ -82,15 +82,15 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Le lacrime di Draper, il polso di Alcaraz, i controlli di Sinner: il tennis oggi è troppo usurante? - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Le lacrime di Draper, il polso di Alcaraz, i controlli di Sinner: il tennis oggi è troppo usurante? - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Wed, 05 Aug 2026 15:59:07 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Mon, 20 Jul 2026 07:00:00 GMT"
     },
     {
@@ -103,15 +103,15 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - fitp.it",
-      "source": "fitp.it",
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
+      "source": "FITP",
       "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Sun, 02 Aug 2026 21:04:47 GMT"
     }
   ]
