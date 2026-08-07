@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-07T20:19:10.954826+00:00",
+  "updated_at": "2026-08-07T21:06:34.504354+00:00",
   "local_date": "2026-08-07",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 07 Aug 2026 20:49:47 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -22,13 +29,6 @@
       "title": "Roma, ufficiale la cessione di Kumbulla al Rayo Vallecano: i dettagli - Corriere dello Sport",
       "source": "Corriere dello Sport",
       "published": "Fri, 07 Aug 2026 17:47:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Como: ufficiale il prestito di Yan Couto - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Fri, 07 Aug 2026 14:17:50 GMT"
     },
     {
       "type": "news",
@@ -54,9 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia Lazio 26/27: i regolamenti ufficiali per Eccellenza e Promozione - Gazzetta Regionale",
-      "source": "Gazzetta Regionale",
-      "published": "Fri, 07 Aug 2026 16:36:00 GMT"
+      "title": "Calcio, Juve, Spalletti: “Mercato ok”, domani l’Inter - Askanews",
+      "source": "Askanews",
+      "published": "Fri, 07 Aug 2026 14:25:23 GMT"
     },
     {
       "type": "news",
@@ -96,8 +96,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - fitp.it",
-      "source": "fitp.it",
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
+      "source": "FITP",
       "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     },
     {
