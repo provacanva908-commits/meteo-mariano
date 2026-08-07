@@ -1,34 +1,55 @@
 {
-  "updated_at": "2026-08-06T14:40:01.687201+00:00",
-  "local_date": "2026-08-06",
+  "updated_at": "2026-08-07T00:18:37.515483+00:00",
+  "local_date": "2026-08-07",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Roma-Pellegrini, rinnovo mai così vicino: le ultime novità di calciomercato - sport.sky.it",
-      "source": "sport.sky.it",
-      "published": "Thu, 06 Aug 2026 11:13:23 GMT"
+      "title": "Calciomercato Serie A: Bologna e Lazio a caccia di attaccanti, Genoa ufficiale Sow - Toro News",
+      "source": "Toro News",
+      "published": "Thu, 06 Aug 2026 20:44:10 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Palermo, arriva l'annuncio ufficiale più atteso: Strefezza è rosanero - PalermoToday",
-      "source": "PalermoToday",
-      "published": "Thu, 06 Aug 2026 08:04:36 GMT"
+      "title": "Leao tra Milan e Galatasaray: il punto sulla trattativa. Le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Thu, 06 Aug 2026 21:31:19 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale | Vasilije Adzic passa in prestito al Sassuolo - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Mon, 03 Aug 2026 15:47:35 GMT"
+      "title": "Como, ufficiale l'arrivo in prestito di Yan Couto - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Thu, 06 Aug 2026 18:31:58 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Angelino lascia la Roma: ufficiale il prestito al Deportivo La Coruña - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Wed, 05 Aug 2026 19:39:00 GMT"
+      "title": "Roma-Pellegrini, accordo per il rinnovo fino al 30 giugno 2027 - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Thu, 06 Aug 2026 13:57:40 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Calciomercato Serie A: Bologna e Lazio a caccia di attaccanti, Genoa ufficiale Sow - Toro News",
+      "source": "Toro News",
+      "published": "Thu, 06 Aug 2026 20:44:10 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Amichevoli Serie A, risultati e marcatori di oggi: in campo Atalanta, Lazio e Torino - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sun, 02 Aug 2026 09:00:43 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Italia, ufficiale lo staff di Roberto Mancini - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Thu, 06 Aug 2026 18:27:23 GMT"
     },
     {
       "type": "news",
@@ -36,27 +57,6 @@
       "title": "La Champions punto di partenza: Roma, Como e il peso del mercato estivo - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Thu, 06 Aug 2026 07:13:43 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Milan, Inter e Juventus: idee vaghe e lontane. Nel calcio d'estate i nuovi funzionano ma c'è il peso dei partenti - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Thu, 06 Aug 2026 05:31:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Lions Alto Lazio Rugby, diramato il calendario della serie A: si parte il 18 ottobre con la trasferta a Paganica - TusciaUp",
-      "source": "TusciaUp",
-      "published": "Thu, 06 Aug 2026 14:16:38 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Il regolamento, il calendario e gli abbinamenti dei primi due turni - Lega Nazionale Dilettanti",
-      "source": "Lega Nazionale Dilettanti",
-      "published": "Thu, 06 Aug 2026 12:56:57 GMT"
     },
     {
       "type": "news",
@@ -68,13 +68,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner-Alcaraz si potrebbe giocare prima della finale agli US Open. Cambia il ranking, ma i dubbi dello spagnolo… - OA Sport",
-      "source": "OA Sport",
-      "published": "Thu, 06 Aug 2026 07:25:13 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Zverev out a Montreal, Sinner numero uno al mondo anche dopo gli Us Open: tutti i calcoli del ranking Atp - Corriere dello Sport",
       "source": "Corriere dello Sport",
       "published": "Thu, 06 Aug 2026 11:50:00 GMT"
@@ -82,9 +75,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jannik Sinner allunga nel ranking ATP! Come cambia la classifica con l’eliminazione di Zverev e il nuovo vantaggio su Alcaraz - OA Sport",
-      "source": "OA Sport",
+      "title": "Jannik Sinner allunga nel ranking ATP! Come cambia la classifica con l’eliminazione di Zverev e il nuovo vantaggio su Alcaraz - oasport.it",
+      "source": "oasport.it",
       "published": "Thu, 06 Aug 2026 06:07:01 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Ranking ATP: Sinner raggiunge le 83 settimane da n.1, Jodar debutta in Top 15 - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Tue, 04 Aug 2026 08:04:41 GMT"
     },
     {
       "type": "news",
