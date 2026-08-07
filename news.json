@@ -1,19 +1,26 @@
 {
-  "updated_at": "2026-08-07T06:36:49.703927+00:00",
+  "updated_at": "2026-08-07T07:59:06.669618+00:00",
   "local_date": "2026-08-07",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Serie A: Bologna e Lazio a caccia di attaccanti, Genoa ufficiale Sow - toronews.net",
-      "source": "toronews.net",
+      "title": "Calciomercato Roma, accordo per il rinnovo di Pellegrini - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Thu, 06 Aug 2026 13:53:03 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Serie A: Bologna e Lazio a caccia di attaccanti, Genoa ufficiale Sow - Toro News",
+      "source": "Toro News",
       "published": "Thu, 06 Aug 2026 20:44:10 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato, Palermo in trattativa con l'Olympiacos per Gabriel Strefezza: accordo vicino - palermotoday.it",
-      "source": "palermotoday.it",
+      "title": "Calciomercato, Palermo in trattativa con l'Olympiacos per Gabriel Strefezza: accordo vicino - PalermoToday",
+      "source": "PalermoToday",
       "published": "Mon, 03 Aug 2026 16:46:14 GMT"
     },
     {
@@ -21,14 +28,7 @@
       "category": "CALCIOMERCATO",
       "title": "Leao tra Milan e Galatasaray: il punto sulla trattativa. Le news di calciomercato - Sky Sport",
       "source": "Sky Sport",
-      "published": "Thu, 06 Aug 2026 21:31:19 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Area Istruzione e Ricerca, FLC CGIL: bene firma CCNL 2022-2024, ora apertura immediata trattativa per rinnovo 2025-2027 - flcgil.it",
-      "source": "flcgil.it",
-      "published": "Thu, 06 Aug 2026 11:47:53 GMT"
+      "published": "Fri, 07 Aug 2026 07:05:03 GMT"
     },
     {
       "type": "news",
@@ -40,13 +40,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calciomercato Serie A: Bologna e Lazio a caccia di attaccanti, Genoa ufficiale Sow - toronews.net",
-      "source": "toronews.net",
-      "published": "Thu, 06 Aug 2026 20:44:10 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Italia, ufficiale lo staff di Roberto Mancini - Sky Sport",
       "source": "Sky Sport",
       "published": "Thu, 06 Aug 2026 18:27:23 GMT"
@@ -54,15 +47,22 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "La Champions punto di partenza: Roma, Como e il peso del mercato estivo - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Thu, 06 Aug 2026 07:13:43 GMT"
+      "title": "Giacomo Ceci entra nello staff della Nazionale: c’è anche un po’ di granata nell’Italia di Mancini - TuttoReggiana",
+      "source": "TuttoReggiana",
+      "published": "Fri, 07 Aug 2026 05:30:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Milan, Inter e Juventus: idee vaghe e lontane. Nel calcio d'estate i nuovi funzionano ma c'è il peso dei partenti - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Thu, 06 Aug 2026 05:31:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Il ranking Atp verso gli Us Open: ecco chi può trovare Sinner in semifinale - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Il ranking Atp verso gli Us Open: ecco chi può trovare Sinner in semifinale - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Mon, 03 Aug 2026 16:08:57 GMT"
     },
     {
@@ -89,8 +89,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Mon, 20 Jul 2026 07:00:00 GMT"
     },
     {
@@ -103,15 +103,15 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
-      "source": "FITP",
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - fitp.it",
+      "source": "fitp.it",
       "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Sun, 02 Aug 2026 21:04:47 GMT"
     }
   ]
