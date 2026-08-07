@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T11:11:08.901864+00:00",
+  "updated_at": "2026-08-07T11:59:16.677409+00:00",
   "local_date": "2026-08-07",
   "articles": [
     {
@@ -8,6 +8,13 @@
       "title": "Calciomercato Serie A: Bologna e Lazio a caccia di attaccanti, Genoa ufficiale Sow - Toro News",
       "source": "Toro News",
       "published": "Thu, 06 Aug 2026 20:44:10 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Lazio: il nuovo attaccante di Gattuso lo finanzia Ratkov - RomaToday",
+      "source": "RomaToday",
+      "published": "Fri, 07 Aug 2026 10:33:15 GMT"
     },
     {
       "type": "news",
@@ -25,13 +32,6 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Ufficiale | Vasilije Adzic passa in prestito al Sassuolo - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Mon, 03 Aug 2026 15:47:35 GMT"
-    },
-    {
-      "type": "news",
       "category": "CALCIO",
       "title": "Scommesse calcio, Serie A: l’Inter prenota il bis scudetto, a 2,10 su Sisal. Juventus e Milan puntano al ritorno in Champions - JAMMA",
       "source": "JAMMA",
@@ -40,23 +40,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "SNPA CONTRIBUISCE ALL’ATTUAZIONE DEL PIANO NAZIONALE DI ADATTAMENTO AL CAMBIAMENTO CLIMATICO - FIDC - Federazione Italiana Della Caccia - sito ufficiale - federcaccia.org",
-      "source": "federcaccia.org",
+      "title": "SNPA CONTRIBUISCE ALL’ATTUAZIONE DEL PIANO NAZIONALE DI ADATTAMENTO AL CAMBIAMENTO CLIMATICO - FIDC - Federazione Italiana Della Caccia - sito ufficiale - FIDC - Federazione Italiana Della Caccia",
+      "source": "FIDC - Federazione Italiana Della Caccia",
       "published": "Fri, 07 Aug 2026 08:39:34 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Frosinone, abbonamenti Serie A 2026/2027: da oggi parte la vendita libera - FrosinoneToday",
-      "source": "FrosinoneToday",
-      "published": "Fri, 07 Aug 2026 05:54:27 GMT"
+      "title": "Come comprare i biglietti dell'Inter per il 2026/27: prezzi della Serie A, calendario e altro - Goal.com",
+      "source": "Goal.com",
+      "published": "Fri, 07 Aug 2026 11:42:22 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Giornata nazionale del sacrificio del lavoro italiano nel mondo - Comune di Portogruaro",
-      "source": "Comune di Portogruaro",
-      "published": "Fri, 07 Aug 2026 10:14:46 GMT"
+      "title": "Come acquistare i biglietti dell'Inter per il 2026/27: prezzi della Serie A, calendario e altro - Goal.com",
+      "source": "Goal.com",
+      "published": "Fri, 07 Aug 2026 11:58:42 GMT"
     },
     {
       "type": "news",
@@ -82,9 +82,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner, allarme per Cincinnati: quando inizia, dove vederlo e perché Jannik può sacrificare il torneo (per lo Us Open) - Libero",
-      "source": "Libero",
-      "published": "Thu, 06 Aug 2026 14:22:00 GMT"
+      "title": "Le lacrime di Draper, il polso di Alcaraz, i controlli di Sinner: il tennis oggi è troppo usurante? - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Wed, 05 Aug 2026 15:59:07 GMT"
     },
     {
       "type": "news",
@@ -103,8 +103,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - fitp.it",
-      "source": "fitp.it",
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
+      "source": "FITP",
       "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     },
     {
