@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T13:24:06.105382+00:00",
+  "updated_at": "2026-08-07T14:33:07.979788+00:00",
   "local_date": "2026-08-07",
   "articles": [
     {
@@ -7,21 +7,14 @@
       "category": "CALCIOMERCATO",
       "title": "Calciomercato Lazio: il nuovo attaccante di Gattuso lo finanzia Ratkov - RomaToday",
       "source": "RomaToday",
-      "published": "Fri, 07 Aug 2026 10:33:15 GMT"
+      "published": "Fri, 07 Aug 2026 09:01:49 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "Calciomercato Milan, chi sono gli esuberi: le squadre interessate e quanto costano - Sisal",
       "source": "Sisal",
-      "published": "Fri, 07 Aug 2026 10:30:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Leao tra Milan e Galatasaray: il punto sulla trattativa. Le news di calciomercato - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Thu, 06 Aug 2026 21:31:19 GMT"
+      "published": "Fri, 07 Aug 2026 10:30:34 GMT"
     },
     {
       "type": "news",
@@ -32,9 +25,16 @@
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Leao tra Milan e Galatasaray: il punto sulla trattativa. Le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Thu, 06 Aug 2026 21:31:19 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
-      "title": "Scommesse calcio, Serie A: l’Inter prenota il bis scudetto, a 2,10 su Sisal. Juventus e Milan puntano al ritorno in Champions - jamma.it",
-      "source": "jamma.it",
+      "title": "Scommesse calcio, Serie A: l’Inter prenota il bis scudetto, a 2,10 su Sisal. Juventus e Milan puntano al ritorno in Champions - JAMMA",
+      "source": "JAMMA",
       "published": "Fri, 07 Aug 2026 11:08:19 GMT"
     },
     {
@@ -54,9 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Come acquistare i biglietti del Milan per il 2026/27: prezzi della Serie A, calendario e altro - Goal.com",
+      "title": "Come acquistare i biglietti dell'Inter 2026/27: prezzi della Serie A, calendario e altro - Goal.com",
       "source": "Goal.com",
-      "published": "Fri, 07 Aug 2026 12:57:30 GMT"
+      "published": "Fri, 07 Aug 2026 12:54:40 GMT"
     },
     {
       "type": "news",
