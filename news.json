@@ -1,26 +1,19 @@
 {
-  "updated_at": "2026-08-07T05:13:54.630890+00:00",
+  "updated_at": "2026-08-07T06:36:49.703927+00:00",
   "local_date": "2026-08-07",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Serie A: Bologna e Lazio a caccia di attaccanti, Genoa ufficiale Sow - Toro News",
-      "source": "Toro News",
+      "title": "Calciomercato Serie A: Bologna e Lazio a caccia di attaccanti, Genoa ufficiale Sow - toronews.net",
+      "source": "toronews.net",
       "published": "Thu, 06 Aug 2026 20:44:10 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Como, ora è ufficiale: arriva Yan Couto, altro colpo per Fabregas - Planetwin365 news",
-      "source": "Planetwin365 news",
-      "published": "Thu, 06 Aug 2026 19:28:30 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato, Palermo in trattativa con l'Olympiacos per Gabriel Strefezza: accordo vicino - PalermoToday",
-      "source": "PalermoToday",
+      "title": "Calciomercato, Palermo in trattativa con l'Olympiacos per Gabriel Strefezza: accordo vicino - palermotoday.it",
+      "source": "palermotoday.it",
       "published": "Mon, 03 Aug 2026 16:46:14 GMT"
     },
     {
@@ -32,6 +25,13 @@
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Area Istruzione e Ricerca, FLC CGIL: bene firma CCNL 2022-2024, ora apertura immediata trattativa per rinnovo 2025-2027 - flcgil.it",
+      "source": "flcgil.it",
+      "published": "Thu, 06 Aug 2026 11:47:53 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
       "title": "Amichevoli Serie A, risultati e marcatori di oggi: in campo Atalanta, Lazio e Torino - Sky Sport",
       "source": "Sky Sport",
@@ -40,8 +40,8 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calciomercato Serie A: Bologna e Lazio a caccia di attaccanti, Genoa ufficiale Sow - Toro News",
-      "source": "Toro News",
+      "title": "Calciomercato Serie A: Bologna e Lazio a caccia di attaccanti, Genoa ufficiale Sow - toronews.net",
+      "source": "toronews.net",
       "published": "Thu, 06 Aug 2026 20:44:10 GMT"
     },
     {
@@ -75,9 +75,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Classifica Atp LIVE: cosa cambia dopo il forfait di Alcaraz a Roma e al Roland Garros, il distacco da Sinner - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Mon, 03 Aug 2026 07:00:00 GMT"
+      "title": "Sinner blinda il n.1 del ranking Atp: duello con Zverev, obiettivo 100 settimane in vetta - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 07 Aug 2026 06:00:30 GMT"
     },
     {
       "type": "news",
