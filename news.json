@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T22:42:29.250466+00:00",
+  "updated_at": "2026-08-07T23:19:38.653726+00:00",
   "local_date": "2026-08-08",
   "articles": [
     {
@@ -8,13 +8,6 @@
       "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - Sky Sport",
       "source": "Sky Sport",
       "published": "Fri, 07 Aug 2026 20:49:47 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato di A: a Napoli e Dea serve un centrale, Mastantuono ufficiale - Diretta",
-      "source": "Diretta",
-      "published": "Fri, 07 Aug 2026 19:59:01 GMT"
     },
     {
       "type": "news",
@@ -29,6 +22,13 @@
       "title": "Roma, ufficiale la cessione di Kumbulla al Rayo Vallecano: i dettagli - Corriere dello Sport",
       "source": "Corriere dello Sport",
       "published": "Fri, 07 Aug 2026 17:47:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Roma: ufficiale, Kumbulla in prestito al Rayo Vallecano - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Fri, 07 Aug 2026 17:38:08 GMT"
     },
     {
       "type": "news",
@@ -54,9 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia Lazio 26/27: i regolamenti ufficiali per Eccellenza e Promozione - Gazzetta Regionale",
-      "source": "Gazzetta Regionale",
-      "published": "Fri, 07 Aug 2026 16:36:00 GMT"
+      "title": "COPPA ITALIA | MONZA – AVELLINO: VENDITA BIGLIETTI SETTORE OSPITI - Associazione Calcio Monza S.p.A. *",
+      "source": "Associazione Calcio Monza S.p.A. *",
+      "published": "Fri, 07 Aug 2026 10:27:42 GMT"
     },
     {
       "type": "news",
