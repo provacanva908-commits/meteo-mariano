@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-07T19:33:00.891518+00:00",
+  "updated_at": "2026-08-07T20:19:10.954826+00:00",
   "local_date": "2026-08-07",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato di A: a Napoli e Dea serve un centrale, Mastantuono ufficiale - Diretta",
+      "source": "Diretta",
+      "published": "Fri, 07 Aug 2026 19:59:01 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -25,17 +32,17 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Pisa. Ufficiale, Ferrah è un giocatore del Pisa! - SestaPorta.News Pisa",
-      "source": "SestaPorta.News Pisa",
-      "published": "Fri, 07 Aug 2026 17:02:45 GMT"
-    },
-    {
-      "type": "news",
       "category": "CALCIO",
       "title": "Giornata nazionale del sacrificio del lavoro italiano nel mondo - Comune di Portogruaro",
       "source": "Comune di Portogruaro",
       "published": "Fri, 07 Aug 2026 13:25:36 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Estate 2026, ecco le date di chiusura degli uffici di AVIS Nazionale - AVIS - Associazione volontari italiani del Sangue",
+      "source": "AVIS - Associazione volontari italiani del Sangue",
+      "published": "Fri, 07 Aug 2026 16:00:45 GMT"
     },
     {
       "type": "news",
@@ -47,16 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calcio, Juve, Spalletti: “Mercato ok”, domani l’Inter - Askanews",
-      "source": "Askanews",
-      "published": "Fri, 07 Aug 2026 14:25:23 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "COPPA ITALIA | MONZA – AVELLINO: VENDITA BIGLIETTI SETTORE OSPITI - Associazione Calcio Monza S.p.A. *",
-      "source": "Associazione Calcio Monza S.p.A. *",
-      "published": "Fri, 07 Aug 2026 10:27:42 GMT"
+      "title": "Coppa Italia Lazio 26/27: i regolamenti ufficiali per Eccellenza e Promozione - Gazzetta Regionale",
+      "source": "Gazzetta Regionale",
+      "published": "Fri, 07 Aug 2026 16:36:00 GMT"
     },
     {
       "type": "news",
@@ -89,13 +89,6 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Mon, 20 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
       "title": "Pretoria P1: Coello e Tapia, niente finale dopo 27 tornei! - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Sun, 02 Aug 2026 08:43:45 GMT"
@@ -113,6 +106,13 @@
       "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 02 Aug 2026 21:04:47 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Bronze Portimão: Vives / Guy de Chamisso e Buteau lanciano il loro torneo in Portogallo - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Fri, 07 Aug 2026 07:44:57 GMT"
     }
   ]
 }
