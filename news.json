@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-08T03:44:02.537530+00:00",
+  "updated_at": "2026-08-08T04:42:05.110106+00:00",
   "local_date": "2026-08-08",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - sport.sky.it",
-      "source": "sport.sky.it",
+      "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
       "published": "Fri, 07 Aug 2026 20:49:47 GMT"
     },
     {
@@ -19,8 +19,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, Lukaku verso la cessione. E Lang attende l'Ajax - ilmattino.it",
-      "source": "ilmattino.it",
+      "title": "Calciomercato Napoli, Lukaku verso la cessione. E Lang attende l'Ajax - Il Mattino",
+      "source": "Il Mattino",
       "published": "Sat, 08 Aug 2026 03:00:34 GMT"
     },
     {
@@ -29,6 +29,13 @@
       "title": "Roma, ufficiale la cessione di Kumbulla al Rayo Vallecano: i dettagli - Corriere dello Sport",
       "source": "Corriere dello Sport",
       "published": "Fri, 07 Aug 2026 17:47:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Estate 2026, ecco le date di chiusura degli uffici di AVIS Nazionale - AVIS - Associazione volontari italiani del Sangue",
+      "source": "AVIS - Associazione volontari italiani del Sangue",
+      "published": "Fri, 07 Aug 2026 16:00:45 GMT"
     },
     {
       "type": "news",
@@ -47,13 +54,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Estate 2026, ecco le date di chiusura degli uffici di AVIS Nazionale - AVIS - Associazione volontari italiani del Sangue",
-      "source": "AVIS - Associazione volontari italiani del Sangue",
-      "published": "Fri, 07 Aug 2026 16:00:45 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Giornata nazionale del sacrificio del lavoro italiano nel mondo (8 agosto) - Ambasciata d'Italia a Washington",
       "source": "Ambasciata d'Italia a Washington",
       "published": "Fri, 07 Aug 2026 15:41:00 GMT"
@@ -68,8 +68,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner blinda il n.1 del ranking Atp: duello con Zverev, obiettivo 100 settimane in vetta - sport.sky.it",
-      "source": "sport.sky.it",
+      "title": "Sinner blinda il n.1 del ranking Atp: duello con Zverev, obiettivo 100 settimane in vetta - Sky Sport",
+      "source": "Sky Sport",
       "published": "Fri, 07 Aug 2026 06:00:30 GMT"
     },
     {
