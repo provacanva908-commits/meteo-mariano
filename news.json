@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T20:50:13.647097+00:00",
+  "updated_at": "2026-08-08T21:22:47.814569+00:00",
   "local_date": "2026-08-08",
   "articles": [
     {
@@ -12,9 +12,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale il rinnovo di Pellegrini, Roma: 'La storia continua' - ansa.it",
-      "source": "ansa.it",
+      "title": "Ufficiale il rinnovo di Pellegrini, Roma: 'La storia continua' - ANSA",
+      "source": "ANSA",
       "published": "Sat, 08 Aug 2026 11:12:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Roma, ufficiale il rinnovo di Pellegrini - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Sat, 08 Aug 2026 11:11:21 GMT"
     },
     {
       "type": "news",
@@ -25,38 +32,31 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Roma, ufficiale il rinnovo di Pellegrini - sportmediaset.mediaset.it",
-      "source": "sportmediaset.mediaset.it",
-      "published": "Sat, 08 Aug 2026 11:11:21 GMT"
-    },
-    {
-      "type": "news",
       "category": "CALCIO",
-      "title": "Prove tecniche di Serie A, all'Inter il derby d'Italia estivo - ansa.it",
-      "source": "ansa.it",
+      "title": "Prove tecniche di Serie A, all'Inter il derby d'Italia estivo - ANSA",
+      "source": "ANSA",
       "published": "Sat, 08 Aug 2026 16:36:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Juventus-Inter 1-2: prima Dimarco e Diouf, poi Conceicao. A Chivu il primo derby d'Italia stagionale - sportmediaset.mediaset.it",
-      "source": "sportmediaset.mediaset.it",
+      "title": "Amichevoli estive di Serie A: tutti i risultati di oggi e il calendario - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sat, 08 Aug 2026 17:51:07 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Juventus-Inter 1-2: prima Dimarco e Diouf, poi Conceicao. A Chivu il primo derby d'Italia stagionale - Sportmediaset",
+      "source": "Sportmediaset",
       "published": "Sat, 08 Aug 2026 13:16:37 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calcio: l'Inter batte la Juve, Milan strapazzato dal Chelsea - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
+      "title": "Calcio: l'Inter batte la Juve, Milan strapazzato dal Chelsea - stream24.ilsole24ore.com",
+      "source": "stream24.ilsole24ore.com",
       "published": "Sat, 08 Aug 2026 16:27:40 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Amichevole Nazionale Seniores B Femminile: Italia-Svezia - federvolley.it",
-      "source": "federvolley.it",
-      "published": "Sat, 08 Aug 2026 11:28:45 GMT"
     },
     {
       "type": "news",
@@ -64,6 +64,13 @@
       "title": "Il ranking Atp verso gli Us Open: ecco chi può trovare Sinner in semifinale - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Mon, 03 Aug 2026 16:08:57 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Zverev out a Montreal, Sinner numero uno al mondo anche dopo gli Us Open: tutti i calcoli del ranking Atp - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Thu, 06 Aug 2026 11:50:00 GMT"
     },
     {
       "type": "news",
@@ -81,24 +88,17 @@
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Le lacrime di Draper, il polso di Alcaraz, i controlli di Sinner: il tennis oggi è troppo usurante? - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Wed, 05 Aug 2026 15:59:07 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Mon, 20 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
       "category": "PADEL",
       "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Londra P1: Tapia e Coello ancora una volta troppo forti per Navarro/Di Nenno, i numeri 1 accedono alla finale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 08 Aug 2026 18:02:52 GMT"
     },
     {
       "type": "news",
