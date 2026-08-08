@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T06:22:34.945491+00:00",
+  "updated_at": "2026-08-08T07:29:02.522015+00:00",
   "local_date": "2026-08-08",
   "articles": [
     {
@@ -8,6 +8,13 @@
       "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - Sky Sport",
       "source": "Sky Sport",
       "published": "Fri, 07 Aug 2026 20:49:47 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli, gli azzurri acquistano un giovane talento a titolo definitivo: il comunicato ufficiale - NapoliToday",
+      "source": "NapoliToday",
+      "published": "Mon, 03 Aug 2026 14:00:00 GMT"
     },
     {
       "type": "news",
@@ -21,14 +28,14 @@
       "category": "CALCIOMERCATO",
       "title": "Calciomercato Napoli, Lukaku verso la cessione. E Lang attende l'Ajax - Il Mattino",
       "source": "Il Mattino",
-      "published": "Sat, 08 Aug 2026 06:12:57 GMT"
+      "published": "Sat, 08 Aug 2026 03:00:34 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Roma, ufficiale la cessione di Kumbulla al Rayo Vallecano: i dettagli - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Fri, 07 Aug 2026 17:47:00 GMT"
+      "category": "CALCIO",
+      "title": "Juventus-Inter spicca tra le amichevoli di oggi - Lega Serie A",
+      "source": "Lega Serie A",
+      "published": "Sat, 08 Aug 2026 05:30:00 GMT"
     },
     {
       "type": "news",
@@ -40,22 +47,15 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Estate 2026, ecco le date di chiusura degli uffici di AVIS Nazionale - AVIS - Associazione volontari italiani del Sangue",
-      "source": "AVIS - Associazione volontari italiani del Sangue",
-      "published": "Fri, 07 Aug 2026 16:00:45 GMT"
+      "title": "Giornata Nazionale del sacrificio del lavoro italiano nel mondo - Ministero della Difesa",
+      "source": "Ministero della Difesa",
+      "published": "Sat, 08 Aug 2026 07:00:08 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "A Perth un evento per la promozione del calcio italiano - Inter.it",
-      "source": "Inter.it",
-      "published": "Fri, 07 Aug 2026 13:13:10 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Giornata nazionale del sacrificio del lavoro italiano nel mondo - Comune di Portogruaro",
-      "source": "Comune di Portogruaro",
+      "title": "Giornata nazionale del sacrificio del lavoro italiano nel mondo - comune.portogruaro.ve.it",
+      "source": "comune.portogruaro.ve.it",
       "published": "Fri, 07 Aug 2026 13:25:36 GMT"
     },
     {
@@ -75,8 +75,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP: Sinner raggiunge le 83 settimane da n.1, Jodar debutta in Top 15 - supertennis.tv",
-      "source": "supertennis.tv",
+      "title": "Ranking ATP: Sinner raggiunge le 83 settimane da n.1, Jodar debutta in Top 15 - SuperTennis",
+      "source": "SuperTennis",
       "published": "Tue, 04 Aug 2026 08:04:41 GMT"
     },
     {
@@ -89,16 +89,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Fri, 07 Aug 2026 07:03:57 GMT"
+      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Mon, 20 Jul 2026 07:00:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Pretoria P1: Coello e Tapia, niente finale dopo 27 tornei! - Mr Padel Paddle",
+      "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
-      "published": "Sun, 02 Aug 2026 08:43:45 GMT"
+      "published": "Fri, 07 Aug 2026 07:03:57 GMT"
     },
     {
       "type": "news",
