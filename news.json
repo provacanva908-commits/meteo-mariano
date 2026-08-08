@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T04:42:05.110106+00:00",
+  "updated_at": "2026-08-08T05:30:37.118846+00:00",
   "local_date": "2026-08-08",
   "articles": [
     {
@@ -8,6 +8,13 @@
       "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - Sky Sport",
       "source": "Sky Sport",
       "published": "Fri, 07 Aug 2026 20:49:47 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli, gli azzurri acquistano un giovane talento a titolo definitivo: il comunicato ufficiale - NapoliToday",
+      "source": "NapoliToday",
+      "published": "Mon, 03 Aug 2026 14:00:00 GMT"
     },
     {
       "type": "news",
@@ -25,10 +32,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Roma, ufficiale la cessione di Kumbulla al Rayo Vallecano: i dettagli - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Fri, 07 Aug 2026 17:47:00 GMT"
+      "category": "CALCIO",
+      "title": "Milan, Inter e Juventus: idee vaghe e lontane. Nel calcio d'estate i nuovi funzionano ma c'è il peso dei partenti - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Thu, 06 Aug 2026 05:31:00 GMT"
     },
     {
       "type": "news",
@@ -50,13 +57,6 @@
       "title": "Giornata nazionale del sacrificio del lavoro italiano nel mondo - Comune di Portogruaro",
       "source": "Comune di Portogruaro",
       "published": "Fri, 07 Aug 2026 13:25:36 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Giornata nazionale del sacrificio del lavoro italiano nel mondo (8 agosto) - Ambasciata d'Italia a Washington",
-      "source": "Ambasciata d'Italia a Washington",
-      "published": "Fri, 07 Aug 2026 15:41:00 GMT"
     },
     {
       "type": "news",
@@ -89,13 +89,6 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Mon, 20 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
       "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
@@ -113,6 +106,13 @@
       "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
       "source": "FITP",
       "published": "Thu, 02 Jul 2026 17:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 02 Aug 2026 21:04:47 GMT"
     }
   ]
 }
