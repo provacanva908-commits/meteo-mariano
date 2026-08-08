@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T13:09:17.810629+00:00",
+  "updated_at": "2026-08-08T13:57:47.302780+00:00",
   "local_date": "2026-08-08",
   "articles": [
     {
@@ -12,15 +12,15 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato di A: a Napoli e Dea serve un centrale, Mastantuono ufficiale - Diretta",
-      "source": "Diretta",
-      "published": "Fri, 07 Aug 2026 19:59:01 GMT"
+      "title": "Ufficiale il rinnovo di Pellegrini, Roma: 'La storia continua' - ANSA",
+      "source": "ANSA",
+      "published": "Sat, 08 Aug 2026 11:12:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Roma, ufficiale il rinnovo di Pellegrini - Sportmediaset",
-      "source": "Sportmediaset",
+      "title": "Roma, ufficiale il rinnovo di Pellegrini - sportmediaset.mediaset.it",
+      "source": "sportmediaset.mediaset.it",
       "published": "Sat, 08 Aug 2026 11:11:21 GMT"
     },
     {
@@ -40,23 +40,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Juventus-Inter e Chelsea-Milan, dove vederle oggi in Tv e streaming: il calcio in TV oggi, sabato 8 agosto 2026 - Libero",
-      "source": "Libero",
-      "published": "Sat, 08 Aug 2026 08:27:00 GMT"
+      "title": "Ufficiale il rinnovo di Pellegrini, Roma: 'La storia continua' - ANSA",
+      "source": "ANSA",
+      "published": "Sat, 08 Aug 2026 11:12:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "LIVE! Juventus-Inter 0-0: Derby d'Italia in quel di Perth - eurosport.it",
-      "source": "eurosport.it",
-      "published": "Sat, 08 Aug 2026 11:18:32 GMT"
+      "title": "Serie A, le trattative di oggi: Lucumí vuole la Juve, Atalanta su Kristensen, Lukaku in Turchia? - Diretta",
+      "source": "Diretta",
+      "published": "Sat, 08 Aug 2026 09:14:01 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Juve, Yildiz titolare con l’Inter: la formazione ufficiale - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sat, 08 Aug 2026 10:41:39 GMT"
+      "title": "Biglietti Inter-Monza: quando escono, prezzi e fasi di vendita, tutte le informazioni per la prima giornata della Serie A 2026/27 - Goal.com",
+      "source": "Goal.com",
+      "published": "Sat, 08 Aug 2026 13:36:06 GMT"
     },
     {
       "type": "news",
@@ -89,15 +89,22 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
+      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Mon, 20 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel London P1: Oggi quarti di finale - mrpadelpaddle.com",
+      "source": "mrpadelpaddle.com",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
-      "source": "FITP",
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - fitp.it",
+      "source": "fitp.it",
       "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     },
     {
@@ -106,13 +113,6 @@
       "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 02 Aug 2026 21:04:47 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Londra P1: Le favorite faticano ma arriveranno tutte in semifinale - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sat, 08 Aug 2026 08:54:45 GMT"
     }
   ]
 }
