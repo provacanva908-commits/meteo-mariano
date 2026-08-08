@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T10:24:37.802118+00:00",
+  "updated_at": "2026-08-08T11:01:59.171146+00:00",
   "local_date": "2026-08-08",
   "articles": [
     {
@@ -19,16 +19,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, gli azzurri acquistano un giovane talento a titolo definitivo: il comunicato ufficiale - napolitoday.it",
-      "source": "napolitoday.it",
-      "published": "Mon, 03 Aug 2026 14:00:00 GMT"
+      "title": "Calciomercato Pisa, più vicino l'accordo per Pittarello. Confente (Juve Stabia), le parti si aggiornano alla prossima settimana - SestaPorta.News Pisa",
+      "source": "SestaPorta.News Pisa",
+      "published": "Fri, 07 Aug 2026 22:00:09 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Pisa, più vicino l'accordo per Pittarello. Confente (Juve Stabia), le parti si aggiornano alla prossima settimana - SestaPorta.News Pisa",
-      "source": "SestaPorta.News Pisa",
-      "published": "Fri, 07 Aug 2026 22:00:09 GMT"
+      "title": "Calciomercato Napoli, Lukaku verso la cessione. E Lang attende l'Ajax - Il Mattino",
+      "source": "Il Mattino",
+      "published": "Sat, 08 Aug 2026 03:00:34 GMT"
     },
     {
       "type": "news",
@@ -89,15 +89,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Mon, 20 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel London P1: Oggi quarti di finale - mrpadelpaddle.com",
-      "source": "mrpadelpaddle.com",
+      "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
     },
     {
@@ -113,6 +106,13 @@
       "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 02 Aug 2026 21:04:47 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Londra P1: Le favorite faticano ma arriveranno tutte in semifinale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 08 Aug 2026 08:54:45 GMT"
     }
   ]
 }
