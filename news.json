@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T15:11:50.702435+00:00",
+  "updated_at": "2026-08-08T15:48:45.032986+00:00",
   "local_date": "2026-08-08",
   "articles": [
     {
@@ -19,8 +19,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Roma, ufficiale il rinnovo di Pellegrini - sportmediaset.mediaset.it",
-      "source": "sportmediaset.mediaset.it",
+      "title": "Roma, ufficiale il rinnovo di Pellegrini - Sportmediaset",
+      "source": "Sportmediaset",
       "published": "Sat, 08 Aug 2026 11:11:21 GMT"
     },
     {
@@ -40,6 +40,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Juve, Yildiz titolare con l’Inter: la formazione ufficiale - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sat, 08 Aug 2026 10:41:39 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Ufficiale il rinnovo di Pellegrini, Roma: 'La storia continua' - ANSA",
       "source": "ANSA",
       "published": "Sat, 08 Aug 2026 11:12:00 GMT"
@@ -53,16 +60,9 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "LIVE Amichevoli: alle 16 la Roma a Brighton, stasera il Napoli sfida il Celta - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sat, 08 Aug 2026 12:42:08 GMT"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
-      "title": "Il ranking Atp verso gli Us Open: ecco chi può trovare Sinner in semifinale - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Il ranking Atp verso gli Us Open: ecco chi può trovare Sinner in semifinale - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Mon, 03 Aug 2026 16:08:57 GMT"
     },
     {
@@ -82,15 +82,15 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Le lacrime di Draper, il polso di Alcaraz, i controlli di Sinner: il tennis oggi è troppo usurante? - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Le lacrime di Draper, il polso di Alcaraz, i controlli di Sinner: il tennis oggi è troppo usurante? - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Wed, 05 Aug 2026 15:59:07 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Mon, 20 Jul 2026 07:00:00 GMT"
     },
     {
@@ -103,15 +103,15 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - fitp.it",
-      "source": "fitp.it",
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
+      "source": "FITP",
       "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Sun, 02 Aug 2026 21:04:47 GMT"
     }
   ]
