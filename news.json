@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T17:00:06.908239+00:00",
+  "updated_at": "2026-08-08T17:40:56.195794+00:00",
   "local_date": "2026-08-08",
   "articles": [
     {
@@ -12,8 +12,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale il rinnovo di Pellegrini, Roma: 'La storia continua' - ANSA",
-      "source": "ANSA",
+      "title": "Ufficiale il rinnovo di Pellegrini, Roma: 'La storia continua' - ansa.it",
+      "source": "ansa.it",
       "published": "Sat, 08 Aug 2026 11:12:00 GMT"
     },
     {
@@ -26,9 +26,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale | Vasilije Adzic passa in prestito al Sassuolo - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Mon, 03 Aug 2026 15:47:35 GMT"
+      "title": "Calciomercato Pisa, più vicino l'accordo per Pittarello. Confente (Juve Stabia), le parti si aggiornano alla prossima settimana - SestaPorta.News Pisa",
+      "source": "SestaPorta.News Pisa",
+      "published": "Fri, 07 Aug 2026 22:00:09 GMT"
     },
     {
       "type": "news",
@@ -47,8 +47,8 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Ufficiale il rinnovo di Pellegrini, Roma: 'La storia continua' - ANSA",
-      "source": "ANSA",
+      "title": "Ufficiale il rinnovo di Pellegrini, Roma: 'La storia continua' - ansa.it",
+      "source": "ansa.it",
       "published": "Sat, 08 Aug 2026 11:12:00 GMT"
     },
     {
@@ -89,13 +89,6 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Mon, 20 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
       "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
@@ -113,6 +106,13 @@
       "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 02 Aug 2026 21:04:47 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "La corsa di Laura Buteau si conclude agli ottavi di finale del FIP Bronze Portimão. - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 08 Aug 2026 08:54:50 GMT"
     }
   ]
 }
