@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T19:41:37.606155+00:00",
+  "updated_at": "2026-08-08T20:10:18.781402+00:00",
   "local_date": "2026-08-08",
   "articles": [
     {
@@ -12,15 +12,15 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale il rinnovo di Pellegrini, Roma: 'La storia continua' - ansa.it",
-      "source": "ansa.it",
+      "title": "Ufficiale il rinnovo di Pellegrini, Roma: 'La storia continua' - ANSA",
+      "source": "ANSA",
       "published": "Sat, 08 Aug 2026 11:12:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Roma, ufficiale il rinnovo di Pellegrini - Sportmediaset",
-      "source": "Sportmediaset",
+      "title": "Roma, ufficiale il rinnovo di Pellegrini - sportmediaset.mediaset.it",
+      "source": "sportmediaset.mediaset.it",
       "published": "Sat, 08 Aug 2026 11:11:21 GMT"
     },
     {
@@ -33,9 +33,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Prove tecniche di Serie A, all'Inter il derby d'Italia estivo - ansa.it",
-      "source": "ansa.it",
+      "title": "Prove tecniche di Serie A, all'Inter il derby d'Italia estivo - ANSA",
+      "source": "ANSA",
       "published": "Sat, 08 Aug 2026 16:36:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Amichevoli estive di Serie A: tutti i risultati di oggi e il calendario - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sat, 08 Aug 2026 17:51:07 GMT"
     },
     {
       "type": "news",
@@ -47,16 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Juventus-Inter 1-2: prima Dimarco e Diouf, poi Conceicao. A Chivu il primo derby d'Italia stagionale - Sportmediaset",
-      "source": "Sportmediaset",
+      "title": "Juventus-Inter 1-2: prima Dimarco e Diouf, poi Conceicao. A Chivu il primo derby d'Italia stagionale - sportmediaset.mediaset.it",
+      "source": "sportmediaset.mediaset.it",
       "published": "Sat, 08 Aug 2026 13:16:37 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Calcio: l'Inter batte la Juve, Milan strapazzato dal Chelsea - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
-      "published": "Sat, 08 Aug 2026 16:27:40 GMT"
     },
     {
       "type": "news",
