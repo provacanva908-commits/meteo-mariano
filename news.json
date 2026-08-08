@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-08T02:08:53.286207+00:00",
+  "updated_at": "2026-08-08T03:44:02.537530+00:00",
   "local_date": "2026-08-08",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - Sky Sport",
-      "source": "Sky Sport",
+      "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - sport.sky.it",
+      "source": "sport.sky.it",
       "published": "Fri, 07 Aug 2026 20:49:47 GMT"
     },
     {
@@ -19,16 +19,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli, Lukaku verso la cessione. E Lang attende l'Ajax - ilmattino.it",
+      "source": "ilmattino.it",
+      "published": "Sat, 08 Aug 2026 03:00:34 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Roma, ufficiale la cessione di Kumbulla al Rayo Vallecano: i dettagli - Corriere dello Sport",
       "source": "Corriere dello Sport",
       "published": "Fri, 07 Aug 2026 17:47:00 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Roma: ufficiale, Kumbulla in prestito al Rayo Vallecano - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Fri, 07 Aug 2026 17:38:08 GMT"
+      "category": "CALCIO",
+      "title": "A Perth un evento per la promozione del calcio italiano - Inter.it",
+      "source": "Inter.it",
+      "published": "Fri, 07 Aug 2026 13:13:10 GMT"
     },
     {
       "type": "news",
@@ -53,13 +60,6 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "COPPA ITALIA | MONZA – AVELLINO: VENDITA BIGLIETTI SETTORE OSPITI - Associazione Calcio Monza S.p.A. *",
-      "source": "Associazione Calcio Monza S.p.A. *",
-      "published": "Fri, 07 Aug 2026 10:27:42 GMT"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
       "title": "Il ranking Atp verso gli Us Open: ecco chi può trovare Sinner in semifinale - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
@@ -68,15 +68,15 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner blinda il n.1 del ranking Atp: duello con Zverev, obiettivo 100 settimane in vetta - Sky Sport",
-      "source": "Sky Sport",
+      "title": "Sinner blinda il n.1 del ranking Atp: duello con Zverev, obiettivo 100 settimane in vetta - sport.sky.it",
+      "source": "sport.sky.it",
       "published": "Fri, 07 Aug 2026 06:00:30 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP: Sinner raggiunge le 83 settimane da n.1, Jodar debutta in Top 15 - supertennis.tv",
-      "source": "supertennis.tv",
+      "title": "Ranking ATP: Sinner raggiunge le 83 settimane da n.1, Jodar debutta in Top 15 - SuperTennis",
+      "source": "SuperTennis",
       "published": "Tue, 04 Aug 2026 08:04:41 GMT"
     },
     {
@@ -85,6 +85,13 @@
       "title": "Le lacrime di Draper, il polso di Alcaraz, i controlli di Sinner: il tennis oggi è troppo usurante? - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Wed, 05 Aug 2026 15:59:07 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Mon, 20 Jul 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -103,16 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - fitp.it",
-      "source": "fitp.it",
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
+      "source": "FITP",
       "published": "Thu, 02 Jul 2026 17:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 02 Aug 2026 21:04:47 GMT"
     }
   ]
 }
