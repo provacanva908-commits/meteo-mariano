@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T11:01:59.171146+00:00",
+  "updated_at": "2026-08-08T11:38:13.972912+00:00",
   "local_date": "2026-08-08",
   "articles": [
     {
@@ -19,16 +19,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Pisa, più vicino l'accordo per Pittarello. Confente (Juve Stabia), le parti si aggiornano alla prossima settimana - SestaPorta.News Pisa",
-      "source": "SestaPorta.News Pisa",
-      "published": "Fri, 07 Aug 2026 22:00:09 GMT"
+      "title": "Calciomercato Napoli, gli azzurri acquistano un giovane talento a titolo definitivo: il comunicato ufficiale - NapoliToday",
+      "source": "NapoliToday",
+      "published": "Mon, 03 Aug 2026 14:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, Lukaku verso la cessione. E Lang attende l'Ajax - Il Mattino",
-      "source": "Il Mattino",
-      "published": "Sat, 08 Aug 2026 03:00:34 GMT"
+      "title": "Calciomercato Pisa, più vicino l'accordo per Pittarello. Confente (Juve Stabia), le parti si aggiornano alla prossima settimana - SestaPorta.News Pisa",
+      "source": "SestaPorta.News Pisa",
+      "published": "Fri, 07 Aug 2026 22:00:09 GMT"
     },
     {
       "type": "news",
@@ -40,16 +40,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Juventus-Inter e Chelsea-Milan, dove vederle oggi in Tv e streaming: il calcio in TV oggi, sabato 8 agosto 2026 - Libero",
-      "source": "Libero",
+      "title": "Juventus-Inter e Chelsea-Milan, dove vederle oggi in Tv e streaming: il calcio in TV oggi, sabato 8 agosto 2026 - libero.it",
+      "source": "libero.it",
       "published": "Sat, 08 Aug 2026 08:27:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Dove vedere Juventus-Inter, Chelsea-Milan e tutto lo sport in tv dell'8 agosto - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sat, 08 Aug 2026 07:15:59 GMT"
     },
     {
       "type": "news",
@@ -57,6 +50,13 @@
       "title": "Juventus-Inter LIVE: a Perth il primo derby d'Italia - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Sat, 08 Aug 2026 10:13:41 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Dove vedere Juventus-Inter, Chelsea-Milan e tutto lo sport in tv dell'8 agosto - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sat, 08 Aug 2026 07:15:59 GMT"
     },
     {
       "type": "news",
@@ -96,8 +96,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - fitp.it",
-      "source": "fitp.it",
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
+      "source": "FITP",
       "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     },
     {
