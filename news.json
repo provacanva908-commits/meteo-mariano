@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T02:50:14.972874+00:00",
+  "updated_at": "2026-08-09T04:13:09.751071+00:00",
   "local_date": "2026-08-09",
   "articles": [
     {
@@ -19,23 +19,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Roma, ufficiale il rinnovo di Pellegrini - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Sat, 08 Aug 2026 11:11:21 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "Ufficiale | Vasilije Adzic passa in prestito al Sassuolo - Juventus.com",
       "source": "Juventus.com",
       "published": "Mon, 03 Aug 2026 15:47:35 GMT"
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Roma, ufficiale il rinnovo di Pellegrini - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Sat, 08 Aug 2026 11:11:21 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
       "title": "Amichevoli estive di Serie A: tutti i risultati di oggi e il calendario delle prossime - Sky Sport",
       "source": "Sky Sport",
-      "published": "Sat, 08 Aug 2026 18:29:51 GMT"
+      "published": "Sat, 08 Aug 2026 21:10:46 GMT"
     },
     {
       "type": "news",
@@ -61,8 +61,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Il ranking Atp verso gli Us Open: ecco chi può trovare Sinner in semifinale - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Il ranking Atp verso gli Us Open: ecco chi può trovare Sinner in semifinale - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Mon, 03 Aug 2026 16:08:57 GMT"
     },
     {
@@ -89,13 +89,6 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - gazzetta.it",
-      "source": "gazzetta.it",
-      "published": "Mon, 20 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
       "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
@@ -113,6 +106,13 @@
       "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
       "source": "FITP",
       "published": "Thu, 02 Jul 2026 17:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 02 Aug 2026 21:04:47 GMT"
     }
   ]
 }
