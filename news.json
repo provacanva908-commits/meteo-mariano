@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T23:42:28.064741+00:00",
+  "updated_at": "2026-08-09T00:35:32.761357+00:00",
   "local_date": "2026-08-09",
   "articles": [
     {
@@ -12,23 +12,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale il rinnovo di Pellegrini, Roma: 'La storia continua' - ansa.it",
-      "source": "ansa.it",
+      "title": "Ufficiale il rinnovo di Pellegrini, Roma: 'La storia continua' - ANSA",
+      "source": "ANSA",
       "published": "Sat, 08 Aug 2026 11:12:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Roma, ufficiale il rinnovo di Pellegrini - Sportmediaset",
-      "source": "Sportmediaset",
+      "title": "Roma, ufficiale il rinnovo di Pellegrini - sportmediaset.mediaset.it",
+      "source": "sportmediaset.mediaset.it",
       "published": "Sat, 08 Aug 2026 11:11:21 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Sergi Roberto lascia il Como: ecco per chi ha firmato, il comunicato ufficiale - Tuttosport",
-      "source": "Tuttosport",
-      "published": "Sat, 08 Aug 2026 18:14:19 GMT"
+      "title": "Ufficiale | Vasilije Adzic passa in prestito al Sassuolo - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Mon, 03 Aug 2026 15:47:35 GMT"
     },
     {
       "type": "news",
@@ -40,9 +40,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Prove tecniche di Serie A, all'Inter il derby d'Italia estivo - ansa.it",
-      "source": "ansa.it",
+      "title": "Prove tecniche di Serie A, all'Inter il derby d'Italia estivo - ANSA",
+      "source": "ANSA",
       "published": "Sat, 08 Aug 2026 16:36:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Calcio: Si ricomincia. La stagione del Benevento riprenderà domani con il Turno Preliminare di Coppa Italia con la sfida al Ravenna. Convocati in 24 - Gazzetta di Benevento",
+      "source": "Gazzetta di Benevento",
+      "published": "Sat, 08 Aug 2026 15:39:00 GMT"
     },
     {
       "type": "news",
@@ -50,13 +57,6 @@
       "title": "Calcio: l'Inter batte la Juve, Milan strapazzato dal Chelsea - Il Sole 24 ORE",
       "source": "Il Sole 24 ORE",
       "published": "Sat, 08 Aug 2026 16:27:40 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "COPPA ITALIA FRECCIAROSSA: BENEVENTO-RAVENNA I CONVOCATI DI MISTER FLORO FLORES - Benevento Calcio",
-      "source": "Benevento Calcio",
-      "published": "Sat, 08 Aug 2026 18:25:03 GMT"
     },
     {
       "type": "news",
