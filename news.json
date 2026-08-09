@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T07:18:17.745843+00:00",
+  "updated_at": "2026-08-09T08:05:44.619257+00:00",
   "local_date": "2026-08-09",
   "articles": [
     {
@@ -26,9 +26,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale il rinnovo di Pellegrini, Roma: 'La storia continua' - ANSA",
-      "source": "ANSA",
-      "published": "Sat, 08 Aug 2026 11:12:00 GMT"
+      "title": "Calciomercato Roma, perché Gasperini si è infuriato: il litigio con D'Amico e il rischio di una cessione eccellente - Il Riformista",
+      "source": "Il Riformista",
+      "published": "Fri, 07 Aug 2026 15:54:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Le pagelle delle grandi di Serie A: Inter già avanti con il Napoli in scia, la Juve galleggia, bocciate per ora Milan e Roma - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Sun, 09 Aug 2026 07:34:00 GMT"
     },
     {
       "type": "news",
@@ -53,24 +60,17 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Calcio: l'Inter batte la Juve, Milan strapazzato dal Chelsea - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
-      "published": "Sat, 08 Aug 2026 16:27:40 GMT"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
-      "title": "Il ranking Atp verso gli Us Open: ecco chi può trovare Sinner in semifinale - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Mon, 03 Aug 2026 16:08:57 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Zverev out a Montreal, Sinner numero uno al mondo anche dopo gli Us Open: tutti i calcoli del ranking Atp - corrieredellosport.it",
-      "source": "corrieredellosport.it",
+      "title": "Zverev out a Montreal, Sinner numero uno al mondo anche dopo gli Us Open: tutti i calcoli del ranking Atp - Corriere dello Sport",
+      "source": "Corriere dello Sport",
       "published": "Thu, 06 Aug 2026 11:50:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Cincinnati Open 2026: programma, orari delle partite, calendario e dove vedere il torneo · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Sun, 09 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -96,16 +96,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Londra P1: Tapia e Coello ancora una volta troppo forti per Navarro/Di Nenno, i numeri 1 accedono alla finale - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sat, 08 Aug 2026 18:02:52 GMT"
+      "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Fri, 07 Aug 2026 07:03:57 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Fri, 07 Aug 2026 07:03:57 GMT"
+      "title": "Londra P1: Tapia e Coello ancora una volta troppo forti per Navarro/Di Nenno, i numeri 1 accedono alla finale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 08 Aug 2026 18:02:52 GMT"
     },
     {
       "type": "news",
