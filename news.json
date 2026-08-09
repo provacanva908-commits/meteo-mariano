@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T17:25:46.111452+00:00",
+  "updated_at": "2026-08-09T18:00:44.299864+00:00",
   "local_date": "2026-08-09",
   "articles": [
     {
@@ -26,16 +26,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Cagliari, ufficiale l'acquisto di Maldini dall'Atalanta - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Sun, 09 Aug 2026 08:00:40 GMT"
+      "title": "Como, ufficiale l'acquisto di Chalobah: \"Lavorare di nuovo con Fabregas è speciale\" - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Sun, 09 Aug 2026 17:33:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Le pagelle delle grandi di Serie A: Inter già avanti con il Napoli in scia, la Juve galleggia, bocciate per ora Milan e Roma - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Sun, 09 Aug 2026 07:39:42 GMT"
+      "title": "Ufficiale anche il nazionale inglese Chalobah: accordo con il Como fino al 2031, Cesc felice:\"Lui è un leader\" - CiaoComo",
+      "source": "CiaoComo",
+      "published": "Sun, 09 Aug 2026 17:10:00 GMT"
     },
     {
       "type": "news",
@@ -61,13 +61,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Cincinnati Open 2026: programma, orari delle partite, calendario e dove vedere il torneo · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Sun, 09 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Sinner, Cincinnati sì o no? Cosa cambierebbe nel ranking ATP - OA Sport",
       "source": "OA Sport",
       "published": "Sun, 09 Aug 2026 11:15:08 GMT"
@@ -85,6 +78,13 @@
       "title": "Sinner blinda il n.1 del ranking Atp: duello con Zverev, obiettivo 100 settimane in vetta - Sky Sport",
       "source": "Sky Sport",
       "published": "Fri, 07 Aug 2026 06:00:30 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner salta Cincinnati, come cambia il ranking? Jannik allunga su Alcaraz, ma Zverev (di nuovo secondo) può accorciare - Il Messaggero",
+      "source": "Il Messaggero",
+      "published": "Sun, 09 Aug 2026 15:58:13 GMT"
     },
     {
       "type": "news",
