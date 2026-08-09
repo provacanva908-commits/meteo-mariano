@@ -1,26 +1,19 @@
 {
-  "updated_at": "2026-08-09T14:09:49.673029+00:00",
+  "updated_at": "2026-08-09T14:54:03.032642+00:00",
   "local_date": "2026-08-09",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - Sky Sport",
-      "source": "Sky Sport",
+      "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - sport.sky.it",
+      "source": "sport.sky.it",
       "published": "Fri, 07 Aug 2026 20:49:47 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, il futuro di Romagnoli in bilico: Atalanta alla finestra, c'è il possibile sostituto - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "Sun, 09 Aug 2026 06:12:53 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, saltata la trattativa Ivanovic: il giocatore ha scelto il Lens - Sky Sport",
-      "source": "Sky Sport",
+      "title": "Calciomercato Lazio, saltata la trattativa Ivanovic: il giocatore ha scelto il Lens - sport.sky.it",
+      "source": "sport.sky.it",
       "published": "Sat, 08 Aug 2026 19:27:01 GMT"
     },
     {
@@ -32,6 +25,13 @@
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "\"Benvenuto in rossoblù\", ufficiale l'arrivo a Cagliari di Daniel Maldini: prestito con riscatto dall'Atalanta - www.vistanet.it",
+      "source": "www.vistanet.it",
+      "published": "Sun, 09 Aug 2026 09:41:04 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
       "title": "Le pagelle delle grandi di Serie A: Inter già avanti con il Napoli in scia, la Juve galleggia, bocciate per ora Milan e Roma - Sportmediaset",
       "source": "Sportmediaset",
@@ -40,23 +40,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Nazionale italiana Under 20: martedì 11 agosto e mercoledì 12 agosto in programma due amichevoli con l'Under 21 di Ambrì Piotta e Lugano. Programma e convocati - italia.hockey",
-      "source": "italia.hockey",
+      "title": "Nazionale italiana Under 20: martedì 11 agosto e mercoledì 12 agosto in programma due amichevoli con l'Under 21 di Ambrì Piotta e Lugano. Programma e convocati - Italia Hockey",
+      "source": "Italia Hockey",
       "published": "Sun, 09 Aug 2026 12:33:05 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Amichevoli estive di Serie A: tutti i risultati di oggi e il calendario delle prossime - Sky Sport",
-      "source": "Sky Sport",
+      "title": "Amichevoli estive di Serie A: tutti i risultati di oggi e il calendario delle prossime - sport.sky.it",
+      "source": "sport.sky.it",
       "published": "Sat, 08 Aug 2026 21:10:46 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Ufficiale, Diana Bianchedi nuova capodelegazione dell'Italia. Malagò: \"Rivoluzione culturale\". Chi è e che cosa fa - eurosport.it",
-      "source": "eurosport.it",
-      "published": "Sun, 09 Aug 2026 10:34:06 GMT"
+      "title": "Frosinone-Lazio, oggi amichevole 'da Serie A'. Orario, probabili formazioni, dove vederla in tv e streaming - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Sun, 09 Aug 2026 13:53:00 GMT"
     },
     {
       "type": "news",
@@ -75,16 +75,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner, Cincinnati sì o no? Cosa cambierebbe nel ranking ATP - OA Sport",
-      "source": "OA Sport",
-      "published": "Sun, 09 Aug 2026 11:15:08 GMT"
+      "title": "Sinner blinda il n.1 del ranking Atp: duello con Zverev, obiettivo 100 settimane in vetta - sport.sky.it",
+      "source": "sport.sky.it",
+      "published": "Fri, 07 Aug 2026 06:00:30 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner blinda il n.1 del ranking Atp: duello con Zverev, obiettivo 100 settimane in vetta - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 07 Aug 2026 06:00:30 GMT"
+      "title": "Sinner, Cincinnati sì o no? Cosa cambierebbe nel ranking ATP - OA Sport",
+      "source": "OA Sport",
+      "published": "Sun, 09 Aug 2026 11:15:08 GMT"
     },
     {
       "type": "news",
