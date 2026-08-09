@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T18:00:44.299864+00:00",
+  "updated_at": "2026-08-09T18:55:56.706957+00:00",
   "local_date": "2026-08-09",
   "articles": [
     {
@@ -40,6 +40,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Como, c'è un problema con la lista Champions: pochi italiani, Fabregas pensa a chi escludere - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Sun, 09 Aug 2026 18:02:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Nazionale italiana Under 20: martedì 11 agosto e mercoledì 12 agosto in programma due amichevoli con l'Under 21 di Ambrì Piotta e Lugano. Programma e convocati - Italia Hockey",
       "source": "Italia Hockey",
       "published": "Sun, 09 Aug 2026 12:33:05 GMT"
@@ -50,13 +57,6 @@
       "title": "Amichevoli estive di Serie A: tutti i risultati di oggi e il calendario delle prossime - Sky Sport",
       "source": "Sky Sport",
       "published": "Sat, 08 Aug 2026 21:10:46 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Ufficiale, Diana Bianchedi nuova capodelegazione dell'Italia. Malagò: \"Rivoluzione culturale\". Chi è e che cosa fa - eurosport.it",
-      "source": "eurosport.it",
-      "published": "Sun, 09 Aug 2026 10:34:06 GMT"
     },
     {
       "type": "news",
@@ -96,8 +96,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel London P1: Oggi quarti di finale - mrpadelpaddle.com",
-      "source": "mrpadelpaddle.com",
+      "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
     },
     {
