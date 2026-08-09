@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T15:35:19.385490+00:00",
+  "updated_at": "2026-08-09T16:03:04.737478+00:00",
   "local_date": "2026-08-09",
   "articles": [
     {
@@ -26,8 +26,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "\"Benvenuto in rossoblù\", ufficiale l'arrivo a Cagliari di Daniel Maldini: prestito con riscatto dall'Atalanta - vistanet.it",
-      "source": "vistanet.it",
+      "title": "\"Benvenuto in rossoblù\", ufficiale l'arrivo a Cagliari di Daniel Maldini: prestito con riscatto dall'Atalanta - www.vistanet.it",
+      "source": "www.vistanet.it",
       "published": "Sun, 09 Aug 2026 09:41:04 GMT"
     },
     {
@@ -68,13 +68,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Cincinnati Open 2026: programma, orari delle partite, calendario e dove vedere il torneo · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Sun, 09 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Sinner, Cincinnati sì o no? Cosa cambierebbe nel ranking ATP - OA Sport",
       "source": "OA Sport",
       "published": "Sun, 09 Aug 2026 11:15:08 GMT"
@@ -85,6 +78,13 @@
       "title": "Sinner blinda il n.1 del ranking Atp: duello con Zverev, obiettivo 100 settimane in vetta - Sky Sport",
       "source": "Sky Sport",
       "published": "Fri, 07 Aug 2026 06:00:30 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Ranking ATP: Sinner raggiunge le 83 settimane da n.1, Jodar debutta in Top 15 - supertennis.tv",
+      "source": "supertennis.tv",
+      "published": "Tue, 04 Aug 2026 08:04:41 GMT"
     },
     {
       "type": "news",
