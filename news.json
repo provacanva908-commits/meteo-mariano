@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T00:35:32.761357+00:00",
+  "updated_at": "2026-08-09T02:50:14.972874+00:00",
   "local_date": "2026-08-09",
   "articles": [
     {
@@ -19,8 +19,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Roma, ufficiale il rinnovo di Pellegrini - sportmediaset.mediaset.it",
-      "source": "sportmediaset.mediaset.it",
+      "title": "Roma, ufficiale il rinnovo di Pellegrini - Sportmediaset",
+      "source": "Sportmediaset",
       "published": "Sat, 08 Aug 2026 11:11:21 GMT"
     },
     {
@@ -33,7 +33,7 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Amichevoli estive di Serie A: tutti i risultati di oggi e il calendario - Sky Sport",
+      "title": "Amichevoli estive di Serie A: tutti i risultati di oggi e il calendario delle prossime - Sky Sport",
       "source": "Sky Sport",
       "published": "Sat, 08 Aug 2026 18:29:51 GMT"
     },
@@ -61,8 +61,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Il ranking Atp verso gli Us Open: ecco chi può trovare Sinner in semifinale - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Il ranking Atp verso gli Us Open: ecco chi può trovare Sinner in semifinale - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Mon, 03 Aug 2026 16:08:57 GMT"
     },
     {
@@ -82,23 +82,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP: Sinner raggiunge le 83 settimane da n.1, Jodar debutta in Top 15 - SuperTennis",
-      "source": "SuperTennis",
+      "title": "Ranking ATP: Sinner raggiunge le 83 settimane da n.1, Jodar debutta in Top 15 - supertennis.tv",
+      "source": "supertennis.tv",
       "published": "Tue, 04 Aug 2026 08:04:41 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Mon, 20 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Londra P1: Tapia e Coello ancora una volta troppo forti per Navarro/Di Nenno, i numeri 1 accedono alla finale - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sat, 08 Aug 2026 18:02:52 GMT"
     },
     {
       "type": "news",
@@ -106,6 +99,13 @@
       "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Londra P1: Tapia e Coello ancora una volta troppo forti per Navarro/Di Nenno, i numeri 1 accedono alla finale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 08 Aug 2026 18:02:52 GMT"
     },
     {
       "type": "news",
