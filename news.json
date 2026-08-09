@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T18:55:56.706957+00:00",
+  "updated_at": "2026-08-09T19:40:08.752440+00:00",
   "local_date": "2026-08-09",
   "articles": [
     {
@@ -8,6 +8,13 @@
       "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - Sky Sport",
       "source": "Sky Sport",
       "published": "Fri, 07 Aug 2026 20:49:47 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Milan, Athekame al Lione in prestito secco. Le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sun, 09 Aug 2026 18:40:57 GMT"
     },
     {
       "type": "news",
@@ -25,17 +32,17 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Como, ufficiale l'acquisto di Chalobah: \"Lavorare di nuovo con Fabregas è speciale\" - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Sun, 09 Aug 2026 17:33:00 GMT"
-    },
-    {
-      "type": "news",
       "category": "CALCIO",
       "title": "Ufficiale anche il nazionale inglese Chalobah: accordo con il Como fino al 2031, Cesc felice:\"Lui è un leader\" - CiaoComo",
       "source": "CiaoComo",
       "published": "Sun, 09 Aug 2026 17:10:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Amichevoli estive di Serie A: tutti i risultati di oggi e il calendario delle prossime - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sun, 09 Aug 2026 17:36:25 GMT"
     },
     {
       "type": "news",
@@ -50,13 +57,6 @@
       "title": "Nazionale italiana Under 20: martedì 11 agosto e mercoledì 12 agosto in programma due amichevoli con l'Under 21 di Ambrì Piotta e Lugano. Programma e convocati - Italia Hockey",
       "source": "Italia Hockey",
       "published": "Sun, 09 Aug 2026 12:33:05 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Amichevoli estive di Serie A: tutti i risultati di oggi e il calendario delle prossime - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sat, 08 Aug 2026 21:10:46 GMT"
     },
     {
       "type": "news",
