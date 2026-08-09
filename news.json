@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T04:13:09.751071+00:00",
+  "updated_at": "2026-08-09T05:25:59.825987+00:00",
   "local_date": "2026-08-09",
   "articles": [
     {
@@ -12,8 +12,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale il rinnovo di Pellegrini, Roma: 'La storia continua' - ANSA",
-      "source": "ANSA",
+      "title": "Ufficiale il rinnovo di Pellegrini, Roma: 'La storia continua' - ansa.it",
+      "source": "ansa.it",
       "published": "Sat, 08 Aug 2026 11:12:00 GMT"
     },
     {
@@ -26,9 +26,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Roma, ufficiale il rinnovo di Pellegrini - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Sat, 08 Aug 2026 11:11:21 GMT"
+      "title": "Calciomercato Roma, perché Gasperini si è infuriato: il litigio con D'Amico e il rischio di una cessione eccellente - Il Riformista",
+      "source": "Il Riformista",
+      "published": "Fri, 07 Aug 2026 15:54:00 GMT"
     },
     {
       "type": "news",
@@ -40,9 +40,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Prove tecniche di Serie A, all'Inter il derby d'Italia estivo - ANSA",
-      "source": "ANSA",
+      "title": "Prove tecniche di Serie A, all'Inter il derby d'Italia estivo - ansa.it",
+      "source": "ansa.it",
       "published": "Sat, 08 Aug 2026 16:36:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Davanti a tutti c’è l’Inter. La Juve in ritardo, allarme Milan e Roma - la Repubblica",
+      "source": "la Repubblica",
+      "published": "Sun, 09 Aug 2026 04:53:02 GMT"
     },
     {
       "type": "news",
@@ -50,13 +57,6 @@
       "title": "Calcio: Si ricomincia. La stagione del Benevento riprenderà domani con il Turno Preliminare di Coppa Italia con la sfida al Ravenna. Convocati in 24 - Gazzetta di Benevento",
       "source": "Gazzetta di Benevento",
       "published": "Sat, 08 Aug 2026 15:39:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Calcio: l'Inter batte la Juve, Milan strapazzato dal Chelsea - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
-      "published": "Sat, 08 Aug 2026 16:27:40 GMT"
     },
     {
       "type": "news",
@@ -82,9 +82,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP: Sinner raggiunge le 83 settimane da n.1, Jodar debutta in Top 15 - supertennis.tv",
-      "source": "supertennis.tv",
+      "title": "Ranking ATP: Sinner raggiunge le 83 settimane da n.1, Jodar debutta in Top 15 - SuperTennis",
+      "source": "SuperTennis",
       "published": "Tue, 04 Aug 2026 08:04:41 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Mon, 20 Jul 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -106,13 +113,6 @@
       "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
       "source": "FITP",
       "published": "Thu, 02 Jul 2026 17:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 02 Aug 2026 21:04:47 GMT"
     }
   ]
 }
