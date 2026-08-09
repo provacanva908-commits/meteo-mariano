@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T20:11:38.600901+00:00",
+  "updated_at": "2026-08-09T20:54:03.636648+00:00",
   "local_date": "2026-08-09",
   "articles": [
     {
@@ -33,13 +33,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Ufficiale anche il nazionale inglese Chalobah: accordo con il Como fino al 2031, Cesc felice:\"Lui è un leader\" - CiaoComo",
-      "source": "CiaoComo",
-      "published": "Sun, 09 Aug 2026 17:10:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Amichevoli estive di Serie A: tutti i risultati di oggi e il calendario delle prossime - Sky Sport",
       "source": "Sky Sport",
       "published": "Sun, 09 Aug 2026 17:36:25 GMT"
@@ -57,6 +50,13 @@
       "title": "Lavori in corso in serie A: Inter già corre e Napoli insegue / SPECIALE - ANSA",
       "source": "ANSA",
       "published": "Sun, 09 Aug 2026 14:47:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Nazionale italiana Under 20: martedì 11 agosto e mercoledì 12 agosto in programma due amichevoli con l'Under 21 di Ambrì Piotta e Lugano. Programma e convocati - italia.hockey",
+      "source": "italia.hockey",
+      "published": "Sun, 09 Aug 2026 12:33:05 GMT"
     },
     {
       "type": "news",
@@ -96,6 +96,13 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 09 Aug 2026 20:09:40 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
@@ -106,13 +113,6 @@
       "title": "Londra P1: Tapia e Coello ancora una volta troppo forti per Navarro/Di Nenno, i numeri 1 accedono alla finale - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sat, 08 Aug 2026 18:02:52 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "La legge di Coello/Tapia vige anche a Londra! Chingalan ko - padelmagazine.it",
-      "source": "padelmagazine.it",
-      "published": "Sun, 09 Aug 2026 20:07:26 GMT"
     }
   ]
 }
