@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-08-10T18:32:45.172527+00:00",
+  "updated_at": "2026-08-10T19:37:47.684990+00:00",
   "local_date": "2026-08-10",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - sport.sky.it",
-      "source": "sport.sky.it",
+      "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
       "published": "Fri, 07 Aug 2026 20:49:47 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Parma, base d'accordo con il Tigre per David Romero: operazione da 9 milioni - sport.sky.it",
-      "source": "sport.sky.it",
+      "title": "Calciomercato serie C, è ufficiale: Cavallini è del Perugia - perugiatoday.it",
+      "source": "perugiatoday.it",
+      "published": "Mon, 10 Aug 2026 18:19:51 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Parma, base d'accordo con il Tigre per David Romero: operazione da 9 milioni - Sky Sport",
+      "source": "Sky Sport",
       "published": "Mon, 10 Aug 2026 15:39:49 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato serie C, ufficiale il ritorno di Cisco al Perugia - perugiatoday.it",
-      "source": "perugiatoday.it",
-      "published": "Mon, 10 Aug 2026 15:03:37 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Foggia, ufficiale l'ingaggio di Parisy: contratto di un anno con opzione - FoggiaToday - cronaca e notizie da Foggia",
-      "source": "FoggiaToday - cronaca e notizie da Foggia",
+      "title": "Calciomercato Foggia, ufficiale l'ingaggio di Parisy: contratto di un anno con opzione - foggiatoday.it",
+      "source": "foggiatoday.it",
       "published": "Mon, 10 Aug 2026 17:50:22 GMT"
     },
     {
@@ -40,16 +40,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Amichevoli estive di Serie A: tutti i risultati di oggi e il calendario delle prossime - sport.sky.it",
-      "source": "sport.sky.it",
+      "title": "Amichevoli estive di Serie A: tutti i risultati di oggi e il calendario delle prossime - Sky Sport",
+      "source": "Sky Sport",
       "published": "Sun, 09 Aug 2026 20:40:40 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Aurelio va in serie A, ufficiale il passaggio al Cagliari: \"Grazie di tutto, la Spezia è un luogo speciale\" - Città della Spezia",
-      "source": "Città della Spezia",
-      "published": "Mon, 10 Aug 2026 16:36:00 GMT"
     },
     {
       "type": "news",
@@ -57,6 +50,13 @@
       "title": "La serie A, la Champions e le coppe europee: tutto sulla nuova stagione del calcio di Sky - la Repubblica",
       "source": "la Repubblica",
       "published": "Mon, 10 Aug 2026 14:18:06 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Calciomercato Foggia, ufficiale l'ingaggio di Parisy: contratto di un anno con opzione - foggiatoday.it",
+      "source": "foggiatoday.it",
+      "published": "Mon, 10 Aug 2026 17:50:22 GMT"
     },
     {
       "type": "news",
@@ -82,8 +82,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner blinda il n.1 del ranking Atp: duello con Zverev, obiettivo 100 settimane in vetta - sport.sky.it",
-      "source": "sport.sky.it",
+      "title": "Sinner blinda il n.1 del ranking Atp: duello con Zverev, obiettivo 100 settimane in vetta - Sky Sport",
+      "source": "Sky Sport",
       "published": "Fri, 07 Aug 2026 06:00:30 GMT"
     },
     {
