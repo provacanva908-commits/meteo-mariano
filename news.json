@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T11:09:19.266534+00:00",
+  "updated_at": "2026-08-10T11:59:44.874188+00:00",
   "local_date": "2026-08-10",
   "articles": [
     {
@@ -33,6 +33,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Como, c'è un problema con la lista Champions: pochi italiani, Fabregas pensa a chi escludere - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Sun, 09 Aug 2026 18:14:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Amichevoli estive di Serie A: tutti i risultati di oggi e il calendario delle prossime - sport.sky.it",
       "source": "sport.sky.it",
       "published": "Sun, 09 Aug 2026 20:40:40 GMT"
@@ -40,8 +47,8 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "“Inter, Scudetto e semifinale di Champions. Incognita Milan, molto dipende da Amorim” - tuttosport.com",
-      "source": "tuttosport.com",
+      "title": "“Inter, Scudetto e semifinale di Champions. Incognita Milan, molto dipende da Amorim” - Tuttosport",
+      "source": "Tuttosport",
       "published": "Mon, 10 Aug 2026 07:41:55 GMT"
     },
     {
@@ -50,13 +57,6 @@
       "title": "Giacomo Falchetto, Italia U20: \"Esordire con la maglia della Nazionale è stata un'esperienza fantastica\" - On Rugby",
       "source": "On Rugby",
       "published": "Mon, 10 Aug 2026 07:18:04 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Cremonese, buoni segnali da una difesa ripartita dal blocco della scorsa Serie A - Cremonaoggi",
-      "source": "Cremonaoggi",
-      "published": "Mon, 10 Aug 2026 06:36:47 GMT"
     },
     {
       "type": "news",
