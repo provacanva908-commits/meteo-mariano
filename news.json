@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T06:42:12.294978+00:00",
+  "updated_at": "2026-08-10T08:17:38.007508+00:00",
   "local_date": "2026-08-10",
   "articles": [
     {
@@ -19,23 +19,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Inter, blindato Leonardo Bovio: il giovane difensore ha firmato il rinnovo - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sun, 09 Aug 2026 20:09:26 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "Calciomercato Palermo, bloccato Iker Almena: accordo con l’Al-Qadsiah ma prima bisogna fare delle cessioni - PalermoToday",
       "source": "PalermoToday",
       "published": "Sun, 09 Aug 2026 16:38:36 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Croce Rossa Italiana: cuore romagnolo nella Manovra Parco Nazionale d’Abruzzo ad Opi :: Segnalazione a Cesena - CesenaToday",
-      "source": "CesenaToday",
-      "published": "Mon, 10 Aug 2026 06:21:44 GMT"
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Lazio, saltata la trattativa Ivanovic: il giocatore ha scelto il Lens - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sat, 08 Aug 2026 19:27:01 GMT"
     },
     {
       "type": "news",
@@ -54,16 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Como, c'è un problema con la lista Champions: pochi italiani, Fabregas pensa a chi escludere - sportmediaset.mediaset.it",
-      "source": "sportmediaset.mediaset.it",
-      "published": "Sun, 09 Aug 2026 18:14:00 GMT"
+      "title": "“Inter, Scudetto e semifinale di Champions. Incognita Milan, molto dipende da Amorim” - Tuttosport",
+      "source": "Tuttosport",
+      "published": "Mon, 10 Aug 2026 07:41:55 GMT"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Zverev out a Montreal, Sinner numero uno al mondo anche dopo gli Us Open: tutti i calcoli del ranking Atp - corrieredellosport.it",
-      "source": "corrieredellosport.it",
-      "published": "Thu, 06 Aug 2026 11:50:00 GMT"
+      "category": "CALCIO",
+      "title": "Cremonese, buoni segnali da una difesa ripartita dal blocco della scorsa Serie A - Cremonaoggi",
+      "source": "Cremonaoggi",
+      "published": "Mon, 10 Aug 2026 06:36:47 GMT"
     },
     {
       "type": "news",
@@ -78,6 +71,13 @@
       "title": "Sinner, Cincinnati sì o no? Cosa cambierebbe nel ranking ATP - OA Sport",
       "source": "OA Sport",
       "published": "Sun, 09 Aug 2026 11:15:08 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Perché Sinner e Alcaraz saranno chiamati a fare la storia agli US Open 2026 - OA Sport",
+      "source": "OA Sport",
+      "published": "Mon, 10 Aug 2026 06:41:02 GMT"
     },
     {
       "type": "news",
