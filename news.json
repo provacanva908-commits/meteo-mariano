@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T15:42:58.959528+00:00",
+  "updated_at": "2026-08-10T16:36:59.431604+00:00",
   "local_date": "2026-08-10",
   "articles": [
     {
@@ -19,16 +19,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, saltata la trattativa Ivanovic: il motivo - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sat, 08 Aug 2026 19:27:01 GMT"
+      "title": "Calciomercato serie C, ufficiale il ritorno di Cisco al Perugia - PerugiaToday",
+      "source": "PerugiaToday",
+      "published": "Mon, 10 Aug 2026 15:03:37 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Milan, Athekame al Lione in prestito secco. Le news di calciomercato - Sky Sport",
+      "title": "Calciomercato Lazio, saltata la trattativa Ivanovic: il motivo - Sky Sport",
       "source": "Sky Sport",
-      "published": "Sun, 09 Aug 2026 18:40:57 GMT"
+      "published": "Sat, 08 Aug 2026 19:27:01 GMT"
     },
     {
       "type": "news",
@@ -68,6 +68,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Perché Sinner e Alcaraz saranno chiamati a fare la storia agli US Open 2026 - OA Sport",
+      "source": "OA Sport",
+      "published": "Mon, 10 Aug 2026 06:41:02 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Sinner, il no a Cincinnati e come è cambiata la sua strategia dopo il malore al Roland Garros: perché quella agli Us Open sarà una sfida con la storia - Open",
       "source": "Open",
       "published": "Mon, 10 Aug 2026 13:28:03 GMT"
@@ -78,13 +85,6 @@
       "title": "Sinner blinda il n.1 del ranking Atp: duello con Zverev, obiettivo 100 settimane in vetta - Sky Sport",
       "source": "Sky Sport",
       "published": "Fri, 07 Aug 2026 06:00:30 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Quanti punti perde Sinner saltando Cincinnati? Cambiale pesante: il nuovo ranking, il vantaggio su Alcaraz e Zverev - OA Sport",
-      "source": "OA Sport",
-      "published": "Sun, 09 Aug 2026 16:37:58 GMT"
     },
     {
       "type": "news",
