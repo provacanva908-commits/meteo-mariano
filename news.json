@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T23:52:33.581132+00:00",
+  "updated_at": "2026-08-10T01:45:39.256259+00:00",
   "local_date": "2026-08-10",
   "articles": [
     {
@@ -40,13 +40,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Como, c'è un problema con la lista Champions: pochi italiani, Fabregas pensa a chi escludere - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Sun, 09 Aug 2026 18:14:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Nazionale italiana Under 20: martedì 11 agosto e mercoledì 12 agosto in programma due amichevoli con l'Under 21 di Ambrì Piotta e Lugano. Programma e convocati - Italia Hockey",
       "source": "Italia Hockey",
       "published": "Sun, 09 Aug 2026 12:33:05 GMT"
@@ -54,9 +47,23 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Como, c'è un problema con la lista Champions: pochi italiani, Fabregas pensa a chi escludere - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Sun, 09 Aug 2026 18:14:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Lavori in corso in serie A: Inter già corre e Napoli insegue / SPECIALE - ANSA",
       "source": "ANSA",
       "published": "Sun, 09 Aug 2026 14:47:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Cincinnati Open 2026: programma, orari delle partite, calendario e dove vedere il torneo · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Sun, 09 Aug 2026 16:28:00 GMT"
     },
     {
       "type": "news",
@@ -81,13 +88,6 @@
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner salta Cincinnati, come cambia il ranking? Jannik allunga su Alcaraz, ma Zverev (di nuovo secondo) può accorciare - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "Sun, 09 Aug 2026 15:58:13 GMT"
-    },
-    {
-      "type": "news",
       "category": "PADEL",
       "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
@@ -103,8 +103,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
+      "title": "Premier Padel London P1: Oggi quarti di finale - mrpadelpaddle.com",
+      "source": "mrpadelpaddle.com",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
     },
     {
