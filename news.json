@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T01:45:39.256259+00:00",
+  "updated_at": "2026-08-10T03:30:52.756613+00:00",
   "local_date": "2026-08-10",
   "articles": [
     {
@@ -47,16 +47,23 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Lavori in corso in serie A: Inter già corre e Napoli insegue / SPECIALE - ANSA",
+      "source": "ANSA",
+      "published": "Sun, 09 Aug 2026 14:47:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Como, c'è un problema con la lista Champions: pochi italiani, Fabregas pensa a chi escludere - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Sun, 09 Aug 2026 18:14:00 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Lavori in corso in serie A: Inter già corre e Napoli insegue / SPECIALE - ANSA",
-      "source": "ANSA",
-      "published": "Sun, 09 Aug 2026 14:47:00 GMT"
+      "category": "TENNIS",
+      "title": "Zverev out a Montreal, Sinner numero uno al mondo anche dopo gli Us Open: tutti i calcoli del ranking Atp - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Thu, 06 Aug 2026 11:50:00 GMT"
     },
     {
       "type": "news",
@@ -78,13 +85,6 @@
       "title": "Sinner, Cincinnati sì o no? Cosa cambierebbe nel ranking ATP - OA Sport",
       "source": "OA Sport",
       "published": "Sun, 09 Aug 2026 11:15:08 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner blinda il n.1 del ranking Atp: duello con Zverev, obiettivo 100 settimane in vetta - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 07 Aug 2026 06:00:30 GMT"
     },
     {
       "type": "news",
