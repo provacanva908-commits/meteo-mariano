@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T03:30:52.756613+00:00",
+  "updated_at": "2026-08-10T05:08:11.582113+00:00",
   "local_date": "2026-08-10",
   "articles": [
     {
@@ -8,6 +8,13 @@
       "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - Sky Sport",
       "source": "Sky Sport",
       "published": "Fri, 07 Aug 2026 20:49:47 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Palermo, bloccato Iker Almena: accordo con l’Al-Qadsiah ma prima bisogna fare delle cessioni - PalermoToday",
+      "source": "PalermoToday",
+      "published": "Sun, 09 Aug 2026 16:38:36 GMT"
     },
     {
       "type": "news",
@@ -25,13 +32,6 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, saltata la trattativa Ivanovic: il motivo - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sat, 08 Aug 2026 19:27:01 GMT"
-    },
-    {
-      "type": "news",
       "category": "CALCIO",
       "title": "Amichevoli estive di Serie A: tutti i risultati di oggi e il calendario delle prossime - Sky Sport",
       "source": "Sky Sport",
@@ -40,8 +40,15 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Nazionale italiana Under 20: martedì 11 agosto e mercoledì 12 agosto in programma due amichevoli con l'Under 21 di Ambrì Piotta e Lugano. Programma e convocati - Italia Hockey",
-      "source": "Italia Hockey",
+      "title": "Sito Ufficiale - Lega Serie A",
+      "source": "Lega Serie A",
+      "published": "Sun, 09 Aug 2026 19:16:35 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Nazionale italiana Under 20: martedì 11 agosto e mercoledì 12 agosto in programma due amichevoli con l'Under 21 di Ambrì Piotta e Lugano. Programma e convocati - italia.hockey",
+      "source": "italia.hockey",
       "published": "Sun, 09 Aug 2026 12:33:05 GMT"
     },
     {
@@ -50,13 +57,6 @@
       "title": "Lavori in corso in serie A: Inter già corre e Napoli insegue / SPECIALE - ANSA",
       "source": "ANSA",
       "published": "Sun, 09 Aug 2026 14:47:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Como, c'è un problema con la lista Champions: pochi italiani, Fabregas pensa a chi escludere - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Sun, 09 Aug 2026 18:14:00 GMT"
     },
     {
       "type": "news",
@@ -103,8 +103,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel London P1: Oggi quarti di finale - mrpadelpaddle.com",
-      "source": "mrpadelpaddle.com",
+      "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
     },
     {
