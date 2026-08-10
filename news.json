@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T05:08:11.582113+00:00",
+  "updated_at": "2026-08-10T06:42:12.294978+00:00",
   "local_date": "2026-08-10",
   "articles": [
     {
@@ -8,13 +8,6 @@
       "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - Sky Sport",
       "source": "Sky Sport",
       "published": "Fri, 07 Aug 2026 20:49:47 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Palermo, bloccato Iker Almena: accordo con l’Al-Qadsiah ma prima bisogna fare delle cessioni - PalermoToday",
-      "source": "PalermoToday",
-      "published": "Sun, 09 Aug 2026 16:38:36 GMT"
     },
     {
       "type": "news",
@@ -29,6 +22,20 @@
       "title": "Inter, blindato Leonardo Bovio: il giovane difensore ha firmato il rinnovo - Sky Sport",
       "source": "Sky Sport",
       "published": "Sun, 09 Aug 2026 20:09:26 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Palermo, bloccato Iker Almena: accordo con l’Al-Qadsiah ma prima bisogna fare delle cessioni - PalermoToday",
+      "source": "PalermoToday",
+      "published": "Sun, 09 Aug 2026 16:38:36 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Croce Rossa Italiana: cuore romagnolo nella Manovra Parco Nazionale d’Abruzzo ad Opi :: Segnalazione a Cesena - CesenaToday",
+      "source": "CesenaToday",
+      "published": "Mon, 10 Aug 2026 06:21:44 GMT"
     },
     {
       "type": "news",
@@ -47,30 +54,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Nazionale italiana Under 20: martedì 11 agosto e mercoledì 12 agosto in programma due amichevoli con l'Under 21 di Ambrì Piotta e Lugano. Programma e convocati - italia.hockey",
-      "source": "italia.hockey",
-      "published": "Sun, 09 Aug 2026 12:33:05 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Lavori in corso in serie A: Inter già corre e Napoli insegue / SPECIALE - ANSA",
-      "source": "ANSA",
-      "published": "Sun, 09 Aug 2026 14:47:00 GMT"
+      "title": "Como, c'è un problema con la lista Champions: pochi italiani, Fabregas pensa a chi escludere - sportmediaset.mediaset.it",
+      "source": "sportmediaset.mediaset.it",
+      "published": "Sun, 09 Aug 2026 18:14:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Zverev out a Montreal, Sinner numero uno al mondo anche dopo gli Us Open: tutti i calcoli del ranking Atp - Corriere dello Sport",
-      "source": "Corriere dello Sport",
+      "title": "Zverev out a Montreal, Sinner numero uno al mondo anche dopo gli Us Open: tutti i calcoli del ranking Atp - corrieredellosport.it",
+      "source": "corrieredellosport.it",
       "published": "Thu, 06 Aug 2026 11:50:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Cincinnati Open 2026: programma, orari delle partite, calendario e dove vedere il torneo · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Sun, 09 Aug 2026 16:28:00 GMT"
     },
     {
       "type": "news",
@@ -85,6 +78,13 @@
       "title": "Sinner, Cincinnati sì o no? Cosa cambierebbe nel ranking ATP - OA Sport",
       "source": "OA Sport",
       "published": "Sun, 09 Aug 2026 11:15:08 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner blinda il n.1 del ranking Atp: duello con Zverev, obiettivo 100 settimane in vetta - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 07 Aug 2026 06:00:30 GMT"
     },
     {
       "type": "news",
