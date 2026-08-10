@@ -1,41 +1,34 @@
 {
-  "updated_at": "2026-08-10T17:36:01.331613+00:00",
+  "updated_at": "2026-08-10T18:32:45.172527+00:00",
   "local_date": "2026-08-10",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - Sky Sport",
-      "source": "Sky Sport",
+      "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - sport.sky.it",
+      "source": "sport.sky.it",
       "published": "Fri, 07 Aug 2026 20:49:47 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Parma, base d'accordo con il Tigre per David Romero: operazione da 9 milioni - Sky Sport",
-      "source": "Sky Sport",
+      "title": "Calciomercato Parma, base d'accordo con il Tigre per David Romero: operazione da 9 milioni - sport.sky.it",
+      "source": "sport.sky.it",
       "published": "Mon, 10 Aug 2026 15:39:49 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato serie C, ufficiale il ritorno di Cisco al Perugia - PerugiaToday",
-      "source": "PerugiaToday",
+      "title": "Calciomercato serie C, ufficiale il ritorno di Cisco al Perugia - perugiatoday.it",
+      "source": "perugiatoday.it",
       "published": "Mon, 10 Aug 2026 15:03:37 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, saltata la trattativa Ivanovic: il motivo - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sat, 08 Aug 2026 19:27:01 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Amichevoli estive di Serie A: tutti i risultati di oggi e il calendario delle prossime - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sun, 09 Aug 2026 20:40:40 GMT"
+      "title": "Calciomercato Foggia, ufficiale l'ingaggio di Parisy: contratto di un anno con opzione - FoggiaToday - cronaca e notizie da Foggia",
+      "source": "FoggiaToday - cronaca e notizie da Foggia",
+      "published": "Mon, 10 Aug 2026 17:50:22 GMT"
     },
     {
       "type": "news",
@@ -43,6 +36,13 @@
       "title": "Como, c'è un problema con la lista Champions: pochi italiani, Fabregas pensa a chi escludere - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Sun, 09 Aug 2026 18:14:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Amichevoli estive di Serie A: tutti i risultati di oggi e il calendario delle prossime - sport.sky.it",
+      "source": "sport.sky.it",
+      "published": "Sun, 09 Aug 2026 20:40:40 GMT"
     },
     {
       "type": "news",
@@ -75,15 +75,15 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner, il no a Cincinnati e come è cambiata la sua strategia dopo il malore al Roland Garros: perché quella agli Us Open sarà una sfida con la storia - Open",
-      "source": "Open",
+      "title": "Sinner, il no a Cincinnati e come è cambiata la sua strategia dopo il malore al Roland Garros: perché quella agli Us Open sarà una sfida con la storia - open.online",
+      "source": "open.online",
       "published": "Mon, 10 Aug 2026 13:28:03 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner blinda il n.1 del ranking Atp: duello con Zverev, obiettivo 100 settimane in vetta - Sky Sport",
-      "source": "Sky Sport",
+      "title": "Sinner blinda il n.1 del ranking Atp: duello con Zverev, obiettivo 100 settimane in vetta - sport.sky.it",
+      "source": "sport.sky.it",
       "published": "Fri, 07 Aug 2026 06:00:30 GMT"
     },
     {
