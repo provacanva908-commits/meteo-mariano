@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-08-10T09:53:04.831719+00:00",
+  "updated_at": "2026-08-10T11:09:19.266534+00:00",
   "local_date": "2026-08-10",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - Sky Sport",
-      "source": "Sky Sport",
+      "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - sport.sky.it",
+      "source": "sport.sky.it",
       "published": "Fri, 07 Aug 2026 20:49:47 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Milan, Athekame al Lione in prestito secco. Le news di calciomercato - Sky Sport",
-      "source": "Sky Sport",
+      "title": "Milan, Athekame al Lione in prestito secco. Le news di calciomercato - sport.sky.it",
+      "source": "sport.sky.it",
       "published": "Sun, 09 Aug 2026 18:40:57 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, saltata la trattativa Ivanovic: il giocatore ha scelto il Lens - Sky Sport",
-      "source": "Sky Sport",
+      "title": "Calciomercato Lazio, saltata la trattativa Ivanovic: il giocatore ha scelto il Lens - sport.sky.it",
+      "source": "sport.sky.it",
       "published": "Sat, 08 Aug 2026 19:27:01 GMT"
     },
     {
@@ -33,16 +33,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Amichevoli estive di Serie A: tutti i risultati di oggi e il calendario delle prossime - Sky Sport",
-      "source": "Sky Sport",
+      "title": "Amichevoli estive di Serie A: tutti i risultati di oggi e il calendario delle prossime - sport.sky.it",
+      "source": "sport.sky.it",
       "published": "Sun, 09 Aug 2026 20:40:40 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A Silver Baseball, Milano 1946 e Platform TMC Poviglio a un passo dai playoff nel Girone A, nel Girone B è lotta ancora aperta - FIBS (Federazione Italiana Baseball Softball)",
-      "source": "FIBS (Federazione Italiana Baseball Softball)",
-      "published": "Mon, 10 Aug 2026 09:11:35 GMT"
     },
     {
       "type": "news",
@@ -54,9 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Giacomo Falchetto, Italia U20: \"Esordire con la maglia della Nazionale è stata un'esperienza fantastica\" - onrugby.it",
-      "source": "onrugby.it",
+      "title": "Giacomo Falchetto, Italia U20: \"Esordire con la maglia della Nazionale è stata un'esperienza fantastica\" - On Rugby",
+      "source": "On Rugby",
       "published": "Mon, 10 Aug 2026 07:18:04 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Cremonese, buoni segnali da una difesa ripartita dal blocco della scorsa Serie A - Cremonaoggi",
+      "source": "Cremonaoggi",
+      "published": "Mon, 10 Aug 2026 06:36:47 GMT"
     },
     {
       "type": "news",
@@ -64,6 +64,13 @@
       "title": "Quanti punti perde Sinner saltando Cincinnati? Cambiale pesante: il nuovo ranking, il vantaggio su Alcaraz e Zverev - OA Sport",
       "source": "OA Sport",
       "published": "Sun, 09 Aug 2026 16:37:58 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner blinda il n.1 del ranking Atp: duello con Zverev, obiettivo 100 settimane in vetta - sport.sky.it",
+      "source": "sport.sky.it",
+      "published": "Fri, 07 Aug 2026 06:00:30 GMT"
     },
     {
       "type": "news",
@@ -78,13 +85,6 @@
       "title": "Sinner, Cincinnati sì o no? Cosa cambierebbe nel ranking ATP - OA Sport",
       "source": "OA Sport",
       "published": "Sun, 09 Aug 2026 11:15:08 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner blinda il n.1 del ranking Atp: duello con Zverev, obiettivo 100 settimane in vetta - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 07 Aug 2026 06:00:30 GMT"
     },
     {
       "type": "news",
@@ -103,8 +103,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
+      "title": "Premier Padel London P1: Oggi quarti di finale - mrpadelpaddle.com",
+      "source": "mrpadelpaddle.com",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
     },
     {
