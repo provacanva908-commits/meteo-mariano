@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-08-10T11:59:44.874188+00:00",
+  "updated_at": "2026-08-10T13:36:55.405292+00:00",
   "local_date": "2026-08-10",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - sport.sky.it",
-      "source": "sport.sky.it",
+      "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
       "published": "Fri, 07 Aug 2026 20:49:47 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Milan, Athekame al Lione in prestito secco. Le news di calciomercato - sport.sky.it",
-      "source": "sport.sky.it",
+      "title": "Milan, Athekame al Lione in prestito secco. Le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
       "published": "Sun, 09 Aug 2026 18:40:57 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, saltata la trattativa Ivanovic: il giocatore ha scelto il Lens - sport.sky.it",
-      "source": "sport.sky.it",
+      "title": "Calciomercato Lazio, saltata la trattativa Ivanovic: il motivo - Sky Sport",
+      "source": "Sky Sport",
       "published": "Sat, 08 Aug 2026 19:27:01 GMT"
     },
     {
@@ -40,9 +40,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Amichevoli estive di Serie A: tutti i risultati di oggi e il calendario delle prossime - sport.sky.it",
-      "source": "sport.sky.it",
+      "title": "Amichevoli estive di Serie A: tutti i risultati di oggi e il calendario delle prossime - Sky Sport",
+      "source": "Sky Sport",
       "published": "Sun, 09 Aug 2026 20:40:40 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A Silver Baseball, Milano 1946 e Platform TMC Poviglio a un passo dai playoff nel Girone A, nel Girone B è lotta ancora aperta - FIBS (Federazione Italiana Baseball Softball)",
+      "source": "FIBS (Federazione Italiana Baseball Softball)",
+      "published": "Mon, 10 Aug 2026 09:11:35 GMT"
     },
     {
       "type": "news",
@@ -53,10 +60,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Giacomo Falchetto, Italia U20: \"Esordire con la maglia della Nazionale è stata un'esperienza fantastica\" - On Rugby",
-      "source": "On Rugby",
-      "published": "Mon, 10 Aug 2026 07:18:04 GMT"
+      "category": "TENNIS",
+      "title": "Sinner, il no a Cincinnati e come è cambiata la sua strategia dopo il malore al Roland Garros: perché quella agli Us Open sarà una sfida con la storia - Open",
+      "source": "Open",
+      "published": "Mon, 10 Aug 2026 13:28:03 GMT"
     },
     {
       "type": "news",
@@ -68,8 +75,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner blinda il n.1 del ranking Atp: duello con Zverev, obiettivo 100 settimane in vetta - sport.sky.it",
-      "source": "sport.sky.it",
+      "title": "Sinner blinda il n.1 del ranking Atp: duello con Zverev, obiettivo 100 settimane in vetta - Sky Sport",
+      "source": "Sky Sport",
       "published": "Fri, 07 Aug 2026 06:00:30 GMT"
     },
     {
@@ -81,23 +88,16 @@
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner, Cincinnati sì o no? Cosa cambierebbe nel ranking ATP - OA Sport",
-      "source": "OA Sport",
-      "published": "Sun, 09 Aug 2026 11:15:08 GMT"
-    },
-    {
-      "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Mon, 20 Jul 2026 07:00:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Sun, 09 Aug 2026 20:11:24 GMT"
     },
     {
