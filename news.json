@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-08-11T19:27:51.335596+00:00",
+  "updated_at": "2026-08-11T20:18:37.760227+00:00",
   "local_date": "2026-08-11",
   "articles": [
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Lukaku al Fenerbahce: accordo con il Napoli. Le news di calciomercato - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Tue, 11 Aug 2026 08:47:17 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Inter, avanti per Spence: le cifre dell'operazione e l'accordo con il Torrenham - Sisal",
-      "source": "Sisal",
-      "published": "Tue, 11 Aug 2026 16:18:58 GMT"
-    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -29,6 +15,20 @@
       "title": "Calciomercato Avellino, ufficiale Venturi: i dettagli dell'accordo - Il Mattino",
       "source": "Il Mattino",
       "published": "Tue, 11 Aug 2026 16:47:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato - Ufficiale, il Piacenza trova l'accordo con Gianluca Barba - SportPiacenza",
+      "source": "SportPiacenza",
+      "published": "Tue, 11 Aug 2026 08:12:54 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 07 Aug 2026 20:49:47 GMT"
     },
     {
       "type": "news",
@@ -47,16 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Nazionale CP: i convocati per il World Championship si radunano mercoledì 12 a Tirrenia. A Ferragosto la partenza per la Gran Bretagna - FIGC",
-      "source": "FIGC",
-      "published": "Tue, 11 Aug 2026 00:56:00 GMT"
+      "title": "\"Ad Astra\": l'As Roma lancia la campagna abbonamenti per la Champions League - RomaToday",
+      "source": "RomaToday",
+      "published": "Tue, 11 Aug 2026 17:26:07 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "\"Ad Astra\": l'As Roma lancia la campagna abbonamenti per la Champions League - RomaToday",
-      "source": "RomaToday",
-      "published": "Tue, 11 Aug 2026 17:26:07 GMT"
+      "title": "Juventus Women, in Champions il sorteggio sorride: avversaria e date del playoff - Tuttosport",
+      "source": "Tuttosport",
+      "published": "Tue, 11 Aug 2026 12:02:26 GMT"
     },
     {
       "type": "news",
