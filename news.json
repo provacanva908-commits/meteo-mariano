@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-11T12:26:36.513532+00:00",
+  "updated_at": "2026-08-11T13:59:20.531779+00:00",
   "local_date": "2026-08-11",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Lukaku al Fenerbahce: accordo con il Napoli. Le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Tue, 11 Aug 2026 08:47:17 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -25,17 +32,17 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli: offerta per il prestito di Badiashile - pianetanapoli.it",
-      "source": "pianetanapoli.it",
-      "published": "Tue, 11 Aug 2026 09:21:33 GMT"
+      "category": "CALCIO",
+      "title": "La Serie A di Bergomi: \"Inter, terrei Pavard. Milan, Ramos mi piace. Juve, con un mediano...\" - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Tue, 11 Aug 2026 10:56:26 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "La Serie A di Bergomi: \"Inter, terrei Pavard. Milan, Ramos mi piace. Juve, con un mediano...\" - gazzetta.it",
-      "source": "gazzetta.it",
-      "published": "Tue, 11 Aug 2026 10:56:26 GMT"
+      "title": "Coppa Italia : Prezzi e modalità d'acquisto dei tagliandi - US Catanzaro 1929 - Sito ufficiale",
+      "source": "US Catanzaro 1929 - Sito ufficiale",
+      "published": "Tue, 11 Aug 2026 12:13:44 GMT"
     },
     {
       "type": "news",
@@ -47,22 +54,15 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Women's Champions League, sorteggiato il 3° turno: Inter contro Wolfsburg, Juventus sfida il St. Pölten - L Football",
-      "source": "L Football",
+      "title": "Women's Champions League, sorteggiato il 3° turno: Inter contro Wolfsburg, Juventus sfida il St. Pölten - lfootball.it",
+      "source": "lfootball.it",
       "published": "Tue, 11 Aug 2026 10:40:00 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Amichevoli estive di Serie A: tutti i risultati di oggi e il calendario delle prossime - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sun, 09 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
-      "title": "Sinner e Alcaraz e i loro infortuni: lo Us Open si avvicina tra luci e ombre per i due re - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Sinner, Alcaraz e gli infortuni: i tormenti dei due re verso Us Open. Come stanno e a che punto sono - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Tue, 11 Aug 2026 10:21:24 GMT"
     },
     {
@@ -89,8 +89,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Sun, 09 Aug 2026 20:11:24 GMT"
     },
     {
