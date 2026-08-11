@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T20:18:37.760227+00:00",
+  "updated_at": "2026-08-11T21:10:54.107169+00:00",
   "local_date": "2026-08-11",
   "articles": [
     {
@@ -8,6 +8,13 @@
       "title": "Calciomercato, l'ex Napoli Fabiano Santacroce torna in campo: ufficiale il suo nuovo club - NapoliToday",
       "source": "NapoliToday",
       "published": "Tue, 11 Aug 2026 14:30:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "L'Inter pensa a vendere! Base di intesa con la Roma per la cessione di Luis Henrique, Frattesi verso il prestito alla Lazio - eurosport.it",
+      "source": "eurosport.it",
+      "published": "Tue, 11 Aug 2026 21:00:00 GMT"
     },
     {
       "type": "news",
@@ -22,13 +29,6 @@
       "title": "Calciomercato - Ufficiale, il Piacenza trova l'accordo con Gianluca Barba - SportPiacenza",
       "source": "SportPiacenza",
       "published": "Tue, 11 Aug 2026 08:12:54 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 07 Aug 2026 20:49:47 GMT"
     },
     {
       "type": "news",
@@ -47,8 +47,8 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "\"Ad Astra\": l'As Roma lancia la campagna abbonamenti per la Champions League - RomaToday",
-      "source": "RomaToday",
+      "title": "\"Ad Astra\": l'As Roma lancia la campagna abbonamenti per la Champions League - romatoday.it",
+      "source": "romatoday.it",
       "published": "Tue, 11 Aug 2026 17:26:07 GMT"
     },
     {
