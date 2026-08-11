@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-11T21:10:54.107169+00:00",
-  "local_date": "2026-08-11",
+  "updated_at": "2026-08-11T22:07:08.058297+00:00",
+  "local_date": "2026-08-12",
   "articles": [
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato, l'ex Napoli Fabiano Santacroce torna in campo: ufficiale il suo nuovo club - NapoliToday",
-      "source": "NapoliToday",
-      "published": "Tue, 11 Aug 2026 14:30:00 GMT"
-    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -19,9 +12,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Avellino, ufficiale Venturi: i dettagli dell'accordo - Il Mattino",
-      "source": "Il Mattino",
-      "published": "Tue, 11 Aug 2026 16:47:00 GMT"
+      "title": "Calciomercato, l'ex Napoli Fabiano Santacroce torna in campo: ufficiale il suo nuovo club - NapoliToday",
+      "source": "NapoliToday",
+      "published": "Tue, 11 Aug 2026 14:30:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 07 Aug 2026 20:49:47 GMT"
     },
     {
       "type": "news",
@@ -35,7 +35,7 @@
       "category": "CALCIO",
       "title": "Coppa Italia : Prezzi e modalità d'acquisto dei tagliandi - US Catanzaro 1929 - Sito ufficiale",
       "source": "US Catanzaro 1929 - Sito ufficiale",
-      "published": "Tue, 11 Aug 2026 12:13:44 GMT"
+      "published": "Tue, 11 Aug 2026 21:33:45 GMT"
     },
     {
       "type": "news",
@@ -54,8 +54,8 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Juventus Women, in Champions il sorteggio sorride: avversaria e date del playoff - Tuttosport",
-      "source": "Tuttosport",
+      "title": "Juventus Women, in Champions il sorteggio sorride: avversaria e date del playoff - tuttosport.com",
+      "source": "tuttosport.com",
       "published": "Tue, 11 Aug 2026 12:02:26 GMT"
     },
     {
@@ -75,16 +75,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Mouratoglou secco: “Sinner e Alcaraz non andranno a Los Angeles 2028. Chi rinuncerebbe a Wimbledon?” - OA Sport",
-      "source": "OA Sport",
-      "published": "Tue, 11 Aug 2026 15:53:59 GMT"
+      "title": "ATP Montreal 2026, Jodar piega Fils e vola in semifinale - oasport.it",
+      "source": "oasport.it",
+      "published": "Tue, 11 Aug 2026 21:16:55 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Quanti punti perde Sinner saltando Cincinnati? Cambiale pesante: il nuovo ranking, il vantaggio su Alcaraz e Zverev - OA Sport",
-      "source": "OA Sport",
-      "published": "Sun, 09 Aug 2026 16:37:58 GMT"
+      "title": "Mouratoglou secco: “Sinner e Alcaraz non andranno a Los Angeles 2028. Chi rinuncerebbe a Wimbledon?” - oasport.it",
+      "source": "oasport.it",
+      "published": "Tue, 11 Aug 2026 15:53:59 GMT"
     },
     {
       "type": "news",
