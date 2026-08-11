@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T10:36:55.094683+00:00",
+  "updated_at": "2026-08-11T11:30:09.001116+00:00",
   "local_date": "2026-08-11",
   "articles": [
     {
@@ -33,6 +33,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "La Serie A di Bergomi: \"Inter, terrei Pavard. Milan, Ramos mi piace. Juve, con un mediano...\" - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Tue, 11 Aug 2026 10:56:26 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Nazionale CP: i convocati per il World Championship si radunano mercoledì 12 a Tirrenia. A Ferragosto la partenza per la Gran Bretagna - FIGC",
       "source": "FIGC",
       "published": "Tue, 11 Aug 2026 00:56:00 GMT"
@@ -40,23 +47,23 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Women's Champions League, sorteggiato il 3° turno: Inter contro Wolfsburg, Juventus sfida il St. Pölten - L Football",
+      "source": "L Football",
+      "published": "Tue, 11 Aug 2026 10:40:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Amichevoli estive di Serie A: tutti i risultati di oggi e il calendario delle prossime - Sky Sport",
       "source": "Sky Sport",
-      "published": "Sun, 09 Aug 2026 20:40:40 GMT"
+      "published": "Sun, 09 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Calcio, il calendario delle ultime amichevoli estive delle squadre di Serie A - Sky TG24",
-      "source": "Sky TG24",
-      "published": "Mon, 10 Aug 2026 12:56:02 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Coppa Italia Serie C Femminile: calendario e gironi della prima fase - Gazzetta Regionale",
-      "source": "Gazzetta Regionale",
-      "published": "Tue, 11 Aug 2026 09:58:25 GMT"
+      "category": "TENNIS",
+      "title": "Sinner e Alcaraz e i loro infortuni: lo Us Open si avvicina tra luci e ombre per i due re - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Tue, 11 Aug 2026 10:21:24 GMT"
     },
     {
       "type": "news",
@@ -64,13 +71,6 @@
       "title": "Swiatek-Svitolina sarà la prima semifinale del WTA di Toronto - RSI",
       "source": "RSI",
       "published": "Tue, 11 Aug 2026 05:15:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner e Alcaraz e i loro infortuni: lo Us Open si avvicina tra luci e ombre per i due re - gazzetta.it",
-      "source": "gazzetta.it",
-      "published": "Tue, 11 Aug 2026 10:21:24 GMT"
     },
     {
       "type": "news",
@@ -89,8 +89,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Sun, 09 Aug 2026 20:11:24 GMT"
     },
     {
