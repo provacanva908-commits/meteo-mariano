@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T00:04:42.163322+00:00",
+  "updated_at": "2026-08-11T02:25:11.772403+00:00",
   "local_date": "2026-08-11",
   "articles": [
     {
@@ -33,6 +33,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Aurelio va in serie A, ufficiale il passaggio al Cagliari: \"Grazie di tutto, la Spezia è un luogo speciale\" - Città della Spezia",
+      "source": "Città della Spezia",
+      "published": "Mon, 10 Aug 2026 16:36:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Amichevoli estive di Serie A: tutti i risultati di oggi e il calendario delle prossime - Sky Sport",
       "source": "Sky Sport",
       "published": "Sun, 09 Aug 2026 20:40:40 GMT"
@@ -47,16 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calcio, il calendario delle ultime amichevoli estive delle squadre di Serie A - tg24.sky.it",
-      "source": "tg24.sky.it",
+      "title": "Calcio, il calendario delle ultime amichevoli estive delle squadre di Serie A - Sky TG24",
+      "source": "Sky TG24",
       "published": "Mon, 10 Aug 2026 12:56:02 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Ufficiale | Giuseppe Ciocci è un nuovo calciatore delle Aquile - Spezia Calcio",
-      "source": "Spezia Calcio",
-      "published": "Mon, 10 Aug 2026 16:15:00 GMT"
     },
     {
       "type": "news",
@@ -82,9 +82,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner, il no a Cincinnati e come è cambiata la sua strategia dopo il malore al Roland Garros: perché quella agli Us Open sarà una sfida con la storia - Open",
-      "source": "Open",
-      "published": "Mon, 10 Aug 2026 13:28:03 GMT"
+      "title": "Quanti punti perde Sinner saltando Cincinnati? Cambiale pesante: il nuovo ranking, il vantaggio su Alcaraz e Zverev - OA Sport",
+      "source": "OA Sport",
+      "published": "Sun, 09 Aug 2026 16:37:58 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel, a Malaga Coello-Tapia conquistano il quinto torneo consecutivo - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Mon, 20 Jul 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -103,16 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Londra P1: Tapia e Coello ancora una volta troppo forti per Navarro/Di Nenno, i numeri 1 accedono alla finale - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sat, 08 Aug 2026 18:02:52 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - fitp.it",
-      "source": "fitp.it",
-      "published": "Thu, 02 Jul 2026 17:00:00 GMT"
+      "title": "London Premier Padel P1: La prima volta di Fernandez-Calvo. Riecco Coello-Tapia - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Mon, 10 Aug 2026 06:42:41 GMT"
     }
   ]
 }
