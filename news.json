@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T16:12:04.155240+00:00",
+  "updated_at": "2026-08-11T17:15:17.897950+00:00",
   "local_date": "2026-08-11",
   "articles": [
     {
@@ -12,6 +12,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Calciomercato Inter, avanti per Spence: le cifre dell'operazione e l'accordo con il Torrenham - Sisal",
+      "source": "Sisal",
+      "published": "Tue, 11 Aug 2026 16:18:45 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Calciomercato, l'ex Napoli Fabiano Santacroce torna in campo: ufficiale il suo nuovo club - NapoliToday",
       "source": "NapoliToday",
       "published": "Tue, 11 Aug 2026 14:30:00 GMT"
@@ -19,16 +26,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato - Ufficiale, il Piacenza trova l'accordo con Gianluca Barba - SportPiacenza",
-      "source": "SportPiacenza",
-      "published": "Tue, 11 Aug 2026 08:12:54 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 07 Aug 2026 20:49:47 GMT"
+      "title": "Calciomercato Avellino, ufficiale Venturi: i dettagli dell'accordo - Il Mattino",
+      "source": "Il Mattino",
+      "published": "Tue, 11 Aug 2026 16:47:00 GMT"
     },
     {
       "type": "news",
@@ -54,9 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Nazionale CP: i convocati per il World Championship si radunano mercoledì 12 a Tirrenia. A Ferragosto la partenza per la Gran Bretagna - FIGC",
-      "source": "FIGC",
-      "published": "Tue, 11 Aug 2026 00:56:00 GMT"
+      "title": "PRIMAVERA 2, PUBBLICATO IL CALENDARIO - Frosinone Calcio – Sito Ufficiale",
+      "source": "Frosinone Calcio – Sito Ufficiale",
+      "published": "Tue, 11 Aug 2026 15:47:43 GMT"
     },
     {
       "type": "news",
@@ -68,8 +68,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Swiatek-Svitolina sarà la prima semifinale del WTA di Toronto - RSI",
-      "source": "RSI",
+      "title": "Swiatek-Svitolina sarà la prima semifinale del WTA di Toronto - rsi.ch",
+      "source": "rsi.ch",
       "published": "Tue, 11 Aug 2026 05:15:00 GMT"
     },
     {
@@ -82,9 +82,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner blinda il n.1 del ranking Atp: duello con Zverev, obiettivo 100 settimane in vetta - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 07 Aug 2026 06:00:30 GMT"
+      "title": "Sinner e Alcaraz agli Us Open con un tabù da sfatare: la curiosa statistica che resiste dal 1990 - Il Messaggero",
+      "source": "Il Messaggero",
+      "published": "Tue, 11 Aug 2026 16:34:29 GMT"
     },
     {
       "type": "news",
