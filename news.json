@@ -1,5 +1,118 @@
 {
-  "updated_at": "2026-08-11T09:43:40.285043+00:00",
+  "updated_at": "2026-08-11T10:36:55.094683+00:00",
   "local_date": "2026-08-11",
-  "articles": []
+  "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato - Ufficiale, il Piacenza trova l'accordo con Gianluca Barba - SportPiacenza",
+      "source": "SportPiacenza",
+      "published": "Tue, 11 Aug 2026 08:12:54 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 07 Aug 2026 20:49:47 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli: offerta per il prestito di Badiashile - pianetanapoli.it",
+      "source": "pianetanapoli.it",
+      "published": "Tue, 11 Aug 2026 09:21:33 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Asse di mercato Roma-Inter: parte l'assalto a Luis Henrique, i dettagli della trattativa - RomaToday",
+      "source": "RomaToday",
+      "published": "Tue, 11 Aug 2026 09:14:10 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Nazionale CP: i convocati per il World Championship si radunano mercoledì 12 a Tirrenia. A Ferragosto la partenza per la Gran Bretagna - FIGC",
+      "source": "FIGC",
+      "published": "Tue, 11 Aug 2026 00:56:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Amichevoli estive di Serie A: tutti i risultati di oggi e il calendario delle prossime - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sun, 09 Aug 2026 20:40:40 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Calcio, il calendario delle ultime amichevoli estive delle squadre di Serie A - Sky TG24",
+      "source": "Sky TG24",
+      "published": "Mon, 10 Aug 2026 12:56:02 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Coppa Italia Serie C Femminile: calendario e gironi della prima fase - Gazzetta Regionale",
+      "source": "Gazzetta Regionale",
+      "published": "Tue, 11 Aug 2026 09:58:25 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Swiatek-Svitolina sarà la prima semifinale del WTA di Toronto - RSI",
+      "source": "RSI",
+      "published": "Tue, 11 Aug 2026 05:15:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner e Alcaraz e i loro infortuni: lo Us Open si avvicina tra luci e ombre per i due re - gazzetta.it",
+      "source": "gazzetta.it",
+      "published": "Tue, 11 Aug 2026 10:21:24 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner blinda il n.1 del ranking Atp: duello con Zverev, obiettivo 100 settimane in vetta - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 07 Aug 2026 06:00:30 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "LIVE Darderi-Nakashima, ATP Montreal 2026 in DIRETTA: l’azzurro sogna la prima semifinale in un 1000 - OA Sport",
+      "source": "OA Sport",
+      "published": "Tue, 11 Aug 2026 09:37:32 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - gazzetta.it",
+      "source": "gazzetta.it",
+      "published": "Sun, 09 Aug 2026 20:11:24 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Classifica FIP: Calvo entra nella Top 10, Tapia/Coello e Triay/Brea aumentano il distacco in corsa - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Tue, 11 Aug 2026 07:19:46 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Fri, 07 Aug 2026 07:03:57 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "London Premier Padel P1: La prima volta di Fernandez-Calvo. Riecco Coello-Tapia - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Mon, 10 Aug 2026 06:42:41 GMT"
+    }
+  ]
 }
