@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T13:59:20.531779+00:00",
+  "updated_at": "2026-08-11T15:10:56.506955+00:00",
   "local_date": "2026-08-11",
   "articles": [
     {
@@ -19,23 +19,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 07 Aug 2026 20:49:47 GMT"
+      "title": "Calciomercato, l'ex Napoli Fabiano Santacroce torna in campo: ufficiale il suo nuovo club - NapoliToday",
+      "source": "NapoliToday",
+      "published": "Tue, 11 Aug 2026 14:30:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "MERCATO | Ufficiale Corradi alla Juventus Next Gen in prestito - TgGialloblu",
-      "source": "TgGialloblu",
-      "published": "Tue, 11 Aug 2026 03:03:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "La Serie A di Bergomi: \"Inter, terrei Pavard. Milan, Ramos mi piace. Juve, con un mediano...\" - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Tue, 11 Aug 2026 10:56:26 GMT"
+      "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 07 Aug 2026 20:49:47 GMT"
     },
     {
       "type": "news",
@@ -47,16 +40,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Nazionale CP: i convocati per il World Championship si radunano mercoledì 12 a Tirrenia. A Ferragosto la partenza per la Gran Bretagna - FIGC",
-      "source": "FIGC",
-      "published": "Tue, 11 Aug 2026 00:56:00 GMT"
+      "title": "La Serie A di Bergomi: \"Inter, terrei Pavard. Milan, Ramos mi piace. Juve, con un mediano...\" - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Tue, 11 Aug 2026 10:56:26 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Women's Champions League, sorteggiato il 3° turno: Inter contro Wolfsburg, Juventus sfida il St. Pölten - lfootball.it",
-      "source": "lfootball.it",
-      "published": "Tue, 11 Aug 2026 10:40:00 GMT"
+      "title": "Como, c'è un problema con la lista Champions: pochi italiani, Fabregas pensa a chi escludere - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Sun, 09 Aug 2026 18:14:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Nazionale CP: i convocati per il World Championship si radunano mercoledì 12 a Tirrenia. A Ferragosto la partenza per la Gran Bretagna - FIGC",
+      "source": "FIGC",
+      "published": "Tue, 11 Aug 2026 00:56:00 GMT"
     },
     {
       "type": "news",
@@ -82,9 +82,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "LIVE Darderi-Nakashima, ATP Montreal 2026 in DIRETTA: l’azzurro sogna la prima semifinale in un 1000 - OA Sport",
-      "source": "OA Sport",
-      "published": "Tue, 11 Aug 2026 09:37:32 GMT"
+      "title": "Sinner blinda il n.1 del ranking Atp: duello con Zverev, obiettivo 100 settimane in vetta - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 07 Aug 2026 06:00:30 GMT"
     },
     {
       "type": "news",
