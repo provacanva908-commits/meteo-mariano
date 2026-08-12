@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T13:39:35.902782+00:00",
+  "updated_at": "2026-08-12T14:44:37.029768+00:00",
   "local_date": "2026-08-12",
   "articles": [
     {
@@ -12,8 +12,15 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "La telenovela del calciomercato è finita: Gennaro Iaccarino all'Arezzo a titolo definitivo: trovato l'accordo con il Napoli - corrierediarezzo.it",
-      "source": "corrierediarezzo.it",
+      "title": "Calciomercato Roma, ufficiale Molina. E Rodrigo Mora... - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Wed, 12 Aug 2026 10:17:19 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "La telenovela del calciomercato è finita: Gennaro Iaccarino all'Arezzo a titolo definitivo: trovato l'accordo con il Napoli - Corriere di Arezzo",
+      "source": "Corriere di Arezzo",
       "published": "Wed, 12 Aug 2026 13:24:54 GMT"
     },
     {
@@ -22,13 +29,6 @@
       "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - Sky Sport",
       "source": "Sky Sport",
       "published": "Fri, 07 Aug 2026 20:49:47 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Curtis Jones, Spence, Fofana: come si sta sbloccando il mercato dell'Inter con Frattesi alla Lazio e Luis Henrique alla Roma - Goal.com",
-      "source": "Goal.com",
-      "published": "Wed, 12 Aug 2026 12:49:27 GMT"
     },
     {
       "type": "news",
@@ -54,16 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "La Lazio ha in pugno Frattesi: accordo totale con l'Inter, formula e dettagli - eurosport.it",
-      "source": "eurosport.it",
-      "published": "Wed, 12 Aug 2026 12:30:15 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "ATP Cincinnati, Zverev: “Senza Sinner il torneo cambia un po’. Djokovic? Se volesse, potrebbe…” - ubitennis.com",
-      "source": "ubitennis.com",
-      "published": "Wed, 12 Aug 2026 11:09:06 GMT"
+      "title": "Como, c'è un problema con la lista Champions: pochi italiani, Fabregas pensa a chi escludere - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Sun, 09 Aug 2026 18:14:00 GMT"
     },
     {
       "type": "news",
@@ -75,6 +68,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "ATP Cincinnati, Fritz: \"Più pressione per tutti senza Sinner e Alcaraz. Ma l'assenza si nota solo...\" - Ubitennis",
+      "source": "Ubitennis",
+      "published": "Wed, 12 Aug 2026 14:26:42 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Jodar e Tien mettono la freccia, crollo Musetti nel ranking Atp (e adesso è incubo Us Open) - Il Messaggero",
       "source": "Il Messaggero",
       "published": "Wed, 12 Aug 2026 10:03:45 GMT"
@@ -82,9 +82,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Montreal 2026, la semifinale della parte alta sarà Shelton-Tien - OA Sport",
+      "title": "Quanti punti perde Sinner saltando Cincinnati? Cambiale pesante: il nuovo ranking, il vantaggio su Alcaraz e Zverev - OA Sport",
       "source": "OA Sport",
-      "published": "Wed, 12 Aug 2026 06:15:39 GMT"
+      "published": "Sun, 09 Aug 2026 16:37:58 GMT"
     },
     {
       "type": "news",
@@ -96,23 +96,23 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel London P1: Oggi quarti di finale - mrpadelpaddle.com",
-      "source": "mrpadelpaddle.com",
+      "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "London Premier Padel P1: La prima volta di Fernandez-Calvo. Riecco Coello-Tapia - mrpadelpaddle.com",
-      "source": "mrpadelpaddle.com",
-      "published": "Mon, 10 Aug 2026 06:42:41 GMT"
+      "title": "Londra P1: Tapia e Coello ancora una volta troppo forti per Navarro/Di Nenno, i numeri 1 accedono alla finale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 08 Aug 2026 18:02:52 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Classifica FIP: Calvo entra nella Top 10, Tapia/Coello e Triay/Brea aumentano il distacco in corsa - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Tue, 11 Aug 2026 07:19:46 GMT"
+      "title": "London Premier Padel P1: La prima volta di Fernandez-Calvo. Riecco Coello-Tapia - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Mon, 10 Aug 2026 06:42:41 GMT"
     }
   ]
 }
