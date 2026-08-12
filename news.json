@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T02:26:51.292027+00:00",
+  "updated_at": "2026-08-12T04:23:59.917226+00:00",
   "local_date": "2026-08-12",
   "articles": [
     {
@@ -33,6 +33,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Studio internazionale sul calcio lombardo: i due colossi milanesi, l’Atalanta, il Como. «Un modello unico» - L'Eco di Bergamo",
+      "source": "L'Eco di Bergamo",
+      "published": "Wed, 12 Aug 2026 04:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Coppa Italia : Prezzi e modalità d'acquisto dei tagliandi - US Catanzaro 1929 - Sito ufficiale",
       "source": "US Catanzaro 1929 - Sito ufficiale",
       "published": "Tue, 11 Aug 2026 21:36:22 GMT"
@@ -43,13 +50,6 @@
       "title": "Como, c'è un problema con la lista Champions: pochi italiani, Fabregas pensa a chi escludere - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Sun, 09 Aug 2026 18:14:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Roma: abbonamenti Champions, comincia oggi la prima fase - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "Tue, 11 Aug 2026 21:45:06 GMT"
     },
     {
       "type": "news",
@@ -68,9 +68,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Swiatek-Svitolina sarà la prima semifinale del WTA di Toronto - RSI",
-      "source": "RSI",
-      "published": "Tue, 11 Aug 2026 05:15:00 GMT"
+      "title": "Quanti punti perde Sinner saltando Cincinnati? Cambiale pesante: il nuovo ranking, il vantaggio su Alcaraz e Zverev - OA Sport",
+      "source": "OA Sport",
+      "published": "Sun, 09 Aug 2026 16:37:58 GMT"
     },
     {
       "type": "news",
@@ -82,9 +82,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Quanti punti perde Sinner saltando Cincinnati? Cambiale pesante: il nuovo ranking, il vantaggio su Alcaraz e Zverev - OA Sport",
+      "title": "Perché Sinner e Alcaraz saranno chiamati a fare la storia agli US Open 2026 - OA Sport",
       "source": "OA Sport",
-      "published": "Sun, 09 Aug 2026 16:37:58 GMT"
+      "published": "Mon, 10 Aug 2026 06:41:02 GMT"
     },
     {
       "type": "news",
@@ -110,9 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Classifica FIP: Calvo entra nella Top 10, Tapia/Coello e Triay/Brea aumentano il distacco in corsa - padel-magazine.it",
+      "title": "Londra P1: Tapia e Coello ancora una volta troppo forti per Navarro/Di Nenno, i numeri 1 accedono alla finale - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Tue, 11 Aug 2026 07:19:46 GMT"
+      "published": "Sat, 08 Aug 2026 18:02:52 GMT"
     }
   ]
 }
