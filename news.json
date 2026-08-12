@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-12T10:11:26.285291+00:00",
+  "updated_at": "2026-08-12T11:11:51.562490+00:00",
   "local_date": "2026-08-12",
   "articles": [
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "L'Inter pensa a vendere! Base di intesa con la Roma per la cessione di Luis Henrique, Frattesi verso il prestito alla Lazio - eurosport.it",
-      "source": "eurosport.it",
-      "published": "Wed, 12 Aug 2026 00:00:52 GMT"
-    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -32,6 +25,13 @@
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Lazio su Frattesi: trattativa con l'Inter per un prestito con obbligo - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Tue, 11 Aug 2026 20:34:20 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
       "title": "Studio internazionale sul calcio lombardo: i due colossi milanesi, l’Atalanta, il Como. «Un modello unico» - L'Eco di Bergamo",
       "source": "L'Eco di Bergamo",
@@ -40,9 +40,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calcio: ufficiale Molina alla Roma, contratto di 5 anni - ANSA",
-      "source": "ANSA",
-      "published": "Wed, 12 Aug 2026 09:42:00 GMT"
+      "title": "COPPA ITALIA FRECCIAROSSA: FROSINONE – JUVE STABIA, LA BIGLIETTERIA - Frosinone Calcio – Sito Ufficiale",
+      "source": "Frosinone Calcio – Sito Ufficiale",
+      "published": "Wed, 12 Aug 2026 08:41:39 GMT"
     },
     {
       "type": "news",
@@ -54,9 +54,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Como, c'è un problema con la lista Champions: pochi italiani, Fabregas pensa a chi escludere - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Sun, 09 Aug 2026 18:14:00 GMT"
+      "title": "Calcio: ufficiale Molina alla Roma, contratto di 5 anni - ANSA",
+      "source": "ANSA",
+      "published": "Wed, 12 Aug 2026 09:42:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "ATP Cincinnati, Zverev: “Senza Sinner il torneo cambia un po’. Djokovic? Se volesse, potrebbe…” - Ubitennis",
+      "source": "Ubitennis",
+      "published": "Wed, 12 Aug 2026 11:09:06 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Jan e Carlitos riusciranno a spezzare un tabù che dura da 40 anni? 👀 Jannik Sinner e Carlos Alcaraz, dovessero prendere parte all'ultimo Slam stagionale, avrebbero la possibility di sfatare un tabù che dura da quasi 40 anni: dal 1990 ad oggi, infatti, nessun t - instagram.com",
+      "source": "instagram.com",
+      "published": "Wed, 12 Aug 2026 11:00:08 GMT"
     },
     {
       "type": "news",
@@ -71,20 +85,6 @@
       "title": "Jodar e Tien mettono la freccia, crollo Musetti nel ranking Atp (e adesso è incubo Us Open) - Il Messaggero",
       "source": "Il Messaggero",
       "published": "Wed, 12 Aug 2026 10:03:45 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "ATP Montreal 2026, la semifinale della parte alta sarà Shelton-Tien - OA Sport",
-      "source": "OA Sport",
-      "published": "Wed, 12 Aug 2026 06:15:39 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "WTA Toronto 2026, Rybakina affronterà Gauff nella semifinale della parte bassa - OA Sport",
-      "source": "OA Sport",
-      "published": "Wed, 12 Aug 2026 06:35:03 GMT"
     },
     {
       "type": "news",
