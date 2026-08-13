@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T06:02:42.865606+00:00",
+  "updated_at": "2026-08-13T07:48:52.658420+00:00",
   "local_date": "2026-08-13",
   "articles": [
     {
@@ -33,23 +33,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calcio. È ufficiale, Lukaku passa dal Napoli al Fenerbahce - rainews.it",
-      "source": "rainews.it",
-      "published": "Wed, 12 Aug 2026 16:32:00 GMT"
+      "title": "As Roma, calendario 2026/27: Serie A, Champions e Coppa Italia - lacapitale.it",
+      "source": "lacapitale.it",
+      "published": "Thu, 13 Aug 2026 06:03:55 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Women's Cup | Lazio-Napoli Women, la vendita dei tagliandi - sslazio.it",
-      "source": "sslazio.it",
+      "title": "Serie A Women's Cup | Lazio-Napoli Women, la vendita dei tagliandi - S.S. Lazio",
+      "source": "S.S. Lazio",
       "published": "Wed, 12 Aug 2026 17:54:48 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A: Kristensen è a Bergamo, domani l'ufficialità con l'Atalanta - ANSA",
-      "source": "ANSA",
-      "published": "Wed, 12 Aug 2026 19:58:00 GMT"
+      "title": "Calcio. È ufficiale, Lukaku passa dal Napoli al Fenerbahce - RaiNews",
+      "source": "RaiNews",
+      "published": "Wed, 12 Aug 2026 16:32:00 GMT"
     },
     {
       "type": "news",
@@ -68,6 +68,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Cincinnati, possibile semifinale Zverev-Djokovic: il tabellone - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Wed, 12 Aug 2026 09:40:30 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "ATP Cincinnati: Djokovic e Zverev guidano un torneo per \"seconde file\": il tabellone e le insidie azzurre - Ok Tennis",
       "source": "Ok Tennis",
       "published": "Wed, 12 Aug 2026 21:42:00 GMT"
@@ -78,13 +85,6 @@
       "title": "Quanti punti perde Sinner saltando Cincinnati? Cambiale pesante: il nuovo ranking, il vantaggio su Alcaraz e Zverev - OA Sport",
       "source": "OA Sport",
       "published": "Sun, 09 Aug 2026 16:37:58 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner blinda il n.1 del ranking Atp: duello con Zverev, obiettivo 100 settimane in vetta - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 07 Aug 2026 06:00:30 GMT"
     },
     {
       "type": "news",
