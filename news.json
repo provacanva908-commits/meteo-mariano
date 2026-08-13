@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T10:19:00.805012+00:00",
+  "updated_at": "2026-08-13T11:14:16.550302+00:00",
   "local_date": "2026-08-13",
   "articles": [
     {
@@ -12,43 +12,36 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, è ufficiale: Lukaku ceduto al Fenerbahce, le cifre dell'addio - Calcio.com",
-      "source": "Calcio.com",
-      "published": "Thu, 13 Aug 2026 05:54:27 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 07 Aug 2026 20:49:47 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma: problemi per Rodrigo Mora, trattativa bloccata - Fantacalcio",
-      "source": "Fantacalcio",
+      "title": "Calciomercato Roma: problemi per Rodrigo Mora, trattativa bloccata - fantacalcio.it",
+      "source": "fantacalcio.it",
       "published": "Thu, 13 Aug 2026 07:13:00 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "As Roma, calendario 2026/27: Serie A, Champions e Coppa Italia - lacapitale.it",
-      "source": "lacapitale.it",
-      "published": "Thu, 13 Aug 2026 06:03:55 GMT"
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato: all'Inter arriva Spence, la Lazio a un passo da Frattesi - ANSA",
+      "source": "ANSA",
+      "published": "Wed, 12 Aug 2026 19:33:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Inter-Lazio, accordo di massima per Frattesi: tutti i dettagli dell'operazione - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Wed, 12 Aug 2026 12:29:56 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calcio, diritti tv serie A: l'Inter guadagna più di 80 milioni, poi vengono Milan, Napoli e Juve - Corriere della Sera",
-      "source": "Corriere della Sera",
+      "title": "Calcio, diritti tv serie A: l'Inter guadagna più di 80 milioni, poi vengono Milan, Napoli e Juve - corriere.it",
+      "source": "corriere.it",
       "published": "Thu, 13 Aug 2026 09:29:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, diritti tv: solo l'Inter supera la soglia degli 80 milioni. Roma quinta (62,9) e Lazio (51,4) sesta - Il Messaggero",
-      "source": "Il Messaggero",
+      "title": "Serie A, diritti tv: solo l'Inter supera la soglia degli 80 milioni. Roma quinta (62,9) e Lazio (51,4) sesta - ilmessaggero.it",
+      "source": "ilmessaggero.it",
       "published": "Thu, 13 Aug 2026 08:35:34 GMT"
     },
     {
@@ -60,37 +53,44 @@
     },
     {
       "type": "news",
+      "category": "CALCIO",
+      "title": "Diritti tv: l'Inter è l'unica a superare gli 80 milioni. Tutte le cifre delle squadre di Serie A - gazzetta.it",
+      "source": "gazzetta.it",
+      "published": "Wed, 12 Aug 2026 19:14:22 GMT"
+    },
+    {
+      "type": "news",
       "category": "TENNIS",
-      "title": "Sinner, Alcaraz e gli infortuni: i tormenti dei due re verso Us Open. Come stanno e a che punto sono - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Sinner, Alcaraz e gli infortuni: i tormenti dei due re verso Us Open. Come stanno e a che punto sono - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Tue, 11 Aug 2026 10:21:24 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Cincinnati, possibile semifinale Zverev-Djokovic: il tabellone - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Wed, 12 Aug 2026 09:40:30 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Quanti punti perde Sinner saltando Cincinnati? Cambiale pesante: il nuovo ranking, il vantaggio su Alcaraz e Zverev - OA Sport",
+      "title": "ATP Montreal 2026, derby Shelton-Nakashima in finale! Finisce l’avventura di Jodar - OA Sport",
       "source": "OA Sport",
-      "published": "Sun, 09 Aug 2026 16:37:58 GMT"
+      "published": "Thu, 13 Aug 2026 04:43:18 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Cincinnati: Djokovic e Zverev guidano un torneo per \"seconde file\": il tabellone e le insidie azzurre - Ok Tennis",
-      "source": "Ok Tennis",
-      "published": "Wed, 12 Aug 2026 21:42:00 GMT"
+      "title": "Sinner e Alcaraz, il logorio dei fenomeni: in un tennis frenetico ora Jannik si gestisce e fa all-in sugli Slam - corriere.it",
+      "source": "corriere.it",
+      "published": "Tue, 11 Aug 2026 05:30:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner sfida la cabala: così può sfatare un tabù allo US Open - gazzetta.it",
+      "source": "gazzetta.it",
+      "published": "Wed, 12 Aug 2026 06:11:40 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Sun, 09 Aug 2026 20:11:24 GMT"
     },
     {
