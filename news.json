@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T23:58:50.859897+00:00",
+  "updated_at": "2026-08-13T02:39:17.079808+00:00",
   "local_date": "2026-08-13",
   "articles": [
     {
@@ -19,23 +19,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Inter, c'è l'accordo per Djed Spence: spuntano cifre e dettagli con il Tottenham - calcio.com",
-      "source": "calcio.com",
-      "published": "Wed, 12 Aug 2026 17:15:03 GMT"
+      "title": "Calciomercato Roma, ufficiale Molina. E Rodrigo Mora... - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Wed, 12 Aug 2026 10:17:19 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Inter-Lazio, accordo di massima per Frattesi: tutti i dettagli dell'operazione - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 12 Aug 2026 12:29:56 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Webuild sostiene 'Calcio Italiano' a Perth: chiusa la settimana con Milan, Inter, Juventus e Palermo - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Wed, 12 Aug 2026 14:55:00 GMT"
+      "title": "Calciomercato Inter, c'è l'accordo per Djed Spence: spuntano cifre e dettagli con il Tottenham - Calcio.com",
+      "source": "Calcio.com",
+      "published": "Wed, 12 Aug 2026 17:15:03 GMT"
     },
     {
       "type": "news",
@@ -60,9 +53,16 @@
     },
     {
       "type": "news",
+      "category": "CALCIO",
+      "title": "È ufficiale Molina alla Roma, contratto di 5 anni - ANSA",
+      "source": "ANSA",
+      "published": "Wed, 12 Aug 2026 13:50:00 GMT"
+    },
+    {
+      "type": "news",
       "category": "TENNIS",
-      "title": "ATP Cincinnati, Zverev: “Senza Sinner il torneo cambia un po’. Djokovic? Se volesse, potrebbe…” - ubitennis.com",
-      "source": "ubitennis.com",
+      "title": "ATP Cincinnati, Zverev: “Senza Sinner il torneo cambia un po’. Djokovic? Se volesse, potrebbe…” - Ubitennis",
+      "source": "Ubitennis",
       "published": "Wed, 12 Aug 2026 11:09:06 GMT"
     },
     {
@@ -75,16 +75,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Quanti punti perde Sinner saltando Cincinnati? Cambiale pesante: il nuovo ranking, il vantaggio su Alcaraz e Zverev - OA Sport",
-      "source": "OA Sport",
-      "published": "Sun, 09 Aug 2026 16:37:58 GMT"
+      "title": "ATP Cincinnati, Fritz: \"Più pressione per tutti senza Sinner e Alcaraz. Ma l'assenza si nota solo...\" - Ubitennis",
+      "source": "Ubitennis",
+      "published": "Wed, 12 Aug 2026 14:26:42 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Perché Sinner e Alcaraz saranno chiamati a fare la storia agli US Open 2026 - OA Sport",
+      "title": "Quanti punti perde Sinner saltando Cincinnati? Cambiale pesante: il nuovo ranking, il vantaggio su Alcaraz e Zverev - OA Sport",
       "source": "OA Sport",
-      "published": "Mon, 10 Aug 2026 06:41:02 GMT"
+      "published": "Sun, 09 Aug 2026 16:37:58 GMT"
     },
     {
       "type": "news",
