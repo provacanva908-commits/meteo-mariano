@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T12:03:22.524099+00:00",
+  "updated_at": "2026-08-13T13:41:30.134084+00:00",
   "local_date": "2026-08-13",
   "articles": [
     {
@@ -12,37 +12,30 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma: problemi per Rodrigo Mora, trattativa bloccata - fantacalcio.it",
-      "source": "fantacalcio.it",
-      "published": "Thu, 13 Aug 2026 07:13:00 GMT"
+      "title": "Roma-Mora: il punto sulla trattativa di calciomercato con il Porto - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Thu, 13 Aug 2026 11:02:22 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato: all'Inter arriva Spence, la Lazio a un passo da Frattesi - ansa.it",
-      "source": "ansa.it",
+      "title": "Calciomercato: all'Inter arriva Spence, la Lazio a un passo da Frattesi - ANSA",
+      "source": "ANSA",
       "published": "Wed, 12 Aug 2026 19:33:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio: per la difesa occhi su Sutalo dell'Ajax - RomaToday",
-      "source": "RomaToday",
-      "published": "Thu, 13 Aug 2026 11:32:59 GMT"
+      "title": "Calciomercato Roma: problemi per Rodrigo Mora, trattativa bloccata - Fantacalcio",
+      "source": "Fantacalcio",
+      "published": "Thu, 13 Aug 2026 07:13:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calcio, diritti tv serie A: l'Inter guadagna più di 80 milioni, poi vengono Milan, Napoli e Juve - corriere.it",
-      "source": "corriere.it",
+      "title": "Calcio, diritti tv serie A: l'Inter guadagna più di 80 milioni, poi vengono Milan, Napoli e Juve - Corriere della Sera",
+      "source": "Corriere della Sera",
       "published": "Thu, 13 Aug 2026 09:29:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, diritti tv: solo l'Inter supera la soglia degli 80 milioni. Roma quinta (62,9) e Lazio (51,4) sesta - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "Thu, 13 Aug 2026 08:35:34 GMT"
     },
     {
       "type": "news",
@@ -54,9 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Diritti tv: l'Inter è l'unica a superare gli 80 milioni. Tutte le cifre delle squadre di Serie A - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Wed, 12 Aug 2026 19:14:22 GMT"
+      "title": "La Serie A Women’s Cup inizia col botto: Como 1907-Juventus si gioca al ‘Sinigaglia’ - FIGC",
+      "source": "FIGC",
+      "published": "Thu, 13 Aug 2026 04:08:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Coppa Italia, Gattuso riparte dal Mantova: Lazio avanti a 1,30. Comandano le squadre di Serie A, Fiorentina a bassa quota contro il Benevento - JAMMA",
+      "source": "JAMMA",
+      "published": "Thu, 13 Aug 2026 12:42:44 GMT"
     },
     {
       "type": "news",
@@ -75,16 +75,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Quanti punti perde Sinner saltando Cincinnati? Cambiale pesante: il nuovo ranking, il vantaggio su Alcaraz e Zverev - OA Sport",
-      "source": "OA Sport",
-      "published": "Sun, 09 Aug 2026 16:37:58 GMT"
+      "title": "Sinner e Alcaraz, il logorio dei fenomeni: in un tennis frenetico ora Jannik si gestisce e fa all-in sugli Slam - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Tue, 11 Aug 2026 05:30:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Montreal 2026, derby Shelton-Nakashima in finale! Finisce l’avventura di Jodar - OA Sport",
-      "source": "OA Sport",
-      "published": "Thu, 13 Aug 2026 04:43:18 GMT"
+      "title": "Tabellone Cincinnati Open 2026: con chi giocano gli italiani e le italiane in singolare · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Tue, 11 Aug 2026 20:56:00 GMT"
     },
     {
       "type": "news",
