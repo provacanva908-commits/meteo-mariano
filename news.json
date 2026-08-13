@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T11:14:16.550302+00:00",
+  "updated_at": "2026-08-13T12:03:22.524099+00:00",
   "local_date": "2026-08-13",
   "articles": [
     {
@@ -19,16 +19,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato: all'Inter arriva Spence, la Lazio a un passo da Frattesi - ANSA",
-      "source": "ANSA",
+      "title": "Calciomercato: all'Inter arriva Spence, la Lazio a un passo da Frattesi - ansa.it",
+      "source": "ansa.it",
       "published": "Wed, 12 Aug 2026 19:33:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Inter-Lazio, accordo di massima per Frattesi: tutti i dettagli dell'operazione - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 12 Aug 2026 12:29:56 GMT"
+      "title": "Calciomercato Lazio: per la difesa occhi su Sutalo dell'Ajax - RomaToday",
+      "source": "RomaToday",
+      "published": "Thu, 13 Aug 2026 11:32:59 GMT"
     },
     {
       "type": "news",
@@ -40,8 +40,8 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, diritti tv: solo l'Inter supera la soglia degli 80 milioni. Roma quinta (62,9) e Lazio (51,4) sesta - ilmessaggero.it",
-      "source": "ilmessaggero.it",
+      "title": "Serie A, diritti tv: solo l'Inter supera la soglia degli 80 milioni. Roma quinta (62,9) e Lazio (51,4) sesta - Il Messaggero",
+      "source": "Il Messaggero",
       "published": "Thu, 13 Aug 2026 08:35:34 GMT"
     },
     {
@@ -54,16 +54,30 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Diritti tv: l'Inter è l'unica a superare gli 80 milioni. Tutte le cifre delle squadre di Serie A - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Diritti tv: l'Inter è l'unica a superare gli 80 milioni. Tutte le cifre delle squadre di Serie A - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Wed, 12 Aug 2026 19:14:22 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner, Alcaraz e gli infortuni: i tormenti dei due re verso Us Open. Come stanno e a che punto sono - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Sinner, Alcaraz e gli infortuni: i tormenti dei due re verso Us Open. Come stanno e a che punto sono - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Tue, 11 Aug 2026 10:21:24 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Cincinnati, possibile semifinale Zverev-Djokovic: il tabellone - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Wed, 12 Aug 2026 09:40:30 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Quanti punti perde Sinner saltando Cincinnati? Cambiale pesante: il nuovo ranking, il vantaggio su Alcaraz e Zverev - OA Sport",
+      "source": "OA Sport",
+      "published": "Sun, 09 Aug 2026 16:37:58 GMT"
     },
     {
       "type": "news",
@@ -74,23 +88,9 @@
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner e Alcaraz, il logorio dei fenomeni: in un tennis frenetico ora Jannik si gestisce e fa all-in sugli Slam - corriere.it",
-      "source": "corriere.it",
-      "published": "Tue, 11 Aug 2026 05:30:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner sfida la cabala: così può sfatare un tabù allo US Open - gazzetta.it",
-      "source": "gazzetta.it",
-      "published": "Wed, 12 Aug 2026 06:11:40 GMT"
-    },
-    {
-      "type": "news",
       "category": "PADEL",
-      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Sun, 09 Aug 2026 20:11:24 GMT"
     },
     {
