@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T13:41:30.134084+00:00",
+  "updated_at": "2026-08-13T14:46:07.052929+00:00",
   "local_date": "2026-08-13",
   "articles": [
     {
@@ -19,16 +19,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato: all'Inter arriva Spence, la Lazio a un passo da Frattesi - ANSA",
-      "source": "ANSA",
-      "published": "Wed, 12 Aug 2026 19:33:00 GMT"
+      "title": "Calciomercato Lazio: per la difesa occhi su Sutalo dell'Ajax - RomaToday",
+      "source": "RomaToday",
+      "published": "Thu, 13 Aug 2026 09:42:42 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma: problemi per Rodrigo Mora, trattativa bloccata - Fantacalcio",
-      "source": "Fantacalcio",
-      "published": "Thu, 13 Aug 2026 07:13:00 GMT"
+      "title": "Calciomercato: all'Inter arriva Spence, la Lazio a un passo da Frattesi - ANSA",
+      "source": "ANSA",
+      "published": "Wed, 12 Aug 2026 19:33:00 GMT"
     },
     {
       "type": "news",
@@ -36,6 +36,13 @@
       "title": "Calcio, diritti tv serie A: l'Inter guadagna più di 80 milioni, poi vengono Milan, Napoli e Juve - Corriere della Sera",
       "source": "Corriere della Sera",
       "published": "Thu, 13 Aug 2026 09:29:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Per il Cagliari primo impegno ufficiale in Coppa Italia - RaiNews",
+      "source": "RaiNews",
+      "published": "Thu, 13 Aug 2026 13:58:00 GMT"
     },
     {
       "type": "news",
@@ -50,13 +57,6 @@
       "title": "La Serie A Women’s Cup inizia col botto: Como 1907-Juventus si gioca al ‘Sinigaglia’ - FIGC",
       "source": "FIGC",
       "published": "Thu, 13 Aug 2026 04:08:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Coppa Italia, Gattuso riparte dal Mantova: Lazio avanti a 1,30. Comandano le squadre di Serie A, Fiorentina a bassa quota contro il Benevento - JAMMA",
-      "source": "JAMMA",
-      "published": "Thu, 13 Aug 2026 12:42:44 GMT"
     },
     {
       "type": "news",
@@ -82,9 +82,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tabellone Cincinnati Open 2026: con chi giocano gli italiani e le italiane in singolare · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Tue, 11 Aug 2026 20:56:00 GMT"
+      "title": "ATP Montreal: si ferma la corsa di Jodar. In finale Nakashima e Shelton - Ubitennis",
+      "source": "Ubitennis",
+      "published": "Thu, 13 Aug 2026 04:59:43 GMT"
     },
     {
       "type": "news",
