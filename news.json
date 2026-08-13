@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-13T04:30:23.527027+00:00",
+  "updated_at": "2026-08-13T06:02:42.865606+00:00",
   "local_date": "2026-08-13",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale la cessione di Lukaku: il comunicato del club azzurro - napolitoday.it",
-      "source": "napolitoday.it",
+      "title": "Calciomercato Napoli, ufficiale la cessione di Lukaku: il comunicato del club azzurro - NapoliToday",
+      "source": "NapoliToday",
       "published": "Wed, 12 Aug 2026 16:05:00 GMT"
     },
     {
@@ -19,29 +19,29 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, ufficiale Molina. E Rodrigo Mora... - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 12 Aug 2026 10:17:19 GMT"
+      "title": "Calciomercato Napoli, è ufficiale: Lukaku ceduto al Fenerbahce, le cifre dell'addio - Calcio.com",
+      "source": "Calcio.com",
+      "published": "Thu, 13 Aug 2026 05:54:27 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Inter, c'è l'accordo per Djed Spence: spuntano cifre e dettagli con il Tottenham - calcio.com",
-      "source": "calcio.com",
-      "published": "Wed, 12 Aug 2026 17:15:03 GMT"
+      "title": "Lazio, accordo con il Benfica per Ivanovic: le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 07 Aug 2026 20:49:47 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calcio. È ufficiale, Lukaku passa dal Napoli al Fenerbahce - RaiNews",
-      "source": "RaiNews",
+      "title": "Calcio. È ufficiale, Lukaku passa dal Napoli al Fenerbahce - rainews.it",
+      "source": "rainews.it",
       "published": "Wed, 12 Aug 2026 16:32:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Women's Cup | Lazio-Napoli Women, la vendita dei tagliandi - S.S. Lazio",
-      "source": "S.S. Lazio",
+      "title": "Serie A Women's Cup | Lazio-Napoli Women, la vendita dei tagliandi - sslazio.it",
+      "source": "sslazio.it",
       "published": "Wed, 12 Aug 2026 17:54:48 GMT"
     },
     {
@@ -61,13 +61,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Cincinnati, Zverev: “Senza Sinner il torneo cambia un po’. Djokovic? Se volesse, potrebbe…” - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Wed, 12 Aug 2026 11:09:06 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Sinner, Alcaraz e gli infortuni: i tormenti dei due re verso Us Open. Come stanno e a che punto sono - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Tue, 11 Aug 2026 10:21:24 GMT"
@@ -75,8 +68,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Cincinnati: Djokovic e Zverev guidano un torneo per \"seconde file\": il tabellone e le insidie azzurre - oktennis.it",
-      "source": "oktennis.it",
+      "title": "ATP Cincinnati: Djokovic e Zverev guidano un torneo per \"seconde file\": il tabellone e le insidie azzurre - Ok Tennis",
+      "source": "Ok Tennis",
       "published": "Wed, 12 Aug 2026 21:42:00 GMT"
     },
     {
@@ -85,6 +78,13 @@
       "title": "Quanti punti perde Sinner saltando Cincinnati? Cambiale pesante: il nuovo ranking, il vantaggio su Alcaraz e Zverev - OA Sport",
       "source": "OA Sport",
       "published": "Sun, 09 Aug 2026 16:37:58 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner blinda il n.1 del ranking Atp: duello con Zverev, obiettivo 100 settimane in vetta - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 07 Aug 2026 06:00:30 GMT"
     },
     {
       "type": "news",
