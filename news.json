@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-13T21:23:32.199248+00:00",
-  "local_date": "2026-08-13",
+  "updated_at": "2026-08-13T22:11:04.791330+00:00",
+  "local_date": "2026-08-14",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato, Napoli-Badiashile: accordo con il Chelsea - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Thu, 13 Aug 2026 20:00:22 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -12,23 +19,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Lazio, nuovi contatti per Pinamonti: accordo lontano. Le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Wed, 12 Aug 2026 20:20:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Roma-Mora: il punto sulla trattativa di calciomercato con il Porto - Sky Sport",
       "source": "Sky Sport",
       "published": "Thu, 13 Aug 2026 11:02:22 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Juventus, Suzuki sfuma: si lavora per il prestito di Vicario. Le news di calciomercato - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Thu, 13 Aug 2026 18:03:16 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Kristensen-Atalanta, ora è ufficiale: arriva in prestito con diritto (e obbligo) di riscatto - BergamoNews",
-      "source": "BergamoNews",
-      "published": "Thu, 13 Aug 2026 17:58:00 GMT"
     },
     {
       "type": "news",
@@ -36,13 +36,6 @@
       "title": "Calcio, diritti tv serie A: l'Inter guadagna più di 80 milioni, poi vengono Milan, Napoli e Juve - Corriere della Sera",
       "source": "Corriere della Sera",
       "published": "Thu, 13 Aug 2026 09:29:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Per il Cagliari primo impegno ufficiale in Coppa Italia - RaiNews",
-      "source": "RaiNews",
-      "published": "Thu, 13 Aug 2026 13:58:00 GMT"
     },
     {
       "type": "news",
@@ -57,6 +50,13 @@
       "title": "Tring, il \"pezzotto albanese\" con le partite di Serie A e Champions a soli 20 euro al mese anche in Italia - today.it",
       "source": "today.it",
       "published": "Thu, 13 Aug 2026 08:31:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A Women's Cup, i gironi e il calendario dell'Inter - Inter.it",
+      "source": "Inter.it",
+      "published": "Wed, 12 Aug 2026 01:33:43 GMT"
     },
     {
       "type": "news",
@@ -82,9 +82,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Il punto di Roddick: \"Sinner non ha detto nulla. Dura vedere Alcaraz a New York\" - Il Tennis Italiano",
-      "source": "Il Tennis Italiano",
-      "published": "Thu, 13 Aug 2026 10:34:04 GMT"
+      "title": "WTA Toronto 2026, sfuma il titolo in doppio per Sara Errani. L’azzurra si arrende in finale - OA Sport",
+      "source": "OA Sport",
+      "published": "Thu, 13 Aug 2026 21:17:13 GMT"
     },
     {
       "type": "news",
