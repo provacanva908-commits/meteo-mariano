@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-13T09:01:59.650054+00:00",
+  "updated_at": "2026-08-13T10:19:00.805012+00:00",
   "local_date": "2026-08-13",
   "articles": [
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale la cessione di Lukaku: il comunicato del club azzurro - NapoliToday",
-      "source": "NapoliToday",
-      "published": "Wed, 12 Aug 2026 16:05:00 GMT"
-    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -32,10 +25,24 @@
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Roma: problemi per Rodrigo Mora, trattativa bloccata - Fantacalcio",
+      "source": "Fantacalcio",
+      "published": "Thu, 13 Aug 2026 07:13:00 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
       "title": "As Roma, calendario 2026/27: Serie A, Champions e Coppa Italia - lacapitale.it",
       "source": "lacapitale.it",
       "published": "Thu, 13 Aug 2026 06:03:55 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Calcio, diritti tv serie A: l'Inter guadagna più di 80 milioni, poi vengono Milan, Napoli e Juve - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Thu, 13 Aug 2026 09:29:00 GMT"
     },
     {
       "type": "news",
@@ -53,16 +60,9 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Calcio. È ufficiale, Lukaku passa dal Napoli al Fenerbahce - RaiNews",
-      "source": "RaiNews",
-      "published": "Wed, 12 Aug 2026 16:32:00 GMT"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
-      "title": "Sinner, Alcaraz e gli infortuni: i tormenti dei due re verso Us Open. Come stanno e a che punto sono - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Sinner, Alcaraz e gli infortuni: i tormenti dei due re verso Us Open. Come stanno e a che punto sono - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Tue, 11 Aug 2026 10:21:24 GMT"
     },
     {
@@ -75,9 +75,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Swiatek-Svitolina sarà la prima semifinale del WTA di Toronto - RSI",
-      "source": "RSI",
-      "published": "Tue, 11 Aug 2026 05:15:00 GMT"
+      "title": "Quanti punti perde Sinner saltando Cincinnati? Cambiale pesante: il nuovo ranking, il vantaggio su Alcaraz e Zverev - OA Sport",
+      "source": "OA Sport",
+      "published": "Sun, 09 Aug 2026 16:37:58 GMT"
     },
     {
       "type": "news",
@@ -89,8 +89,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Sun, 09 Aug 2026 20:11:24 GMT"
     },
     {
