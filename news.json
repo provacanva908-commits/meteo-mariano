@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T16:39:43.822772+00:00",
+  "updated_at": "2026-08-13T17:43:56.995512+00:00",
   "local_date": "2026-08-13",
   "articles": [
     {
@@ -26,16 +26,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato: all'Inter arriva Spence, la Lazio a un passo da Frattesi - ANSA",
-      "source": "ANSA",
-      "published": "Wed, 12 Aug 2026 19:33:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Calcio, diritti tv serie A: l'Inter guadagna più di 80 milioni, poi vengono Milan, Napoli e Juve - corriere.it",
-      "source": "corriere.it",
-      "published": "Thu, 13 Aug 2026 09:29:00 GMT"
+      "title": "Calciomercato Roma: problemi per Rodrigo Mora, trattativa bloccata - fantacalcio.it",
+      "source": "fantacalcio.it",
+      "published": "Thu, 13 Aug 2026 07:13:00 GMT"
     },
     {
       "type": "news",
@@ -57,6 +50,13 @@
       "title": "Tring, il \"pezzotto albanese\" con le partite di Serie A e Champions a soli 20 euro al mese anche in Italia - today.it",
       "source": "today.it",
       "published": "Thu, 13 Aug 2026 08:31:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A Women's Cup, gara inaugurale Como-Juventus al 'Sinigaglia' - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Thu, 13 Aug 2026 13:32:35 GMT"
     },
     {
       "type": "news",
@@ -82,8 +82,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner e Alcaraz, il logorio dei fenomeni: in un tennis frenetico ora Jannik si gestisce e fa all-in sugli Slam - corriere.it",
-      "source": "corriere.it",
+      "title": "Sinner e Alcaraz, il logorio dei fenomeni: in un tennis frenetico ora Jannik si gestisce e fa all-in sugli Slam - Corriere della Sera",
+      "source": "Corriere della Sera",
       "published": "Tue, 11 Aug 2026 05:30:00 GMT"
     },
     {
