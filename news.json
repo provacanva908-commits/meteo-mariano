@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-14T20:45:09.023495+00:00",
+  "updated_at": "2026-08-14T21:11:29.813510+00:00",
   "local_date": "2026-08-14",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Lazio, è ufficiale l'acquisto di Davide Frattesi dall'Inter: c'è la firma - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Fri, 14 Aug 2026 20:57:41 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -25,13 +32,6 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Lazio, nuovi contatti per Pinamonti: accordo lontano. Le news di calciomercato - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 12 Aug 2026 20:20:00 GMT"
-    },
-    {
-      "type": "news",
       "category": "CALCIO",
       "title": "De Rossi e la Coppa Italia: \"Non va snobbata, a Roma festeggiammo come una Champions. A un tassista ho detto...\" - Corriere dello Sport",
       "source": "Corriere dello Sport",
@@ -40,8 +40,8 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Cos'è Tring, il pezzotto albanese di Serie A e Champions che costa pochissimo ed è visibile anche in Italia - Fanpage",
-      "source": "Fanpage",
+      "title": "Cos'è Tring, il pezzotto albanese di Serie A e Champions che costa pochissimo ed è visibile anche in Italia - fanpage.it",
+      "source": "fanpage.it",
       "published": "Fri, 14 Aug 2026 09:39:40 GMT"
     },
     {
@@ -54,9 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Lazio: Frattesi a Roma, visite mediche poi firma del contratto - ANSA",
-      "source": "ANSA",
-      "published": "Fri, 14 Aug 2026 17:14:00 GMT"
+      "title": "Lazio, ufficiale l'arrivo di Davide Frattesi - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 14 Aug 2026 20:59:44 GMT"
     },
     {
       "type": "news",
@@ -75,8 +75,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner assente a Cincinnati come cambia il ranking Atp. L’Italia sorride: 4 azzurri nella top 20 | La nuova classifica - ilfattoquotidiano.it",
-      "source": "ilfattoquotidiano.it",
+      "title": "Sinner assente a Cincinnati come cambia il ranking Atp. L’Italia sorride: 4 azzurri nella top 20 | La nuova classifica - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
       "published": "Fri, 14 Aug 2026 12:49:25 GMT"
     },
     {
