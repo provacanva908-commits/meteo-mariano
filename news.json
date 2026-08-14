@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-08-14T09:58:27.693679+00:00",
+  "updated_at": "2026-08-14T11:04:47.836886+00:00",
   "local_date": "2026-08-14",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato: Frattesi alla Lazio, sbloccato l'affare con l'Inter dopo il no della Lega - RomaToday",
+      "source": "RomaToday",
+      "published": "Fri, 14 Aug 2026 10:22:02 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Milan, offerta ufficiale per Nwaneri: la risposta dell'Arsenal! Nkunku, la sua posizione e la Roma… - SOS Fanta",
+      "source": "SOS Fanta",
+      "published": "Fri, 14 Aug 2026 08:15:47 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -18,17 +32,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio: Lotito mette nel mirino un difensore goleador per Gattuso - RomaToday",
+      "category": "CALCIO",
+      "title": "Lazio-Mantova: le probabili formazioni e dove vedere la partita di Coppa Italia - RomaToday",
       "source": "RomaToday",
-      "published": "Fri, 14 Aug 2026 08:34:19 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio: per la difesa occhi su Sutalo dell'Ajax - RomaToday",
-      "source": "RomaToday",
-      "published": "Thu, 13 Aug 2026 09:42:42 GMT"
+      "published": "Fri, 14 Aug 2026 10:22:37 GMT"
     },
     {
       "type": "news",
@@ -40,15 +47,8 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia, esordio per il Monza (ore 20.45) contro l'Avellino. Juric: «Credo nella squadra, qui progetto interessante» - Corriere Milano",
-      "source": "Corriere Milano",
-      "published": "Fri, 14 Aug 2026 05:00:06 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Catania, risolto il nodo fideiussione: sul mercato ufficiale l'arrivo di Flavio Russo e oggi la sfida al Parma in Coppa Italia - cataniatoday.it",
-      "source": "cataniatoday.it",
+      "title": "Catania, risolto il nodo fideiussione: sul mercato ufficiale l'arrivo di Flavio Russo e oggi la sfida al Parma in Coppa Italia - CataniaToday",
+      "source": "CataniaToday",
       "published": "Fri, 14 Aug 2026 07:53:37 GMT"
     },
     {
@@ -70,7 +70,7 @@
       "category": "TENNIS",
       "title": "Jannik Sinner allo US Open 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis ATP - olympics.com",
       "source": "olympics.com",
-      "published": "Fri, 14 Aug 2026 07:17:30 GMT"
+      "published": "Fri, 14 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -103,16 +103,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Classifica FIP: Calvo entra nella Top 10, Tapia/Coello e Triay/Brea aumentano il distacco in corsa - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Tue, 11 Aug 2026 07:19:46 GMT"
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
+      "source": "FITP",
+      "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
-      "source": "FITP",
-      "published": "Thu, 02 Jul 2026 17:00:00 GMT"
+      "title": "Classifica FIP: Calvo entra nella Top 10, Tapia/Coello e Triay/Brea aumentano il distacco in corsa - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Tue, 11 Aug 2026 07:19:46 GMT"
     }
   ]
 }
