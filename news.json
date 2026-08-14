@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T06:00:32.515944+00:00",
+  "updated_at": "2026-08-14T07:45:57.554167+00:00",
   "local_date": "2026-08-14",
   "articles": [
     {
@@ -8,6 +8,13 @@
       "title": "Lazio, nuovi contatti per Pinamonti: accordo lontano. Le news di calciomercato - Sky Sport",
       "source": "Sky Sport",
       "published": "Wed, 12 Aug 2026 20:20:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Juventus, Suzuki sfuma: si lavora per il prestito di Vicario. Le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Thu, 13 Aug 2026 18:03:16 GMT"
     },
     {
       "type": "news",
@@ -25,24 +32,24 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Inter-Lazio, accordo di massima per Frattesi: tutti i dettagli dell'operazione - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 12 Aug 2026 12:29:56 GMT"
+      "category": "CALCIO",
+      "title": "Coppa Italia, \"Voglia di misurarci\": Campedelli carica il Forlì per il debutto contro la Juventus Next Gen. Ufficiale il portiere Theiner - forlitoday.it",
+      "source": "forlitoday.it",
+      "published": "Fri, 14 Aug 2026 05:32:59 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia, esordio per il Monza (ore 20.45) contro l'Avellino. Juric: «Credo nella squadra, qui progetto interessante» - Corriere Milano",
-      "source": "Corriere Milano",
+      "title": "Coppa Italia, esordio per il Monza (ore 20.45) contro l'Avellino. Juric: «Credo nella squadra, qui progetto interessante» - milano.corriere.it",
+      "source": "milano.corriere.it",
       "published": "Fri, 14 Aug 2026 05:00:06 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia, \"Voglia di misurarci\": Campedelli carica il Forlì per il debutto contro la Juventus Next Gen. Ufficiale il portiere Theiner - ForlìToday",
-      "source": "ForlìToday",
-      "published": "Fri, 14 Aug 2026 05:32:59 GMT"
+      "title": "Ss Lazio, calendario 2026/27: Serie A, derby e Coppa Italia - lacapitale.it",
+      "source": "lacapitale.it",
+      "published": "Fri, 14 Aug 2026 06:02:08 GMT"
     },
     {
       "type": "news",
@@ -53,10 +60,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Sito Ufficiale - Lega Serie A",
-      "source": "Lega Serie A",
-      "published": "Thu, 13 Aug 2026 19:18:24 GMT"
+      "category": "TENNIS",
+      "title": "Jannik Sinner allo US Open 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis ATP - olympics.com",
+      "source": "olympics.com",
+      "published": "Fri, 14 Aug 2026 07:17:30 GMT"
     },
     {
       "type": "news",
@@ -75,16 +82,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Cincinnati, possibile semifinale Zverev-Djokovic: il tabellone - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Wed, 12 Aug 2026 09:40:30 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Quanti punti perde Sinner saltando Cincinnati? Cambiale pesante: il nuovo ranking, il vantaggio su Alcaraz e Zverev - OA Sport",
-      "source": "OA Sport",
-      "published": "Sun, 09 Aug 2026 16:37:58 GMT"
+      "title": "Cincinnati Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Fri, 14 Aug 2026 02:58:13 GMT"
     },
     {
       "type": "news",
