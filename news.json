@@ -1,19 +1,12 @@
 {
-  "updated_at": "2026-08-14T17:30:25.889494+00:00",
+  "updated_at": "2026-08-14T18:29:13.657880+00:00",
   "local_date": "2026-08-14",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Frattesi, Lazio e Inter sbloccano la trattativa: la firma sabato - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 14 Aug 2026 14:51:59 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato: Frattesi alla Lazio, sbloccato l'affare con l'Inter dopo il no della Lega - RomaToday",
-      "source": "RomaToday",
+      "title": "Calciomercato: Frattesi alla Lazio, sbloccato l'affare con l'Inter dopo il no della Lega - romatoday.it",
+      "source": "romatoday.it",
       "published": "Fri, 14 Aug 2026 09:15:07 GMT"
     },
     {
@@ -26,6 +19,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Calciomercato, Napoli-Badiashile: accordo con il Chelsea - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Thu, 13 Aug 2026 20:00:22 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Lazio, nuovi contatti per Pinamonti: accordo lontano. Le news di calciomercato - Sky Sport",
       "source": "Sky Sport",
       "published": "Wed, 12 Aug 2026 20:20:00 GMT"
@@ -33,16 +33,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia – Venezia vs Modena, convocati e ultime dal campo: debutto ufficiale per i gialloblù di Daniele Galloppa - parlandodisport.it",
-      "source": "parlandodisport.it",
+      "title": "Coppa Italia – Venezia vs Modena, convocati e ultime dal campo: debutto ufficiale per i gialloblù di Daniele Galloppa - Parlandodisport.it",
+      "source": "Parlandodisport.it",
       "published": "Fri, 14 Aug 2026 15:57:51 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Coppa Italia, \"Voglia di misurarci\": Campedelli carica il Forlì per il debutto contro la Juventus Next Gen. Ufficiale il portiere Theiner - ForlìToday",
-      "source": "ForlìToday",
-      "published": "Fri, 14 Aug 2026 05:32:59 GMT"
     },
     {
       "type": "news",
@@ -54,9 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Inter e Milan ai ritocchi finali, prove generali di Serie A - ansa.it",
-      "source": "ansa.it",
+      "title": "Inter e Milan ai ritocchi finali, prove generali di Serie A - ANSA",
+      "source": "ANSA",
       "published": "Fri, 14 Aug 2026 16:22:24 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Lazio: Frattesi a Roma, visite mediche poi firma del contratto - ANSA",
+      "source": "ANSA",
+      "published": "Fri, 14 Aug 2026 17:14:00 GMT"
     },
     {
       "type": "news",
@@ -68,8 +68,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Montreal, Shelton: \"Sto migliorando torneo dopo torneo. Continuerò a inseguire Sinner e Alcaraz\" - Ubitennis",
-      "source": "Ubitennis",
+      "title": "ATP Montreal, Shelton: \"Sto migliorando torneo dopo torneo. Continuerò a inseguire Sinner e Alcaraz\" - ubitennis.com",
+      "source": "ubitennis.com",
       "published": "Fri, 14 Aug 2026 09:23:47 GMT"
     },
     {
@@ -96,8 +96,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
+      "title": "Premier Padel London P1: Oggi quarti di finale - mrpadelpaddle.com",
+      "source": "mrpadelpaddle.com",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
     },
     {
