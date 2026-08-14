@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T11:54:58.984962+00:00",
+  "updated_at": "2026-08-14T13:19:30.228093+00:00",
   "local_date": "2026-08-14",
   "articles": [
     {
@@ -26,23 +26,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Juventus, Suzuki sfuma: si lavora per il prestito di Vicario. Le news di calciomercato - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Thu, 13 Aug 2026 18:03:16 GMT"
+      "title": "Milan, ufficiale la cessione di Eletu al Pescara - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Fri, 14 Aug 2026 10:54:30 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
       "title": "Lazio-Mantova: le probabili formazioni e dove vedere la partita di Coppa Italia - RomaToday",
       "source": "RomaToday",
-      "published": "Fri, 14 Aug 2026 10:22:37 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Coppa Italia, \"Voglia di misurarci\": Campedelli carica il Forlì per il debutto contro la Juventus Next Gen. Ufficiale il portiere Theiner - forlitoday.it",
-      "source": "forlitoday.it",
-      "published": "Fri, 14 Aug 2026 05:32:59 GMT"
+      "published": "Fri, 14 Aug 2026 10:25:12 GMT"
     },
     {
       "type": "news",
@@ -54,9 +47,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Cos'è Tring, il pezzotto albanese di Serie A e Champions che costa pochissimo ed è visibile anche in Italia - Fanpage",
-      "source": "Fanpage",
-      "published": "Fri, 14 Aug 2026 09:39:40 GMT"
+      "title": "Coppa Italia Frecciarossa | Lazio-Mantova, le parole di mister Gattuso nel pre partita - S.S. Lazio",
+      "source": "S.S. Lazio",
+      "published": "Fri, 14 Aug 2026 11:43:05 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "De Rossi e la Coppa Italia: \"Non va snobbata, a Roma festeggiammo come una Champions. A un tassista ho detto...\" - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Fri, 14 Aug 2026 12:41:01 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Tennis: ranking Atp, Sinner sicuro n.1 fino al torneo di Pechino - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Fri, 14 Aug 2026 12:39:00 GMT"
     },
     {
       "type": "news",
@@ -81,13 +88,6 @@
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Ranking ATP/WTA: Swiatek rientra in top five, Shelton vi si riavvicina - Ok Tennis",
-      "source": "Ok Tennis",
-      "published": "Fri, 14 Aug 2026 08:29:00 GMT"
-    },
-    {
-      "type": "news",
       "category": "PADEL",
       "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
@@ -103,16 +103,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Classifica FIP: Calvo entra nella Top 10, Tapia/Coello e Triay/Brea aumentano il distacco in corsa - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Tue, 11 Aug 2026 07:19:46 GMT"
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
+      "source": "FITP",
+      "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
-      "source": "FITP",
-      "published": "Thu, 02 Jul 2026 17:00:00 GMT"
+      "title": "Classifica FIP: Calvo entra nella Top 10, Tapia/Coello e Triay/Brea aumentano il distacco in corsa - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Tue, 11 Aug 2026 07:19:46 GMT"
     }
   ]
 }
