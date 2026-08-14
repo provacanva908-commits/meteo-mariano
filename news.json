@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T04:26:24.267161+00:00",
+  "updated_at": "2026-08-14T06:00:32.515944+00:00",
   "local_date": "2026-08-14",
   "articles": [
     {
@@ -8,13 +8,6 @@
       "title": "Lazio, nuovi contatti per Pinamonti: accordo lontano. Le news di calciomercato - Sky Sport",
       "source": "Sky Sport",
       "published": "Wed, 12 Aug 2026 20:20:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Juventus, Suzuki sfuma: si lavora per il prestito di Vicario. Le news di calciomercato - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Thu, 13 Aug 2026 18:03:16 GMT"
     },
     {
       "type": "news",
@@ -32,6 +25,27 @@
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Inter-Lazio, accordo di massima per Frattesi: tutti i dettagli dell'operazione - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Wed, 12 Aug 2026 12:29:56 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Coppa Italia, esordio per il Monza (ore 20.45) contro l'Avellino. Juric: «Credo nella squadra, qui progetto interessante» - Corriere Milano",
+      "source": "Corriere Milano",
+      "published": "Fri, 14 Aug 2026 05:00:06 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Coppa Italia, \"Voglia di misurarci\": Campedelli carica il Forlì per il debutto contro la Juventus Next Gen. Ufficiale il portiere Theiner - ForlìToday",
+      "source": "ForlìToday",
+      "published": "Fri, 14 Aug 2026 05:32:59 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
       "title": "Calcio, diritti tv serie A: l'Inter guadagna più di 80 milioni, poi vengono Milan, Napoli e Juve - Corriere della Sera",
       "source": "Corriere della Sera",
@@ -46,17 +60,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A Women's Cup, i gironi e il calendario dell'Inter - Inter.it",
-      "source": "Inter.it",
-      "published": "Wed, 12 Aug 2026 01:33:43 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "La Serie A Women’s Cup inizia col botto: Como 1907-Juventus si gioca al ‘Sinigaglia’ - FIGC",
-      "source": "FIGC",
-      "published": "Thu, 13 Aug 2026 04:08:00 GMT"
+      "category": "TENNIS",
+      "title": "Sinner, Alcaraz e gli infortuni: i tormenti dei due re verso Us Open. Come stanno e a che punto sono - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Tue, 11 Aug 2026 10:21:24 GMT"
     },
     {
       "type": "news",
@@ -64,13 +71,6 @@
       "title": "Cincinnati Open 2026: programma, orari delle partite, calendario e dove vedere il torneo · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
       "published": "Sun, 09 Aug 2026 16:28:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner, Alcaraz e gli infortuni: i tormenti dei due re verso Us Open. Come stanno e a che punto sono - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Tue, 11 Aug 2026 10:21:24 GMT"
     },
     {
       "type": "news",
