@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-08-14T14:29:09.606577+00:00",
+  "updated_at": "2026-08-14T15:24:52.889141+00:00",
   "local_date": "2026-08-14",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Frattesi, Lazio e Inter sbloccano la trattativa: la firma sabato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 14 Aug 2026 14:51:59 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "Calciomercato: Frattesi alla Lazio, sbloccato l'affare con l'Inter dopo il no della Lega - RomaToday",
       "source": "RomaToday",
       "published": "Fri, 14 Aug 2026 09:15:07 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Milan, offerta ufficiale per Nwaneri: la risposta dell'Arsenal! Nkunku, la sua posizione e la Roma… - sosfanta.com",
-      "source": "sosfanta.com",
-      "published": "Fri, 14 Aug 2026 08:15:47 GMT"
     },
     {
       "type": "news",
@@ -40,29 +40,29 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Catania, risolto il nodo fideiussione: sul mercato ufficiale l'arrivo di Flavio Russo e oggi la sfida al Parma in Coppa Italia - CataniaToday",
-      "source": "CataniaToday",
-      "published": "Fri, 14 Aug 2026 07:53:37 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Coppa Italia Frecciarossa | Lazio-Mantova, le parole di mister Gattuso nel pre partita - S.S. Lazio",
-      "source": "S.S. Lazio",
-      "published": "Fri, 14 Aug 2026 11:43:05 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "De Rossi e la Coppa Italia: \"Non va snobbata, a Roma festeggiammo come una Champions. A un tassista ho detto...\" - Corriere dello Sport",
       "source": "Corriere dello Sport",
       "published": "Fri, 14 Aug 2026 12:41:01 GMT"
     },
     {
       "type": "news",
+      "category": "CALCIO",
+      "title": "Coppa Italia Frecciarossa | Lazio-Mantova, le parole di mister Gattuso nel pre partita - S.S. Lazio",
+      "source": "S.S. Lazio",
+      "published": "Fri, 14 Aug 2026 15:16:37 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Cos'è Tring, il pezzotto albanese di Serie A e Champions che costa pochissimo ed è visibile anche in Italia - Fanpage",
+      "source": "Fanpage",
+      "published": "Fri, 14 Aug 2026 09:39:40 GMT"
+    },
+    {
+      "type": "news",
       "category": "TENNIS",
-      "title": "Tennis: ranking Atp, Sinner sicuro n.1 fino al torneo di Pechino - sportmediaset.mediaset.it",
-      "source": "sportmediaset.mediaset.it",
+      "title": "Tennis: ranking Atp, Sinner sicuro n.1 fino al torneo di Pechino - Sportmediaset",
+      "source": "Sportmediaset",
       "published": "Fri, 14 Aug 2026 12:39:00 GMT"
     },
     {
@@ -75,22 +75,22 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Sinner assente a Cincinnati come cambia il ranking Atp. L’Italia sorride: 4 azzurri nella top 20 | La nuova classifica - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Fri, 14 Aug 2026 13:54:14 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Jannik Sinner allo US Open 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis ATP - olympics.com",
       "source": "olympics.com",
       "published": "Fri, 14 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Ranking ATP: Sinner n.1 fino a Pechino, Guerrieri entra in Top 200 - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Fri, 14 Aug 2026 08:13:28 GMT"
-    },
-    {
-      "type": "news",
       "category": "PADEL",
-      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Sun, 09 Aug 2026 20:11:24 GMT"
     },
     {
