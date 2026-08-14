@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T21:43:13.036909+00:00",
-  "local_date": "2026-08-14",
+  "updated_at": "2026-08-14T22:01:42.084778+00:00",
+  "local_date": "2026-08-15",
   "articles": [
     {
       "type": "news",
@@ -33,6 +33,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Coppa Italia, i risultati di oggi: poker Fiorentina al Benevento, avanti anche Monza, Parma e Cagliari - corriere.it",
+      "source": "corriere.it",
+      "published": "Fri, 14 Aug 2026 20:44:54 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "De Rossi e la Coppa Italia: \"Non va snobbata, a Roma festeggiammo come una Champions. A un tassista ho detto...\" - Corriere dello Sport",
       "source": "Corriere dello Sport",
       "published": "Fri, 14 Aug 2026 12:41:01 GMT"
@@ -53,13 +60,6 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Lazio, ufficiale l'arrivo di Davide Frattesi - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 14 Aug 2026 20:59:44 GMT"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
       "title": "Tennis: ranking Atp, Sinner sicuro n.1 fino al torneo di Pechino - Sportmediaset",
       "source": "Sportmediaset",
@@ -75,8 +75,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner assente a Cincinnati come cambia il ranking Atp. L’Italia sorride: 4 azzurri nella top 20 | La nuova classifica - ilfattoquotidiano.it",
-      "source": "ilfattoquotidiano.it",
+      "title": "Sinner assente a Cincinnati come cambia il ranking Atp. L’Italia sorride: 4 azzurri nella top 20 | La nuova classifica - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
       "published": "Fri, 14 Aug 2026 12:49:25 GMT"
     },
     {
