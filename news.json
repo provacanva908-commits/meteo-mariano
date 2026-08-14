@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T23:30:37.390604+00:00",
+  "updated_at": "2026-08-14T23:55:09.987946+00:00",
   "local_date": "2026-08-15",
   "articles": [
     {
@@ -33,6 +33,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Coppa Italia, i risultati di oggi: poker Fiorentina al Benevento, avanti anche Monza, Parma e Cagliari - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Fri, 14 Aug 2026 20:44:54 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Cos'è Tring, il pezzotto albanese di Serie A e Champions che costa pochissimo ed è visibile anche in Italia - Fanpage",
       "source": "Fanpage",
       "published": "Fri, 14 Aug 2026 09:39:40 GMT"
@@ -40,16 +47,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "De Rossi e la Coppa Italia: \"Non va snobbata, a Roma festeggiammo come una Champions. A un tassista ho detto...\" - corrieredellosport.it",
-      "source": "corrieredellosport.it",
+      "title": "De Rossi e la Coppa Italia: \"Non va snobbata, a Roma festeggiammo come una Champions. A un tassista ho detto...\" - Corriere dello Sport",
+      "source": "Corriere dello Sport",
       "published": "Fri, 14 Aug 2026 12:41:01 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Coppa Italia Frecciarossa, Juric su Monza-Avellino 3-0: «Partita giusta. Pessina si opera. Mercato? Non abbiamo una grande disponibilità economica - Il Cittadino di Monza e Brianza",
-      "source": "Il Cittadino di Monza e Brianza",
-      "published": "Fri, 14 Aug 2026 22:48:34 GMT"
     },
     {
       "type": "news",
