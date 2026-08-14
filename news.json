@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T23:55:30.238031+00:00",
+  "updated_at": "2026-08-14T02:33:43.765869+00:00",
   "local_date": "2026-08-14",
   "articles": [
     {
@@ -8,13 +8,6 @@
       "title": "Calciomercato, Napoli-Badiashile: accordo con il Chelsea - Sky Sport",
       "source": "Sky Sport",
       "published": "Thu, 13 Aug 2026 20:00:22 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, accordo di massima per Frattesi - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 12 Aug 2026 17:13:44 GMT"
     },
     {
       "type": "news",
@@ -32,10 +25,24 @@
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Lazio: per la difesa occhi su Sutalo dell'Ajax - RomaToday",
+      "source": "RomaToday",
+      "published": "Thu, 13 Aug 2026 09:42:42 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
       "title": "Calcio, diritti tv serie A: l'Inter guadagna più di 80 milioni, poi vengono Milan, Napoli e Juve - Corriere della Sera",
       "source": "Corriere della Sera",
       "published": "Thu, 13 Aug 2026 09:29:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Sito Ufficiale - Lega Serie A",
+      "source": "Lega Serie A",
+      "published": "Thu, 13 Aug 2026 19:18:24 GMT"
     },
     {
       "type": "news",
@@ -53,10 +60,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Calcio Foggia, quattro giorni all'inizio ufficiale della stagione: altri volti nuovi in arrivo - FoggiaToday",
-      "source": "FoggiaToday",
-      "published": "Thu, 13 Aug 2026 12:51:51 GMT"
+      "category": "TENNIS",
+      "title": "Cincinnati Open 2026: programma, orari delle partite, calendario e dove vedere il torneo · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Sun, 09 Aug 2026 16:28:00 GMT"
     },
     {
       "type": "news",
@@ -68,23 +75,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Cincinnati, possibile semifinale Zverev-Djokovic: il tabellone - supertennis.tv",
-      "source": "supertennis.tv",
+      "title": "Cincinnati, possibile semifinale Zverev-Djokovic: il tabellone - SuperTennis",
+      "source": "SuperTennis",
       "published": "Wed, 12 Aug 2026 09:40:30 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Cincinnati Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Thu, 13 Aug 2026 15:03:42 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "WTA Toronto 2026, sfuma il titolo in doppio per Sara Errani. L’azzurra si arrende in finale - OA Sport",
+      "title": "Quanti punti perde Sinner saltando Cincinnati? Cambiale pesante: il nuovo ranking, il vantaggio su Alcaraz e Zverev - OA Sport",
       "source": "OA Sport",
-      "published": "Thu, 13 Aug 2026 21:17:13 GMT"
+      "published": "Sun, 09 Aug 2026 16:37:58 GMT"
     },
     {
       "type": "news",
