@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-14T23:55:09.987946+00:00",
+  "updated_at": "2026-08-15T01:39:28.970793+00:00",
   "local_date": "2026-08-15",
   "articles": [
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Lazio, è ufficiale l'acquisto di Davide Frattesi dall'Inter: c'è la firma - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Fri, 14 Aug 2026 20:57:41 GMT"
-    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -26,6 +19,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Calciomercato, Napoli-Badiashile: accordo con il Chelsea - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Thu, 13 Aug 2026 20:00:22 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Milan, ufficiale la cessione in prestito di Zachary Atekhame al Lione - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Fri, 14 Aug 2026 16:15:58 GMT"
@@ -33,9 +33,16 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Sito Ufficiale - Lega Serie A",
+      "source": "Lega Serie A",
+      "published": "Fri, 14 Aug 2026 22:18:17 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Coppa Italia, i risultati di oggi: poker Fiorentina al Benevento, avanti anche Monza, Parma e Cagliari - Corriere della Sera",
       "source": "Corriere della Sera",
-      "published": "Fri, 14 Aug 2026 20:44:54 GMT"
+      "published": "Fri, 14 Aug 2026 21:22:10 GMT"
     },
     {
       "type": "news",
@@ -50,13 +57,6 @@
       "title": "De Rossi e la Coppa Italia: \"Non va snobbata, a Roma festeggiammo come una Champions. A un tassista ho detto...\" - Corriere dello Sport",
       "source": "Corriere dello Sport",
       "published": "Fri, 14 Aug 2026 12:41:01 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "TRIS ALL’AVELLINO: IL MONZA VOLA AI SEDICESIMI DI COPPA ITALIA - Associazione Calcio Monza S.p.A. *",
-      "source": "Associazione Calcio Monza S.p.A. *",
-      "published": "Fri, 14 Aug 2026 20:41:23 GMT"
     },
     {
       "type": "news",
