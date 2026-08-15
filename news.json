@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T02:38:35.285521+00:00",
+  "updated_at": "2026-08-15T03:23:34.765325+00:00",
   "local_date": "2026-08-15",
   "articles": [
     {
@@ -33,16 +33,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Sito Ufficiale - Lega Serie A",
-      "source": "Lega Serie A",
-      "published": "Fri, 14 Aug 2026 22:18:17 GMT"
+      "title": "Coppa Italia, i risultati di oggi: poker Fiorentina al Benevento, avanti anche Monza, Parma e Cagliari - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Fri, 14 Aug 2026 21:22:10 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia, i risultati di oggi: poker Fiorentina al Benevento, avanti anche Monza, Parma e Cagliari - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Fri, 14 Aug 2026 21:22:10 GMT"
+      "title": "Sito Ufficiale - Lega Serie A",
+      "source": "Lega Serie A",
+      "published": "Fri, 14 Aug 2026 22:18:17 GMT"
     },
     {
       "type": "news",
@@ -103,8 +103,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - fitp.it",
-      "source": "fitp.it",
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
+      "source": "FITP",
       "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     },
     {
