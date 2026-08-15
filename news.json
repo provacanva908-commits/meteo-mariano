@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T23:34:32.621960+00:00",
+  "updated_at": "2026-08-15T23:55:15.173372+00:00",
   "local_date": "2026-08-16",
   "articles": [
     {
@@ -54,9 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia serie C, Perugia - Vis Pesaro: la diretta della partita - PerugiaToday",
-      "source": "PerugiaToday",
-      "published": "Sat, 15 Aug 2026 20:49:07 GMT"
+      "title": "News | Coppa Italia Frecciarossa - Lega Serie A",
+      "source": "Lega Serie A",
+      "published": "Sat, 15 Aug 2026 21:51:06 GMT"
     },
     {
       "type": "news",
@@ -103,8 +103,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
-      "source": "FITP",
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - fitp.it",
+      "source": "fitp.it",
       "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     },
     {
