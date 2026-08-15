@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T14:56:14.584632+00:00",
+  "updated_at": "2026-08-15T15:29:07.057533+00:00",
   "local_date": "2026-08-15",
   "articles": [
     {
@@ -12,8 +12,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato: Frattesi alla Lazio, sbloccato l'affare con l'Inter dopo il no della Lega - RomaToday",
-      "source": "RomaToday",
+      "title": "Calciomercato: Frattesi alla Lazio, sbloccato l'affare con l'Inter dopo il no della Lega - romatoday.it",
+      "source": "romatoday.it",
       "published": "Fri, 14 Aug 2026 09:15:07 GMT"
     },
     {
@@ -26,9 +26,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, stallo nella trattativa per Rodrigo Mora: la situazione - RomaToday",
-      "source": "RomaToday",
+      "title": "Calciomercato Roma, stallo nella trattativa per Rodrigo Mora: la situazione - romatoday.it",
+      "source": "romatoday.it",
       "published": "Sat, 15 Aug 2026 11:53:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Annunciati i Gironi (e il calendario) della Coppa Italia Eccellenza - Il Cittadino di Monza e Brianza",
+      "source": "Il Cittadino di Monza e Brianza",
+      "published": "Sat, 15 Aug 2026 08:31:00 GMT"
     },
     {
       "type": "news",
@@ -36,13 +43,6 @@
       "title": "Coppa Italia, i risultati di oggi: poker Fiorentina al Benevento, avanti anche Monza, Parma e Cagliari - Corriere della Sera",
       "source": "Corriere della Sera",
       "published": "Fri, 14 Aug 2026 21:22:10 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Milan-Man United, la formazione rossonera è già ufficiale - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sat, 15 Aug 2026 10:14:15 GMT"
     },
     {
       "type": "news",
@@ -63,7 +63,7 @@
       "category": "TENNIS",
       "title": "Sinner sempre al comando, Zverev accorcia, Alcaraz torna terzo! Djokovic-Cobolli...: classifica Atp live - Tuttosport",
       "source": "Tuttosport",
-      "published": "Sat, 15 Aug 2026 12:15:48 GMT"
+      "published": "Sat, 15 Aug 2026 15:19:07 GMT"
     },
     {
       "type": "news",
@@ -103,8 +103,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - fitp.it",
-      "source": "fitp.it",
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
+      "source": "FITP",
       "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     },
     {
