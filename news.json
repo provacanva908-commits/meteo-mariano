@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T14:33:09.119936+00:00",
+  "updated_at": "2026-08-15T14:56:14.584632+00:00",
   "local_date": "2026-08-15",
   "articles": [
     {
@@ -12,8 +12,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato: Frattesi alla Lazio, sbloccato l'affare con l'Inter dopo il no della Lega - romatoday.it",
-      "source": "romatoday.it",
+      "title": "Calciomercato: Frattesi alla Lazio, sbloccato l'affare con l'Inter dopo il no della Lega - RomaToday",
+      "source": "RomaToday",
       "published": "Fri, 14 Aug 2026 09:15:07 GMT"
     },
     {
@@ -26,16 +26,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, stallo nella trattativa per Rodrigo Mora: la situazione - romatoday.it",
-      "source": "romatoday.it",
+      "title": "Calciomercato Roma, stallo nella trattativa per Rodrigo Mora: la situazione - RomaToday",
+      "source": "RomaToday",
       "published": "Sat, 15 Aug 2026 11:53:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Annunciati i Gironi (e il calendario) della Coppa Italia Eccellenza - Il Cittadino di Monza e Brianza",
-      "source": "Il Cittadino di Monza e Brianza",
-      "published": "Sat, 15 Aug 2026 08:31:00 GMT"
     },
     {
       "type": "news",
@@ -54,15 +47,22 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia, oggi 4 partite: dove vederle in streaming e in tv - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sat, 15 Aug 2026 07:18:42 GMT"
+      "title": "Coppa Italia Serie C | Le parole di Massimo Brambilla alla vigilia di Juventus Next Gen-Forlì - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Sat, 15 Aug 2026 13:06:01 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Coppa Italia Frecciarossa 2026/27 | Pre-partita di #VeronaEntella: vendita biglietti e ritiro tessere 'Non vi lasceremo mai' - Hellas Verona",
+      "source": "Hellas Verona",
+      "published": "Sat, 15 Aug 2026 10:03:29 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner sempre al comando, Zverev accorcia, Alcaraz torna terzo! Djokovic-Cobolli...: classifica Atp live - tuttosport.com",
-      "source": "tuttosport.com",
+      "title": "Sinner sempre al comando, Zverev accorcia, Alcaraz torna terzo! Djokovic-Cobolli...: classifica Atp live - Tuttosport",
+      "source": "Tuttosport",
       "published": "Sat, 15 Aug 2026 12:15:48 GMT"
     },
     {
@@ -103,8 +103,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
-      "source": "FITP",
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - fitp.it",
+      "source": "fitp.it",
       "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     },
     {
