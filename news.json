@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T10:55:00.332844+00:00",
+  "updated_at": "2026-08-15T11:25:55.018789+00:00",
   "local_date": "2026-08-15",
   "articles": [
     {
@@ -33,13 +33,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia oggi in TV, dove vedere Torino-Carrarese e Udinese-Padova: orari e calendario delle partite - fanpage.it",
-      "source": "fanpage.it",
-      "published": "Sat, 15 Aug 2026 05:00:50 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Annunciati i Gironi (e il calendario) della Coppa Italia Eccellenza - Il Cittadino di Monza e Brianza",
       "source": "Il Cittadino di Monza e Brianza",
       "published": "Sat, 15 Aug 2026 08:31:00 GMT"
@@ -57,6 +50,13 @@
       "title": "Milan-Man United, la formazione rossonera è già ufficiale - Sky Sport",
       "source": "Sky Sport",
       "published": "Sat, 15 Aug 2026 10:14:15 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Coppa Italia, oggi 4 partite: dove vederle in streaming e in tv - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sat, 15 Aug 2026 07:18:42 GMT"
     },
     {
       "type": "news",
