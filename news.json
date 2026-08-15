@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T12:13:36.878873+00:00",
+  "updated_at": "2026-08-15T13:02:11.522821+00:00",
   "local_date": "2026-08-15",
   "articles": [
     {
@@ -61,6 +61,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Sinner sempre al comando, Zverev accorcia, Alcaraz torna terzo! Djokovic-Cobolli...: classifica Atp live - Tuttosport",
+      "source": "Tuttosport",
+      "published": "Sat, 15 Aug 2026 11:45:52 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Sinner assente a Cincinnati come cambia il ranking Atp. L’Italia sorride: 4 azzurri nella top 20 | La nuova classifica - Il Fatto Quotidiano",
       "source": "Il Fatto Quotidiano",
       "published": "Fri, 14 Aug 2026 12:49:25 GMT"
@@ -78,13 +85,6 @@
       "title": "Ranking ATP: Sinner n.1 fino a Pechino, Guerrieri entra in Top 200 - SuperTennis",
       "source": "SuperTennis",
       "published": "Fri, 14 Aug 2026 08:13:28 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Jannik Sinner allo US Open 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis ATP - olympics.com",
-      "source": "olympics.com",
-      "published": "Fri, 14 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
