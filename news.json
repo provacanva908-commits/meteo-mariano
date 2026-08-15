@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T13:39:16.421961+00:00",
+  "updated_at": "2026-08-15T13:59:41.394793+00:00",
   "local_date": "2026-08-15",
   "articles": [
     {
@@ -12,8 +12,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato: Frattesi alla Lazio, sbloccato l'affare con l'Inter dopo il no della Lega - romatoday.it",
-      "source": "romatoday.it",
+      "title": "Calciomercato: Frattesi alla Lazio, sbloccato l'affare con l'Inter dopo il no della Lega - RomaToday",
+      "source": "RomaToday",
       "published": "Fri, 14 Aug 2026 09:15:07 GMT"
     },
     {
@@ -26,16 +26,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, stallo nella trattativa per Rodrigo Mora: la situazione - romatoday.it",
-      "source": "romatoday.it",
+      "title": "Calciomercato Roma, stallo nella trattativa per Rodrigo Mora: la situazione - RomaToday",
+      "source": "RomaToday",
       "published": "Sat, 15 Aug 2026 11:53:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Annunciati i Gironi (e il calendario) della Coppa Italia Eccellenza - Il Cittadino di Monza e Brianza",
-      "source": "Il Cittadino di Monza e Brianza",
-      "published": "Sat, 15 Aug 2026 08:31:00 GMT"
     },
     {
       "type": "news",
@@ -57,6 +50,13 @@
       "title": "Coppa Italia, oggi 4 partite: dove vederle in streaming e in tv - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sat, 15 Aug 2026 07:18:42 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Coppa Italia Serie C | Le parole di Massimo Brambilla alla vigilia di Juventus Next Gen-Forlì - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Sat, 15 Aug 2026 13:05:10 GMT"
     },
     {
       "type": "news",
