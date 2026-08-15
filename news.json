@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T06:12:58.211414+00:00",
+  "updated_at": "2026-08-15T07:01:28.288852+00:00",
   "local_date": "2026-08-15",
   "articles": [
     {
@@ -33,8 +33,15 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia, i risultati di oggi: poker Fiorentina al Benevento, avanti anche Monza, Parma e Cagliari - corriere.it",
-      "source": "corriere.it",
+      "title": "Coppa Italia oggi in TV, dove vedere Torino-Carrarese e Udinese-Padova: orari e calendario delle partite - Fanpage",
+      "source": "Fanpage",
+      "published": "Sat, 15 Aug 2026 05:00:50 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Coppa Italia, i risultati di oggi: poker Fiorentina al Benevento, avanti anche Monza, Parma e Cagliari - Corriere della Sera",
+      "source": "Corriere della Sera",
       "published": "Fri, 14 Aug 2026 21:22:10 GMT"
     },
     {
@@ -50,13 +57,6 @@
       "title": "Coppa Italia Frecciarossa, Juric su Monza-Avellino 3-0: «Partita giusta. Pessina si opera. Mercato? Non abbiamo una grande disponibilità economica - Il Cittadino di Monza e Brianza",
       "source": "Il Cittadino di Monza e Brianza",
       "published": "Fri, 14 Aug 2026 22:48:34 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Coppa Italia oggi in TV, dove vedere Torino-Carrarese e Udinese-Padova: orari e calendario delle partite - Fanpage",
-      "source": "Fanpage",
-      "published": "Sat, 15 Aug 2026 05:00:50 GMT"
     },
     {
       "type": "news",
