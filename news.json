@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T08:00:37.194936+00:00",
+  "updated_at": "2026-08-15T08:40:49.900300+00:00",
   "local_date": "2026-08-15",
   "articles": [
     {
@@ -47,30 +47,37 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Annunciati i Gironi (e il calendario) della Coppa Italia Eccellenza - Il Cittadino di Monza e Brianza",
+      "source": "Il Cittadino di Monza e Brianza",
+      "published": "Sat, 15 Aug 2026 08:31:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Sito Ufficiale - Lega Serie A",
       "source": "Lega Serie A",
       "published": "Fri, 14 Aug 2026 22:18:17 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Coppa Italia Frecciarossa, Juric su Monza-Avellino 3-0: «Partita giusta. Pessina si opera. Mercato? Non abbiamo una grande disponibilità economica - Il Cittadino di Monza e Brianza",
-      "source": "Il Cittadino di Monza e Brianza",
-      "published": "Fri, 14 Aug 2026 22:48:34 GMT"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
-      "title": "Tennis: ranking Atp, Sinner sicuro n.1 fino al torneo di Pechino - sportmediaset.mediaset.it",
-      "source": "sportmediaset.mediaset.it",
+      "title": "Tennis: ranking Atp, Sinner sicuro n.1 fino al torneo di Pechino - Sportmediaset",
+      "source": "Sportmediaset",
       "published": "Fri, 14 Aug 2026 12:39:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner assente a Cincinnati come cambia il ranking Atp. L’Italia sorride: 4 azzurri nella top 20 | La nuova classifica - ilfattoquotidiano.it",
-      "source": "ilfattoquotidiano.it",
+      "title": "Sinner assente a Cincinnati come cambia il ranking Atp. L’Italia sorride: 4 azzurri nella top 20 | La nuova classifica - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
       "published": "Fri, 14 Aug 2026 12:49:25 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Borsino US Open: Alcaraz, più no che sì. Sinner, compleanno e poi New York - eurosport.it",
+      "source": "eurosport.it",
+      "published": "Sat, 15 Aug 2026 07:46:31 GMT"
     },
     {
       "type": "news",
@@ -81,23 +88,16 @@
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Jannik Sinner allo US Open 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis ATP - olympics.com",
-      "source": "olympics.com",
-      "published": "Fri, 14 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
       "category": "PADEL",
-      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Sun, 09 Aug 2026 20:11:24 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
+      "title": "Premier Padel London P1: Oggi quarti di finale - mrpadelpaddle.com",
+      "source": "mrpadelpaddle.com",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
     },
     {
