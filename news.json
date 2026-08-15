@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-15T16:19:51.198692+00:00",
+  "updated_at": "2026-08-15T16:47:35.765394+00:00",
   "local_date": "2026-08-15",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato: Frattesi alla Lazio, sbloccato l'affare con l'Inter dopo il no della Lega - romatoday.it",
+      "source": "romatoday.it",
+      "published": "Fri, 14 Aug 2026 09:15:07 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -12,22 +19,15 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato: Frattesi alla Lazio, sbloccato l'affare con l'Inter dopo il no della Lega - RomaToday",
-      "source": "RomaToday",
-      "published": "Fri, 14 Aug 2026 09:15:07 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Lazio, nuovi contatti per Pinamonti: accordo lontano. Le news di calciomercato - sport.sky.it",
-      "source": "sport.sky.it",
+      "title": "Lazio, nuovi contatti per Pinamonti: accordo lontano. Le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
       "published": "Wed, 12 Aug 2026 20:20:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, stallo nella trattativa per Rodrigo Mora: la situazione - RomaToday",
-      "source": "RomaToday",
+      "title": "Calciomercato Roma, stallo nella trattativa per Rodrigo Mora: la situazione - romatoday.it",
+      "source": "romatoday.it",
       "published": "Sat, 15 Aug 2026 11:53:00 GMT"
     },
     {
@@ -36,13 +36,6 @@
       "title": "Coppa Italia, i risultati di oggi: poker Fiorentina al Benevento, avanti anche Monza, Parma e Cagliari - Corriere della Sera",
       "source": "Corriere della Sera",
       "published": "Fri, 14 Aug 2026 21:22:10 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Milan-Man United, la formazione rossonera è già ufficiale - sport.sky.it",
-      "source": "sport.sky.it",
-      "published": "Sat, 15 Aug 2026 10:14:15 GMT"
     },
     {
       "type": "news",
@@ -57,6 +50,13 @@
       "title": "Coppa Italia Frecciarossa 2026/27 | Pre-partita di #VeronaEntella: vendita biglietti e ritiro tessere 'Non vi lasceremo mai' - Hellas Verona",
       "source": "Hellas Verona",
       "published": "Sat, 15 Aug 2026 10:03:29 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "L'Inter U23 eliminata dalla Coppa Italia Serie C: il Vado vince ai rigori - Inter.it",
+      "source": "Inter.it",
+      "published": "Sat, 15 Aug 2026 09:50:05 GMT"
     },
     {
       "type": "news",
@@ -75,7 +75,7 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Djokovic favorito a Cincinnati? Lui risponde così e 'sfida' Sinner a Us Open - Adnkronos",
+      "title": "Djokovic a Cincinnati avverte Sinner per Us Open: \"Mai stato così bene\" - Adnkronos",
       "source": "Adnkronos",
       "published": "Sat, 15 Aug 2026 15:04:00 GMT"
     },
