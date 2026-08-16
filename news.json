@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T15:54:03.895715+00:00",
+  "updated_at": "2026-08-16T16:29:29.433307+00:00",
   "local_date": "2026-08-16",
   "articles": [
     {
@@ -21,7 +21,7 @@
       "category": "CALCIOMERCATO",
       "title": "Calciomercato Serie A: le trattative calde tra Juve, Inter e Napoli - Diretta",
       "source": "Diretta",
-      "published": "Sun, 16 Aug 2026 08:59:46 GMT"
+      "published": "Sun, 16 Aug 2026 00:59:00 GMT"
     },
     {
       "type": "news",
@@ -33,8 +33,8 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia, oggi Lazio-Mantova: orario, probabili formazioni e dove vederla in tv (in chiaro) - adnkronos.com",
-      "source": "adnkronos.com",
+      "title": "Coppa Italia, oggi Lazio-Mantova: orario, probabili formazioni e dove vederla in tv (in chiaro) - Adnkronos",
+      "source": "Adnkronos",
       "published": "Sun, 16 Aug 2026 06:31:00 GMT"
     },
     {
@@ -47,16 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calciomercato Serie A: le trattative calde tra Juve, Inter e Napoli - Diretta",
-      "source": "Diretta",
-      "published": "Sun, 16 Aug 2026 08:59:46 GMT"
+      "title": "Coppa Italia, il calendario e i risultati dei trentaduesimi di finale - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sun, 16 Aug 2026 08:21:49 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia Serie C, Alle ore 18 il Forlì ad Alessandria contro la Juventus Next Gen per regalarsi il Ravenna - Corriere Romagna",
-      "source": "Corriere Romagna",
-      "published": "Sun, 16 Aug 2026 09:41:00 GMT"
+      "title": "Coppa Italia, prende il via la stagione del Foggia. Auteri: \"Stiamo costruendo un gruppo forte\" - FoggiaToday",
+      "source": "FoggiaToday",
+      "published": "Sun, 16 Aug 2026 08:16:56 GMT"
     },
     {
       "type": "news",
@@ -68,15 +68,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner sempre al comando, Zverev accorcia, Alcaraz torna terzo! Djokovic-Cobolli...: classifica Atp live - Tuttosport",
-      "source": "Tuttosport",
-      "published": "Sun, 16 Aug 2026 09:19:51 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Quando il sorteggio degli US Open 2026? I possibili avversari di Sinner turno per turno con il ranking attuale. E se saltasse Alcaraz… - OA Sport",
-      "source": "OA Sport",
+      "title": "Quando il sorteggio degli US Open 2026? I possibili avversari di Sinner turno per turno con il ranking attuale. E se saltasse Alcaraz… - oasport.it",
+      "source": "oasport.it",
       "published": "Sun, 16 Aug 2026 15:47:03 GMT"
     },
     {
@@ -85,6 +78,13 @@
       "title": "Sinner, domani altra giornata al J Medical in vista degli Us Open. Il punto sulle sue condizioni - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 16 Aug 2026 13:16:51 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Jannik Sinner allo US Open 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis ATP - olympics.com",
+      "source": "olympics.com",
+      "published": "Fri, 14 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
