@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T06:01:07.561545+00:00",
+  "updated_at": "2026-08-16T06:55:42.775703+00:00",
   "local_date": "2026-08-16",
   "articles": [
     {
@@ -33,6 +33,20 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Coppa Italia, oggi Lazio-Mantova: orario, probabili formazioni e dove vederla in tv (in chiaro) - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Sun, 16 Aug 2026 06:31:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Lazio, la probabile formazione di Gattuso per la partita di Coppa Italia con il Mantova - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Sun, 16 Aug 2026 06:19:42 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Coppa Italia in TV oggi, dove vedere Lazio-Mantova e Genoa-Ascoli: gli orari delle partite - Fanpage",
       "source": "Fanpage",
       "published": "Sun, 16 Aug 2026 04:30:11 GMT"
@@ -46,20 +60,6 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "News | Coppa Italia Frecciarossa - Lega Serie A",
-      "source": "Lega Serie A",
-      "published": "Sat, 15 Aug 2026 21:00:06 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "L'Inter U23 eliminata dalla Coppa Italia Serie C: il Vado vince ai rigori - Inter.it",
-      "source": "Inter.it",
-      "published": "Sat, 15 Aug 2026 18:56:31 GMT"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
       "title": "Sinner sempre al comando, Zverev accorcia, Alcaraz torna terzo! Djokovic-Cobolli...: classifica Atp live - Tuttosport",
       "source": "Tuttosport",
@@ -68,23 +68,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner assente a Cincinnati come cambia il ranking Atp. L’Italia sorride: 4 azzurri nella top 20 | La nuova classifica - ilfattoquotidiano.it",
-      "source": "ilfattoquotidiano.it",
-      "published": "Fri, 14 Aug 2026 12:49:25 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Jannik Sinner, i 25 anni di un numero 1, dalle montagne altoatesine a Wimbledon - Oggi",
-      "source": "Oggi",
-      "published": "Sat, 15 Aug 2026 13:50:41 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Djokovic favorito a Cincinnati? Lui risponde così e 'sfida' Sinner a Us Open - Adnkronos",
       "source": "Adnkronos",
       "published": "Sat, 15 Aug 2026 15:04:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Jannik Sinner allo US Open 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis ATP - olympics.com",
+      "source": "olympics.com",
+      "published": "Fri, 14 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner assente a Cincinnati come cambia il ranking Atp. L’Italia sorride: 4 azzurri nella top 20 | La nuova classifica - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Fri, 14 Aug 2026 12:49:25 GMT"
     },
     {
       "type": "news",
@@ -96,8 +96,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
+      "title": "Premier Padel London P1: Oggi quarti di finale - mrpadelpaddle.com",
+      "source": "mrpadelpaddle.com",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
     },
     {
