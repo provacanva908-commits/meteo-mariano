@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T18:46:58.327285+00:00",
+  "updated_at": "2026-08-16T19:10:15.324852+00:00",
   "local_date": "2026-08-16",
   "articles": [
     {
@@ -33,6 +33,20 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Coppa Italia, oggi Lazio-Mantova – Diretta - Startupbusiness.it",
+      "source": "Startupbusiness.it",
+      "published": "Sun, 16 Aug 2026 18:33:33 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Coppa Italia Serie C, Il Forlì ha rigoristi infallibili ed elimina la Juventus: 3-5 dopo l’1-1 al 90’. Ora il derby con il Ravenna - Corriere Romagna",
+      "source": "Corriere Romagna",
+      "published": "Sun, 16 Aug 2026 18:12:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Coppa Italia, il calendario e i risultati dei trentaduesimi di finale - Sky Sport",
       "source": "Sky Sport",
       "published": "Sun, 16 Aug 2026 08:21:49 GMT"
@@ -40,23 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia, prende il via la stagione del Foggia. Auteri: \"Stiamo costruendo un gruppo forte\" - FoggiaToday",
-      "source": "FoggiaToday",
-      "published": "Sun, 16 Aug 2026 08:16:56 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Coppa Italia: i convocati di Corradi per Cremonese-Sampdoria - U.C. Sampdoria",
       "source": "U.C. Sampdoria",
       "published": "Sun, 16 Aug 2026 17:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "COPPA ITALIA: SARÀ TORINO-MONZA NEI SEDICESIMI - Associazione Calcio Monza S.p.A. *",
-      "source": "Associazione Calcio Monza S.p.A. *",
-      "published": "Sun, 16 Aug 2026 09:10:41 GMT"
     },
     {
       "type": "news",
