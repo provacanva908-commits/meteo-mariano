@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-16T01:47:53.701931+00:00",
+  "updated_at": "2026-08-16T02:49:35.542356+00:00",
   "local_date": "2026-08-16",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale un'altra cessione a titolo definitivo: il comunicato - napolitoday.it",
-      "source": "napolitoday.it",
+      "title": "Calciomercato Napoli, ufficiale un'altra cessione a titolo definitivo: il comunicato - NapoliToday",
+      "source": "NapoliToday",
       "published": "Sat, 15 Aug 2026 21:00:00 GMT"
     },
     {
@@ -26,9 +26,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato, si blocca la trattativa Psg-Suzuki. La mossa della Juventus - sport.sky.it",
-      "source": "sport.sky.it",
+      "title": "Calciomercato, si blocca la trattativa Psg-Suzuki. La mossa della Juventus - Sky Sport",
+      "source": "Sky Sport",
       "published": "Sat, 15 Aug 2026 15:31:54 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Calcio: ufficiale, Spence all'Inter e contratto fino al 2031 - ANSA",
+      "source": "ANSA",
+      "published": "Sat, 15 Aug 2026 17:42:00 GMT"
     },
     {
       "type": "news",
@@ -53,17 +60,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "COPPA ITALIA: SARÀ TORINO-MONZA NEI SEDICESIMI - Associazione Calcio Monza S.p.A. *",
-      "source": "Associazione Calcio Monza S.p.A. *",
-      "published": "Sat, 15 Aug 2026 21:19:40 GMT"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
       "title": "Sinner sempre al comando, Zverev accorcia, Alcaraz torna terzo! Djokovic-Cobolli...: classifica Atp live - Tuttosport",
       "source": "Tuttosport",
-      "published": "Sat, 15 Aug 2026 21:24:03 GMT"
+      "published": "Sun, 16 Aug 2026 01:29:14 GMT"
     },
     {
       "type": "news",
@@ -96,8 +96,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
+      "title": "Premier Padel London P1: Oggi quarti di finale - mrpadelpaddle.com",
+      "source": "mrpadelpaddle.com",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
     },
     {
