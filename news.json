@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-16T05:37:22.098693+00:00",
+  "updated_at": "2026-08-16T06:01:07.561545+00:00",
   "local_date": "2026-08-16",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale un'altra cessione a titolo definitivo: il comunicato - napolitoday.it",
-      "source": "napolitoday.it",
+      "title": "Calciomercato Napoli, ufficiale un'altra cessione a titolo definitivo: il comunicato - NapoliToday",
+      "source": "NapoliToday",
       "published": "Sat, 15 Aug 2026 21:00:00 GMT"
     },
     {
@@ -40,13 +40,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "1º turno Coppa Italia Serie C Cittadella-Atalanta U23: così in campo - Atalanta",
-      "source": "Atalanta",
-      "published": "Sat, 15 Aug 2026 18:11:58 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Coppa Italia Frecciarossa 2026/27 | #VeronaEntella: i convocati - Hellas Verona",
       "source": "Hellas Verona",
       "published": "Sat, 15 Aug 2026 18:00:29 GMT"
@@ -60,10 +53,24 @@
     },
     {
       "type": "news",
+      "category": "CALCIO",
+      "title": "L'Inter U23 eliminata dalla Coppa Italia Serie C: il Vado vince ai rigori - Inter.it",
+      "source": "Inter.it",
+      "published": "Sat, 15 Aug 2026 18:56:31 GMT"
+    },
+    {
+      "type": "news",
       "category": "TENNIS",
       "title": "Sinner sempre al comando, Zverev accorcia, Alcaraz torna terzo! Djokovic-Cobolli...: classifica Atp live - Tuttosport",
       "source": "Tuttosport",
       "published": "Sun, 16 Aug 2026 01:29:14 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner assente a Cincinnati come cambia il ranking Atp. L’Italia sorride: 4 azzurri nella top 20 | La nuova classifica - ilfattoquotidiano.it",
+      "source": "ilfattoquotidiano.it",
+      "published": "Fri, 14 Aug 2026 12:49:25 GMT"
     },
     {
       "type": "news",
@@ -78,13 +85,6 @@
       "title": "Djokovic favorito a Cincinnati? Lui risponde così e 'sfida' Sinner a Us Open - Adnkronos",
       "source": "Adnkronos",
       "published": "Sat, 15 Aug 2026 15:04:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Jannik Sinner allo US Open 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis ATP - olympics.com",
-      "source": "olympics.com",
-      "published": "Fri, 14 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
