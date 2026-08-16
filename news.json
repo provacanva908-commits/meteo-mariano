@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T04:21:10.721495+00:00",
+  "updated_at": "2026-08-16T04:59:34.676947+00:00",
   "local_date": "2026-08-16",
   "articles": [
     {
@@ -33,9 +33,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Sito Ufficiale - Lega Serie A",
-      "source": "Lega Serie A",
-      "published": "Sat, 15 Aug 2026 13:55:10 GMT"
+      "title": "Coppa Italia in TV oggi, dove vedere Lazio-Mantova e Genoa-Ascoli: gli orari delle partite - Fanpage",
+      "source": "Fanpage",
+      "published": "Sun, 16 Aug 2026 04:30:11 GMT"
     },
     {
       "type": "news",
@@ -61,16 +61,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner sempre al comando, Zverev accorcia, Alcaraz torna terzo! Djokovic-Cobolli...: classifica Atp live - Tuttosport",
-      "source": "Tuttosport",
+      "title": "Sinner sempre al comando, Zverev accorcia, Alcaraz torna terzo! Djokovic-Cobolli...: classifica Atp live - tuttosport.com",
+      "source": "tuttosport.com",
       "published": "Sun, 16 Aug 2026 01:29:14 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Djokovic a Cincinnati avverte Sinner per Us Open: \"Mai stato così bene\" - Cremaoggi",
-      "source": "Cremaoggi",
-      "published": "Sun, 16 Aug 2026 00:09:18 GMT"
     },
     {
       "type": "news",
@@ -85,6 +78,13 @@
       "title": "Djokovic favorito a Cincinnati? Lui risponde così e 'sfida' Sinner a Us Open - Adnkronos",
       "source": "Adnkronos",
       "published": "Sat, 15 Aug 2026 15:04:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Jannik Sinner allo US Open 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis ATP - olympics.com",
+      "source": "olympics.com",
+      "published": "Fri, 14 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
