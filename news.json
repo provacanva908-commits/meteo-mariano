@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T22:29:39.427144+00:00",
+  "updated_at": "2026-08-16T22:52:37.755937+00:00",
   "local_date": "2026-08-17",
   "articles": [
     {
@@ -12,8 +12,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato: Frattesi alla Lazio, sbloccato l'affare con l'Inter dopo il no della Lega - RomaToday",
-      "source": "RomaToday",
+      "title": "Calciomercato: Frattesi alla Lazio, sbloccato l'affare con l'Inter dopo il no della Lega - romatoday.it",
+      "source": "romatoday.it",
       "published": "Fri, 14 Aug 2026 09:15:07 GMT"
     },
     {
@@ -26,8 +26,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, stallo nella trattativa per Rodrigo Mora: la situazione - RomaToday",
-      "source": "RomaToday",
+      "title": "Calciomercato Roma, stallo nella trattativa per Rodrigo Mora: la situazione - romatoday.it",
+      "source": "romatoday.it",
       "published": "Sat, 15 Aug 2026 11:53:00 GMT"
     },
     {
@@ -35,35 +35,28 @@
       "category": "CALCIO",
       "title": "Esordio ufficiale amarissimo per Gattuso: Lazio già fuori dalla Coppa Italia, all'Olimpico vince il Mantova - Goal.com",
       "source": "Goal.com",
-      "published": "Sun, 16 Aug 2026 21:14:06 GMT"
+      "published": "Sun, 16 Aug 2026 22:17:54 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Lazio-Mantova 0-2: clamoroso all'Olimpico, Gattuso è già fuori dalla Coppa Italia - RomaToday",
-      "source": "RomaToday",
+      "title": "Lazio-Mantova 0-2: clamoroso all'Olimpico, Gattuso è già fuori dalla Coppa Italia - romatoday.it",
+      "source": "romatoday.it",
       "published": "Sun, 16 Aug 2026 21:13:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia, oggi Lazio-Mantova – Diretta - startupbusiness.it",
-      "source": "startupbusiness.it",
-      "published": "Sun, 16 Aug 2026 18:33:33 GMT"
+      "title": "Impresa Mantova al debutto in Coppa Italia, Lazio sconfitta 2-0 - Gazzetta di Mantova",
+      "source": "Gazzetta di Mantova",
+      "published": "Sun, 16 Aug 2026 21:39:21 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Lazio eliminata dalla Coppa Italia: Ruocco e Cajazzo firmano l'impresa del Mantova! Verona ok ai rigori - Tuttosport",
-      "source": "Tuttosport",
-      "published": "Sun, 16 Aug 2026 21:22:38 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Dalla prima vittoria Atp al primo trionfo con Djokovic: Sinner, 25 anni in 25 scatti - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 16 Aug 2026 08:40:33 GMT"
+      "title": "Coppa Italia: i convocati di Corradi per Cremonese-Sampdoria - U.C. Sampdoria",
+      "source": "U.C. Sampdoria",
+      "published": "Sun, 16 Aug 2026 17:00:00 GMT"
     },
     {
       "type": "news",
@@ -75,7 +68,14 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner, domani altra giornata al J Medical in vista degli Us Open. Il punto sulle sue condizioni - La Gazzetta dello Sport",
+      "title": "Dalla prima vittoria Atp al primo trionfo con Djokovic: Sinner, 25 anni in 25 scatti - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 16 Aug 2026 08:40:33 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner, oggi altra giornata al J Medical in vista degli Us Open. Il punto sulle sue condizioni - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 16 Aug 2026 13:16:51 GMT"
     },
