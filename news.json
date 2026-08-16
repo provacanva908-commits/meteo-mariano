@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T10:06:00.561588+00:00",
+  "updated_at": "2026-08-16T10:37:45.913995+00:00",
   "local_date": "2026-08-16",
   "articles": [
     {
@@ -68,13 +68,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jannik Sinner, i 25 anni di un numero 1, dalle montagne altoatesine a Wimbledon - Oggi",
-      "source": "Oggi",
-      "published": "Sun, 16 Aug 2026 01:39:13 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Djokovic favorito a Cincinnati? Lui risponde così e 'sfida' Sinner a Us Open - Adnkronos",
       "source": "Adnkronos",
       "published": "Sat, 15 Aug 2026 15:04:00 GMT"
@@ -88,9 +81,16 @@
     },
     {
       "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner assente a Cincinnati come cambia il ranking Atp. L’Italia sorride: 4 azzurri nella top 20 | La nuova classifica - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Fri, 14 Aug 2026 12:49:25 GMT"
+    },
+    {
+      "type": "news",
       "category": "PADEL",
-      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Sun, 09 Aug 2026 20:11:24 GMT"
     },
     {
