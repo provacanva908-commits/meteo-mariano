@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T11:51:34.557753+00:00",
+  "updated_at": "2026-08-16T12:32:54.800732+00:00",
   "local_date": "2026-08-16",
   "articles": [
     {
@@ -33,16 +33,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Lazio, la probabile formazione di Gattuso per la partita di Coppa Italia con il Mantova - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Sun, 16 Aug 2026 06:19:42 GMT"
+      "title": "Coppa Italia, oggi Lazio-Mantova: orario, probabili formazioni e dove vederla in tv (in chiaro) - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Sun, 16 Aug 2026 06:31:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia, oggi Lazio-Mantova: orario, probabili formazioni e dove vederla in tv (in chiaro) - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Sun, 16 Aug 2026 06:31:00 GMT"
+      "title": "Lazio, la probabile formazione di Gattuso per la partita di Coppa Italia con il Mantova - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Sun, 16 Aug 2026 06:19:42 GMT"
     },
     {
       "type": "news",
@@ -54,15 +54,22 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia, il calendario e i risultati dei trentaduesimi di finale - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sun, 16 Aug 2026 08:20:20 GMT"
+      "title": "Coppa Italia: Sassuolo-Cesena, una partita da giocare e mille trattative da raccontare - Corriere Romagna",
+      "source": "Corriere Romagna",
+      "published": "Sun, 16 Aug 2026 10:39:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner sempre al comando, Zverev accorcia, Alcaraz torna terzo! Djokovic-Cobolli...: classifica Atp live - tuttosport.com",
-      "source": "tuttosport.com",
+      "title": "Dalla prima vittoria Atp al primo trionfo con Djokovic: Sinner, 25 anni in 25 scatti - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 16 Aug 2026 08:40:33 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner sempre al comando, Zverev accorcia, Alcaraz torna terzo! Djokovic-Cobolli...: classifica Atp live - Tuttosport",
+      "source": "Tuttosport",
       "published": "Sun, 16 Aug 2026 01:29:14 GMT"
     },
     {
@@ -78,13 +85,6 @@
       "title": "Djokovic favorito a Cincinnati? Lui risponde così e 'sfida' Sinner a Us Open - Adnkronos",
       "source": "Adnkronos",
       "published": "Sat, 15 Aug 2026 15:04:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner assente a Cincinnati come cambia il ranking Atp. L’Italia sorride: 4 azzurri nella top 20 | La nuova classifica - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "Fri, 14 Aug 2026 12:49:25 GMT"
     },
     {
       "type": "news",
