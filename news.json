@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T16:54:52.905926+00:00",
+  "updated_at": "2026-08-16T17:23:56.481806+00:00",
   "local_date": "2026-08-16",
   "articles": [
     {
@@ -19,23 +19,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, stallo nella trattativa per Rodrigo Mora: la situazione - RomaToday",
-      "source": "RomaToday",
-      "published": "Sat, 15 Aug 2026 11:53:00 GMT"
+      "title": "Roma Rodrigo Mora, trattativa ancora aperta: si cerca l'intesa. Le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sun, 16 Aug 2026 16:54:45 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, Frattesi lancia la sfida: \"Qui per sentirmi importante\" - RomaToday",
+      "title": "Calciomercato Roma, stallo nella trattativa per Rodrigo Mora: la situazione - RomaToday",
       "source": "RomaToday",
-      "published": "Sat, 15 Aug 2026 07:08:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Coppa Italia, oggi Lazio-Mantova: orario, probabili formazioni e dove vederla in tv (in chiaro) - adnkronos.com",
-      "source": "adnkronos.com",
-      "published": "Sun, 16 Aug 2026 06:31:00 GMT"
+      "published": "Sat, 15 Aug 2026 11:53:00 GMT"
     },
     {
       "type": "news",
@@ -47,8 +40,8 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia, il calendario e i risultati dei trentaduesimi di finale - sport.sky.it",
-      "source": "sport.sky.it",
+      "title": "Coppa Italia, il calendario e i risultati dei trentaduesimi di finale - Sky Sport",
+      "source": "Sky Sport",
       "published": "Sun, 16 Aug 2026 08:21:49 GMT"
     },
     {
@@ -60,17 +53,17 @@
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Dalla prima vittoria Atp al primo trionfo con Djokovic: Sinner, 25 anni in 25 scatti - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 16 Aug 2026 08:40:33 GMT"
+      "category": "CALCIO",
+      "title": "Coppa Italia: i convocati di Corradi per Cremonese-Sampdoria - U.C. Sampdoria",
+      "source": "U.C. Sampdoria",
+      "published": "Sun, 16 Aug 2026 17:00:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner sempre al comando, Zverev accorcia, Alcaraz torna terzo! Djokovic-Cobolli...: classifica Atp live - Tuttosport",
-      "source": "Tuttosport",
-      "published": "Sun, 16 Aug 2026 09:19:51 GMT"
+      "title": "Dalla prima vittoria Atp al primo trionfo con Djokovic: Sinner, 25 anni in 25 scatti - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 16 Aug 2026 08:40:33 GMT"
     },
     {
       "type": "news",
@@ -88,10 +81,10 @@
     },
     {
       "type": "news",
-      "category": "PADEL",
-      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 09 Aug 2026 20:11:24 GMT"
+      "category": "TENNIS",
+      "title": "Jannik Sinner allo US Open 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis ATP - olympics.com",
+      "source": "olympics.com",
+      "published": "Fri, 14 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -99,6 +92,13 @@
       "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 09 Aug 2026 20:11:24 GMT"
     },
     {
       "type": "news",
