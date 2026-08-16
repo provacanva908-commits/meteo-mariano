@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T15:01:52.207625+00:00",
+  "updated_at": "2026-08-16T15:32:20.828128+00:00",
   "local_date": "2026-08-16",
   "articles": [
     {
@@ -40,13 +40,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia in TV oggi, dove vedere Lazio-Mantova e Genoa-Ascoli: gli orari delle partite - Fanpage",
-      "source": "Fanpage",
-      "published": "Sun, 16 Aug 2026 04:30:11 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Lazio, la probabile formazione di Gattuso per la partita di Coppa Italia con il Mantova - Corriere dello Sport",
       "source": "Corriere dello Sport",
       "published": "Sun, 16 Aug 2026 06:19:42 GMT"
@@ -57,6 +50,13 @@
       "title": "Calciomercato Serie A: le trattative calde tra Juve, Inter e Napoli - Diretta",
       "source": "Diretta",
       "published": "Sun, 16 Aug 2026 08:59:46 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Coppa Italia Serie C, Alle ore 18 il Forlì ad Alessandria contro la Juventus Next Gen per regalarsi il Ravenna - Corriere Romagna",
+      "source": "Corriere Romagna",
+      "published": "Sun, 16 Aug 2026 09:41:00 GMT"
     },
     {
       "type": "news",
@@ -82,8 +82,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jannik Sinner, i 25 anni di un numero 1, dalle montagne altoatesine a Wimbledon - Oggi",
-      "source": "Oggi",
+      "title": "Jannik Sinner, i 25 anni di un numero 1, dalle montagne altoatesine a Wimbledon - oggi.it",
+      "source": "oggi.it",
       "published": "Sun, 16 Aug 2026 01:39:13 GMT"
     },
     {
