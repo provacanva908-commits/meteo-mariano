@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T17:51:57.786897+00:00",
+  "updated_at": "2026-08-17T18:36:27.225787+00:00",
   "local_date": "2026-08-17",
   "articles": [
     {
@@ -40,16 +40,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A: Pessina operato al ginocchio sinistro per l’infortunio che l’ha messo ko prima della Coppa Italia - Il Cittadino di Monza e Brianza",
-      "source": "Il Cittadino di Monza e Brianza",
+      "title": "Serie A: Pessina operato al ginocchio sinistro per l’infortunio che l’ha messo ko prima della Coppa Italia - ilcittadinomb.it",
+      "source": "ilcittadinomb.it",
       "published": "Mon, 17 Aug 2026 15:21:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
-      "source": "Goal.com",
-      "published": "Mon, 17 Aug 2026 14:13:56 GMT"
     },
     {
       "type": "news",
@@ -57,6 +50,13 @@
       "title": "Calcio, i convocati dell’Italia per i Giochi del Mediterraneo. Giocatori in arrivo dalla Serie A e B - OA Sport",
       "source": "OA Sport",
       "published": "Mon, 17 Aug 2026 16:00:40 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Dove vedere tutte le partite della Lazio in Serie A e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
+      "source": "Goal.com",
+      "published": "Mon, 17 Aug 2026 17:46:05 GMT"
     },
     {
       "type": "news",
@@ -82,9 +82,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jannik Sinner allo US Open 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis ATP - olympics.com",
-      "source": "olympics.com",
-      "published": "Fri, 14 Aug 2026 07:00:00 GMT"
+      "title": "Sinner, oggi altra giornata al J Medical in vista degli Us Open. Il punto sulle sue condizioni - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 16 Aug 2026 13:16:51 GMT"
     },
     {
       "type": "news",
@@ -96,8 +96,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
-      "source": "FITP",
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - fitp.it",
+      "source": "fitp.it",
       "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     },
     {
