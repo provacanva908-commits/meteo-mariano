@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-17T22:36:45.240502+00:00",
+  "updated_at": "2026-08-17T22:59:12.122720+00:00",
   "local_date": "2026-08-18",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Genoa, accordo con il Brighton per il prestito di Evan Ferguson. Le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Mon, 17 Aug 2026 19:37:08 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -22,13 +29,6 @@
       "title": "Calciomercato Milan: Mendes porta Diego Moreira in rossonero, trattativa lampo da 50 milioni - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Mon, 17 Aug 2026 16:08:07 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, sprint per Luis Henrique: cosa manca per chiudere con l'Inter - RomaToday",
-      "source": "RomaToday",
-      "published": "Mon, 17 Aug 2026 10:13:00 GMT"
     },
     {
       "type": "news",
@@ -89,8 +89,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel London P1: Oggi quarti di finale - mrpadelpaddle.com",
-      "source": "mrpadelpaddle.com",
+      "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
     },
     {
