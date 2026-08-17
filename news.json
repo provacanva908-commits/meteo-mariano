@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T20:45:46.298222+00:00",
+  "updated_at": "2026-08-17T21:11:53.274418+00:00",
   "local_date": "2026-08-17",
   "articles": [
     {
@@ -12,8 +12,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato: Arezzo, ufficiale il rinnovo di Matteo Gilli fino al 2029 - lanazione.it",
-      "source": "lanazione.it",
+      "title": "Calciomercato: Arezzo, ufficiale il rinnovo di Matteo Gilli fino al 2029 - La Nazione",
+      "source": "La Nazione",
       "published": "Mon, 17 Aug 2026 12:41:55 GMT"
     },
     {
@@ -26,8 +26,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, sprint per Luis Henrique: cosa manca per chiudere con l'Inter - romatoday.it",
-      "source": "romatoday.it",
+      "title": "Calciomercato Roma, sprint per Luis Henrique: cosa manca per chiudere con l'Inter - RomaToday",
+      "source": "RomaToday",
       "published": "Mon, 17 Aug 2026 10:13:00 GMT"
     },
     {
@@ -40,13 +40,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calcio, i convocati dell’Italia per i Giochi del Mediterraneo. Giocatori in arrivo dalla Serie A e B - oasport.it",
-      "source": "oasport.it",
-      "published": "Mon, 17 Aug 2026 16:00:40 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Coppa Italia, le 4 partite di oggi e dove vederle in streaming e in tv - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Mon, 17 Aug 2026 13:43:38 GMT"
@@ -54,9 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia, il calendario e i risultati dei trentaduesimi di finale - sport.sky.it",
-      "source": "sport.sky.it",
+      "title": "Coppa Italia, il calendario e i risultati dei trentaduesimi di finale - Sky Sport",
+      "source": "Sky Sport",
       "published": "Mon, 17 Aug 2026 07:20:12 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "CALCIO: Troppo Sassuolo per il Cesena in Coppa Italia - Teleromagna",
+      "source": "Teleromagna",
+      "published": "Mon, 17 Aug 2026 18:43:00 GMT"
     },
     {
       "type": "news",
