@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T05:59:06.837303+00:00",
+  "updated_at": "2026-08-17T07:11:31.436482+00:00",
   "local_date": "2026-08-17",
   "articles": [
     {
@@ -8,6 +8,13 @@
       "title": "Calciomercato Napoli, ufficiale un'altra cessione a titolo definitivo: il comunicato - NapoliToday",
       "source": "NapoliToday",
       "published": "Sat, 15 Aug 2026 21:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli, oggi arriva Badiashile. Gabriel Jesus, segnali di cessione - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Mon, 17 Aug 2026 06:37:00 GMT"
     },
     {
       "type": "news",
@@ -22,13 +29,6 @@
       "title": "Monza, in attesa del debutto con l'Inter si infiamma il calciomercato - MonzaToday",
       "source": "MonzaToday",
       "published": "Mon, 17 Aug 2026 05:26:59 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Roma Rodrigo Mora, trattativa ancora aperta: si cerca l'intesa. Le news di calciomercato - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sun, 16 Aug 2026 16:54:45 GMT"
     },
     {
       "type": "news",
@@ -49,14 +49,14 @@
       "category": "CALCIO",
       "title": "Coppa Italia Frecciarossa | Lazio-Mantova, le dichiarazioni post partita - S.S. Lazio",
       "source": "S.S. Lazio",
-      "published": "Sun, 16 Aug 2026 23:05:45 GMT"
+      "published": "Sun, 16 Aug 2026 22:16:20 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
       "title": "Coppa Italia, il calendario e i risultati dei trentaduesimi di finale - Sky Sport",
       "source": "Sky Sport",
-      "published": "Sun, 16 Aug 2026 21:17:31 GMT"
+      "published": "Mon, 17 Aug 2026 02:24:53 GMT"
     },
     {
       "type": "news",
@@ -68,16 +68,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Quando il sorteggio degli US Open 2026? I possibili avversari di Sinner turno per turno con il ranking attuale. E se saltasse Alcaraz… - OA Sport",
-      "source": "OA Sport",
+      "title": "Quando il sorteggio degli US Open 2026? I possibili avversari di Sinner turno per turno con il ranking attuale. E se saltasse Alcaraz… - oasport.it",
+      "source": "oasport.it",
       "published": "Sun, 16 Aug 2026 15:47:03 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner assente a Cincinnati come cambia il ranking Atp. L’Italia sorride: 4 azzurri nella top 20 | La nuova classifica - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "Fri, 14 Aug 2026 12:49:25 GMT"
     },
     {
       "type": "news",
@@ -85,6 +78,13 @@
       "title": "Sinner, oggi altra giornata al J Medical in vista degli Us Open. Il punto sulle sue condizioni - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 16 Aug 2026 13:16:51 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Jannik Sinner allo US Open 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis ATP - olympics.com",
+      "source": "olympics.com",
+      "published": "Fri, 14 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
