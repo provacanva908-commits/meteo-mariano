@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T19:15:23.975243+00:00",
+  "updated_at": "2026-08-17T19:46:13.622165+00:00",
   "local_date": "2026-08-17",
   "articles": [
     {
@@ -12,9 +12,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Calciomercato: Arezzo, ufficiale il rinnovo di Matteo Gilli fino al 2029 - La Nazione",
+      "source": "La Nazione",
+      "published": "Mon, 17 Aug 2026 12:41:55 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Calciomercato Milan: Mendes porta Diego Moreira in rossonero, trattativa lampo da 50 milioni - Sportmediaset",
       "source": "Sportmediaset",
-      "published": "Mon, 17 Aug 2026 13:41:00 GMT"
+      "published": "Mon, 17 Aug 2026 16:08:07 GMT"
     },
     {
       "type": "news",
@@ -22,13 +29,6 @@
       "title": "Calciomercato Roma, sprint per Luis Henrique: cosa manca per chiudere con l'Inter - RomaToday",
       "source": "RomaToday",
       "published": "Mon, 17 Aug 2026 10:13:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Monza, in attesa del debutto con l'Inter si infiamma il calciomercato - MonzaToday",
-      "source": "MonzaToday",
-      "published": "Mon, 17 Aug 2026 05:26:59 GMT"
     },
     {
       "type": "news",
@@ -103,16 +103,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Bronzo Mol: Boronad / Robert si è fermato alle porte della finale - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sun, 16 Aug 2026 11:15:07 GMT"
+      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
+      "title": "FIP Bronzo Mol: Boronad / Robert si è fermato alle porte della finale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sun, 16 Aug 2026 11:15:07 GMT"
     }
   ]
 }
