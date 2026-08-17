@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T08:02:44.295541+00:00",
+  "updated_at": "2026-08-17T08:57:09.125913+00:00",
   "local_date": "2026-08-17",
   "articles": [
     {
@@ -40,23 +40,23 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Coppa Italia Frecciarossa | Lazio-Mantova, la conferenza stampa post partita - S.S. Lazio",
+      "source": "S.S. Lazio",
+      "published": "Mon, 17 Aug 2026 08:18:15 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Coppa Italia, il calendario e i risultati dei trentaduesimi di finale - Sky Sport",
       "source": "Sky Sport",
-      "published": "Mon, 17 Aug 2026 02:24:53 GMT"
+      "published": "Mon, 17 Aug 2026 05:26:40 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calcio Serie B - IL MANTOVA BATTE LA LAZIO ALL'OLIMPICO (0-2) E VOLA AI 16ESIMI DI COPPA ITALIA - la Voce Di Mantova",
-      "source": "la Voce Di Mantova",
-      "published": "Sun, 16 Aug 2026 22:37:15 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Pagelle Lazio, che flop in Coppa Italia: Cancellieri sbaglia tutto, Frattesi debutto in sordina - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Mon, 17 Aug 2026 05:51:07 GMT"
+      "title": "Coppa Italia: prime emozioni e sorprese, la Lazio di Gattuso è già fuori - RaiNews",
+      "source": "RaiNews",
+      "published": "Mon, 17 Aug 2026 07:01:00 GMT"
     },
     {
       "type": "news",
@@ -68,8 +68,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Quando il sorteggio degli US Open 2026? I possibili avversari di Sinner turno per turno con il ranking attuale. E se saltasse Alcaraz… - OA Sport",
-      "source": "OA Sport",
+      "title": "Quando il sorteggio degli US Open 2026? I possibili avversari di Sinner turno per turno con il ranking attuale. E se saltasse Alcaraz… - oasport.it",
+      "source": "oasport.it",
       "published": "Sun, 16 Aug 2026 15:47:03 GMT"
     },
     {
