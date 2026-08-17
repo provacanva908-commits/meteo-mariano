@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T08:57:09.125913+00:00",
+  "updated_at": "2026-08-17T09:51:52.146375+00:00",
   "local_date": "2026-08-17",
   "articles": [
     {
@@ -40,6 +40,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Coppa Italia, Stroppa commenta Venezia-Modena: «Partita di rincorsa ma pronti per la Serie A» - Il Gazzettino",
+      "source": "Il Gazzettino",
+      "published": "Mon, 17 Aug 2026 09:20:20 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Coppa Italia Frecciarossa | Lazio-Mantova, la conferenza stampa post partita - S.S. Lazio",
       "source": "S.S. Lazio",
       "published": "Mon, 17 Aug 2026 08:18:15 GMT"
@@ -49,34 +56,27 @@
       "category": "CALCIO",
       "title": "Coppa Italia, il calendario e i risultati dei trentaduesimi di finale - Sky Sport",
       "source": "Sky Sport",
-      "published": "Mon, 17 Aug 2026 05:26:40 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Coppa Italia: prime emozioni e sorprese, la Lazio di Gattuso è già fuori - RaiNews",
-      "source": "RaiNews",
-      "published": "Mon, 17 Aug 2026 07:01:00 GMT"
+      "published": "Mon, 17 Aug 2026 02:24:53 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Dalla prima vittoria Atp al primo trionfo con Djokovic: Sinner, 25 anni in 25 scatti - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Dalla prima vittoria Atp al primo trionfo con Djokovic: Sinner, 25 anni in 25 scatti - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Sun, 16 Aug 2026 08:40:33 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Quando il sorteggio degli US Open 2026? I possibili avversari di Sinner turno per turno con il ranking attuale. E se saltasse Alcaraz… - oasport.it",
-      "source": "oasport.it",
+      "title": "Quando il sorteggio degli US Open 2026? I possibili avversari di Sinner turno per turno con il ranking attuale. E se saltasse Alcaraz… - OA Sport",
+      "source": "OA Sport",
       "published": "Sun, 16 Aug 2026 15:47:03 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner, oggi altra giornata al J Medical in vista degli Us Open. Il punto sulle sue condizioni - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Sinner, oggi altra giornata al J Medical in vista degli Us Open. Il punto sulle sue condizioni - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Sun, 16 Aug 2026 13:16:51 GMT"
     },
     {
@@ -96,23 +96,23 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Sun, 09 Aug 2026 20:11:24 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
-      "source": "FITP",
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - fitp.it",
+      "source": "fitp.it",
       "published": "Thu, 02 Jul 2026 17:00:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Bronzo Mol: Boronad / Robert si è fermato alle porte della finale - padel-magazine.it",
+      "title": "Classifica FIP: Calvo entra nella Top 10, Tapia/Coello e Triay/Brea aumentano il distacco in gara - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Sun, 16 Aug 2026 11:15:07 GMT"
+      "published": "Tue, 11 Aug 2026 07:19:46 GMT"
     }
   ]
 }
