@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T20:10:38.391606+00:00",
+  "updated_at": "2026-08-17T20:45:46.298222+00:00",
   "local_date": "2026-08-17",
   "articles": [
     {
@@ -12,8 +12,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato: Arezzo, ufficiale il rinnovo di Matteo Gilli fino al 2029 - La Nazione",
-      "source": "La Nazione",
+      "title": "Calciomercato: Arezzo, ufficiale il rinnovo di Matteo Gilli fino al 2029 - lanazione.it",
+      "source": "lanazione.it",
       "published": "Mon, 17 Aug 2026 12:41:55 GMT"
     },
     {
@@ -26,8 +26,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, sprint per Luis Henrique: cosa manca per chiudere con l'Inter - RomaToday",
-      "source": "RomaToday",
+      "title": "Calciomercato Roma, sprint per Luis Henrique: cosa manca per chiudere con l'Inter - romatoday.it",
+      "source": "romatoday.it",
       "published": "Mon, 17 Aug 2026 10:13:00 GMT"
     },
     {
@@ -40,16 +40,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calcio, i convocati dell’Italia per i Giochi del Mediterraneo. Giocatori in arrivo dalla Serie A e B - OA Sport",
-      "source": "OA Sport",
+      "title": "Calcio, i convocati dell’Italia per i Giochi del Mediterraneo. Giocatori in arrivo dalla Serie A e B - oasport.it",
+      "source": "oasport.it",
       "published": "Mon, 17 Aug 2026 16:00:40 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Dove vedere tutte le partite della Lazio in Serie A e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
-      "source": "Goal.com",
-      "published": "Mon, 17 Aug 2026 17:46:05 GMT"
     },
     {
       "type": "news",
@@ -57,6 +50,13 @@
       "title": "Coppa Italia, le 4 partite di oggi e dove vederle in streaming e in tv - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Mon, 17 Aug 2026 13:43:38 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Coppa Italia, il calendario e i risultati dei trentaduesimi di finale - sport.sky.it",
+      "source": "sport.sky.it",
+      "published": "Mon, 17 Aug 2026 07:20:12 GMT"
     },
     {
       "type": "news",
@@ -68,16 +68,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis: ranking Atp, Sinner sicuro n.1 fino al torneo di Pechino - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Fri, 14 Aug 2026 12:39:00 GMT"
+      "title": "Quando il sorteggio degli US Open 2026? I possibili avversari di Sinner turno per turno con il ranking attuale. E se saltasse Alcaraz… - oasport.it",
+      "source": "oasport.it",
+      "published": "Sun, 16 Aug 2026 15:47:03 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Quando il sorteggio degli US Open 2026? I possibili avversari di Sinner turno per turno con il ranking attuale. E se saltasse Alcaraz… - OA Sport",
-      "source": "OA Sport",
-      "published": "Sun, 16 Aug 2026 15:47:03 GMT"
+      "title": "Tennis: ranking Atp, Sinner sicuro n.1 fino al torneo di Pechino - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Fri, 14 Aug 2026 12:39:00 GMT"
     },
     {
       "type": "news",
