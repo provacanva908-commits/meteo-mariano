@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T21:11:53.274418+00:00",
+  "updated_at": "2026-08-17T21:43:41.590874+00:00",
   "local_date": "2026-08-17",
   "articles": [
     {
@@ -8,13 +8,6 @@
       "title": "Calciomercato Napoli, oggi arriva Badiashile. Gabriel Jesus, segnali di cessione - Corriere dello Sport",
       "source": "Corriere dello Sport",
       "published": "Mon, 17 Aug 2026 06:37:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato: Arezzo, ufficiale il rinnovo di Matteo Gilli fino al 2029 - La Nazione",
-      "source": "La Nazione",
-      "published": "Mon, 17 Aug 2026 12:41:55 GMT"
     },
     {
       "type": "news",
@@ -32,10 +25,24 @@
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Monza, in attesa del debutto con l'Inter si infiamma il calciomercato - MonzaToday",
+      "source": "MonzaToday",
+      "published": "Mon, 17 Aug 2026 05:26:59 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
       "title": "Serie A: Pessina operato al ginocchio sinistro per l’infortunio che l’ha messo ko prima della Coppa Italia - Il Cittadino di Monza e Brianza",
       "source": "Il Cittadino di Monza e Brianza",
       "published": "Mon, 17 Aug 2026 15:21:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Calcio, i convocati dell’Italia per i Giochi del Mediterraneo. Giocatori in arrivo dalla Serie A e B - oasport.it",
+      "source": "oasport.it",
+      "published": "Mon, 17 Aug 2026 16:00:40 GMT"
     },
     {
       "type": "news",
@@ -47,16 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia, il calendario e i risultati dei trentaduesimi di finale - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Mon, 17 Aug 2026 07:20:12 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "CALCIO: Troppo Sassuolo per il Cesena in Coppa Italia - Teleromagna",
-      "source": "Teleromagna",
-      "published": "Mon, 17 Aug 2026 18:43:00 GMT"
+      "title": "News | Coppa Italia Frecciarossa - Lega Serie A",
+      "source": "Lega Serie A",
+      "published": "Mon, 17 Aug 2026 21:25:10 GMT"
     },
     {
       "type": "news",
