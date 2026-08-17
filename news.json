@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T22:03:01.116981+00:00",
+  "updated_at": "2026-08-17T22:36:45.240502+00:00",
   "local_date": "2026-08-18",
   "articles": [
     {
@@ -8,6 +8,13 @@
       "title": "Calciomercato Napoli, oggi arriva Badiashile. Gabriel Jesus, segnali di cessione - Corriere dello Sport",
       "source": "Corriere dello Sport",
       "published": "Mon, 17 Aug 2026 06:37:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Pisa, stretta finale per Pittarello, si cerca la quadra per Correia, Touré trova l'accordo col Monza. Attesa per l'arrivo di Petagna - SestaPorta.News Pisa",
+      "source": "SestaPorta.News Pisa",
+      "published": "Mon, 17 Aug 2026 22:09:15 GMT"
     },
     {
       "type": "news",
@@ -25,13 +32,6 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Monza, in attesa del debutto con l'Inter si infiamma il calciomercato - MonzaToday",
-      "source": "MonzaToday",
-      "published": "Mon, 17 Aug 2026 05:26:59 GMT"
-    },
-    {
-      "type": "news",
       "category": "CALCIO",
       "title": "Calcio, i convocati dell’Italia per i Giochi del Mediterraneo. Giocatori in arrivo dalla Serie A e B - oasport.it",
       "source": "oasport.it",
@@ -40,16 +40,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia, le 4 partite di oggi e dove vederle in streaming e in tv - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Mon, 17 Aug 2026 13:43:38 GMT"
+      "title": "News | Coppa Italia Frecciarossa - Lega Serie A",
+      "source": "Lega Serie A",
+      "published": "Mon, 17 Aug 2026 21:25:10 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "News | Coppa Italia Frecciarossa - Lega Serie A",
-      "source": "Lega Serie A",
-      "published": "Mon, 17 Aug 2026 21:25:10 GMT"
+      "title": "Coppa Italia, le 4 partite di oggi e dove vederle in streaming e in tv - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Mon, 17 Aug 2026 13:43:38 GMT"
     },
     {
       "type": "news",
@@ -89,8 +89,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
+      "title": "Premier Padel London P1: Oggi quarti di finale - mrpadelpaddle.com",
+      "source": "mrpadelpaddle.com",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
     },
     {
