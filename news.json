@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T23:57:52.702165+00:00",
+  "updated_at": "2026-08-17T01:50:23.453368+00:00",
   "local_date": "2026-08-17",
   "articles": [
     {
@@ -12,8 +12,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato: Frattesi alla Lazio, sbloccato l'affare con l'Inter dopo il no della Lega - romatoday.it",
-      "source": "romatoday.it",
+      "title": "Calciomercato: Frattesi alla Lazio, sbloccato l'affare con l'Inter dopo il no della Lega - RomaToday",
+      "source": "RomaToday",
       "published": "Fri, 14 Aug 2026 09:15:07 GMT"
     },
     {
@@ -26,8 +26,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, stallo nella trattativa per Rodrigo Mora: la situazione - romatoday.it",
-      "source": "romatoday.it",
+      "title": "Calciomercato Roma, stallo nella trattativa per Rodrigo Mora: la situazione - RomaToday",
+      "source": "RomaToday",
       "published": "Sat, 15 Aug 2026 11:53:00 GMT"
     },
     {
@@ -40,9 +40,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Lazio-Mantova 0-2: clamoroso all'Olimpico, Gattuso è già fuori dalla Coppa Italia - romatoday.it",
-      "source": "romatoday.it",
+      "title": "Lazio-Mantova 0-2: clamoroso all'Olimpico, Gattuso è già fuori dalla Coppa Italia - RomaToday",
+      "source": "RomaToday",
       "published": "Sun, 16 Aug 2026 21:13:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Coppa Italia, oggi Lazio-Mantova – Diretta - Startupbusiness.it",
+      "source": "Startupbusiness.it",
+      "published": "Sun, 16 Aug 2026 14:01:33 GMT"
     },
     {
       "type": "news",
@@ -53,10 +60,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Impresa Mantova al debutto in Coppa Italia, Lazio sconfitta 2-0 - Gazzetta di Mantova",
-      "source": "Gazzetta di Mantova",
-      "published": "Sun, 16 Aug 2026 21:39:21 GMT"
+      "category": "TENNIS",
+      "title": "Dalla prima vittoria Atp al primo trionfo con Djokovic: Sinner, 25 anni in 25 scatti - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 16 Aug 2026 08:40:33 GMT"
     },
     {
       "type": "news",
@@ -64,13 +71,6 @@
       "title": "Quando il sorteggio degli US Open 2026? I possibili avversari di Sinner turno per turno con il ranking attuale. E se saltasse Alcaraz… - OA Sport",
       "source": "OA Sport",
       "published": "Sun, 16 Aug 2026 15:47:03 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Dalla prima vittoria Atp al primo trionfo con Djokovic: Sinner, 25 anni in 25 scatti - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 16 Aug 2026 08:40:33 GMT"
     },
     {
       "type": "news",
