@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-17T21:43:41.590874+00:00",
-  "local_date": "2026-08-17",
+  "updated_at": "2026-08-17T22:03:01.116981+00:00",
+  "local_date": "2026-08-18",
   "articles": [
     {
       "type": "news",
@@ -33,13 +33,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A: Pessina operato al ginocchio sinistro per l’infortunio che l’ha messo ko prima della Coppa Italia - Il Cittadino di Monza e Brianza",
-      "source": "Il Cittadino di Monza e Brianza",
-      "published": "Mon, 17 Aug 2026 15:21:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Calcio, i convocati dell’Italia per i Giochi del Mediterraneo. Giocatori in arrivo dalla Serie A e B - oasport.it",
       "source": "oasport.it",
       "published": "Mon, 17 Aug 2026 16:00:40 GMT"
@@ -57,6 +50,13 @@
       "title": "News | Coppa Italia Frecciarossa - Lega Serie A",
       "source": "Lega Serie A",
       "published": "Mon, 17 Aug 2026 21:25:10 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Coppa Italia, il calendario e i risultati dei trentaduesimi di finale - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Mon, 17 Aug 2026 07:20:12 GMT"
     },
     {
       "type": "news",
