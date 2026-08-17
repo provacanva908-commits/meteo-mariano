@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T10:59:33.645437+00:00",
+  "updated_at": "2026-08-17T11:35:03.154427+00:00",
   "local_date": "2026-08-17",
   "articles": [
     {
@@ -33,6 +33,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Dove vedere tutte le partite del Milan in Serie A, Europa League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
+      "source": "Goal.com",
+      "published": "Mon, 17 Aug 2026 11:23:53 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Lazio-Mantova 0-2: clamoroso all'Olimpico, Gattuso è già fuori dalla Coppa Italia - RomaToday",
       "source": "RomaToday",
       "published": "Sun, 16 Aug 2026 21:13:00 GMT"
@@ -53,13 +60,6 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Coppa Italia: prime emozioni e sorprese, la Lazio di Gattuso è già fuori - RaiNews",
-      "source": "RaiNews",
-      "published": "Mon, 17 Aug 2026 07:01:00 GMT"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
       "title": "Dalla prima vittoria Atp al primo trionfo con Djokovic: Sinner, 25 anni in 25 scatti - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
@@ -68,8 +68,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Quando il sorteggio degli US Open 2026? I possibili avversari di Sinner turno per turno con il ranking attuale. E se saltasse Alcaraz… - OA Sport",
-      "source": "OA Sport",
+      "title": "Quando il sorteggio degli US Open 2026? I possibili avversari di Sinner turno per turno con il ranking attuale. E se saltasse Alcaraz… - oasport.it",
+      "source": "oasport.it",
       "published": "Sun, 16 Aug 2026 15:47:03 GMT"
     },
     {
@@ -89,8 +89,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel London P1: Oggi quarti di finale - mrpadelpaddle.com",
-      "source": "mrpadelpaddle.com",
+      "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
     },
     {
