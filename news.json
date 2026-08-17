@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-17T16:49:51.071612+00:00",
+  "updated_at": "2026-08-17T17:19:17.773910+00:00",
   "local_date": "2026-08-17",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, oggi arriva Badiashile. Gabriel Jesus, segnali di cessione - corrieredellosport.it",
-      "source": "corrieredellosport.it",
+      "title": "Calciomercato Napoli, oggi arriva Badiashile. Gabriel Jesus, segnali di cessione - Corriere dello Sport",
+      "source": "Corriere dello Sport",
       "published": "Mon, 17 Aug 2026 06:37:00 GMT"
     },
     {
@@ -19,8 +19,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan: Mendes porta Diego Moreira in rossonero, trattativa lampo da 50 milioni - sportmediaset.mediaset.it",
-      "source": "sportmediaset.mediaset.it",
+      "title": "Calciomercato Milan: Mendes porta Diego Moreira in rossonero, trattativa lampo da 50 milioni - Sportmediaset",
+      "source": "Sportmediaset",
       "published": "Mon, 17 Aug 2026 13:41:00 GMT"
     },
     {
@@ -33,30 +33,30 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Dove vedere tutte le partite del Como in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - goal.com",
-      "source": "goal.com",
+      "title": "Dove vedere tutte le partite del Como in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
+      "source": "Goal.com",
       "published": "Mon, 17 Aug 2026 14:28:59 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A: Pessina operato al ginocchio sinistro per l’infortunio che l’ha messo ko prima della Coppa Italia - Il Cittadino di Monza e Brianza",
-      "source": "Il Cittadino di Monza e Brianza",
-      "published": "Mon, 17 Aug 2026 15:21:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - goal.com",
-      "source": "goal.com",
+      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
+      "source": "Goal.com",
       "published": "Mon, 17 Aug 2026 14:13:56 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Dove vedere tutte le partite dell'Inter in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - goal.com",
-      "source": "goal.com",
+      "title": "Dove vedere tutte le partite dell'Inter in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
+      "source": "Goal.com",
       "published": "Mon, 17 Aug 2026 13:23:29 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A: Pessina operato al ginocchio sinistro per l’infortunio che l’ha messo ko prima della Coppa Italia - ilcittadinomb.it",
+      "source": "ilcittadinomb.it",
+      "published": "Mon, 17 Aug 2026 15:21:00 GMT"
     },
     {
       "type": "news",
@@ -68,8 +68,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis: ranking Atp, Sinner sicuro n.1 fino al torneo di Pechino - sportmediaset.mediaset.it",
-      "source": "sportmediaset.mediaset.it",
+      "title": "Tennis: ranking Atp, Sinner sicuro n.1 fino al torneo di Pechino - Sportmediaset",
+      "source": "Sportmediaset",
       "published": "Fri, 14 Aug 2026 12:39:00 GMT"
     },
     {
@@ -96,13 +96,6 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 09 Aug 2026 20:11:24 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
       "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
       "source": "FITP",
       "published": "Thu, 02 Jul 2026 17:00:00 GMT"
@@ -113,6 +106,13 @@
       "title": "FIP Bronzo Mol: Boronad / Robert si è fermato alle porte della finale - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sun, 16 Aug 2026 11:15:07 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
     }
   ]
 }
