@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T21:40:07.379347+00:00",
+  "updated_at": "2026-08-18T21:59:28.980316+00:00",
   "local_date": "2026-08-18",
   "articles": [
     {
@@ -8,6 +8,13 @@
       "title": "Calciomercato Lazio, l'ora del 9. Tra sogno e realtà, due ex Inter per l'attacco di Gattuso - RomaToday",
       "source": "RomaToday",
       "published": "Tue, 18 Aug 2026 10:57:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Bologna, accordo per il rinnovo di Orsolini - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Tue, 18 Aug 2026 21:49:30 GMT"
     },
     {
       "type": "news",
@@ -22,13 +29,6 @@
       "title": "Genoa, accordo con il Brighton per il prestito di Evan Ferguson. Le news di calciomercato - Sky Sport",
       "source": "Sky Sport",
       "published": "Mon, 17 Aug 2026 19:37:08 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan, respinta l'offerta del Porto per Gimenez - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Tue, 18 Aug 2026 19:07:19 GMT"
     },
     {
       "type": "news",
@@ -82,8 +82,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "\"Mi rivedo in Sinner\", Djokovic 'incorona' Jannik verso Us Open - adnkronos.com",
-      "source": "adnkronos.com",
+      "title": "\"Mi rivedo in Sinner\", Djokovic 'incorona' Jannik verso Us Open - Adnkronos",
+      "source": "Adnkronos",
       "published": "Tue, 18 Aug 2026 09:24:00 GMT"
     },
     {
