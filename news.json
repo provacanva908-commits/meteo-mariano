@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T09:45:48.837508+00:00",
+  "updated_at": "2026-08-18T10:13:28.476955+00:00",
   "local_date": "2026-08-18",
   "articles": [
     {
@@ -26,9 +26,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, è fatta per Rodrigo Mora: Gasp ha il suo esterno sinistro: ecco come si è sbloccata la trattativa - RomaToday",
-      "source": "RomaToday",
+      "title": "Calciomercato Roma, è fatta per Rodrigo Mora: Gasp ha il suo esterno sinistro: ecco come si è sbloccata la trattativa - romatoday.it",
+      "source": "romatoday.it",
       "published": "Tue, 18 Aug 2026 05:17:07 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Le designazioni in Champions League, Europa League e Conference League - AIA FIGC",
+      "source": "AIA FIGC",
+      "published": "Tue, 18 Aug 2026 09:46:01 GMT"
     },
     {
       "type": "news",
@@ -47,16 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Ryanair contro la Lazio: il post sfottò a Gattuso dopo l'eliminazione dalla Coppa Italia - RomaToday",
-      "source": "RomaToday",
+      "title": "Ryanair contro la Lazio: il post sfottò a Gattuso dopo l'eliminazione dalla Coppa Italia - romatoday.it",
+      "source": "romatoday.it",
       "published": "Tue, 18 Aug 2026 07:31:32 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Lazio-Mantova 0-2: clamoroso all'Olimpico, Gattuso è già fuori dalla Coppa Italia - RomaToday",
-      "source": "RomaToday",
-      "published": "Sun, 16 Aug 2026 21:13:00 GMT"
     },
     {
       "type": "news",
@@ -68,8 +68,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Quando il sorteggio degli US Open 2026? I possibili avversari di Sinner turno per turno con il ranking attuale. E se saltasse Alcaraz… - oasport.it",
-      "source": "oasport.it",
+      "title": "Quando il sorteggio degli US Open 2026? I possibili avversari di Sinner turno per turno con il ranking attuale. E se saltasse Alcaraz… - OA Sport",
+      "source": "OA Sport",
       "published": "Sun, 16 Aug 2026 15:47:03 GMT"
     },
     {
@@ -82,9 +82,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Patrick Mouratoglou lancia l’allarme: “Sono preoccupato per Sinner e Alcaraz agli US Open” - oasport.it",
-      "source": "oasport.it",
-      "published": "Tue, 18 Aug 2026 06:19:50 GMT"
+      "title": "\"Mi rivedo in Sinner\", Djokovic 'incorona' Jannik verso Us Open - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Tue, 18 Aug 2026 09:24:00 GMT"
     },
     {
       "type": "news",
