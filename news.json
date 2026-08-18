@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T15:52:09.633094+00:00",
+  "updated_at": "2026-08-18T16:28:43.745165+00:00",
   "local_date": "2026-08-18",
   "articles": [
     {
@@ -40,6 +40,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Scatta la Serie A: compagnie aeree e squadre, ma a fare notizia è l’accordo tra Revolut e Como - The Flight Club",
+      "source": "The Flight Club",
+      "published": "Tue, 18 Aug 2026 11:20:17 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "FROSINONE – JUVENTUS, LA BIGLIETTERIA - Frosinone Calcio – Sito Ufficiale",
       "source": "Frosinone Calcio – Sito Ufficiale",
       "published": "Tue, 18 Aug 2026 09:37:33 GMT"
@@ -47,16 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calcio Lecco, UFFICIALE: Silvan Sidler è bluceleste, era al Winterthur - Lecco Channel News",
-      "source": "Lecco Channel News",
-      "published": "Tue, 18 Aug 2026 12:47:56 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A: sabato in campo alle 18,30 Inter-Monza - ANSA",
-      "source": "ANSA",
-      "published": "Tue, 18 Aug 2026 14:07:50 GMT"
+      "title": "Il Como vuole Samuele Ricci per la lista Champions: apertura totale del Milan! Cifre e dettagli dell'operazione - eurosport.it",
+      "source": "eurosport.it",
+      "published": "Tue, 18 Aug 2026 16:06:43 GMT"
     },
     {
       "type": "news",
