@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-18T01:34:32.042905+00:00",
+  "updated_at": "2026-08-18T02:40:47.870109+00:00",
   "local_date": "2026-08-18",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli, ufficiale un'altra cessione a titolo definitivo: il comunicato - NapoliToday",
+      "source": "NapoliToday",
+      "published": "Sat, 15 Aug 2026 21:00:00 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -22,13 +29,6 @@
       "title": "Calciomercato Pisa, stretta finale per Pittarello, si cerca la quadra per Correia, Touré trova l'accordo col Monza. Attesa per l'arrivo di Petagna - SestaPorta.News Pisa",
       "source": "SestaPorta.News Pisa",
       "published": "Mon, 17 Aug 2026 22:09:15 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan: Mendes porta Diego Moreira in rossonero, trattativa lampo da 50 milioni - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Mon, 17 Aug 2026 16:08:07 GMT"
     },
     {
       "type": "news",
@@ -54,9 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia, il calendario e i risultati dei trentaduesimi di finale - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Mon, 17 Aug 2026 07:20:12 GMT"
+      "title": "Akanji: “Io e Stones fratelli di Champions. Tifo Sinner, imparo l'italiano con l'Odissea. Basta treccine e il tatuaggio...” - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Mon, 17 Aug 2026 22:12:14 GMT"
     },
     {
       "type": "news",
