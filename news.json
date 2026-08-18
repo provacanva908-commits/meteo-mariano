@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T22:35:28.584971+00:00",
+  "updated_at": "2026-08-18T22:59:01.107647+00:00",
   "local_date": "2026-08-19",
   "articles": [
     {
@@ -8,13 +8,6 @@
       "title": "Calciomercato Lazio, l'ora del 9. Tra sogno e realtà, due ex Inter per l'attacco di Gattuso - RomaToday",
       "source": "RomaToday",
       "published": "Tue, 18 Aug 2026 10:57:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Bologna, accordo per il rinnovo di Orsolini - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Tue, 18 Aug 2026 21:49:30 GMT"
     },
     {
       "type": "news",
@@ -32,10 +25,24 @@
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Milan, respinta l'offerta del Porto per Gimenez - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Tue, 18 Aug 2026 19:07:19 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
       "title": "Sabato 22 agosto inizia il campionato di Serie A, con al via 5 squadre lombarde. Questo il programma del weekend: sabato Inter-Monza (18.30) e Udinese-Como (18.30); domenica Atalanta- Sassuolo (20.45) e Torino-Milan (20.45) Buon campionato a tutti!!! #l - Lombardia Notizie Online",
       "source": "Lombardia Notizie Online",
       "published": "Tue, 18 Aug 2026 19:24:40 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
+      "source": "Goal.com",
+      "published": "Tue, 18 Aug 2026 17:09:37 GMT"
     },
     {
       "type": "news",
@@ -50,13 +57,6 @@
       "title": "Coppa Italia, il Brindisi Fc è pronto a fare il proprio esordio ufficiale nella stagione 2026/2027 - BrindisiReport",
       "source": "BrindisiReport",
       "published": "Tue, 18 Aug 2026 15:49:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Il calendario e il tabellone della Coppa Italia 2026-2027 - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Tue, 18 Aug 2026 16:15:47 GMT"
     },
     {
       "type": "news",
