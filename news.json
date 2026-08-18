@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T12:17:14.001774+00:00",
+  "updated_at": "2026-08-18T13:14:02.477172+00:00",
   "local_date": "2026-08-18",
   "articles": [
     {
@@ -8,13 +8,6 @@
       "title": "Calciomercato Lazio, l'ora del 9. Tra sogno e realtà, due ex Inter per l'attacco di Gattuso - RomaToday",
       "source": "RomaToday",
       "published": "Tue, 18 Aug 2026 10:57:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, dopo Mora assalto a Fofana: base d’accordo da 35 milioni più bonus con il Lione - teleradiostereo.it",
-      "source": "teleradiostereo.it",
-      "published": "Tue, 18 Aug 2026 07:33:57 GMT"
     },
     {
       "type": "news",
@@ -32,10 +25,17 @@
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Roma, è fatta per Mora: le cifre dell'affare. Ora assalto a Luis Enrique, giallorossi pronti a riempire di milioni l'Inter - Il Riformista",
+      "source": "Il Riformista",
+      "published": "Tue, 18 Aug 2026 09:35:00 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
-      "title": "Le designazioni in Champions League, Europa League e Conference League - aia-figc.it",
-      "source": "aia-figc.it",
-      "published": "Tue, 18 Aug 2026 09:46:01 GMT"
+      "title": "Le designazioni in Champions League, Europa League e Conference League - AIA FIGC",
+      "source": "AIA FIGC",
+      "published": "Tue, 18 Aug 2026 09:46:23 GMT"
     },
     {
       "type": "news",
@@ -61,16 +61,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Dalla prima vittoria Atp al primo trionfo con Djokovic: Sinner, 25 anni in 25 scatti - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Dalla prima vittoria Atp al primo trionfo con Djokovic: Sinner, 25 anni in 25 scatti - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Sun, 16 Aug 2026 08:40:33 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Quando il sorteggio degli US Open 2026? I possibili avversari di Sinner turno per turno con il ranking attuale. E se saltasse Alcaraz… - OA Sport",
-      "source": "OA Sport",
-      "published": "Sun, 16 Aug 2026 15:47:03 GMT"
     },
     {
       "type": "news",
@@ -88,6 +81,13 @@
     },
     {
       "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner, oggi altra giornata al J Medical in vista degli Us Open. Il punto sulle sue condizioni - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 16 Aug 2026 13:16:51 GMT"
+    },
+    {
+      "type": "news",
       "category": "PADEL",
       "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
@@ -96,15 +96,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
-      "source": "FITP",
-      "published": "Thu, 02 Jul 2026 17:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Padel, giovedì il torneo Fip Silver - ilrestodelcarlino.it",
-      "source": "ilrestodelcarlino.it",
+      "title": "Padel, giovedì il torneo Fip Silver - Il Resto del Carlino",
+      "source": "Il Resto del Carlino",
       "published": "Sat, 15 Aug 2026 03:06:43 GMT"
     },
     {
@@ -113,6 +106,13 @@
       "title": "FIP Bronzo Mol: Boronad / Robert si è fermato alle porte della finale - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sun, 16 Aug 2026 11:15:07 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
     }
   ]
 }
