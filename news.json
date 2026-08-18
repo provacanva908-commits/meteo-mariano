@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-18T18:01:53.911531+00:00",
+  "updated_at": "2026-08-18T18:52:59.868665+00:00",
   "local_date": "2026-08-18",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, l'ora del 9. Tra sogno e realtà, due ex Inter per l'attacco di Gattuso - romatoday.it",
-      "source": "romatoday.it",
+      "title": "Calciomercato Lazio, l'ora del 9. Tra sogno e realtà, due ex Inter per l'attacco di Gattuso - RomaToday",
+      "source": "RomaToday",
       "published": "Tue, 18 Aug 2026 10:57:00 GMT"
     },
     {
@@ -33,20 +33,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Le designazioni in Champions League, Europa League e Conference League - aia-figc.it",
-      "source": "aia-figc.it",
-      "published": "Tue, 18 Aug 2026 09:46:23 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Scatta la Serie A: compagnie aeree e squadre, ma a fare notizia è l’accordo tra Revolut e Como - The Flight Club",
-      "source": "The Flight Club",
-      "published": "Tue, 18 Aug 2026 11:20:17 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "FROSINONE – JUVENTUS, LA BIGLIETTERIA - Frosinone Calcio – Sito Ufficiale",
       "source": "Frosinone Calcio – Sito Ufficiale",
       "published": "Tue, 18 Aug 2026 09:37:33 GMT"
@@ -57,6 +43,20 @@
       "title": "Il Como vuole Samuele Ricci per la lista Champions: apertura totale del Milan! Cifre e dettagli dell'operazione - eurosport.it",
       "source": "eurosport.it",
       "published": "Tue, 18 Aug 2026 16:06:43 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Coppa Italia, il Brindisi Fc è pronto a fare il proprio esordio ufficiale nella stagione 2026/2027 - BrindisiReport",
+      "source": "BrindisiReport",
+      "published": "Tue, 18 Aug 2026 15:49:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "News | Coppa Italia Frecciarossa - Lega Serie A",
+      "source": "Lega Serie A",
+      "published": "Tue, 18 Aug 2026 14:51:29 GMT"
     },
     {
       "type": "news",
