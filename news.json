@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-08-18T11:47:39.218910+00:00",
+  "updated_at": "2026-08-18T12:17:14.001774+00:00",
   "local_date": "2026-08-18",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, l'ora del 9. Tra sogno e realtà, due ex Inter per l'attacco di Gattuso - romatoday.it",
-      "source": "romatoday.it",
+      "title": "Calciomercato Lazio, l'ora del 9. Tra sogno e realtà, due ex Inter per l'attacco di Gattuso - RomaToday",
+      "source": "RomaToday",
       "published": "Tue, 18 Aug 2026 10:57:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, dopo Mora assalto a Fofana: base d’accordo da 35 milioni più bonus con il Lione - TeleRadioStereo",
-      "source": "TeleRadioStereo",
+      "title": "Calciomercato Roma, dopo Mora assalto a Fofana: base d’accordo da 35 milioni più bonus con il Lione - teleradiostereo.it",
+      "source": "teleradiostereo.it",
       "published": "Tue, 18 Aug 2026 07:33:57 GMT"
     },
     {
@@ -33,9 +33,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Le designazioni in Champions League, Europa League e Conference League - AIA FIGC",
-      "source": "AIA FIGC",
+      "title": "Le designazioni in Champions League, Europa League e Conference League - aia-figc.it",
+      "source": "aia-figc.it",
       "published": "Tue, 18 Aug 2026 09:46:01 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Scatta la Serie A: compagnie aeree e squadre, ma a fare notizia è l’accordo tra Revolut e Como - The Flight Club",
+      "source": "The Flight Club",
+      "published": "Tue, 18 Aug 2026 11:20:17 GMT"
     },
     {
       "type": "news",
@@ -53,16 +60,9 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Ryanair contro la Lazio: il post sfottò a Gattuso dopo l'eliminazione dalla Coppa Italia - romatoday.it",
-      "source": "romatoday.it",
-      "published": "Tue, 18 Aug 2026 07:31:32 GMT"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
-      "title": "Dalla prima vittoria Atp al primo trionfo con Djokovic: Sinner, 25 anni in 25 scatti - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Dalla prima vittoria Atp al primo trionfo con Djokovic: Sinner, 25 anni in 25 scatti - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Sun, 16 Aug 2026 08:40:33 GMT"
     },
     {
@@ -75,16 +75,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "\"Mi rivedo in Sinner\", Djokovic 'incorona' Jannik verso Us Open - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Tue, 18 Aug 2026 09:24:00 GMT"
+      "title": "Patrick Mouratoglou lancia l’allarme: “Sono preoccupato per Sinner e Alcaraz agli US Open” - OA Sport",
+      "source": "OA Sport",
+      "published": "Tue, 18 Aug 2026 06:19:50 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Patrick Mouratoglou lancia l’allarme: “Sono preoccupato per Sinner e Alcaraz agli US Open” - OA Sport",
-      "source": "OA Sport",
-      "published": "Tue, 18 Aug 2026 06:19:50 GMT"
+      "title": "\"Mi rivedo in Sinner\", Djokovic 'incorona' Jannik verso Us Open - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Tue, 18 Aug 2026 09:24:00 GMT"
     },
     {
       "type": "news",
@@ -103,8 +103,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel, giovedì il torneo Fip Silver - Il Resto del Carlino",
-      "source": "Il Resto del Carlino",
+      "title": "Padel, giovedì il torneo Fip Silver - ilrestodelcarlino.it",
+      "source": "ilrestodelcarlino.it",
       "published": "Sat, 15 Aug 2026 03:06:43 GMT"
     },
     {
