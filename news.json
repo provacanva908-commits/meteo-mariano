@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T07:48:52.480183+00:00",
+  "updated_at": "2026-08-18T08:22:52.982178+00:00",
   "local_date": "2026-08-18",
   "articles": [
     {
@@ -8,6 +8,13 @@
       "title": "Calciomercato Napoli, ufficiale un'altra cessione a titolo definitivo: il comunicato - NapoliToday",
       "source": "NapoliToday",
       "published": "Sat, 15 Aug 2026 21:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Roma, dopo Mora assalto a Fofana: base d’accordo da 35 milioni più bonus con il Lione - TeleRadioStereo",
+      "source": "TeleRadioStereo",
+      "published": "Tue, 18 Aug 2026 07:33:57 GMT"
     },
     {
       "type": "news",
@@ -25,13 +32,6 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, dopo Mora assalto a Fofana: base d’accordo da 35 milioni più bonus con il Lione - TeleRadioStereo",
-      "source": "TeleRadioStereo",
-      "published": "Tue, 18 Aug 2026 07:33:57 GMT"
-    },
-    {
-      "type": "news",
       "category": "CALCIO",
       "title": "Diana Bianchedi: «Io capo delegazione della Nazionale? Nessun conflitto di interessi, faremo squadra e l'Italia rinascerà» - Corriere della Sera",
       "source": "Corriere della Sera",
@@ -40,8 +40,8 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Lazio-Mantova 0-2: clamoroso all'Olimpico, Gattuso è già fuori dalla Coppa Italia - RomaToday",
-      "source": "RomaToday",
+      "title": "Lazio-Mantova 0-2: clamoroso all'Olimpico, Gattuso è già fuori dalla Coppa Italia - romatoday.it",
+      "source": "romatoday.it",
       "published": "Sun, 16 Aug 2026 21:13:00 GMT"
     },
     {
