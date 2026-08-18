@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T03:29:01.646783+00:00",
+  "updated_at": "2026-08-18T04:17:40.560741+00:00",
   "local_date": "2026-08-18",
   "articles": [
     {
@@ -40,13 +40,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "News | Coppa Italia Frecciarossa - Lega Serie A",
-      "source": "Lega Serie A",
-      "published": "Mon, 17 Aug 2026 21:25:10 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Coppa Italia, le 4 partite di oggi e dove vederle in streaming e in tv - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Mon, 17 Aug 2026 13:43:38 GMT"
@@ -57,6 +50,13 @@
       "title": "Akanji: “Io e Stones fratelli di Champions. Tifo Sinner, imparo l'italiano con l'Odissea. Basta treccine e il tatuaggio...” - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Mon, 17 Aug 2026 22:12:14 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Confronto squadra-Gattuso dopo il flop Lazio in Coppa Italia. Mercato fermo, stagione già in salita - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Mon, 17 Aug 2026 16:02:18 GMT"
     },
     {
       "type": "news",
@@ -75,8 +75,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis: ranking Atp, Sinner sicuro n.1 fino al torneo di Pechino - Sportmediaset",
-      "source": "Sportmediaset",
+      "title": "Tennis: ranking Atp, Sinner sicuro n.1 fino al torneo di Pechino - sportmediaset.mediaset.it",
+      "source": "sportmediaset.mediaset.it",
       "published": "Fri, 14 Aug 2026 12:39:00 GMT"
     },
     {
@@ -89,8 +89,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel London P1: Oggi quarti di finale - mrpadelpaddle.com",
-      "source": "mrpadelpaddle.com",
+      "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
     },
     {
