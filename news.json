@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T02:40:47.870109+00:00",
+  "updated_at": "2026-08-18T03:29:01.646783+00:00",
   "local_date": "2026-08-18",
   "articles": [
     {
@@ -89,8 +89,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
+      "title": "Premier Padel London P1: Oggi quarti di finale - mrpadelpaddle.com",
+      "source": "mrpadelpaddle.com",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
     },
     {
@@ -110,8 +110,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel, giovedì il torneo Fip Silver - ilrestodelcarlino.it",
-      "source": "ilrestodelcarlino.it",
+      "title": "Padel, giovedì il torneo Fip Silver - Il Resto del Carlino",
+      "source": "Il Resto del Carlino",
       "published": "Sat, 15 Aug 2026 03:06:43 GMT"
     }
   ]
