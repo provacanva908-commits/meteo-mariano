@@ -1,13 +1,20 @@
 {
-  "updated_at": "2026-08-19T11:01:56.396570+00:00",
+  "updated_at": "2026-08-19T11:35:21.009878+00:00",
   "local_date": "2026-08-19",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale l'acquisto di Favasuli: primo rinforzo per Allegri - ilmattino.it",
-      "source": "ilmattino.it",
+      "title": "Calciomercato Napoli, ufficiale l'acquisto di Favasuli: primo rinforzo per Allegri - Il Mattino",
+      "source": "Il Mattino",
       "published": "Wed, 19 Aug 2026 07:49:54 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Ufficiale l'acquisto di Rodrigo Mora dal Porto. Tutte le news di calciomercato - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Wed, 19 Aug 2026 11:26:00 GMT"
     },
     {
       "type": "news",
@@ -22,13 +29,6 @@
       "title": "Calciomercato Milan, respinta l'offerta del Porto per Gimenez - Sky Sport",
       "source": "Sky Sport",
       "published": "Tue, 18 Aug 2026 19:07:19 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Napoli, ufficiale l'acquisto di Favasuli: il comunicato e il saluto di De Laurentiis - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Wed, 19 Aug 2026 08:07:00 GMT"
     },
     {
       "type": "news",
@@ -96,13 +96,6 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Bronzo Mol: Boronad / Robert si è fermato alle porte della finale - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sun, 16 Aug 2026 11:15:07 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
       "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 02 Aug 2026 07:00:00 GMT"
@@ -110,9 +103,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Bronze Mol – Quarti di finale in Francia in tasca, Vives e Guy de Chamisso puntano alla sorpresa - padel-magazine.it",
+      "title": "FIP Bronzo Mol: Boronad / Robert si è fermato alle porte della finale - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Sat, 15 Aug 2026 08:58:21 GMT"
+      "published": "Sun, 16 Aug 2026 11:15:07 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel Finale: anche se eliminati, potreste essere costretti a rimanere… per giocare un'esibizione - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Fri, 14 Aug 2026 07:09:00 GMT"
     }
   ]
 }
