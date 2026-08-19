@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-19T17:55:47.179538+00:00",
+  "updated_at": "2026-08-19T18:45:38.693619+00:00",
   "local_date": "2026-08-19",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Lazio, l'ora del 9. Tra sogno e realtà, due ex Inter per l'attacco di Gattuso - RomaToday",
+      "source": "RomaToday",
+      "published": "Tue, 18 Aug 2026 10:57:00 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -12,30 +19,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, l'ora del 9. Tra sogno e realtà, due ex Inter per l'attacco di Gattuso - romatoday.it",
-      "source": "romatoday.it",
-      "published": "Tue, 18 Aug 2026 10:57:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio: Lotito accontenta Gattuso. Per la difesa c'è Sutalo - romatoday.it",
-      "source": "romatoday.it",
+      "title": "Calciomercato Lazio: Lotito accontenta Gattuso. Per la difesa c'è Sutalo - RomaToday",
+      "source": "RomaToday",
       "published": "Wed, 19 Aug 2026 09:58:35 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Roma, ufficiale l'acquisto di Rodrigo Mora: indosserà la maglia numero 86 - Sportmediaset",
+      "title": "City, ufficiale cessione Reijnders all'Al-Qadisiyah. Sorride anche il Milan - Sportmediaset",
       "source": "Sportmediaset",
-      "published": "Wed, 19 Aug 2026 09:50:00 GMT"
+      "published": "Wed, 19 Aug 2026 16:02:12 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - goal.com",
-      "source": "goal.com",
-      "published": "Wed, 19 Aug 2026 13:26:21 GMT"
+      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
+      "source": "Goal.com",
+      "published": "Wed, 19 Aug 2026 17:35:32 GMT"
     },
     {
       "type": "news",
@@ -47,16 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A: prime designazioni arbitri, Marinelli per Monza-Inter - ANSA",
-      "source": "ANSA",
-      "published": "Wed, 19 Aug 2026 16:01:00 GMT"
+      "title": "Serie A: prime designazioni degli arbitri, Marinelli per Monza-Inter - ansa.it",
+      "source": "ansa.it",
+      "published": "Wed, 19 Aug 2026 15:39:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Gli arbitri della prima giornata: per Torino-Milan c'è Zufferli, a Marinelli va Inter-Monza - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Wed, 19 Aug 2026 11:53:20 GMT"
+      "title": "Serie A: prime designazioni arbitri, Marinelli per Monza-Inter - ansa.it",
+      "source": "ansa.it",
+      "published": "Wed, 19 Aug 2026 16:01:00 GMT"
     },
     {
       "type": "news",
@@ -68,37 +68,37 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Sinner, Us Open sì o no? Il dilemma di Jannik: rischiare oggi o proteggere il futuro - Il Mattino",
+      "source": "Il Mattino",
+      "published": "Wed, 19 Aug 2026 15:56:59 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Flavio Cobolli verso vette inesplorate nel ranking ATP: due posizioni virtuali guadagnate e anche Djokovic nel mirino! - OA Sport",
+      "source": "OA Sport",
+      "published": "Wed, 19 Aug 2026 18:27:30 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Sinner, oggi altra giornata al J Medical in vista degli Us Open. Il punto sulle sue condizioni - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 16 Aug 2026 13:16:51 GMT"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Jannik Sinner allo US Open 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis ATP - olympics.com",
-      "source": "olympics.com",
-      "published": "Fri, 14 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner assente a Cincinnati come cambia il ranking Atp. L’Italia sorride: 4 azzurri nella top 20 | La nuova classifica - ilfattoquotidiano.it",
-      "source": "ilfattoquotidiano.it",
-      "published": "Fri, 14 Aug 2026 12:49:25 GMT"
-    },
-    {
-      "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
+      "title": "Premier Padel London P1: Oggi quarti di finale - mrpadelpaddle.com",
+      "source": "mrpadelpaddle.com",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
+      "title": "Premier Padel Finale: anche se eliminati, potreste essere costretti a rimanere… per giocare un'esibizione - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Fri, 14 Aug 2026 07:09:00 GMT"
     },
     {
       "type": "news",
@@ -110,9 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel, giovedì il torneo Fip Silver - Il Resto del Carlino",
-      "source": "Il Resto del Carlino",
-      "published": "Sat, 15 Aug 2026 03:06:43 GMT"
+      "title": "FIP Bronze Mol – Quarti di finale in Francia in tasca, Vives e Guy de Chamisso puntano alla sorpresa - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 15 Aug 2026 08:58:21 GMT"
     }
   ]
 }
