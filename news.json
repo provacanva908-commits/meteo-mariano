@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T07:55:54.925851+00:00",
+  "updated_at": "2026-08-19T08:48:15.668070+00:00",
   "local_date": "2026-08-19",
   "articles": [
     {
@@ -19,9 +19,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Bologna, accordo per il rinnovo di Orsolini - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Tue, 18 Aug 2026 21:49:30 GMT"
+      "title": "Calciomercato Napoli, oggi arriva Badiashile. Gabriel Jesus, segnali di cessione - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Mon, 17 Aug 2026 06:37:00 GMT"
     },
     {
       "type": "news",
@@ -40,6 +40,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Inter – Monza, Serie A: un debutto impegnativo per i brianzoli - Planetwin365 news",
+      "source": "Planetwin365 news",
+      "published": "Wed, 19 Aug 2026 06:48:05 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Dove vedere tutte le partite della tua squadra in Serie A, coppe europee e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
       "source": "Goal.com",
       "published": "Wed, 19 Aug 2026 05:35:11 GMT"
@@ -50,13 +57,6 @@
       "title": "Le partite di oggi: i playoff di Champions e l'Atletico di Simeone nella Liga - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Wed, 19 Aug 2026 05:16:31 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Il calendario e il tabellone della Coppa Italia 2026-2027 - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Tue, 18 Aug 2026 16:15:47 GMT"
     },
     {
       "type": "news",
@@ -77,7 +77,7 @@
       "category": "TENNIS",
       "title": "Jannik Sinner allo US Open 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis ATP - olympics.com",
       "source": "olympics.com",
-      "published": "Fri, 14 Aug 2026 07:18:37 GMT"
+      "published": "Fri, 14 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -96,16 +96,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
+      "title": "FIP Bronzo Mol: Boronad / Robert si è fermato alle porte della finale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sun, 16 Aug 2026 11:15:07 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Bronzo Mol: Boronad / Robert si è fermato alle porte della finale - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sun, 16 Aug 2026 11:15:07 GMT"
+      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
