@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-19T22:42:50.725801+00:00",
+  "updated_at": "2026-08-19T23:07:17.463213+00:00",
   "local_date": "2026-08-20",
   "articles": [
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, l'ora del 9. Tra sogno e realtà, due ex Inter per l'attacco di Gattuso - RomaToday",
-      "source": "RomaToday",
-      "published": "Tue, 18 Aug 2026 10:57:00 GMT"
-    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -32,6 +25,27 @@
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Roma, sprint per Luis Henrique: cosa manca per chiudere con l'Inter - RomaToday",
+      "source": "RomaToday",
+      "published": "Mon, 17 Aug 2026 10:13:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
+      "source": "Goal.com",
+      "published": "Wed, 19 Aug 2026 19:28:48 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Como, caccia agli italiani per la Champions: Ricci e Kean i nomi per l'Europa - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Wed, 19 Aug 2026 13:32:29 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
       "title": "Serie A: prime designazioni arbitri, Marinelli per Monza-Inter - ANSA",
       "source": "ANSA",
@@ -46,17 +60,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Comunicato Ufficiale n. 12 del 19 agosto 2026: Coppa Italia Dilettanti 2026/2027 Fase Regionale - Presentazione Calendari Campionati di Eccellenza e Promozione 2026/2027 - LND Campania",
-      "source": "LND Campania",
-      "published": "Wed, 19 Aug 2026 15:13:39 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Como, caccia agli italiani per la Champions: Ricci e Kean i nomi per l'Europa - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Wed, 19 Aug 2026 13:32:29 GMT"
+      "category": "TENNIS",
+      "title": "Infinitamente Sinner: la vittoria su Djokovic a Wimbledon - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Wed, 19 Aug 2026 22:50:20 GMT"
     },
     {
       "type": "news",
@@ -81,17 +88,17 @@
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Flavio Cobolli verso vette inesplorate nel ranking ATP: due posizioni virtuali guadagnate e anche Djokovic nel mirino! - OA Sport",
-      "source": "OA Sport",
-      "published": "Wed, 19 Aug 2026 18:27:30 GMT"
-    },
-    {
-      "type": "news",
       "category": "PADEL",
       "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -106,13 +113,6 @@
       "title": "Padel, giovedì il torneo Fip Silver - Il Resto del Carlino",
       "source": "Il Resto del Carlino",
       "published": "Sat, 15 Aug 2026 03:06:43 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
     }
   ]
 }
