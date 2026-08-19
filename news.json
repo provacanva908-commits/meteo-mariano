@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T03:32:05.013432+00:00",
+  "updated_at": "2026-08-19T04:19:27.197681+00:00",
   "local_date": "2026-08-19",
   "articles": [
     {
@@ -12,6 +12,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli, oggi arriva Badiashile. Gabriel Jesus, segnali di cessione - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Mon, 17 Aug 2026 06:37:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Genoa, accordo con il Brighton per il prestito di Evan Ferguson. Le news di calciomercato - Sky Sport",
       "source": "Sky Sport",
       "published": "Mon, 17 Aug 2026 19:37:08 GMT"
@@ -19,16 +26,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Bologna, accordo per il rinnovo di Orsolini - Sky Sport",
+      "title": "Calciomercato Milan, respinta l'offerta del Porto per Gimenez - Sky Sport",
       "source": "Sky Sport",
-      "published": "Tue, 18 Aug 2026 21:49:30 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, oggi arriva Badiashile. Gabriel Jesus, segnali di cessione - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Mon, 17 Aug 2026 06:37:00 GMT"
+      "published": "Tue, 18 Aug 2026 19:07:19 GMT"
     },
     {
       "type": "news",
@@ -40,15 +40,15 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - goal.com",
-      "source": "goal.com",
+      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
+      "source": "Goal.com",
       "published": "Wed, 19 Aug 2026 00:39:37 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Dove vedere tutte le partite del Milan in Serie A, Europa League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - goal.com",
-      "source": "goal.com",
+      "title": "Dove vedere tutte le partite del Milan in Serie A, Europa League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
+      "source": "Goal.com",
       "published": "Tue, 18 Aug 2026 23:09:31 GMT"
     },
     {
@@ -89,8 +89,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel London P1: Oggi quarti di finale - mrpadelpaddle.com",
-      "source": "mrpadelpaddle.com",
+      "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
     },
     {
