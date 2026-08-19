@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T05:40:42.641303+00:00",
+  "updated_at": "2026-08-19T06:16:30.832374+00:00",
   "local_date": "2026-08-19",
   "articles": [
     {
@@ -19,29 +19,29 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Calciomercato Bologna, accordo per il rinnovo di Orsolini - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Tue, 18 Aug 2026 21:49:30 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Genoa, accordo con il Brighton per il prestito di Evan Ferguson. Le news di calciomercato - Sky Sport",
       "source": "Sky Sport",
       "published": "Mon, 17 Aug 2026 19:37:08 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan, respinta l'offerta del Porto per Gimenez - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Tue, 18 Aug 2026 19:07:19 GMT"
-    },
-    {
-      "type": "news",
       "category": "CALCIO",
-      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
-      "source": "Goal.com",
+      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - goal.com",
+      "source": "goal.com",
       "published": "Wed, 19 Aug 2026 00:39:37 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Dove vedere tutte le partite del Milan in Serie A, Europa League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
-      "source": "Goal.com",
+      "title": "Dove vedere tutte le partite del Milan in Serie A, Europa League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - goal.com",
+      "source": "goal.com",
       "published": "Tue, 18 Aug 2026 23:09:31 GMT"
     },
     {
