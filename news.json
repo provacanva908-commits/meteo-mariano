@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T11:35:21.009878+00:00",
+  "updated_at": "2026-08-19T11:59:14.407832+00:00",
   "local_date": "2026-08-19",
   "articles": [
     {
@@ -47,16 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Dove vedere tutte le partite della tua squadra in Serie A, coppe europee e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
-      "source": "Goal.com",
-      "published": "Wed, 19 Aug 2026 08:38:58 GMT"
+      "title": "Serie A: la Juve resta il club più tifato ma è in ribasso. Crescono Inter e Milan - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Wed, 19 Aug 2026 11:51:05 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Il calcio in TV oggi, mercoledì 19 agosto: in campo la Champions League con i preliminari - Libero",
-      "source": "Libero",
-      "published": "Wed, 19 Aug 2026 06:33:00 GMT"
+      "title": "Gli arbitri della prima giornata: per Torino-Milan c'è Zufferli, a Marinelli va Inter-Monza - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Wed, 19 Aug 2026 11:51:22 GMT"
     },
     {
       "type": "news",
@@ -96,13 +96,6 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
       "title": "FIP Bronzo Mol: Boronad / Robert si è fermato alle porte della finale - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sun, 16 Aug 2026 11:15:07 GMT"
@@ -110,9 +103,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Finale: anche se eliminati, potreste essere costretti a rimanere… per giocare un'esibizione - padel-magazine.it",
+      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Bronze Mol – Quarti di finale in Francia in tasca, Vives e Guy de Chamisso puntano alla sorpresa - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Fri, 14 Aug 2026 07:09:00 GMT"
+      "published": "Sat, 15 Aug 2026 08:58:21 GMT"
     }
   ]
 }
