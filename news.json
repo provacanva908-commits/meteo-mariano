@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T04:19:27.197681+00:00",
+  "updated_at": "2026-08-19T05:40:42.641303+00:00",
   "local_date": "2026-08-19",
   "articles": [
     {
@@ -33,13 +33,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Sabato 22 agosto inizia il campionato di Serie A, con al via 5 squadre lombarde. Questo il programma del weekend: sabato Inter-Monza (18.30) e Udinese-Como (18.30); domenica Atalanta- Sassuolo (20.45) e Torino-Milan (20.45) Buon campionato a tutti!!! #l - Lombardia Notizie Online",
-      "source": "Lombardia Notizie Online",
-      "published": "Tue, 18 Aug 2026 19:24:40 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
       "source": "Goal.com",
       "published": "Wed, 19 Aug 2026 00:39:37 GMT"
@@ -57,6 +50,13 @@
       "title": "Il Como vuole Samuele Ricci per la lista Champions: apertura totale del Milan! Cifre e dettagli dell'operazione - eurosport.it",
       "source": "eurosport.it",
       "published": "Tue, 18 Aug 2026 16:06:43 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Prossimo turno Serie A Enilive 2026/27: partite, orari, dove vederle e calendario - DAZN",
+      "source": "DAZN",
+      "published": "Tue, 18 Aug 2026 15:16:28 GMT"
     },
     {
       "type": "news",
@@ -82,9 +82,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Patrick Mouratoglou lancia l’allarme: “Sono preoccupato per Sinner e Alcaraz agli US Open” - OA Sport",
-      "source": "OA Sport",
-      "published": "Tue, 18 Aug 2026 06:19:50 GMT"
+      "title": "Sinner assente a Cincinnati come cambia il ranking Atp. L’Italia sorride: 4 azzurri nella top 20 | La nuova classifica - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Fri, 14 Aug 2026 12:49:25 GMT"
     },
     {
       "type": "news",
@@ -110,9 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel, giovedì il torneo Fip Silver - Il Resto del Carlino",
-      "source": "Il Resto del Carlino",
-      "published": "Sat, 15 Aug 2026 03:06:43 GMT"
+      "title": "FIP Bronze Mol – Quarti di finale in Francia in tasca, Vives e Guy de Chamisso puntano alla sorpresa - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 15 Aug 2026 08:58:21 GMT"
     }
   ]
 }
