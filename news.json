@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T15:49:45.890391+00:00",
+  "updated_at": "2026-08-19T16:21:21.409454+00:00",
   "local_date": "2026-08-19",
   "articles": [
     {
@@ -19,16 +19,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, l'ora del 9. Tra sogno e realtà, due ex Inter per l'attacco di Gattuso - RomaToday",
+      "title": "Calciomercato Lazio: Lotito accontenta Gattuso. Per la difesa c'è Sutalo - RomaToday",
       "source": "RomaToday",
-      "published": "Tue, 18 Aug 2026 10:57:00 GMT"
+      "published": "Wed, 19 Aug 2026 09:58:35 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio: Lotito accontenta Gattuso. Per la difesa c'è Sutalo - RomaToday",
-      "source": "RomaToday",
-      "published": "Wed, 19 Aug 2026 09:58:35 GMT"
+      "title": "Roma, ufficiale l'acquisto di Rodrigo Mora: indosserà la maglia numero 86 - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Wed, 19 Aug 2026 09:50:00 GMT"
     },
     {
       "type": "news",
@@ -40,13 +40,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, il pagellone verso il debutto: Inter ancora davanti a tutti ma Juve e Milan stanno arrivando - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Wed, 19 Aug 2026 11:39:32 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Como, caccia agli italiani per la Champions: Ricci e Kean i nomi per l'Europa - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Wed, 19 Aug 2026 13:32:29 GMT"
@@ -54,9 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Gli arbitri della prima giornata: per Torino-Milan c'è Zufferli, a Marinelli va Inter-Monza - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Wed, 19 Aug 2026 11:53:20 GMT"
+      "title": "Serie A: prime designazioni arbitri, Marinelli per Monza-Inter - ANSA",
+      "source": "ANSA",
+      "published": "Wed, 19 Aug 2026 16:01:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A: prime designazioni degli arbitri, Marinelli per Monza-Inter - ANSA",
+      "source": "ANSA",
+      "published": "Wed, 19 Aug 2026 15:39:00 GMT"
     },
     {
       "type": "news",
@@ -82,8 +82,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner assente a Cincinnati come cambia il ranking Atp. L’Italia sorride: 4 azzurri nella top 20 | La nuova classifica - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
+      "title": "Sinner assente a Cincinnati come cambia il ranking Atp. L’Italia sorride: 4 azzurri nella top 20 | La nuova classifica - ilfattoquotidiano.it",
+      "source": "ilfattoquotidiano.it",
       "published": "Fri, 14 Aug 2026 12:49:25 GMT"
     },
     {
@@ -92,13 +92,6 @@
       "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -113,6 +106,13 @@
       "title": "Padel, giovedì il torneo Fip Silver - Il Resto del Carlino",
       "source": "Il Resto del Carlino",
       "published": "Sat, 15 Aug 2026 03:06:43 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
     }
   ]
 }
