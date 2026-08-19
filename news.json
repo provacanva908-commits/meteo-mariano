@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-19T17:32:08.598994+00:00",
+  "updated_at": "2026-08-19T17:55:47.179538+00:00",
   "local_date": "2026-08-19",
   "articles": [
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Ufficiale l'acquisto di Rodrigo Mora dal Porto. Tutte le news di calciomercato - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Wed, 19 Aug 2026 11:26:00 GMT"
-    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -19,22 +12,29 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, l'ora del 9. Tra sogno e realtà, due ex Inter per l'attacco di Gattuso - RomaToday",
-      "source": "RomaToday",
+      "title": "Calciomercato Lazio, l'ora del 9. Tra sogno e realtà, due ex Inter per l'attacco di Gattuso - romatoday.it",
+      "source": "romatoday.it",
       "published": "Tue, 18 Aug 2026 10:57:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio: Lotito accontenta Gattuso. Per la difesa c'è Sutalo - RomaToday",
-      "source": "RomaToday",
+      "title": "Calciomercato Lazio: Lotito accontenta Gattuso. Per la difesa c'è Sutalo - romatoday.it",
+      "source": "romatoday.it",
       "published": "Wed, 19 Aug 2026 09:58:35 GMT"
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Roma, ufficiale l'acquisto di Rodrigo Mora: indosserà la maglia numero 86 - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Wed, 19 Aug 2026 09:50:00 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
-      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
-      "source": "Goal.com",
+      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - goal.com",
+      "source": "goal.com",
       "published": "Wed, 19 Aug 2026 13:26:21 GMT"
     },
     {
@@ -82,8 +82,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner assente a Cincinnati come cambia il ranking Atp. L’Italia sorride: 4 azzurri nella top 20 | La nuova classifica - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
+      "title": "Sinner assente a Cincinnati come cambia il ranking Atp. L’Italia sorride: 4 azzurri nella top 20 | La nuova classifica - ilfattoquotidiano.it",
+      "source": "ilfattoquotidiano.it",
       "published": "Fri, 14 Aug 2026 12:49:25 GMT"
     },
     {
@@ -92,6 +92,13 @@
       "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -106,13 +113,6 @@
       "title": "Padel, giovedì il torneo Fip Silver - Il Resto del Carlino",
       "source": "Il Resto del Carlino",
       "published": "Sat, 15 Aug 2026 03:06:43 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
     }
   ]
 }
