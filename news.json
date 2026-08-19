@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T19:13:54.471452+00:00",
+  "updated_at": "2026-08-19T19:44:03.086209+00:00",
   "local_date": "2026-08-19",
   "articles": [
     {
@@ -12,13 +12,6 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Mercato Cesena, ufficiale la cessione di Castagnetti alla Reggiana - Corriere Romagna",
-      "source": "Corriere Romagna",
-      "published": "Wed, 19 Aug 2026 13:34:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "Calciomercato Lazio: Lotito accontenta Gattuso. Per la difesa c'è Sutalo - RomaToday",
       "source": "RomaToday",
       "published": "Wed, 19 Aug 2026 09:58:35 GMT"
@@ -26,16 +19,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Roma, ufficiale l'acquisto di Rodrigo Mora dal Porto - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Wed, 19 Aug 2026 11:26:00 GMT"
+      "title": "Lazio, accordo con Bamba Dieng: l'attaccante è atteso a Roma per le visite - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Wed, 19 Aug 2026 14:58:32 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A: prime designazioni degli arbitri, Marinelli per Monza-Inter - ANSA",
-      "source": "ANSA",
-      "published": "Wed, 19 Aug 2026 15:39:00 GMT"
+      "category": "CALCIOMERCATO",
+      "title": "City, ufficiale cessione Reijnders all'Al-Qadisiyah. Sorride anche il Milan - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Wed, 19 Aug 2026 16:02:12 GMT"
     },
     {
       "type": "news",
@@ -43,6 +36,13 @@
       "title": "Serie A: prime designazioni arbitri, Marinelli per Monza-Inter - ANSA",
       "source": "ANSA",
       "published": "Wed, 19 Aug 2026 16:01:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A: prime designazioni degli arbitri, Marinelli per Monza-Inter - ANSA",
+      "source": "ANSA",
+      "published": "Wed, 19 Aug 2026 15:39:00 GMT"
     },
     {
       "type": "news",
@@ -89,16 +89,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
+      "title": "Premier Padel London P1: Oggi quarti di finale - mrpadelpaddle.com",
+      "source": "mrpadelpaddle.com",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -110,9 +103,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel, giovedì il torneo Fip Silver - Il Resto del Carlino",
-      "source": "Il Resto del Carlino",
+      "title": "Padel, giovedì il torneo Fip Silver - ilrestodelcarlino.it",
+      "source": "ilrestodelcarlino.it",
       "published": "Sat, 15 Aug 2026 03:06:43 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
     }
   ]
 }
