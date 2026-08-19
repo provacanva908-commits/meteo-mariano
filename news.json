@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T08:48:15.668070+00:00",
+  "updated_at": "2026-08-19T09:21:06.626228+00:00",
   "local_date": "2026-08-19",
   "articles": [
     {
@@ -19,16 +19,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, oggi arriva Badiashile. Gabriel Jesus, segnali di cessione - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Mon, 17 Aug 2026 06:37:00 GMT"
+      "title": "Genoa, accordo con il Brighton per il prestito di Evan Ferguson. Le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Mon, 17 Aug 2026 19:37:08 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Genoa, accordo con il Brighton per il prestito di Evan Ferguson. Le news di calciomercato - Sky Sport",
+      "title": "Calciomercato Milan, respinta l'offerta del Porto per Gimenez - Sky Sport",
       "source": "Sky Sport",
-      "published": "Mon, 17 Aug 2026 19:37:08 GMT"
+      "published": "Wed, 19 Aug 2026 07:09:49 GMT"
     },
     {
       "type": "news",
@@ -54,9 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Le partite di oggi: i playoff di Champions e l'Atletico di Simeone nella Liga - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Wed, 19 Aug 2026 05:16:31 GMT"
+      "title": "SERIE A ENILIVE | JUVENTUS-PARMA: INFO PREVENDITA SETTORE OSPITI - parmacalcio1913.com",
+      "source": "parmacalcio1913.com",
+      "published": "Wed, 19 Aug 2026 09:00:27 GMT"
     },
     {
       "type": "news",
@@ -64,13 +64,6 @@
       "title": "Dalla prima vittoria Atp al primo trionfo con Djokovic: Sinner, 25 anni in 25 scatti - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 16 Aug 2026 08:40:33 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner, oggi altra giornata al J Medical in vista degli Us Open. Il punto sulle sue condizioni - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 16 Aug 2026 13:16:51 GMT"
     },
     {
       "type": "news",
@@ -85,6 +78,13 @@
       "title": "Sinner assente a Cincinnati come cambia il ranking Atp. L’Italia sorride: 4 azzurri nella top 20 | La nuova classifica - Il Fatto Quotidiano",
       "source": "Il Fatto Quotidiano",
       "published": "Fri, 14 Aug 2026 12:49:25 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Ranking ATP: Sinner n.1 fino a Pechino, Guerrieri entra in Top 200 - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Fri, 14 Aug 2026 08:13:28 GMT"
     },
     {
       "type": "news",
