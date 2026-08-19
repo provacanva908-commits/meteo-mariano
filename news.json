@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-08-19T13:54:52.864972+00:00",
+  "updated_at": "2026-08-19T14:39:25.501397+00:00",
   "local_date": "2026-08-19",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Ufficiale l'acquisto di Rodrigo Mora dal Porto. Tutte le news di calciomercato - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Wed, 19 Aug 2026 11:26:00 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "Calciomercato Lazio: Lotito accontenta Gattuso. Per la difesa c'è Sutalo - RomaToday",
       "source": "RomaToday",
       "published": "Wed, 19 Aug 2026 09:58:35 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Roma, ufficiale l'acquisto di Rodrigo Mora dal Porto - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Wed, 19 Aug 2026 11:26:00 GMT"
     },
     {
       "type": "news",
@@ -47,29 +47,29 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Gli arbitri della prima giornata: per Torino-Milan c'è Zufferli, a Marinelli va Inter-Monza - gazzetta.it",
-      "source": "gazzetta.it",
-      "published": "Wed, 19 Aug 2026 11:53:20 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Como, caccia agli italiani per la Champions: Ricci e Kean i nomi per l'Europa - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Como, caccia agli italiani per la Champions: Ricci e Kean i nomi per l'Europa - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Wed, 19 Aug 2026 13:32:29 GMT"
     },
     {
       "type": "news",
+      "category": "CALCIO",
+      "title": "Gli arbitri della prima giornata: per Torino-Milan c'è Zufferli, a Marinelli va Inter-Monza - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Wed, 19 Aug 2026 11:53:20 GMT"
+    },
+    {
+      "type": "news",
       "category": "TENNIS",
-      "title": "Dalla prima vittoria Atp al primo trionfo con Djokovic: Sinner, 25 anni in 25 scatti - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Dalla prima vittoria Atp al primo trionfo con Djokovic: Sinner, 25 anni in 25 scatti - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Sun, 16 Aug 2026 08:40:33 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner, oggi altra giornata al J Medical in vista degli Us Open. Il punto sulle sue condizioni - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Sinner, oggi altra giornata al J Medical in vista degli Us Open. Il punto sulle sue condizioni - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Sun, 16 Aug 2026 13:16:51 GMT"
     },
     {
@@ -103,8 +103,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Sun, 02 Aug 2026 07:00:00 GMT"
     },
     {
