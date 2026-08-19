@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-19T09:21:06.626228+00:00",
+  "updated_at": "2026-08-19T09:57:30.224105+00:00",
   "local_date": "2026-08-19",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale l'acquisto di Favasuli: primo rinforzo per Allegri - Il Mattino",
-      "source": "Il Mattino",
+      "title": "Calciomercato Napoli, ufficiale l'acquisto di Favasuli: primo rinforzo per Allegri - ilmattino.it",
+      "source": "ilmattino.it",
       "published": "Wed, 19 Aug 2026 07:49:54 GMT"
     },
     {
@@ -40,16 +40,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Inter – Monza, Serie A: un debutto impegnativo per i brianzoli - Planetwin365 news",
-      "source": "Planetwin365 news",
-      "published": "Wed, 19 Aug 2026 06:48:05 GMT"
+      "title": "Dove vedere tutte le partite della tua squadra in Serie A, coppe europee e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
+      "source": "Goal.com",
+      "published": "Wed, 19 Aug 2026 05:35:11 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Dove vedere tutte le partite della tua squadra in Serie A, coppe europee e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
-      "source": "Goal.com",
-      "published": "Wed, 19 Aug 2026 05:35:11 GMT"
+      "title": "Il calendario e il tabellone della Coppa Italia 2026-2027 - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Tue, 18 Aug 2026 16:15:47 GMT"
     },
     {
       "type": "news",
@@ -68,6 +68,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Sinner, oggi altra giornata al J Medical in vista degli Us Open. Il punto sulle sue condizioni - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 16 Aug 2026 13:16:51 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Jannik Sinner allo US Open 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis ATP - olympics.com",
       "source": "olympics.com",
       "published": "Fri, 14 Aug 2026 07:00:00 GMT"
@@ -78,13 +85,6 @@
       "title": "Sinner assente a Cincinnati come cambia il ranking Atp. L’Italia sorride: 4 azzurri nella top 20 | La nuova classifica - Il Fatto Quotidiano",
       "source": "Il Fatto Quotidiano",
       "published": "Fri, 14 Aug 2026 12:49:25 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ranking ATP: Sinner n.1 fino a Pechino, Guerrieri entra in Top 200 - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Fri, 14 Aug 2026 08:13:28 GMT"
     },
     {
       "type": "news",
