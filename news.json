@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T23:54:15.097245+00:00",
+  "updated_at": "2026-08-19T01:28:30.284048+00:00",
   "local_date": "2026-08-19",
   "articles": [
     {
@@ -68,13 +68,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Patrick Mouratoglou lancia l’allarme: “Sono preoccupato per Sinner e Alcaraz agli US Open” - OA Sport",
-      "source": "OA Sport",
-      "published": "Tue, 18 Aug 2026 06:19:50 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Sinner, oggi altra giornata al J Medical in vista degli Us Open. Il punto sulle sue condizioni - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 16 Aug 2026 13:16:51 GMT"
@@ -82,9 +75,16 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Patrick Mouratoglou lancia l’allarme: “Sono preoccupato per Sinner e Alcaraz agli US Open” - OA Sport",
+      "source": "OA Sport",
+      "published": "Tue, 18 Aug 2026 06:19:50 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Jannik Sinner allo US Open 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis ATP - olympics.com",
       "source": "olympics.com",
-      "published": "Fri, 14 Aug 2026 07:00:00 GMT"
+      "published": "Fri, 14 Aug 2026 07:18:37 GMT"
     },
     {
       "type": "news",
@@ -103,16 +103,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel, giovedì il torneo Fip Silver - Il Resto del Carlino",
-      "source": "Il Resto del Carlino",
-      "published": "Sat, 15 Aug 2026 03:06:43 GMT"
+      "title": "FIP Bronzo Mol: Boronad / Robert si è fermato alle porte della finale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sun, 16 Aug 2026 11:15:07 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Bronzo Mol: Boronad / Robert si è fermato alle porte della finale - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sun, 16 Aug 2026 11:15:07 GMT"
+      "title": "Padel, giovedì il torneo Fip Silver - Il Resto del Carlino",
+      "source": "Il Resto del Carlino",
+      "published": "Sat, 15 Aug 2026 03:06:43 GMT"
     }
   ]
 }
