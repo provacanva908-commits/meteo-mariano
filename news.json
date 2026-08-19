@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T14:39:25.501397+00:00",
+  "updated_at": "2026-08-19T15:13:05.858365+00:00",
   "local_date": "2026-08-19",
   "articles": [
     {
@@ -12,37 +12,37 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Mercato Cesena, ufficiale la cessione di Castagnetti alla Reggiana - Corriere Romagna",
+      "source": "Corriere Romagna",
+      "published": "Wed, 19 Aug 2026 13:34:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Lazio, l'ora del 9. Tra sogno e realtà, due ex Inter per l'attacco di Gattuso - RomaToday",
+      "source": "RomaToday",
+      "published": "Tue, 18 Aug 2026 10:57:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Calciomercato Lazio: Lotito accontenta Gattuso. Per la difesa c'è Sutalo - RomaToday",
       "source": "RomaToday",
       "published": "Wed, 19 Aug 2026 09:58:35 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Roma, ufficiale l'acquisto di Rodrigo Mora: indosserà la maglia numero 86 - Sportmediaset",
+      "category": "CALCIO",
+      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - goal.com",
+      "source": "goal.com",
+      "published": "Wed, 19 Aug 2026 13:26:21 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A, il pagellone verso il debutto: Inter ancora davanti a tutti ma Juve e Milan stanno arrivando - Sportmediaset",
       "source": "Sportmediaset",
-      "published": "Wed, 19 Aug 2026 09:50:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan, respinta l'offerta del Porto per Gimenez - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Tue, 18 Aug 2026 19:07:19 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
-      "source": "Goal.com",
-      "published": "Wed, 19 Aug 2026 08:35:30 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Dove vedere tutte le partite del Milan in Serie A, Europa League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
-      "source": "Goal.com",
-      "published": "Wed, 19 Aug 2026 00:39:33 GMT"
+      "published": "Wed, 19 Aug 2026 11:39:32 GMT"
     },
     {
       "type": "news",
@@ -89,16 +89,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel London P1: Oggi quarti di finale - mrpadelpaddle.com",
-      "source": "mrpadelpaddle.com",
+      "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Bronzo Mol: Boronad / Robert si è fermato alle porte della finale - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sun, 16 Aug 2026 11:15:07 GMT"
     },
     {
       "type": "news",
@@ -106,6 +99,13 @@
       "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 02 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Bronzo Mol: Boronad / Robert si è fermato alle porte della finale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sun, 16 Aug 2026 11:15:07 GMT"
     },
     {
       "type": "news",
