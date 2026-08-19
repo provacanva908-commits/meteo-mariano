@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T18:45:38.693619+00:00",
+  "updated_at": "2026-08-19T19:13:54.471452+00:00",
   "local_date": "2026-08-19",
   "articles": [
     {
@@ -26,16 +26,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "City, ufficiale cessione Reijnders all'Al-Qadisiyah. Sorride anche il Milan - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Wed, 19 Aug 2026 16:02:12 GMT"
+      "title": "Roma, ufficiale l'acquisto di Rodrigo Mora dal Porto - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Wed, 19 Aug 2026 11:26:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
-      "source": "Goal.com",
-      "published": "Wed, 19 Aug 2026 17:35:32 GMT"
+      "title": "Serie A: prime designazioni degli arbitri, Marinelli per Monza-Inter - ANSA",
+      "source": "ANSA",
+      "published": "Wed, 19 Aug 2026 15:39:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A: prime designazioni arbitri, Marinelli per Monza-Inter - ANSA",
+      "source": "ANSA",
+      "published": "Wed, 19 Aug 2026 16:01:00 GMT"
     },
     {
       "type": "news",
@@ -47,16 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A: prime designazioni degli arbitri, Marinelli per Monza-Inter - ansa.it",
-      "source": "ansa.it",
-      "published": "Wed, 19 Aug 2026 15:39:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A: prime designazioni arbitri, Marinelli per Monza-Inter - ansa.it",
-      "source": "ansa.it",
-      "published": "Wed, 19 Aug 2026 16:01:00 GMT"
+      "title": "Comunicato Ufficiale n. 12 del 19 agosto 2026: Coppa Italia Dilettanti 2026/2027 Fase Regionale - Presentazione Calendari Campionati di Eccellenza e Promozione 2026/2027 - LND Campania",
+      "source": "LND Campania",
+      "published": "Wed, 19 Aug 2026 15:13:39 GMT"
     },
     {
       "type": "news",
@@ -89,16 +89,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel London P1: Oggi quarti di finale - mrpadelpaddle.com",
-      "source": "mrpadelpaddle.com",
+      "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Finale: anche se eliminati, potreste essere costretti a rimanere… per giocare un'esibizione - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Fri, 14 Aug 2026 07:09:00 GMT"
+      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -110,9 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Bronze Mol – Quarti di finale in Francia in tasca, Vives e Guy de Chamisso puntano alla sorpresa - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sat, 15 Aug 2026 08:58:21 GMT"
+      "title": "Padel, giovedì il torneo Fip Silver - Il Resto del Carlino",
+      "source": "Il Resto del Carlino",
+      "published": "Sat, 15 Aug 2026 03:06:43 GMT"
     }
   ]
 }
