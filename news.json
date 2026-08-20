@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T23:57:06.937453+00:00",
+  "updated_at": "2026-08-20T01:44:55.088292+00:00",
   "local_date": "2026-08-20",
   "articles": [
     {
@@ -47,16 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A: prime designazioni arbitri, Marinelli per Monza-Inter - ANSA",
-      "source": "ANSA",
-      "published": "Wed, 19 Aug 2026 16:01:00 GMT"
+      "title": "I dubbi di Como e Juve, le certezze Inter. Liste Uefa, come funzionano e come sono messe le 7 italiane - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Wed, 19 Aug 2026 18:09:54 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A: prime designazioni degli arbitri, Marinelli per Monza-Inter - ANSA",
+      "title": "Serie A: prime designazioni arbitri, Marinelli per Monza-Inter - ANSA",
       "source": "ANSA",
-      "published": "Wed, 19 Aug 2026 15:39:00 GMT"
+      "published": "Wed, 19 Aug 2026 16:01:00 GMT"
     },
     {
       "type": "news",
@@ -96,13 +96,6 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
       "title": "FIP Bronzo Mol: Boronad / Robert si è fermato alle porte della finale - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sun, 16 Aug 2026 11:15:07 GMT"
@@ -113,6 +106,13 @@
       "title": "Padel, giovedì il torneo Fip Silver - Il Resto del Carlino",
       "source": "Il Resto del Carlino",
       "published": "Sat, 15 Aug 2026 03:06:43 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
     }
   ]
 }
