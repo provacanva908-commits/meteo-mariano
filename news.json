@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T12:17:02.865039+00:00",
+  "updated_at": "2026-08-20T13:22:28.508288+00:00",
   "local_date": "2026-08-20",
   "articles": [
     {
@@ -12,9 +12,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, l'ora del 9. Tra sogno e realtà, due ex Inter per l'attacco di Gattuso - RomaToday",
-      "source": "RomaToday",
-      "published": "Tue, 18 Aug 2026 10:57:00 GMT"
+      "title": "Calciomercato Roma, Jorge Mendes studia lo scambio Nkunku-Soulé con il Milan - Il Riformista",
+      "source": "Il Riformista",
+      "published": "Thu, 20 Aug 2026 12:47:00 GMT"
     },
     {
       "type": "news",
@@ -26,9 +26,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan, respinta l'offerta del Porto per Gimenez - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Tue, 18 Aug 2026 19:07:19 GMT"
+      "title": "Calciomercato Lazio: Lotito accontenta Gattuso. Per la difesa c'è Sutalo - RomaToday",
+      "source": "RomaToday",
+      "published": "Wed, 19 Aug 2026 09:58:35 GMT"
     },
     {
       "type": "news",
@@ -36,13 +36,6 @@
       "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
       "source": "Goal.com",
       "published": "Thu, 20 Aug 2026 09:17:12 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Inter favorita? Allegri si rilancerà? Milan da Champions? Le 11 domande alla Serie A - eurosport.it",
-      "source": "eurosport.it",
-      "published": "Thu, 20 Aug 2026 08:10:46 GMT"
     },
     {
       "type": "news",
@@ -56,7 +49,14 @@
       "category": "CALCIO",
       "title": "Serie A, arriva la moneta ufficiale del \"palla o campo?\" - Sportmediaset",
       "source": "Sportmediaset",
-      "published": "Thu, 20 Aug 2026 09:49:36 GMT"
+      "published": "Thu, 20 Aug 2026 09:48:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Poligrafico, Palla o Campo? La Serie A ha la sua moneta ufficiale - ANSA",
+      "source": "ANSA",
+      "published": "Thu, 20 Aug 2026 12:18:00 GMT"
     },
     {
       "type": "news",
@@ -68,16 +68,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Infinitamente Sinner: la vittoria su Djokovic a Wimbledon - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 19 Aug 2026 22:50:20 GMT"
+      "title": "Dalla prima vittoria Atp al primo trionfo con Djokovic: Sinner, 25 anni in 25 scatti - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 16 Aug 2026 08:40:33 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Dalla prima vittoria Atp al primo trionfo con Djokovic: Sinner, 25 anni in 25 scatti - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 16 Aug 2026 08:40:33 GMT"
+      "title": "Infinitamente Sinner: la vittoria su Djokovic a Wimbledon - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Wed, 19 Aug 2026 22:50:20 GMT"
     },
     {
       "type": "news",
