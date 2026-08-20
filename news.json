@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T23:03:36.317343+00:00",
+  "updated_at": "2026-08-20T23:36:41.052684+00:00",
   "local_date": "2026-08-21",
   "articles": [
     {
@@ -8,6 +8,13 @@
       "title": "Calciomercato Napoli, nuovo patto con Anguissa: vicino l'accordo fino al 2029 - Il Mattino",
       "source": "Il Mattino",
       "published": "Thu, 20 Aug 2026 21:55:04 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Lazio, l'ora del 9. Tra sogno e realtà, due ex Inter per l'attacco di Gattuso - RomaToday",
+      "source": "RomaToday",
+      "published": "Tue, 18 Aug 2026 10:57:00 GMT"
     },
     {
       "type": "news",
@@ -22,13 +29,6 @@
       "title": "Calciomercato Roma, sprint per Luis Henrique: cosa manca per chiudere con l'Inter - RomaToday",
       "source": "RomaToday",
       "published": "Mon, 17 Aug 2026 10:13:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio: Lotito accontenta Gattuso. Per la difesa c'è Sutalo - RomaToday",
-      "source": "RomaToday",
-      "published": "Wed, 19 Aug 2026 09:58:35 GMT"
     },
     {
       "type": "news",
@@ -47,16 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Women's Cup | Le parole di mister Guerrero alla vigilia del match contro il Como 1907 - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Thu, 20 Aug 2026 15:39:50 GMT"
+      "title": "Roma, mercato da urlo: 150 milioni per andare all'assalto di Champions e Serie A - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Thu, 20 Aug 2026 22:23:51 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, arriva la moneta ufficiale da 5 euro: cosa rappresenta - SoldiOnline.it",
-      "source": "SoldiOnline.it",
-      "published": "Thu, 20 Aug 2026 12:31:00 GMT"
+      "title": "Serie A Women's Cup | Le parole di mister Guerrero alla vigilia del match contro il Como 1907 - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Thu, 20 Aug 2026 15:39:50 GMT"
     },
     {
       "type": "news",
