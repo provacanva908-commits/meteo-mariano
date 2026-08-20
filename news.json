@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-08-20T10:44:32.597431+00:00",
+  "updated_at": "2026-08-20T11:12:16.811976+00:00",
   "local_date": "2026-08-20",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Curtis Jones-Inter: il centrocampista oggi a Milano. Le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Thu, 20 Aug 2026 07:57:19 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "Calciomercato Lazio, l'ora del 9. Tra sogno e realtà, due ex Inter per l'attacco di Gattuso - RomaToday",
       "source": "RomaToday",
       "published": "Tue, 18 Aug 2026 10:57:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan, la rottura con Rafael Leao è definitva: le cifre della cessione e l'ipotesi Turchia - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Thu, 20 Aug 2026 08:01:00 GMT"
     },
     {
       "type": "news",
@@ -33,6 +33,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
+      "source": "Goal.com",
+      "published": "Thu, 20 Aug 2026 09:17:12 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Inter favorita? Allegri si rilancerà? Milan da Champions? Le 11 domande alla Serie A - eurosport.it",
       "source": "eurosport.it",
       "published": "Thu, 20 Aug 2026 08:10:46 GMT"
@@ -40,16 +47,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Dazn e Sky, come risparmiare per vedere Serie A, Champions e Europa League: le combinazioni per vederle - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "Thu, 20 Aug 2026 10:14:14 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, arriva la moneta ufficiale del \"palla o campo?\" - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Thu, 20 Aug 2026 09:49:36 GMT"
+      "title": "AS Roma - sito ufficiale - AS Roma",
+      "source": "AS Roma",
+      "published": "Thu, 20 Aug 2026 08:43:57 GMT"
     },
     {
       "type": "news",
