@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-20T18:40:53.793469+00:00",
+  "updated_at": "2026-08-20T19:19:27.129884+00:00",
   "local_date": "2026-08-20",
   "articles": [
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, il caso Anguissa: il rinnovo preoccupa e l’Atalanta osserva - Planetwin365 news",
-      "source": "Planetwin365 news",
-      "published": "Thu, 20 Aug 2026 14:31:29 GMT"
-    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -29,6 +22,13 @@
       "title": "Calciomercato, Kean sempre più lontano dalla Fiorentina: Como pronto al rilancio finale ma occhio all'Atalanta - Il Riformista",
       "source": "Il Riformista",
       "published": "Thu, 20 Aug 2026 15:49:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Roma, sprint per Luis Henrique: cosa manca per chiudere con l'Inter - RomaToday",
+      "source": "RomaToday",
+      "published": "Mon, 17 Aug 2026 10:13:00 GMT"
     },
     {
       "type": "news",
@@ -54,9 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Zecca dello Stato, Palla o Campo? La Serie A ha la sua moneta ufficiale - ANSA",
-      "source": "ANSA",
-      "published": "Thu, 20 Aug 2026 12:18:00 GMT"
+      "title": "Serie A, arriva la moneta ufficiale da 5 euro: cosa rappresenta - SoldiOnline.it",
+      "source": "SoldiOnline.it",
+      "published": "Thu, 20 Aug 2026 12:31:00 GMT"
     },
     {
       "type": "news",
@@ -110,9 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Finale: anche se eliminati, potreste essere costretti a rimanere… per giocare un'esibizione - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Fri, 14 Aug 2026 07:09:00 GMT"
+      "title": "Pretoria Premier Padel P1, titolo a Brea-Triay e ai ‘Chingalan’ - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
     }
   ]
 }
