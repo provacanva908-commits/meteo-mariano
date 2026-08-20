@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T14:54:35.029307+00:00",
+  "updated_at": "2026-08-20T15:37:57.438526+00:00",
   "local_date": "2026-08-20",
   "articles": [
     {
@@ -33,20 +33,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
-      "source": "Goal.com",
-      "published": "Thu, 20 Aug 2026 09:17:12 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "AS Roma - sito ufficiale - AS Roma",
-      "source": "AS Roma",
-      "published": "Thu, 20 Aug 2026 08:43:57 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Serie A KINTO 26/27: il calendario completo. L84-Roma la prima diretta Sky, Castiglia: “Il futsal al centro della casa dello sport” - Divisione Calcio a 5",
       "source": "Divisione Calcio a 5",
       "published": "Thu, 20 Aug 2026 14:43:57 GMT"
@@ -54,9 +40,23 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Zecca dello Stato, Palla o Campo? La Serie A ha la sua moneta ufficiale - ANSA",
+      "source": "ANSA",
+      "published": "Thu, 20 Aug 2026 12:18:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Serie A, arriva la moneta ufficiale da 5 euro: cosa rappresenta - SoldiOnline.it",
       "source": "SoldiOnline.it",
       "published": "Thu, 20 Aug 2026 12:31:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A Women's Cup | Le parole di mister Guerrero alla vigilia del match contro il Como 1907 - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Thu, 20 Aug 2026 15:30:48 GMT"
     },
     {
       "type": "news",
