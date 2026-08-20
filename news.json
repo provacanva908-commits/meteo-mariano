@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T16:48:59.173983+00:00",
+  "updated_at": "2026-08-20T17:19:28.945714+00:00",
   "local_date": "2026-08-20",
   "articles": [
     {
@@ -12,6 +12,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "CALCIOMERCATO | Ufficiale: Isaac lascia l'Hellas e va in prestito all'NK Istra - TgGialloblu",
+      "source": "TgGialloblu",
+      "published": "Thu, 20 Aug 2026 07:11:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Calciomercato Roma, Jorge Mendes studia lo scambio Nkunku-Soulé con il Milan - Il Riformista",
       "source": "Il Riformista",
       "published": "Thu, 20 Aug 2026 12:47:00 GMT"
@@ -19,16 +26,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, sprint per Luis Henrique: cosa manca per chiudere con l'Inter - RomaToday",
-      "source": "RomaToday",
-      "published": "Mon, 17 Aug 2026 10:13:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio: Lotito accontenta Gattuso. Per la difesa c'è Sutalo - RomaToday",
-      "source": "RomaToday",
-      "published": "Wed, 19 Aug 2026 09:58:35 GMT"
+      "title": "Calciomercato, Kean sempre più lontano dalla Fiorentina: Como pronto al rilancio finale ma occhio all'Atalanta - Il Riformista",
+      "source": "Il Riformista",
+      "published": "Thu, 20 Aug 2026 15:49:00 GMT"
     },
     {
       "type": "news",
@@ -68,6 +68,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Ufficiale: Carlos Alcaraz torna agli Us Open. E ora si aspetta Sinner... - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Thu, 20 Aug 2026 17:09:09 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Dalla prima vittoria Atp al primo trionfo con Djokovic: Sinner, 25 anni in 25 scatti - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 16 Aug 2026 08:40:33 GMT"
@@ -78,13 +85,6 @@
       "title": "Infinitamente Sinner: la vittoria su Djokovic a Wimbledon - Sky Sport",
       "source": "Sky Sport",
       "published": "Wed, 19 Aug 2026 22:50:20 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner, oggi altra giornata al J Medical in vista degli Us Open. Il punto sulle sue condizioni - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 16 Aug 2026 13:16:51 GMT"
     },
     {
       "type": "news",
