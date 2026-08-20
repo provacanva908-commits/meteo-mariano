@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-20T21:36:54.851150+00:00",
-  "local_date": "2026-08-20",
+  "updated_at": "2026-08-20T22:01:04.530151+00:00",
+  "local_date": "2026-08-21",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli, nuovo patto con Anguissa: vicino l'accordo fino al 2029 - Il Mattino",
+      "source": "Il Mattino",
+      "published": "Thu, 20 Aug 2026 21:55:04 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -22,13 +29,6 @@
       "title": "Calciomercato Lazio: Lotito accontenta Gattuso. Per la difesa c'è Sutalo - RomaToday",
       "source": "RomaToday",
       "published": "Wed, 19 Aug 2026 09:58:35 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan: Mendes porta Diego Moreira in rossonero, trattativa lampo da 50 milioni - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Mon, 17 Aug 2026 16:08:07 GMT"
     },
     {
       "type": "news",
@@ -75,16 +75,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Dalla prima vittoria Atp al primo trionfo con Djokovic: Sinner, 25 anni in 25 scatti - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 16 Aug 2026 08:40:33 GMT"
+      "title": "Infinitamente Sinner: la vittoria su Djokovic a Wimbledon - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Wed, 19 Aug 2026 22:50:20 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ufficiale, Alcaraz giocherà lo US Open: 'Sono tornato' - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Thu, 20 Aug 2026 17:12:21 GMT"
+      "title": "Dalla prima vittoria Atp al primo trionfo con Djokovic: Sinner, 25 anni in 25 scatti - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 16 Aug 2026 08:40:33 GMT"
     },
     {
       "type": "news",
