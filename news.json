@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T07:12:53.173982+00:00",
+  "updated_at": "2026-08-20T07:59:34.338794+00:00",
   "local_date": "2026-08-20",
   "articles": [
     {
@@ -19,23 +19,30 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Calciomercato Roma, sprint per Luis Henrique: cosa manca per chiudere con l'Inter - RomaToday",
+      "source": "RomaToday",
+      "published": "Mon, 17 Aug 2026 10:13:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Calciomercato Lazio: Lotito accontenta Gattuso. Per la difesa c'è Sutalo - RomaToday",
       "source": "RomaToday",
       "published": "Wed, 19 Aug 2026 09:58:35 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Lazio, accordo con Dieng: sarà a Roma nelle prossime ore - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 19 Aug 2026 16:23:28 GMT"
+      "category": "CALCIO",
+      "title": "Inter favorita? Allegri si rilancerà? Milan da Champions? Le 11 domande alla Serie A - eurosport.it",
+      "source": "eurosport.it",
+      "published": "Thu, 20 Aug 2026 07:20:59 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
       "title": "Dazn e Sky, come risparmiare per vedere Serie A, Champions e Europa League: le combinazioni per vederle - Il Messaggero",
       "source": "Il Messaggero",
-      "published": "Thu, 20 Aug 2026 04:39:41 GMT"
+      "published": "Thu, 20 Aug 2026 07:41:03 GMT"
     },
     {
       "type": "news",
@@ -50,13 +57,6 @@
       "title": "I dubbi di Como e Juve, le certezze Inter. Liste Uefa, come funzionano e come sono messe le 7 italiane - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Wed, 19 Aug 2026 18:09:54 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Sito Ufficiale - Lega Serie A",
-      "source": "Lega Serie A",
-      "published": "Wed, 19 Aug 2026 21:06:08 GMT"
     },
     {
       "type": "news",
@@ -89,9 +89,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Bronzo Mol: Boronad / Robert si è fermato alle porte della finale - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sun, 16 Aug 2026 11:15:07 GMT"
+      "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Fri, 07 Aug 2026 07:03:57 GMT"
     },
     {
       "type": "news",
@@ -110,9 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Finale: anche se eliminati, potreste essere costretti a rimanere… per giocare un'esibizione - padel-magazine.it",
+      "title": "Il Major II può mettere a repentaglio i tornei P2? Premier Padel ? - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Fri, 14 Aug 2026 07:09:00 GMT"
+      "published": "Thu, 20 Aug 2026 07:54:48 GMT"
     }
   ]
 }
