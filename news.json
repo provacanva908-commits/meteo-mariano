@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T07:59:34.338794+00:00",
+  "updated_at": "2026-08-20T08:51:37.562572+00:00",
   "local_date": "2026-08-20",
   "articles": [
     {
@@ -8,6 +8,13 @@
       "title": "Calciomercato Lazio, l'ora del 9. Tra sogno e realtà, due ex Inter per l'attacco di Gattuso - RomaToday",
       "source": "RomaToday",
       "published": "Tue, 18 Aug 2026 10:57:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Milan, la rottura con Rafael Leao è definitva: le cifre della cessione e l'ipotesi Turchia - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Thu, 20 Aug 2026 08:01:00 GMT"
     },
     {
       "type": "news",
@@ -25,10 +32,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio: Lotito accontenta Gattuso. Per la difesa c'è Sutalo - RomaToday",
-      "source": "RomaToday",
-      "published": "Wed, 19 Aug 2026 09:58:35 GMT"
+      "category": "CALCIO",
+      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
+      "source": "Goal.com",
+      "published": "Thu, 20 Aug 2026 06:13:10 GMT"
     },
     {
       "type": "news",
@@ -42,7 +49,7 @@
       "category": "CALCIO",
       "title": "Dazn e Sky, come risparmiare per vedere Serie A, Champions e Europa League: le combinazioni per vederle - Il Messaggero",
       "source": "Il Messaggero",
-      "published": "Thu, 20 Aug 2026 07:41:03 GMT"
+      "published": "Thu, 20 Aug 2026 08:14:32 GMT"
     },
     {
       "type": "news",
@@ -50,13 +57,6 @@
       "title": "Como, caccia agli italiani per la Champions: Ricci e Kean i nomi per l'Europa - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Wed, 19 Aug 2026 13:32:29 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "I dubbi di Como e Juve, le certezze Inter. Liste Uefa, come funzionano e come sono messe le 7 italiane - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Wed, 19 Aug 2026 18:09:54 GMT"
     },
     {
       "type": "news",
@@ -68,13 +68,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner, Us Open sì o no? Il dilemma di Jannik: rischiare oggi o proteggere il futuro - Il Mattino",
-      "source": "Il Mattino",
-      "published": "Wed, 19 Aug 2026 15:56:59 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Sinner, oggi altra giornata al J Medical in vista degli Us Open. Il punto sulle sue condizioni - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 16 Aug 2026 13:16:51 GMT"
@@ -82,9 +75,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Djokovic: «Mi rivedo in Sinner e non mi pento di averlo aiutato: ha la mentalità del campione. Devo tutto alla mia prima maestra di tennis» - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Wed, 19 Aug 2026 23:19:56 GMT"
+      "title": "Sinner, Us Open sì o no? Il dilemma di Jannik: rischiare oggi o proteggere il futuro - Il Mattino",
+      "source": "Il Mattino",
+      "published": "Wed, 19 Aug 2026 15:56:59 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "LIVE Cobolli-Paul, ATP Cincinnati 2026 in DIRETTA: l’azzurro cerca l’impresa per accedere in semifinale - OA Sport",
+      "source": "OA Sport",
+      "published": "Thu, 20 Aug 2026 08:11:04 GMT"
     },
     {
       "type": "news",
@@ -92,6 +92,13 @@
       "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Fri, 07 Aug 2026 07:03:57 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Bronzo Mol: Boronad / Robert si è fermato alle porte della finale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sun, 16 Aug 2026 11:15:07 GMT"
     },
     {
       "type": "news",
@@ -106,13 +113,6 @@
       "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 02 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Il Major II può mettere a repentaglio i tornei P2? Premier Padel ? - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Thu, 20 Aug 2026 07:54:48 GMT"
     }
   ]
 }
