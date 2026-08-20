@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T08:51:37.562572+00:00",
+  "updated_at": "2026-08-20T09:30:35.446620+00:00",
   "local_date": "2026-08-20",
   "articles": [
     {
@@ -19,30 +19,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Como-Ricci, accordo di massima col Milan: la formula dell'operazione - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 19 Aug 2026 20:52:21 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "Calciomercato Roma, sprint per Luis Henrique: cosa manca per chiudere con l'Inter - RomaToday",
       "source": "RomaToday",
       "published": "Mon, 17 Aug 2026 10:13:00 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
-      "source": "Goal.com",
-      "published": "Thu, 20 Aug 2026 06:13:10 GMT"
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Milan, respinta l'offerta del Porto per Gimenez - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Tue, 18 Aug 2026 19:07:19 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
       "title": "Inter favorita? Allegri si rilancerà? Milan da Champions? Le 11 domande alla Serie A - eurosport.it",
       "source": "eurosport.it",
-      "published": "Thu, 20 Aug 2026 07:20:59 GMT"
+      "published": "Thu, 20 Aug 2026 08:10:46 GMT"
     },
     {
       "type": "news",
@@ -57,6 +50,13 @@
       "title": "Como, caccia agli italiani per la Champions: Ricci e Kean i nomi per l'Europa - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Wed, 19 Aug 2026 13:32:29 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "I dubbi di Como e Juve, le certezze Inter. Liste Uefa, come funzionano e come sono messe le 7 italiane - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Wed, 19 Aug 2026 18:09:54 GMT"
     },
     {
       "type": "news",
