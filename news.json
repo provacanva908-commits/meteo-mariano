@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T01:44:55.088292+00:00",
+  "updated_at": "2026-08-20T02:44:51.967882+00:00",
   "local_date": "2026-08-20",
   "articles": [
     {
@@ -12,8 +12,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Como-Ricci, accordo di massima col Milan: la formula dell'operazione - Sky Sport",
-      "source": "Sky Sport",
+      "title": "Como-Ricci, accordo di massima col Milan: la formula dell'operazione - sport.sky.it",
+      "source": "sport.sky.it",
       "published": "Wed, 19 Aug 2026 20:52:21 GMT"
     },
     {
@@ -26,16 +26,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Lazio, accordo con Dieng: sarà a Roma nelle prossime ore - Sky Sport",
-      "source": "Sky Sport",
+      "title": "Lazio, accordo con Dieng: sarà a Roma nelle prossime ore - sport.sky.it",
+      "source": "sport.sky.it",
       "published": "Wed, 19 Aug 2026 16:23:28 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
-      "source": "Goal.com",
-      "published": "Wed, 19 Aug 2026 19:28:48 GMT"
     },
     {
       "type": "news",
@@ -57,6 +50,13 @@
       "title": "Serie A: prime designazioni arbitri, Marinelli per Monza-Inter - ANSA",
       "source": "ANSA",
       "published": "Wed, 19 Aug 2026 16:01:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A: prime designazioni degli arbitri, Marinelli per Monza-Inter - ANSA",
+      "source": "ANSA",
+      "published": "Wed, 19 Aug 2026 15:39:00 GMT"
     },
     {
       "type": "news",
