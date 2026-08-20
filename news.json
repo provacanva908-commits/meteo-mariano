@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T05:42:48.057589+00:00",
+  "updated_at": "2026-08-20T06:17:46.674339+00:00",
   "local_date": "2026-08-20",
   "articles": [
     {
@@ -26,9 +26,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Lazio, accordo con Dieng: sarà a Roma nelle prossime ore - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 19 Aug 2026 16:23:28 GMT"
+      "title": "Calciomercato Roma, sprint per Luis Henrique: cosa manca per chiudere con l'Inter - RomaToday",
+      "source": "RomaToday",
+      "published": "Mon, 17 Aug 2026 10:13:00 GMT"
     },
     {
       "type": "news",
@@ -40,16 +40,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Sito Ufficiale - Lega Serie A",
-      "source": "Lega Serie A",
-      "published": "Wed, 19 Aug 2026 21:06:08 GMT"
+      "title": "I dubbi di Como e Juve, le certezze Inter. Liste Uefa, come funzionano e come sono messe le 7 italiane - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Wed, 19 Aug 2026 18:09:54 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "I dubbi di Como e Juve, le certezze Inter. Liste Uefa, come funzionano e come sono messe le 7 italiane - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Wed, 19 Aug 2026 18:09:54 GMT"
+      "title": "Sito Ufficiale - Lega Serie A",
+      "source": "Lega Serie A",
+      "published": "Wed, 19 Aug 2026 21:06:08 GMT"
     },
     {
       "type": "news",
@@ -89,6 +89,13 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "Premier Padel London P1: Oggi quarti di finale - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Fri, 07 Aug 2026 07:03:57 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "FIP Bronzo Mol: Boronad / Robert si è fermato alle porte della finale - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sun, 16 Aug 2026 11:15:07 GMT"
@@ -96,8 +103,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel, giovedì il torneo Fip Silver - ilrestodelcarlino.it",
-      "source": "ilrestodelcarlino.it",
+      "title": "Padel, giovedì il torneo Fip Silver - Il Resto del Carlino",
+      "source": "Il Resto del Carlino",
       "published": "Sat, 15 Aug 2026 03:06:43 GMT"
     },
     {
@@ -106,13 +113,6 @@
       "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 02 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel Finale: anche se eliminati, potreste essere costretti a rimanere… per giocare un'esibizione - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Fri, 14 Aug 2026 07:09:00 GMT"
     }
   ]
 }
