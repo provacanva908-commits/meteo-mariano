@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T19:53:01.464319+00:00",
+  "updated_at": "2026-08-20T20:28:53.010871+00:00",
   "local_date": "2026-08-20",
   "articles": [
     {
@@ -8,13 +8,6 @@
       "title": "CALCIOMERCATO | Ufficiale: Niasse dal Verona in prestito al Gençlerbirliği - TgGialloblu",
       "source": "TgGialloblu",
       "published": "Thu, 20 Aug 2026 07:25:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, Jorge Mendes studia lo scambio Nkunku-Soulé con il Milan - Il Riformista",
-      "source": "Il Riformista",
-      "published": "Thu, 20 Aug 2026 12:47:00 GMT"
     },
     {
       "type": "news",
@@ -29,6 +22,13 @@
       "title": "Calciomercato Roma, sprint per Luis Henrique: cosa manca per chiudere con l'Inter - RomaToday",
       "source": "RomaToday",
       "published": "Mon, 17 Aug 2026 10:13:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Lazio: Lotito accontenta Gattuso. Per la difesa c'è Sutalo - RomaToday",
+      "source": "RomaToday",
+      "published": "Wed, 19 Aug 2026 09:58:35 GMT"
     },
     {
       "type": "news",
