@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-21T09:19:33.700839+00:00",
+  "updated_at": "2026-08-21T09:58:18.725061+00:00",
   "local_date": "2026-08-21",
   "articles": [
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, nuovo patto con Anguissa: vicino l'accordo fino al 2029 - Il Mattino",
-      "source": "Il Mattino",
-      "published": "Fri, 21 Aug 2026 07:32:44 GMT"
-    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -26,9 +19,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Curtis Jones-Inter, è fatta! Il giocatore è arrivato a Milano, venerdì la firma - eurosport.it",
-      "source": "eurosport.it",
-      "published": "Fri, 21 Aug 2026 05:49:47 GMT"
+      "title": "Calciomercato Roma, due rinforzi per Gasperini: spunta il clamoroso scambio col Milan - RomaToday",
+      "source": "RomaToday",
+      "published": "Fri, 21 Aug 2026 09:48:34 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Monza, ufficiale l'acquisto di Touré dal Pisa - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Fri, 21 Aug 2026 09:16:35 GMT"
     },
     {
       "type": "news",
@@ -40,9 +40,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
-      "source": "Goal.com",
-      "published": "Wed, 19 Aug 2026 07:00:00 GMT"
+      "title": "Calendario Napoli Serie A Enilive 2026/2027, tutte le partite di campionato sono visibili su DAZN | DAZN News Italia - DAZN",
+      "source": "DAZN",
+      "published": "Wed, 19 Aug 2026 09:15:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A Women’s Cup, si comincia! Venerdì scatta la nuova stagione: apre Como 1907-Juventus gratis su YouTube, poi Parma-Inter su Sky Sport e NOW - FIGC",
+      "source": "FIGC",
+      "published": "Thu, 20 Aug 2026 07:08:00 GMT"
     },
     {
       "type": "news",
@@ -50,13 +57,6 @@
       "title": "Roma, mercato da urlo: 150 milioni per andare all'assalto di Champions e Serie A - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Thu, 20 Aug 2026 22:23:51 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A KINTO 26/27: il calendario completo. L84-Roma la prima diretta Sky, Castiglia: “Il futsal al centro della casa dello sport” - Divisione Calcio a 5",
-      "source": "Divisione Calcio a 5",
-      "published": "Thu, 20 Aug 2026 15:08:44 GMT"
     },
     {
       "type": "news",
@@ -82,9 +82,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "WTA Cincinnati 2026, la prima semifinale sarà Pegula-Swiatek. Ritiro Rybakina, US Open a rischio? - OA Sport",
-      "source": "OA Sport",
-      "published": "Fri, 21 Aug 2026 04:53:47 GMT"
+      "title": "Atp Cincinnati, i risultati di oggi: Fils batte Tirante e vola in semifinale con Cobolli - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 21 Aug 2026 03:19:33 GMT"
     },
     {
       "type": "news",
