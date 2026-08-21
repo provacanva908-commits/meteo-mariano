@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-21T15:18:14.968789+00:00",
+  "updated_at": "2026-08-21T15:54:35.481160+00:00",
   "local_date": "2026-08-21",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Inter, Chivu e il possibile addio di Lautaro Martinez: \"Il calciomercato è bastardo\". Marotta frena, dalla Spagna filtra accordo con il Barcellona - Il Riformista",
+      "source": "Il Riformista",
+      "published": "Fri, 21 Aug 2026 15:22:00 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -22,13 +29,6 @@
       "title": "Calciomercato Pisa. ufficiale Tourè al Monza. Grazie Idrissa, non ti dimenticheremo mai - SestaPorta.News Pisa",
       "source": "SestaPorta.News Pisa",
       "published": "Fri, 21 Aug 2026 09:03:24 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, due rinforzi per Gasperini: spunta il clamoroso scambio col Milan - RomaToday",
-      "source": "RomaToday",
-      "published": "Fri, 21 Aug 2026 08:04:18 GMT"
     },
     {
       "type": "news",
@@ -61,9 +61,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Alcaraz torna agli Us Open, Sinner non c'è: come può cambiare il ranking Atp e i punti da difendere - Il Messaggero",
+      "title": "Sinner salta Us Open per infortunio, come cambia ranking Atp e i nuovi distacchi da Alcaraz e Zverev - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Fri, 21 Aug 2026 15:10:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Alcaraz torna agli Us Open, Sinner in dubbio: come può cambiare il ranking Atp e i punti da difendere - Il Messaggero",
       "source": "Il Messaggero",
-      "published": "Fri, 21 Aug 2026 14:21:35 GMT"
+      "published": "Fri, 21 Aug 2026 10:55:52 GMT"
     },
     {
       "type": "news",
@@ -75,16 +82,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "La scalata di Cobolli non si ferma: la semifinale a Cincinnati gli vale il best ranking. E ora \"vede\" le Atp Finals - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "Fri, 21 Aug 2026 07:36:45 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ufficiale: Carlos Alcaraz torna agli Us Open. E ora si aspetta la decisione di Sinner - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Thu, 20 Aug 2026 17:09:09 GMT"
+      "title": "Sinner no, Alcaraz sì: gli Us Open perdono il numero 1 al mondo, ma ritrovano il campione in carica - Domani",
+      "source": "Domani",
+      "published": "Fri, 21 Aug 2026 15:18:00 GMT"
     },
     {
       "type": "news",
