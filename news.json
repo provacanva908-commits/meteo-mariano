@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T20:33:21.228901+00:00",
+  "updated_at": "2026-08-21T20:57:35.969924+00:00",
   "local_date": "2026-08-21",
   "articles": [
     {
@@ -40,13 +40,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Inter instant team, è la più forte ma non snobbi la Champions. Milan e Juve vincano l'Europa League. Siamo all'anno zero - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Fri, 21 Aug 2026 05:45:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Sala Stampa Women | Serie A Women's Cup | Como 1907-Juventus, le interviste - Juventus.com",
       "source": "Juventus.com",
       "published": "Fri, 21 Aug 2026 18:55:34 GMT"
@@ -57,6 +50,13 @@
       "title": "Serie A Women's Cup | Como 1907-Juventus, la partita - Juventus.com",
       "source": "Juventus.com",
       "published": "Fri, 21 Aug 2026 18:25:32 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Inter instant team, è la più forte ma non snobbi la Champions. Milan e Juve vincano l'Europa League. Siamo all'anno zero - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Fri, 21 Aug 2026 05:45:00 GMT"
     },
     {
       "type": "news",
