@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-21T09:58:18.725061+00:00",
+  "updated_at": "2026-08-21T10:39:43.230297+00:00",
   "local_date": "2026-08-21",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli, nuovo patto con Anguissa: vicino l'accordo fino al 2029 - Il Mattino",
+      "source": "Il Mattino",
+      "published": "Fri, 21 Aug 2026 07:32:44 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -12,9 +19,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan, Leao sempre più fuori: oggi Cardinale parlerà con gli esuberi - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Fri, 21 Aug 2026 06:12:00 GMT"
+      "title": "Calciomercato Lazio, l'ora del 9. Tra sogno e realtà, due ex Inter per l'attacco di Gattuso - RomaToday",
+      "source": "RomaToday",
+      "published": "Tue, 18 Aug 2026 10:57:00 GMT"
     },
     {
       "type": "news",
@@ -22,13 +29,6 @@
       "title": "Calciomercato Roma, due rinforzi per Gasperini: spunta il clamoroso scambio col Milan - RomaToday",
       "source": "RomaToday",
       "published": "Fri, 21 Aug 2026 09:48:34 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Monza, ufficiale l'acquisto di Touré dal Pisa - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Fri, 21 Aug 2026 09:16:35 GMT"
     },
     {
       "type": "news",
