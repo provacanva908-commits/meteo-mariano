@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T07:52:28.708361+00:00",
+  "updated_at": "2026-08-21T08:39:00.116598+00:00",
   "local_date": "2026-08-21",
   "articles": [
     {
@@ -8,13 +8,6 @@
       "title": "Calciomercato Napoli, nuovo patto con Anguissa: vicino l'accordo fino al 2029 - Il Mattino",
       "source": "Il Mattino",
       "published": "Fri, 21 Aug 2026 07:32:44 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, l'ora del 9. Tra sogno e realtà, due ex Inter per l'attacco di Gattuso - RomaToday",
-      "source": "RomaToday",
-      "published": "Tue, 18 Aug 2026 10:57:00 GMT"
     },
     {
       "type": "news",
@@ -32,10 +25,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, la griglia di Orlando Urbano: «Inter davanti, poi Napoli, Juventus e Roma» - Ticinonline",
-      "source": "Ticinonline",
-      "published": "Fri, 21 Aug 2026 05:00:00 GMT"
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Roma, sprint per Luis Henrique: cosa manca per chiudere con l'Inter - RomaToday",
+      "source": "RomaToday",
+      "published": "Mon, 17 Aug 2026 10:13:00 GMT"
     },
     {
       "type": "news",
@@ -57,6 +50,13 @@
       "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
       "source": "Goal.com",
       "published": "Wed, 19 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Roma, mercato da urlo: 150 milioni per andare all'assalto di Champions e Serie A - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Thu, 20 Aug 2026 22:23:51 GMT"
     },
     {
       "type": "news",
