@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-21T12:02:04.826451+00:00",
+  "updated_at": "2026-08-21T13:07:06.289769+00:00",
   "local_date": "2026-08-21",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli, nuovo patto con Anguissa: vicino l'accordo fino al 2029 - Il Mattino",
+      "source": "Il Mattino",
+      "published": "Thu, 20 Aug 2026 21:55:04 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -12,23 +19,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Calciomercato Pisa. Ufficiale, Vukovic in prestito alla Juve Stabia - SestaPorta.News Pisa",
+      "source": "SestaPorta.News Pisa",
+      "published": "Fri, 21 Aug 2026 12:25:13 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Calciomercato Roma, due rinforzi per Gasperini: spunta il clamoroso scambio col Milan - RomaToday",
       "source": "RomaToday",
       "published": "Fri, 21 Aug 2026 08:04:18 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan, Leao sempre più fuori: oggi Cardinale parlerà con gli esuberi - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Fri, 21 Aug 2026 06:12:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, Luis Henrique è la priorità: Fofana congelato, D’Amico studia la formula con l’Inter - TeleRadioStereo",
-      "source": "TeleRadioStereo",
-      "published": "Fri, 21 Aug 2026 09:46:07 GMT"
     },
     {
       "type": "news",
@@ -75,16 +75,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "La scalata di Cobolli non si ferma: la semifinale a Cincinnati gli vale il best ranking. E ora \"vede\" le Atp Finals - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "Fri, 21 Aug 2026 07:36:45 GMT"
+      "title": "Ufficiale: Carlos Alcaraz torna agli Us Open. E ora si aspetta la decisione di Sinner - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Thu, 20 Aug 2026 17:09:09 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ufficiale: Carlos Alcaraz torna agli Us Open. E ora si aspetta la decisione di Sinner - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Thu, 20 Aug 2026 17:09:09 GMT"
+      "title": "La scalata di Cobolli non si ferma: la semifinale a Cincinnati gli vale il best ranking. E ora \"vede\" le Atp Finals - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Fri, 21 Aug 2026 07:36:45 GMT"
     },
     {
       "type": "news",
@@ -103,16 +103,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel, giovedì il torneo Fip Silver - Il Resto del Carlino",
-      "source": "Il Resto del Carlino",
-      "published": "Sat, 15 Aug 2026 03:06:43 GMT"
+      "title": "Pretoria Premier Padel P1, titolo a Brea-Triay e ai ‘Chingalan’ - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Pretoria Premier Padel P1, titolo a Brea-Triay e ai ‘Chingalan’ - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
+      "title": "Jean-Christophe Verborg: “Juan Lebron è un po' come il McEnroe del padel” - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Fri, 21 Aug 2026 06:56:00 GMT"
     }
   ]
 }
