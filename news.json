@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T13:57:37.246103+00:00",
+  "updated_at": "2026-08-21T14:45:48.517974+00:00",
   "local_date": "2026-08-21",
   "articles": [
     {
@@ -54,9 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "SERIE A WOMEN'S CUP, LA PREVIEW DI MILAN-COMO WOMEN - AC Milan",
-      "source": "AC Milan",
-      "published": "Fri, 21 Aug 2026 13:30:00 GMT"
+      "title": "Udinese-Como, le probabili formazioni della partita di Serie A - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 21 Aug 2026 09:17:31 GMT"
     },
     {
       "type": "news",
@@ -64,13 +64,6 @@
       "title": "Alcaraz torna agli Us Open, Sinner in dubbio: come può cambiare il ranking Atp e i punti da difendere - Il Messaggero",
       "source": "Il Messaggero",
       "published": "Fri, 21 Aug 2026 13:29:21 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Il nuovo vantaggio di Jannik Sinner nel ranking ATP: cosa cambia dopo la sconfitta di Zverev. Alcaraz lontanissimo - OA Sport",
-      "source": "OA Sport",
-      "published": "Thu, 20 Aug 2026 11:16:36 GMT"
     },
     {
       "type": "news",
@@ -85,6 +78,13 @@
       "title": "Ufficiale: Carlos Alcaraz torna agli Us Open. E ora si aspetta la decisione di Sinner - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Thu, 20 Aug 2026 17:09:09 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "WTA Cincinnati 2026, la prima semifinale sarà Pegula-Swiatek. Ritiro Rybakina, US Open a rischio? - OA Sport",
+      "source": "OA Sport",
+      "published": "Fri, 21 Aug 2026 04:53:47 GMT"
     },
     {
       "type": "news",
