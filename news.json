@@ -1,5 +1,118 @@
 {
-  "updated_at": "2026-08-22T05:51:59.094082+00:00",
+  "updated_at": "2026-08-22T06:34:34.666465+00:00",
   "local_date": "2026-08-22",
-  "articles": []
+  "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Inter, Jones ufficiale: 'Qui per fare un passo in più nella mia carriera'. Calciomercato news - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 21 Aug 2026 21:21:08 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Inter, Chivu e il possibile addio di Lautaro Martinez: \"Il calciomercato è bastardo\". Marotta frena, dalla Spagna filtra accordo con il Barcellona - Il Riformista",
+      "source": "Il Riformista",
+      "published": "Fri, 21 Aug 2026 15:22:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Lazio, l'ora del 9. Tra sogno e realtà, due ex Inter per l'attacco di Gattuso - RomaToday",
+      "source": "RomaToday",
+      "published": "Tue, 18 Aug 2026 10:57:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli, nuovo patto con Anguissa: vicino l'accordo fino al 2029 - Il Mattino",
+      "source": "Il Mattino",
+      "published": "Thu, 20 Aug 2026 21:55:04 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A in TV oggi, dove vedere Inter-Monza e Genoa-Napoli su Sky e DAZN: programma e orari delle partite - Fanpage",
+      "source": "Fanpage",
+      "published": "Sat, 22 Aug 2026 04:30:35 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
+      "source": "Goal.com",
+      "published": "Sat, 22 Aug 2026 02:06:32 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A Women's Cup | Como 1907-Juventus, la partita - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Fri, 21 Aug 2026 21:29:12 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Sala Stampa Women | Serie A Women's Cup | Como 1907-Juventus, le interviste - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Fri, 21 Aug 2026 18:55:34 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner salta Us Open per infortunio, come cambia ranking Atp e i nuovi distacchi da Alcaraz e Zverev - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Fri, 21 Aug 2026 15:10:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Quanti punti perde Jannik Sinner saltando gli US Open? Come cambia il ranking ATP e nuovi vantaggi - OA Sport",
+      "source": "OA Sport",
+      "published": "Fri, 21 Aug 2026 14:45:22 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Ufficiale: Carlos Alcaraz torna agli Us Open. E ora si aspetta la decisione di Sinner - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Thu, 20 Aug 2026 17:09:09 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner no, Alcaraz sì: gli Us Open perdono il numero 1 al mondo, ma ritrovano il campione in carica - Domani",
+      "source": "Domani",
+      "published": "Fri, 21 Aug 2026 15:18:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Bronzo Mol: Boronad / Robert si è fermato alle porte della finale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sun, 16 Aug 2026 11:15:07 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Pretoria Premier Padel P1, titolo a Brea-Triay e ai ‘Chingalan’ - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "“Juan Lebron è il John McEnroe del padel: o lo ami o lo odi” - padelmagazine.it",
+      "source": "padelmagazine.it",
+      "published": "Fri, 21 Aug 2026 16:02:39 GMT"
+    }
+  ]
 }
