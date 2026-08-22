@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-22T15:00:33.062244+00:00",
+  "updated_at": "2026-08-22T15:31:39.680476+00:00",
   "local_date": "2026-08-22",
   "articles": [
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, l'ora del 9. Tra sogno e realtà, due ex Inter per l'attacco di Gattuso - romatoday.it",
-      "source": "romatoday.it",
-      "published": "Tue, 18 Aug 2026 10:57:00 GMT"
-    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -19,9 +12,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Roma, offerta per Oosterwolde del Fenerbahce: le news di calciomercato - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 21 Aug 2026 22:10:17 GMT"
+      "title": "Calciomercato Lazio, l'ora del 9. Tra sogno e realtà, due ex Inter per l'attacco di Gattuso - romatoday.it",
+      "source": "romatoday.it",
+      "published": "Tue, 18 Aug 2026 10:57:00 GMT"
     },
     {
       "type": "news",
@@ -32,10 +25,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Inter da Scudetto, Milan dietro a Como e Napoli, Lazio flop: la griglia di Eurosport - eurosport.it",
-      "source": "eurosport.it",
-      "published": "Sat, 22 Aug 2026 07:39:07 GMT"
+      "category": "CALCIOMERCATO",
+      "title": "Ufficiale Elmas all'Atalanta: i dettagli dell'accordo con il Lipsia - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Sat, 22 Aug 2026 11:25:00 GMT"
     },
     {
       "type": "news",
@@ -43,6 +36,13 @@
       "title": "Serie A, oggi al via la nuova stagione. Alle 18.30 si parte con Inter-Monza e Udinese-Como - Sky TG24",
       "source": "Sky TG24",
       "published": "Sat, 22 Aug 2026 09:54:39 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Inter da Scudetto, Milan dietro a Como e Napoli, Lazio flop: la griglia di Eurosport - eurosport.it",
+      "source": "eurosport.it",
+      "published": "Sat, 22 Aug 2026 07:39:07 GMT"
     },
     {
       "type": "news",
