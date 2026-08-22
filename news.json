@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T06:34:34.666465+00:00",
+  "updated_at": "2026-08-22T07:17:49.467360+00:00",
   "local_date": "2026-08-22",
   "articles": [
     {
@@ -8,13 +8,6 @@
       "title": "Inter, Jones ufficiale: 'Qui per fare un passo in più nella mia carriera'. Calciomercato news - Sky Sport",
       "source": "Sky Sport",
       "published": "Fri, 21 Aug 2026 21:21:08 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Inter, Chivu e il possibile addio di Lautaro Martinez: \"Il calciomercato è bastardo\". Marotta frena, dalla Spagna filtra accordo con il Barcellona - Il Riformista",
-      "source": "Il Riformista",
-      "published": "Fri, 21 Aug 2026 15:22:00 GMT"
     },
     {
       "type": "news",
@@ -32,6 +25,13 @@
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Roma, offerta per Oosterwolde del Fenerbahce: le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 21 Aug 2026 22:10:17 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
       "title": "Serie A in TV oggi, dove vedere Inter-Monza e Genoa-Napoli su Sky e DAZN: programma e orari delle partite - Fanpage",
       "source": "Fanpage",
@@ -42,7 +42,7 @@
       "category": "CALCIO",
       "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
       "source": "Goal.com",
-      "published": "Sat, 22 Aug 2026 02:06:32 GMT"
+      "published": "Sat, 22 Aug 2026 05:06:33 GMT"
     },
     {
       "type": "news",
@@ -54,9 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Sala Stampa Women | Serie A Women's Cup | Como 1907-Juventus, le interviste - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Fri, 21 Aug 2026 18:55:34 GMT"
+      "title": "Calcio: i convocati di Juric per Inter-Monza, prima di Serie A - Il Cittadino di Monza e Brianza",
+      "source": "Il Cittadino di Monza e Brianza",
+      "published": "Sat, 22 Aug 2026 06:16:00 GMT"
     },
     {
       "type": "news",
@@ -64,6 +64,13 @@
       "title": "Sinner salta Us Open per infortunio, come cambia ranking Atp e i nuovi distacchi da Alcaraz e Zverev - Adnkronos",
       "source": "Adnkronos",
       "published": "Fri, 21 Aug 2026 15:10:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Cobolli-Fils oggi, ATP Cincinnati 2026: orario prima semifinale, tv, programma, streaming - OA Sport",
+      "source": "OA Sport",
+      "published": "Sat, 22 Aug 2026 05:30:23 GMT"
     },
     {
       "type": "news",
@@ -78,13 +85,6 @@
       "title": "Ufficiale: Carlos Alcaraz torna agli Us Open. E ora si aspetta la decisione di Sinner - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Thu, 20 Aug 2026 17:09:09 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner no, Alcaraz sì: gli Us Open perdono il numero 1 al mondo, ma ritrovano il campione in carica - Domani",
-      "source": "Domani",
-      "published": "Fri, 21 Aug 2026 15:18:00 GMT"
     },
     {
       "type": "news",
@@ -110,9 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "“Juan Lebron è il John McEnroe del padel: o lo ami o lo odi” - padelmagazine.it",
-      "source": "padelmagazine.it",
-      "published": "Fri, 21 Aug 2026 16:02:39 GMT"
+      "title": "FIP Bronze Marnes II – Thomas Leygue si riunisce con Jesús Moya, un anno dopo il trauma di Roma - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 22 Aug 2026 07:08:03 GMT"
     }
   ]
 }
