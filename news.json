@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-08-22T14:40:09.880216+00:00",
+  "updated_at": "2026-08-22T15:00:33.062244+00:00",
   "local_date": "2026-08-22",
   "articles": [
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Inter, Jones ufficiale: 'Qui per fare un passo in più nella mia carriera'. Calciomercato news - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 21 Aug 2026 21:21:08 GMT"
-    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "Calciomercato Lazio, l'ora del 9. Tra sogno e realtà, due ex Inter per l'attacco di Gattuso - romatoday.it",
       "source": "romatoday.it",
       "published": "Tue, 18 Aug 2026 10:57:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Inter, Jones ufficiale: 'Qui per fare un passo in più nella mia carriera'. Calciomercato news - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 21 Aug 2026 21:21:08 GMT"
     },
     {
       "type": "news",
@@ -49,7 +49,7 @@
       "category": "CALCIO",
       "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
       "source": "Goal.com",
-      "published": "Sat, 22 Aug 2026 10:01:03 GMT"
+      "published": "Sat, 22 Aug 2026 14:04:57 GMT"
     },
     {
       "type": "news",
@@ -110,9 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Pretoria Premier Padel P1, titolo a Brea-Triay e ai ‘Chingalan’ - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
+      "title": "Premier Padel 2026: London P1 | Live - Red Bull",
+      "source": "Red Bull",
+      "published": "Fri, 07 Aug 2026 21:29:57 GMT"
     }
   ]
 }
