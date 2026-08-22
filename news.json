@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T21:29:46.774823+00:00",
+  "updated_at": "2026-08-22T21:52:58.517801+00:00",
   "local_date": "2026-08-22",
   "articles": [
     {
@@ -33,6 +33,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
+      "source": "Goal.com",
+      "published": "Sat, 22 Aug 2026 16:01:05 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Serie A al via. Vince l’Inter, pari Como. Parma-Cagliari 0-0, Genoa-Napoli 0-0. LIVE - Sky TG24",
       "source": "Sky TG24",
       "published": "Sat, 22 Aug 2026 09:54:39 GMT"
@@ -50,13 +57,6 @@
       "title": "Serie A Women's Cup | Como 1907-Juventus, la partita - Juventus.com",
       "source": "Juventus.com",
       "published": "Fri, 21 Aug 2026 21:29:12 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A Women’s Cup, si comincia! Venerdì scatta la nuova stagione: apre Como 1907-Juventus gratis su YouTube, poi Parma-Inter su Sky Sport e NOW - FIGC",
-      "source": "FIGC",
-      "published": "Thu, 20 Aug 2026 07:08:00 GMT"
     },
     {
       "type": "news",
