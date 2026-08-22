@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T22:22:09.376843+00:00",
+  "updated_at": "2026-08-22T22:47:27.733534+00:00",
   "local_date": "2026-08-23",
   "articles": [
     {
@@ -47,16 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A. Inter-Monza 4-1, la sintesi della partita - RaiNews",
-      "source": "RaiNews",
-      "published": "Sat, 22 Aug 2026 21:43:36 GMT"
+      "title": "Serie A Women's Cup | Como 1907-Juventus, la partita - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Fri, 21 Aug 2026 21:29:12 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Women's Cup | Como 1907-Juventus, la partita - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Fri, 21 Aug 2026 21:29:12 GMT"
+      "title": "Serie A Women’s Cup, si comincia! Venerdì scatta la nuova stagione: apre Como 1907-Juventus gratis su YouTube, poi Parma-Inter su Sky Sport e NOW - FIGC",
+      "source": "FIGC",
+      "published": "Thu, 20 Aug 2026 07:08:00 GMT"
     },
     {
       "type": "news",
@@ -68,9 +68,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Cobolli-Fils oggi in tv, ATP Cincinnati 2026: orario prima semifinale, programma, streaming - OA Sport",
+      "title": "Infinitamente Sinner: la vittoria su Djokovic a Wimbledon - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Wed, 19 Aug 2026 22:50:20 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Quanti punti perde Jannik Sinner saltando gli US Open? Come cambia il ranking ATP e nuovi vantaggi - OA Sport",
       "source": "OA Sport",
-      "published": "Sat, 22 Aug 2026 05:36:31 GMT"
+      "published": "Fri, 21 Aug 2026 14:45:22 GMT"
     },
     {
       "type": "news",
@@ -78,13 +85,6 @@
       "title": "Cobolli-Fils, oggi semifinale Atp Cincinnati 2026: a che ora e dove vederla in diretta - today.it",
       "source": "today.it",
       "published": "Sat, 22 Aug 2026 09:12:37 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Infinitamente Sinner: la vittoria su Djokovic a Wimbledon - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 19 Aug 2026 22:50:20 GMT"
     },
     {
       "type": "news",
