@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-22T16:53:15.468483+00:00",
+  "updated_at": "2026-08-22T17:21:35.111601+00:00",
   "local_date": "2026-08-22",
   "articles": [
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale l'acquisto di Badiashile: «Benvenuto Benoit», l'annuncio del presidente - Il Mattino",
-      "source": "Il Mattino",
-      "published": "Sat, 22 Aug 2026 15:33:14 GMT"
-    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -19,9 +12,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, l'ora del 9. Tra sogno e realtà, due ex Inter per l'attacco di Gattuso - romatoday.it",
-      "source": "romatoday.it",
-      "published": "Tue, 18 Aug 2026 10:57:00 GMT"
+      "title": "Calciomercato Napoli, ufficiale l'acquisto di Badiashile: «Benvenuto Benoit», l'annuncio del presidente - Il Mattino",
+      "source": "Il Mattino",
+      "published": "Sat, 22 Aug 2026 15:33:14 GMT"
     },
     {
       "type": "news",
@@ -29,6 +22,13 @@
       "title": "Inter, Jones ufficiale: 'Qui per fare un passo in più nella mia carriera'. Calciomercato news - Sky Sport",
       "source": "Sky Sport",
       "published": "Fri, 21 Aug 2026 21:21:08 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Atalanta, Elmas è a Zingonia: arriva in prestito dal Lipsia. Le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sat, 22 Aug 2026 11:07:30 GMT"
     },
     {
       "type": "news",
