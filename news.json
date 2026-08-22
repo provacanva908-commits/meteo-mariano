@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T12:33:50.541146+00:00",
+  "updated_at": "2026-08-22T13:17:03.878332+00:00",
   "local_date": "2026-08-22",
   "articles": [
     {
@@ -19,16 +19,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, nuovo patto con Anguissa: vicino l'accordo fino al 2029 - Il Mattino",
-      "source": "Il Mattino",
-      "published": "Thu, 20 Aug 2026 21:55:04 GMT"
+      "title": "Atalanta, Elmas è a Zingonia: arriva in prestito dal Lipsia. Le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sat, 22 Aug 2026 11:07:30 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Roma, offerta per Oosterwolde del Fenerbahce: le news di calciomercato - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 21 Aug 2026 22:10:17 GMT"
+      "title": "Atalanta, preso Elmas in prestito con diritto di riscatto: è ufficiale - L'Eco di Bergamo",
+      "source": "L'Eco di Bergamo",
+      "published": "Sat, 22 Aug 2026 11:05:23 GMT"
     },
     {
       "type": "news",
@@ -47,23 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calcio, ufficiale: Elmas torna in serie A ma non al Napoli - NapoliToday",
-      "source": "NapoliToday",
-      "published": "Sat, 22 Aug 2026 11:21:42 GMT"
+      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
+      "source": "Goal.com",
+      "published": "Sat, 22 Aug 2026 10:01:03 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "AS Roma - sito ufficiale - AS Roma",
-      "source": "AS Roma",
-      "published": "Sat, 22 Aug 2026 09:02:55 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner salta Us Open per infortunio, come cambia ranking Atp e i nuovi distacchi da Alcaraz e Zverev - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Fri, 21 Aug 2026 15:10:00 GMT"
+      "title": "Serie A Women's Cup | Como 1907-Juventus, la partita - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Fri, 21 Aug 2026 21:29:12 GMT"
     },
     {
       "type": "news",
@@ -82,9 +75,23 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Ufficiale: Carlos Alcaraz torna agli Us Open. E ora si aspetta la decisione di Sinner - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Thu, 20 Aug 2026 17:09:09 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Quanti punti perde Jannik Sinner saltando gli US Open? Come cambia il ranking ATP e nuovi vantaggi - OA Sport",
       "source": "OA Sport",
       "published": "Fri, 21 Aug 2026 14:45:22 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Tour: Touly ai quarti di finale a Porto Sant'Elpidio, Godallier in finale a Espoo - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 22 Aug 2026 13:03:39 GMT"
     },
     {
       "type": "news",
@@ -103,16 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Pretoria Premier Padel P1, titolo a Brea-Triay e ai ‘Chingalan’ - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Gold: la regola della wild card del 2027 potrebbe distorcere la sfida tra le migliori coppie del mondo? - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sat, 22 Aug 2026 10:15:12 GMT"
+      "title": "“Juan Lebron è il John McEnroe del padel: o lo ami o lo odi” - padelmagazine.it",
+      "source": "padelmagazine.it",
+      "published": "Fri, 21 Aug 2026 16:02:39 GMT"
     }
   ]
 }
