@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T14:09:52.691522+00:00",
+  "updated_at": "2026-08-22T14:40:09.880216+00:00",
   "local_date": "2026-08-22",
   "articles": [
     {
@@ -61,6 +61,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Alcaraz torna agli Us Open, Sinner non c'è: come può cambiare il ranking Atp e i punti da difendere - Il Messaggero",
+      "source": "Il Messaggero",
+      "published": "Sat, 22 Aug 2026 14:07:35 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Cobolli-Fils, oggi semifinale Atp Cincinnati 2026: a che ora e dove vederla in diretta - today.it",
       "source": "today.it",
       "published": "Sat, 22 Aug 2026 09:12:37 GMT"
@@ -78,13 +85,6 @@
       "title": "Ufficiale: Carlos Alcaraz torna agli Us Open. E ora si aspetta la decisione di Sinner - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Thu, 20 Aug 2026 17:09:09 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Quanti punti perde Jannik Sinner saltando gli US Open? Come cambia il ranking ATP e nuovi vantaggi - OA Sport",
-      "source": "OA Sport",
-      "published": "Fri, 21 Aug 2026 14:45:22 GMT"
     },
     {
       "type": "news",
@@ -110,9 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel 2026: London P1 | Live - Red Bull",
-      "source": "Red Bull",
-      "published": "Fri, 07 Aug 2026 21:29:57 GMT"
+      "title": "Pretoria Premier Padel P1, titolo a Brea-Triay e ai ‘Chingalan’ - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
     }
   ]
 }
