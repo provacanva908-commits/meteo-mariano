@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T16:26:39.946828+00:00",
+  "updated_at": "2026-08-22T16:53:15.468483+00:00",
   "local_date": "2026-08-22",
   "articles": [
     {
@@ -8,6 +8,13 @@
       "title": "Calciomercato Napoli, ufficiale l'acquisto di Badiashile: «Benvenuto Benoit», l'annuncio del presidente - Il Mattino",
       "source": "Il Mattino",
       "published": "Sat, 22 Aug 2026 15:33:14 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato: è ufficiale il secondo acquisto del Napoli - NapoliToday",
+      "source": "NapoliToday",
+      "published": "Sat, 22 Aug 2026 16:32:42 GMT"
     },
     {
       "type": "news",
@@ -22,20 +29,6 @@
       "title": "Inter, Jones ufficiale: 'Qui per fare un passo in più nella mia carriera'. Calciomercato news - Sky Sport",
       "source": "Sky Sport",
       "published": "Fri, 21 Aug 2026 21:21:08 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Atalanta, Elmas è a Zingonia: arriva in prestito dal Lipsia. Le news di calciomercato - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sat, 22 Aug 2026 11:07:30 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, oggi al via la nuova stagione. Alle 18.30 si parte con Inter-Monza e Udinese-Como - Sky TG24",
-      "source": "Sky TG24",
-      "published": "Sat, 22 Aug 2026 15:37:48 GMT"
     },
     {
       "type": "news",
@@ -54,6 +47,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Serie A, al via la nuova stagione. Inter-Monza 0-0 e Udinese-Como 0-0. LIVE - Sky TG24",
+      "source": "Sky TG24",
+      "published": "Sat, 22 Aug 2026 16:28:19 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Serie A Women’s Cup, si comincia! Venerdì scatta la nuova stagione: apre Como 1907-Juventus gratis su YouTube, poi Parma-Inter su Sky Sport e NOW - FIGC",
       "source": "FIGC",
       "published": "Thu, 20 Aug 2026 07:08:00 GMT"
@@ -68,16 +68,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Cobolli-Fils oggi in tv, ATP Cincinnati 2026: orario prima semifinale, programma, streaming - OA Sport",
-      "source": "OA Sport",
-      "published": "Sat, 22 Aug 2026 05:36:31 GMT"
+      "title": "Cobolli-Fils, oggi semifinale Atp Cincinnati 2026: a che ora e dove vederla in diretta - today.it",
+      "source": "today.it",
+      "published": "Sat, 22 Aug 2026 09:12:37 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Cobolli-Fils, oggi semifinale Atp Cincinnati 2026: a che ora e dove vederla in diretta - today.it",
-      "source": "today.it",
-      "published": "Sat, 22 Aug 2026 09:12:37 GMT"
+      "title": "Cobolli-Fils oggi in tv, ATP Cincinnati 2026: orario prima semifinale, programma, streaming - OA Sport",
+      "source": "OA Sport",
+      "published": "Sat, 22 Aug 2026 05:36:31 GMT"
     },
     {
       "type": "news",
