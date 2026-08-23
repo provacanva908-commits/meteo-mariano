@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-08-23T14:47:56.027844+00:00",
+  "updated_at": "2026-08-23T15:09:48.132517+00:00",
   "local_date": "2026-08-23",
   "articles": [
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato: è ufficiale il secondo acquisto del Napoli - NapoliToday",
-      "source": "NapoliToday",
-      "published": "Sat, 22 Aug 2026 16:32:42 GMT"
-    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "Calciomercato Lazio, per Pinamonti ballano 3 milioni: tutto fermo senza la cessione di Tavares - RomaToday",
       "source": "RomaToday",
       "published": "Sun, 23 Aug 2026 10:33:21 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Inter, Jones ufficiale: 'Qui per fare un passo in più nella mia carriera'. Calciomercato news - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 21 Aug 2026 21:21:08 GMT"
     },
     {
       "type": "news",
@@ -40,13 +40,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Inter instant team, è la più forte ma non snobbi la Champions. Milan e Juve vincano l'Europa League. Siamo all'anno zero - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Fri, 21 Aug 2026 05:45:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Le partite di Serie A di oggi, il calendario e gli orari della 1^ giornata - Sky Sport",
       "source": "Sky Sport",
       "published": "Sun, 23 Aug 2026 07:00:00 GMT"
@@ -54,9 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A. Genoa-Napoli 0-2, la sintesi della partita - RaiNews",
+      "title": "Serie A. Udinese-Como 1-1, la sintesi della partita - RaiNews",
       "source": "RaiNews",
-      "published": "Sat, 22 Aug 2026 21:14:27 GMT"
+      "published": "Sat, 22 Aug 2026 21:33:15 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Bologna-Lazio, le probabili formazioni della partita di Serie A - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sun, 23 Aug 2026 11:41:02 GMT"
     },
     {
       "type": "news",
@@ -89,13 +89,6 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 09 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
       "title": "FIP Tour: Touly ai quarti di finale a Porto Sant'Elpidio, Godallier in finale a Espoo - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sat, 22 Aug 2026 13:03:39 GMT"
@@ -113,6 +106,13 @@
       "title": "Matteo Sargolini show in Finlandia, è argento alla Fip Silver di padel - Bignotizie.it",
       "source": "Bignotizie.it",
       "published": "Sat, 22 Aug 2026 21:12:38 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Bronze Marnes II: svelate le liste definitive, con una forte presenza di giocatori francesi - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sun, 23 Aug 2026 08:46:21 GMT"
     }
   ]
 }
