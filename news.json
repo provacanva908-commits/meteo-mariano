@@ -1,5 +1,118 @@
 {
-  "updated_at": "2026-08-23T09:38:24.925565+00:00",
+  "updated_at": "2026-08-23T10:00:16.370350+00:00",
   "local_date": "2026-08-23",
-  "articles": []
+  "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato: è ufficiale il secondo acquisto del Napoli - NapoliToday",
+      "source": "NapoliToday",
+      "published": "Sat, 22 Aug 2026 16:32:42 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli, ufficiale l'acquisto di Badiashile: «Benvenuto Benoit», l'annuncio del presidente - Il Mattino",
+      "source": "Il Mattino",
+      "published": "Sat, 22 Aug 2026 15:33:14 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Inter, Jones ufficiale: 'Qui per fare un passo in più nella mia carriera'. Calciomercato news - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 21 Aug 2026 21:21:08 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Roma-Oosterwolde, trattativa ai dettagli col Fenerbahce: le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sun, 23 Aug 2026 08:08:09 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Inter-Monza 4-1, le pagelle della partita di Serie A: Pio Esposito migliore in campo - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sat, 22 Aug 2026 18:42:35 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A Women’s Cup, si comincia! Venerdì scatta la nuova stagione: apre Como 1907-Juventus gratis su YouTube, poi Parma-Inter su Sky Sport e NOW - FIGC",
+      "source": "FIGC",
+      "published": "Thu, 20 Aug 2026 07:08:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Inter instant team, è la più forte ma non snobbi la Champions. Milan e Juve vincano l'Europa League. Siamo all'anno zero - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Fri, 21 Aug 2026 05:45:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Le partite di Serie A di oggi, il calendario e gli orari della 1^ giornata - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sun, 23 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Ufficiale: Carlos Alcaraz torna agli Us Open. E ora si aspetta la decisione di Sinner - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Thu, 20 Aug 2026 17:09:09 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Quanti punti perde Jannik Sinner saltando gli US Open? Come cambia il ranking ATP e nuovi vantaggi - OA Sport",
+      "source": "OA Sport",
+      "published": "Fri, 21 Aug 2026 14:45:22 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner non ce la fa, ufficiale il forfait agli Us Open: \"Sono deluso ma ho bisogno di più tempo\" - RaiNews",
+      "source": "RaiNews",
+      "published": "Fri, 21 Aug 2026 18:54:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Fils-Tiafoe oggi, Finale ATP Cincinnati 2026: orario, tv, programma, streaming - OA Sport",
+      "source": "OA Sport",
+      "published": "Sun, 23 Aug 2026 05:02:21 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Tour: Touly ai quarti di finale a Porto Sant'Elpidio, Godallier in finale a Espoo - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 22 Aug 2026 13:03:39 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Matteo Sargolini show in Finlandia, è argento alla Fip Silver di padel - Bignotizie.it",
+      "source": "Bignotizie.it",
+      "published": "Sat, 22 Aug 2026 21:12:38 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel 2026: London P1 | Live - Red Bull",
+      "source": "Red Bull",
+      "published": "Fri, 07 Aug 2026 21:29:57 GMT"
+    }
+  ]
 }
