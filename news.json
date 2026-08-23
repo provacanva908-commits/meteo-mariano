@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T21:02:02.282678+00:00",
+  "updated_at": "2026-08-23T21:32:31.903787+00:00",
   "local_date": "2026-08-23",
   "articles": [
     {
@@ -33,6 +33,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Serie A: buona la prima per Juventus e Milan, un segnale all'Inter - ANSA",
+      "source": "ANSA",
+      "published": "Sun, 23 Aug 2026 21:05:18 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Serie A. Inter-Monza 4-1, la sintesi della partita - RaiNews",
       "source": "RaiNews",
       "published": "Sat, 22 Aug 2026 21:43:36 GMT"
@@ -50,13 +57,6 @@
       "title": "Serie A | Frosinone-Juventus | La partita - Juventus.com",
       "source": "Juventus.com",
       "published": "Sun, 23 Aug 2026 18:38:28 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Frosinone-Juventus 0-1, le pagelle della partita di Serie A - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sun, 23 Aug 2026 18:55:08 GMT"
     },
     {
       "type": "news",
