@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T07:17:47.787277+00:00",
+  "updated_at": "2026-08-23T07:52:35.694666+00:00",
   "local_date": "2026-08-23",
   "articles": [
     {
@@ -33,16 +33,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A: il Napoli passa con il Genoa. Poker dell'Inter al Monza. Cagliari di misura contro il Parma. Pari tra Udinese e Como - L'Eco Vicentino",
-      "source": "L'Eco Vicentino",
-      "published": "Sun, 23 Aug 2026 05:55:33 GMT"
+      "title": "Milan e Juventus oggi in serie A: orario, probabili formazioni e dove vederle. E domani tocca alla Roma - lapresse.it",
+      "source": "lapresse.it",
+      "published": "Sun, 23 Aug 2026 05:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Women’s Cup, si comincia! Venerdì scatta la nuova stagione: apre Como 1907-Juventus gratis su YouTube, poi Parma-Inter su Sky Sport e NOW - FIGC",
-      "source": "FIGC",
-      "published": "Thu, 20 Aug 2026 07:08:00 GMT"
+      "title": "Serie A: il Napoli passa con il Genoa. Poker dell'Inter al Monza. Cagliari di misura contro il Parma. Pari tra Udinese e Como - L'Eco Vicentino",
+      "source": "L'Eco Vicentino",
+      "published": "Sun, 23 Aug 2026 05:55:33 GMT"
     },
     {
       "type": "news",
@@ -54,30 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Frosinone-Juventus, le probabili formazioni della partita di Serie A - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sat, 22 Aug 2026 15:45:19 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Il nuovo vantaggio di Jannik Sinner nel ranking ATP: cosa cambia dopo la sconfitta di Zverev. Alcaraz lontanissimo - OA Sport",
-      "source": "OA Sport",
-      "published": "Thu, 20 Aug 2026 11:16:36 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ufficiale: Carlos Alcaraz torna agli Us Open. E ora si aspetta la decisione di Sinner - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Thu, 20 Aug 2026 17:09:09 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Quanti punti perde Jannik Sinner saltando gli US Open? Come cambia il ranking ATP e nuovi vantaggi - OA Sport",
-      "source": "OA Sport",
-      "published": "Fri, 21 Aug 2026 14:45:22 GMT"
+      "title": "Serie A Women’s Cup, si comincia! Venerdì scatta la nuova stagione: apre Como 1907-Juventus gratis su YouTube, poi Parma-Inter su Sky Sport e NOW - FIGC",
+      "source": "FIGC",
+      "published": "Thu, 20 Aug 2026 07:08:00 GMT"
     },
     {
       "type": "news",
@@ -85,6 +64,27 @@
       "title": "Sinner non ce la fa, ufficiale il forfait agli Us Open: \"Sono deluso ma ho bisogno di più tempo\" - RaiNews",
       "source": "RaiNews",
       "published": "Fri, 21 Aug 2026 18:54:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Fils-Tiafoe oggi, Finale ATP Cincinnati 2026: orario, tv, programma, streaming - OA Sport",
+      "source": "OA Sport",
+      "published": "Sun, 23 Aug 2026 05:02:21 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Alcaraz chiama, ora Sinner deve rispondere: ore decisive per la partecipazione di Jannik agli Us Open - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Fri, 21 Aug 2026 05:59:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "ATP Cincinnati LIVE: Fils domina Cobolli, Flavio si ferma in semifinale - Ubitennis",
+      "source": "Ubitennis",
+      "published": "Sat, 22 Aug 2026 17:38:30 GMT"
     },
     {
       "type": "news",
@@ -103,16 +103,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Matteo Sargolini show in Finlandia, è argento alla Fip Silver di padel - Bignotizie.it",
-      "source": "Bignotizie.it",
-      "published": "Sat, 22 Aug 2026 21:12:38 GMT"
+      "title": "Pretoria Premier Padel P1, titolo a Brea-Triay e ai ‘Chingalan’ - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel 2026: London P1 | Live - Red Bull",
-      "source": "Red Bull",
-      "published": "Fri, 07 Aug 2026 21:29:57 GMT"
+      "title": "Matteo Sargolini show in Finlandia, è argento alla Fip Silver di padel - Bignotizie.it",
+      "source": "Bignotizie.it",
+      "published": "Sat, 22 Aug 2026 21:12:38 GMT"
     }
   ]
 }
