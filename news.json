@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T19:30:04.847610+00:00",
+  "updated_at": "2026-08-23T19:50:53.992186+00:00",
   "local_date": "2026-08-23",
   "articles": [
     {
@@ -40,6 +40,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Serie A, ok Juve e Lecce. Ora Torino-Milan 0-0 e Atalanta-Sassuolo 1-0 - Sky TG24",
+      "source": "Sky TG24",
+      "published": "Sun, 23 Aug 2026 19:34:35 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Serie A | Frosinone-Juventus | La partita - Juventus.com",
       "source": "Juventus.com",
       "published": "Sun, 23 Aug 2026 18:38:28 GMT"
@@ -50,13 +57,6 @@
       "title": "Le partite di Serie A di oggi, il calendario e gli orari della 1^ giornata - Sky Sport",
       "source": "Sky Sport",
       "published": "Sun, 23 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A | Frosinone-Juventus | Le interviste - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Sun, 23 Aug 2026 19:28:28 GMT"
     },
     {
       "type": "news",
