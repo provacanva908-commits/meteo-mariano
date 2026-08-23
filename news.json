@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-23T12:38:48.917837+00:00",
+  "updated_at": "2026-08-23T13:20:41.055698+00:00",
   "local_date": "2026-08-23",
   "articles": [
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato: è ufficiale il secondo acquisto del Napoli - NapoliToday",
-      "source": "NapoliToday",
-      "published": "Sat, 22 Aug 2026 16:32:42 GMT"
-    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -32,10 +25,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A Women’s Cup, si comincia! Venerdì scatta la nuova stagione: apre Como 1907-Juventus gratis su YouTube, poi Parma-Inter su Sky Sport e NOW - FIGC",
-      "source": "FIGC",
-      "published": "Thu, 20 Aug 2026 07:08:00 GMT"
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Roma, due rinforzi per Gasperini: spunta il clamoroso scambio col Milan - RomaToday",
+      "source": "RomaToday",
+      "published": "Fri, 21 Aug 2026 08:04:18 GMT"
     },
     {
       "type": "news",
@@ -47,9 +40,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Inter instant team, è la più forte ma non snobbi la Champions. Milan e Juve vincano l'Europa League. Siamo all'anno zero - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Fri, 21 Aug 2026 05:45:00 GMT"
+      "title": "Serie A Women’s Cup, si comincia! Venerdì scatta la nuova stagione: apre Como 1907-Juventus gratis su YouTube, poi Parma-Inter su Sky Sport e NOW - FIGC",
+      "source": "FIGC",
+      "published": "Thu, 20 Aug 2026 07:08:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Calendario Napoli Serie A Enilive 2026/2027, tutte le partite di campionato sono visibili su DAZN | DAZN News Italia - DAZN",
+      "source": "DAZN",
+      "published": "Wed, 19 Aug 2026 09:15:00 GMT"
     },
     {
       "type": "news",
@@ -103,16 +103,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Matteo Sargolini show in Finlandia, è argento alla Fip Silver di padel - Bignotizie.it",
-      "source": "Bignotizie.it",
-      "published": "Sat, 22 Aug 2026 21:12:38 GMT"
+      "title": "FIP Bronze Marnes II: svelate le liste definitive, con una forte presenza di giocatori francesi - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sun, 23 Aug 2026 08:46:21 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel 2026: London P1 | Live - Red Bull",
-      "source": "Red Bull",
-      "published": "Fri, 07 Aug 2026 21:29:57 GMT"
+      "title": "Tapia svela uno dei segreti dei Golden Boys: \"Tra noi non c'è spazio per l'ego\". - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sun, 23 Aug 2026 09:56:33 GMT"
     }
   ]
 }
