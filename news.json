@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T20:16:23.725899+00:00",
+  "updated_at": "2026-08-23T20:43:22.396241+00:00",
   "local_date": "2026-08-23",
   "articles": [
     {
@@ -40,9 +40,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, ok Juve e Lecce. Ora Torino-Milan 0-0 e Atalanta-Sassuolo 1-0 - Sky TG24",
+      "title": "Serie A, ok Juve e Lecce. Ora Torino-Milan 0-2 e Atalanta-Sassuolo 2-1 - Sky TG24",
       "source": "Sky TG24",
-      "published": "Sun, 23 Aug 2026 19:34:35 GMT"
+      "published": "Sun, 23 Aug 2026 20:26:18 GMT"
     },
     {
       "type": "news",
@@ -54,9 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Le partite di Serie A di oggi, il calendario e gli orari della 1^ giornata - Sky Sport",
+      "title": "Frosinone-Juventus 0-1, le pagelle della partita di Serie A - Sky Sport",
       "source": "Sky Sport",
-      "published": "Sun, 23 Aug 2026 07:00:00 GMT"
+      "published": "Sun, 23 Aug 2026 18:55:08 GMT"
     },
     {
       "type": "news",
@@ -68,23 +68,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ufficiale: Carlos Alcaraz torna agli Us Open. E ora si aspetta la decisione di Sinner - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Thu, 20 Aug 2026 17:09:09 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Quanti punti perde Jannik Sinner saltando gli US Open? Come cambia il ranking ATP e nuovi vantaggi - OA Sport",
-      "source": "OA Sport",
-      "published": "Fri, 21 Aug 2026 14:45:22 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Sinner non ce la fa, ufficiale il forfait agli Us Open: \"Sono deluso ma ho bisogno di più tempo\" - RaiNews",
       "source": "RaiNews",
       "published": "Fri, 21 Aug 2026 18:54:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner fuori dagli Us Open: quando torna e cosa succede alla classifica Atp - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Fri, 21 Aug 2026 14:54:55 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "WTA Cincinnati, Gauff: \"La finale qui è solo un'altra sfida per migliorare. L'obiettivo è l'US Open\" - Ubitennis",
+      "source": "Ubitennis",
+      "published": "Sun, 23 Aug 2026 09:10:31 GMT"
     },
     {
       "type": "news",
@@ -103,16 +103,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Bronze Marnes II: Bergeron / Seurin, è ora di ritrovare lo slancio - padel-magazine.it",
+      "title": "Da fisioterapista a giocatrice di padel al 100%: Clara Mansart cambia vita e lancia la sua sfida al FIP Bronze Marnes II - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Sun, 23 Aug 2026 14:55:00 GMT"
+      "published": "Sun, 23 Aug 2026 19:48:55 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Da fisioterapista a giocatrice di padel al 100%: Clara Mansart cambia vita e lancia la sua sfida al Fip Brone Marnes II - padel-magazine.it",
+      "title": "FIP Bronze Marnes II: Bergeron / Seurin, è ora di ritrovare lo slancio - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Sun, 23 Aug 2026 19:48:55 GMT"
+      "published": "Sun, 23 Aug 2026 14:55:00 GMT"
     }
   ]
 }
