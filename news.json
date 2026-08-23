@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T15:09:48.132517+00:00",
+  "updated_at": "2026-08-23T15:38:49.887181+00:00",
   "local_date": "2026-08-23",
   "articles": [
     {
@@ -47,16 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A. Udinese-Como 1-1, la sintesi della partita - RaiNews",
-      "source": "RaiNews",
-      "published": "Sat, 22 Aug 2026 21:33:15 GMT"
+      "title": "Bologna-Lazio, le probabili formazioni della partita di Serie A - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sun, 23 Aug 2026 11:41:02 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Bologna-Lazio, le probabili formazioni della partita di Serie A - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sun, 23 Aug 2026 11:41:02 GMT"
+      "title": "Le principali date del calendario nazionale 2027 - Federazione Italiana Canottaggio",
+      "source": "Federazione Italiana Canottaggio",
+      "published": "Sun, 23 Aug 2026 10:21:07 GMT"
     },
     {
       "type": "news",
@@ -89,6 +89,13 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 09 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "FIP Tour: Touly ai quarti di finale a Porto Sant'Elpidio, Godallier in finale a Espoo - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sat, 22 Aug 2026 13:03:39 GMT"
@@ -99,13 +106,6 @@
       "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 02 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Matteo Sargolini show in Finlandia, è argento alla Fip Silver di padel - Bignotizie.it",
-      "source": "Bignotizie.it",
-      "published": "Sat, 22 Aug 2026 21:12:38 GMT"
     },
     {
       "type": "news",
