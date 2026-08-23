@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T15:38:49.887181+00:00",
+  "updated_at": "2026-08-23T15:58:31.710826+00:00",
   "local_date": "2026-08-23",
   "articles": [
     {
@@ -54,9 +54,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Le principali date del calendario nazionale 2027 - Federazione Italiana Canottaggio",
-      "source": "Federazione Italiana Canottaggio",
-      "published": "Sun, 23 Aug 2026 10:21:07 GMT"
+      "title": "Serie A. Udinese-Como 1-1, la sintesi della partita - RaiNews",
+      "source": "RaiNews",
+      "published": "Sat, 22 Aug 2026 21:33:15 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner salta Us Open, Alcaraz torna in campo a New York: come può cambiare il ranking Atp - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Fri, 21 Aug 2026 15:10:00 GMT"
     },
     {
       "type": "news",
@@ -78,13 +85,6 @@
       "title": "Sinner non ce la fa, ufficiale il forfait agli Us Open: \"Sono deluso ma ho bisogno di più tempo\" - RaiNews",
       "source": "RaiNews",
       "published": "Fri, 21 Aug 2026 18:54:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Alcaraz chiama, ora Sinner deve rispondere: ore decisive per la partecipazione di Jannik agli Us Open - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Fri, 21 Aug 2026 05:59:00 GMT"
     },
     {
       "type": "news",
@@ -110,9 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Bronze Marnes II: svelate le liste definitive, con una forte presenza di giocatori francesi - padel-magazine.it",
+      "title": "FIP Bronze Marnes II: Bergeron / Seurin, è ora di ritrovare lo slancio - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Sun, 23 Aug 2026 08:46:21 GMT"
+      "published": "Sun, 23 Aug 2026 14:55:00 GMT"
     }
   ]
 }
