@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T07:52:35.694666+00:00",
+  "updated_at": "2026-08-23T08:29:07.249363+00:00",
   "local_date": "2026-08-23",
   "articles": [
     {
@@ -26,9 +26,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, due rinforzi per Gasperini: spunta il clamoroso scambio col Milan - RomaToday",
-      "source": "RomaToday",
-      "published": "Fri, 21 Aug 2026 08:04:18 GMT"
+      "title": "Roma-Oosterwolde, trattativa ai dettagli col Fenerbahce: le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sun, 23 Aug 2026 08:08:09 GMT"
     },
     {
       "type": "news",
@@ -61,6 +61,20 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Ufficiale: Carlos Alcaraz torna agli Us Open. E ora si aspetta la decisione di Sinner - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Thu, 20 Aug 2026 17:09:09 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Quanti punti perde Jannik Sinner saltando gli US Open? Come cambia il ranking ATP e nuovi vantaggi - OA Sport",
+      "source": "OA Sport",
+      "published": "Fri, 21 Aug 2026 14:45:22 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Sinner non ce la fa, ufficiale il forfait agli Us Open: \"Sono deluso ma ho bisogno di più tempo\" - RaiNews",
       "source": "RaiNews",
       "published": "Fri, 21 Aug 2026 18:54:00 GMT"
@@ -71,20 +85,6 @@
       "title": "Fils-Tiafoe oggi, Finale ATP Cincinnati 2026: orario, tv, programma, streaming - OA Sport",
       "source": "OA Sport",
       "published": "Sun, 23 Aug 2026 05:02:21 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Alcaraz chiama, ora Sinner deve rispondere: ore decisive per la partecipazione di Jannik agli Us Open - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Fri, 21 Aug 2026 05:59:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "ATP Cincinnati LIVE: Fils domina Cobolli, Flavio si ferma in semifinale - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Sat, 22 Aug 2026 17:38:30 GMT"
     },
     {
       "type": "news",
@@ -103,16 +103,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Pretoria Premier Padel P1, titolo a Brea-Triay e ai ‘Chingalan’ - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
+      "title": "Matteo Sargolini show in Finlandia, è argento alla Fip Silver di padel - Bignotizie.it",
+      "source": "Bignotizie.it",
+      "published": "Sat, 22 Aug 2026 21:12:38 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Matteo Sargolini show in Finlandia, è argento alla Fip Silver di padel - Bignotizie.it",
-      "source": "Bignotizie.it",
-      "published": "Sat, 22 Aug 2026 21:12:38 GMT"
+      "title": "Premier Padel 2026: London P1 | Live - Red Bull",
+      "source": "Red Bull",
+      "published": "Fri, 07 Aug 2026 21:29:57 GMT"
     }
   ]
 }
