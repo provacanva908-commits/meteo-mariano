@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T13:20:41.055698+00:00",
+  "updated_at": "2026-08-23T13:52:07.084339+00:00",
   "local_date": "2026-08-23",
   "articles": [
     {
@@ -33,30 +33,30 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Inter-Monza 4-1, le pagelle della partita di Serie A: Pio Esposito migliore in campo - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sat, 22 Aug 2026 18:42:35 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A Women’s Cup, si comincia! Venerdì scatta la nuova stagione: apre Como 1907-Juventus gratis su YouTube, poi Parma-Inter su Sky Sport e NOW - FIGC",
-      "source": "FIGC",
-      "published": "Thu, 20 Aug 2026 07:08:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Calendario Napoli Serie A Enilive 2026/2027, tutte le partite di campionato sono visibili su DAZN | DAZN News Italia - DAZN",
-      "source": "DAZN",
-      "published": "Wed, 19 Aug 2026 09:15:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Le partite di Serie A di oggi, il calendario e gli orari della 1^ giornata - Sky Sport",
       "source": "Sky Sport",
       "published": "Sun, 23 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A, oggi Frosinone-Juventus: orario, probabili formazioni e dove vederla - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Sun, 23 Aug 2026 05:36:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Bologna-Lazio, le probabili formazioni della partita di Serie A - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sun, 23 Aug 2026 11:41:02 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A, Inter e Napoli vincono al debutto in campionato - Il Sole 24 ORE",
+      "source": "Il Sole 24 ORE",
+      "published": "Sun, 23 Aug 2026 08:05:18 GMT"
     },
     {
       "type": "news",
@@ -82,9 +82,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Fils-Tiafoe oggi, Finale ATP Cincinnati 2026: orario, tv, programma, streaming - OA Sport",
-      "source": "OA Sport",
-      "published": "Sun, 23 Aug 2026 05:02:21 GMT"
+      "title": "Alcaraz chiama, ora Sinner deve rispondere: ore decisive per la partecipazione di Jannik agli Us Open - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Fri, 21 Aug 2026 05:59:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 09 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -103,16 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Bronze Marnes II: svelate le liste definitive, con una forte presenza di giocatori francesi - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sun, 23 Aug 2026 08:46:21 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Tapia svela uno dei segreti dei Golden Boys: \"Tra noi non c'è spazio per l'ego\". - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sun, 23 Aug 2026 09:56:33 GMT"
+      "title": "Matteo Sargolini show in Finlandia, è argento alla Fip Silver di padel - Bignotizie.it",
+      "source": "Bignotizie.it",
+      "published": "Sat, 22 Aug 2026 21:12:38 GMT"
     }
   ]
 }
