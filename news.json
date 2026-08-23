@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T05:50:24.818009+00:00",
+  "updated_at": "2026-08-23T06:29:56.782314+00:00",
   "local_date": "2026-08-23",
   "articles": [
     {
@@ -40,6 +40,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Serie A: il Napoli passa con il Genoa. Poker dell'Inter al Monza. Cagliari di misura contro il Parma. Pari tra Udinese e Como - L'Eco Vicentino",
+      "source": "L'Eco Vicentino",
+      "published": "Sun, 23 Aug 2026 05:55:33 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Inter-Monza 4-1, le pagelle della partita di Serie A: Pio Esposito migliore in campo - Sky Sport",
       "source": "Sky Sport",
       "published": "Sat, 22 Aug 2026 18:42:35 GMT"
@@ -53,13 +60,6 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A Women’s Cup, si comincia! Venerdì scatta la nuova stagione: apre Como 1907-Juventus gratis su YouTube, poi Parma-Inter su Sky Sport e NOW - FIGC",
-      "source": "FIGC",
-      "published": "Thu, 20 Aug 2026 07:08:00 GMT"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
       "title": "Il nuovo vantaggio di Jannik Sinner nel ranking ATP: cosa cambia dopo la sconfitta di Zverev. Alcaraz lontanissimo - OA Sport",
       "source": "OA Sport",
@@ -68,16 +68,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ufficiale: Carlos Alcaraz torna agli Us Open. E ora si aspetta la decisione di Sinner - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Thu, 20 Aug 2026 17:09:09 GMT"
+      "title": "Sinner salta Us Open, Alcaraz torna in campo a New York: come può cambiare il ranking Atp - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Fri, 21 Aug 2026 15:10:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Infinitamente Sinner: la vittoria su Djokovic a Wimbledon - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 19 Aug 2026 22:50:20 GMT"
+      "title": "Ufficiale: Carlos Alcaraz torna agli Us Open. E ora si aspetta la decisione di Sinner - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Thu, 20 Aug 2026 17:09:09 GMT"
     },
     {
       "type": "news",
