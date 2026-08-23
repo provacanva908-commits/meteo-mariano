@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T18:29:43.707751+00:00",
+  "updated_at": "2026-08-23T19:00:11.323092+00:00",
   "local_date": "2026-08-23",
   "articles": [
     {
@@ -33,6 +33,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Serie A. Inter-Monza 4-1, la sintesi della partita - RaiNews",
+      "source": "RaiNews",
+      "published": "Sat, 22 Aug 2026 21:43:36 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Serie A Women’s Cup, si comincia! Venerdì scatta la nuova stagione: apre Como 1907-Juventus gratis su YouTube, poi Parma-Inter su Sky Sport e NOW - FIGC",
       "source": "FIGC",
       "published": "Thu, 20 Aug 2026 07:08:00 GMT"
@@ -47,16 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Bologna-Lazio, le probabili formazioni della partita di Serie A - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sun, 23 Aug 2026 11:41:02 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A. Udinese-Como 1-1, la sintesi della partita - RaiNews",
-      "source": "RaiNews",
-      "published": "Sat, 22 Aug 2026 21:33:15 GMT"
+      "title": "Serie A | Frosinone-Juventus | La partita - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Sun, 23 Aug 2026 18:36:48 GMT"
     },
     {
       "type": "news",
