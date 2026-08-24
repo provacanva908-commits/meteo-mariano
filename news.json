@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T22:32:17.534674+00:00",
+  "updated_at": "2026-08-24T22:58:11.168685+00:00",
   "local_date": "2026-08-25",
   "articles": [
     {
@@ -8,6 +8,13 @@
       "title": "Calciomercato Lazio, per Pinamonti ballano 3 milioni: tutto fermo senza la cessione di Tavares - RomaToday",
       "source": "RomaToday",
       "published": "Sun, 23 Aug 2026 10:33:21 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Como-Kean in chiusura, parti più vicine: la Fiorentina attende l'offerta ufficiale, i dettagli - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Mon, 24 Aug 2026 20:55:06 GMT"
     },
     {
       "type": "news",
@@ -25,17 +32,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, Gasperini chiede due colpi e Leao apre al trasferimento: almeno 40 milioni per convincere il Milan - Il Riformista",
-      "source": "Il Riformista",
-      "published": "Mon, 24 Aug 2026 09:06:00 GMT"
-    },
-    {
-      "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Women's Cup | Como 1907-Juventus, la partita - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Fri, 21 Aug 2026 21:29:12 GMT"
+      "title": "Napoli, Como e Inter sono due test da Champions League: il calendario degli azzurri - Il Mattino",
+      "source": "Il Mattino",
+      "published": "Mon, 24 Aug 2026 22:45:01 GMT"
     },
     {
       "type": "news",
