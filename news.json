@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T13:09:39.388558+00:00",
+  "updated_at": "2026-08-24T14:03:55.098648+00:00",
   "local_date": "2026-08-24",
   "articles": [
     {
@@ -21,14 +21,14 @@
       "category": "CALCIOMERCATO",
       "title": "Calciomercato Roma, ecco Oosterwolde: il ruolo, le caratteristiche e l'ingaggio del nuovo acquisto - Sisal",
       "source": "Sisal",
-      "published": "Mon, 24 Aug 2026 11:26:15 GMT"
+      "published": "Mon, 24 Aug 2026 11:56:55 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, Gasperini chiede due colpi e Leao apre al trasferimento: almeno 40 milioni per convincere il Milan - Il Riformista",
+      "title": "Calciomercato Fiorentina, l'addio di Kean: con la Roma ultima partita in viola, poi l'avventura con Fabregas e il Como (che paga 45 milioni) - Il Riformista",
       "source": "Il Riformista",
-      "published": "Mon, 24 Aug 2026 09:06:00 GMT"
+      "published": "Mon, 24 Aug 2026 13:15:00 GMT"
     },
     {
       "type": "news",
@@ -54,9 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, subito 3 punti per Milan, Juve e Atalanta - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
-      "published": "Mon, 24 Aug 2026 08:55:07 GMT"
+      "title": "Serie A | Frosinone-Juventus | I numeri postpartita - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Mon, 24 Aug 2026 09:57:17 GMT"
     },
     {
       "type": "news",
@@ -68,16 +68,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP e WTA: Sinner comanda, benissimo Cobolli. Paolini scende al n. 20 - Il Tennis Italiano",
-      "source": "Il Tennis Italiano",
-      "published": "Mon, 24 Aug 2026 08:48:35 GMT"
+      "title": "Ufficiale: Carlos Alcaraz torna agli Us Open. E ora si aspetta la decisione di Sinner - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Thu, 20 Aug 2026 17:09:09 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ufficiale: Carlos Alcaraz torna agli Us Open. E ora si aspetta la decisione di Sinner - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Thu, 20 Aug 2026 17:09:09 GMT"
+      "title": "Ranking ATP e WTA: Sinner comanda, benissimo Cobolli. Paolini scende al n. 20 - Il Tennis Italiano",
+      "source": "Il Tennis Italiano",
+      "published": "Mon, 24 Aug 2026 08:48:35 GMT"
     },
     {
       "type": "news",
@@ -110,9 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel, argento per Sargolini alla Fip Silver in Finlandia - TRC Giornale",
-      "source": "TRC Giornale",
-      "published": "Mon, 24 Aug 2026 09:07:48 GMT"
+      "title": "FIP Gold Belgrado: vittoria schiacciante per la Francia, cinque coppie su cinque nel secondo turno di qualificazione - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Mon, 24 Aug 2026 13:13:08 GMT"
     }
   ]
 }
