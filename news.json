@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T16:23:13.011848+00:00",
+  "updated_at": "2026-08-24T17:05:04.455499+00:00",
   "local_date": "2026-08-24",
   "articles": [
     {
@@ -8,13 +8,6 @@
       "title": "Calciomercato Lazio, per Pinamonti ballano 3 milioni: tutto fermo senza la cessione di Tavares - RomaToday",
       "source": "RomaToday",
       "published": "Sun, 23 Aug 2026 10:33:21 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, salta Luis Henrique: niente accordo con il giocatore. Oosterwolde sarà il vice-Wesley - TeleRadioStereo",
-      "source": "TeleRadioStereo",
-      "published": "Mon, 24 Aug 2026 10:53:03 GMT"
     },
     {
       "type": "news",
@@ -32,10 +25,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A: buona la prima per Juventus e Milan, un segnale all'Inter - ANSA",
-      "source": "ANSA",
-      "published": "Sun, 23 Aug 2026 21:05:18 GMT"
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Roma, Gasperini chiede due colpi e Leao apre al trasferimento: almeno 40 milioni per convincere il Milan - Il Riformista",
+      "source": "Il Riformista",
+      "published": "Mon, 24 Aug 2026 09:06:00 GMT"
     },
     {
       "type": "news",
@@ -47,16 +40,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Sorteggio Europa League 2026/27: data, orario, fasce e il calendario delle italiane - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Mon, 24 Aug 2026 13:29:16 GMT"
+      "title": "Serie A: buona la prima per Juventus e Milan, un segnale all'Inter - ANSA",
+      "source": "ANSA",
+      "published": "Sun, 23 Aug 2026 21:05:18 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Le partite di Serie A di oggi, il calendario e gli orari della 1^ giornata - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Mon, 24 Aug 2026 07:00:00 GMT"
+      "title": "Serie A. Inter-Monza 4-1, la sintesi della partita - RaiNews",
+      "source": "RaiNews",
+      "published": "Sat, 22 Aug 2026 21:43:36 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Sorteggio Europa League 2026/27: data, orario, fasce e il calendario delle italiane - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Mon, 24 Aug 2026 13:29:16 GMT"
     },
     {
       "type": "news",
@@ -82,9 +82,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner non ce la fa, ufficiale il forfait agli Us Open: \"Sono deluso ma ho bisogno di più tempo\" - RaiNews",
-      "source": "RaiNews",
-      "published": "Fri, 21 Aug 2026 18:54:00 GMT"
+      "title": "Alternanza Sinner-Alcaraz: il tennis è un musical dove le star si danno il cambio - Domani",
+      "source": "Domani",
+      "published": "Mon, 24 Aug 2026 16:52:00 GMT"
     },
     {
       "type": "news",
