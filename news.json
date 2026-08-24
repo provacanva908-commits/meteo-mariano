@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T07:41:04.237866+00:00",
+  "updated_at": "2026-08-24T08:29:09.513275+00:00",
   "local_date": "2026-08-24",
   "articles": [
     {
@@ -47,16 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Women’s Cup, si comincia! Venerdì scatta la nuova stagione: apre Como 1907-Juventus gratis su YouTube, poi Parma-Inter su Sky Sport e NOW - FIGC",
-      "source": "FIGC",
-      "published": "Thu, 20 Aug 2026 07:08:00 GMT"
+      "title": "Serie A | Frosinone-Juventus | La partita - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Sun, 23 Aug 2026 18:38:28 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A | Frosinone-Juventus | La partita - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Sun, 23 Aug 2026 18:38:28 GMT"
+      "title": "Frosinone-Juventus 0-1, le pagelle della partita di Serie A - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sun, 23 Aug 2026 18:55:08 GMT"
     },
     {
       "type": "news",
@@ -89,13 +89,6 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 09 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
       "title": "FIP Tour: Touly ai quarti di finale a Porto Sant'Elpidio, Godallier in finale a Espoo - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sat, 22 Aug 2026 13:03:39 GMT"
@@ -113,6 +106,13 @@
       "title": "FIP Bronze Marnes II: Bergeron / Seurin, è ora di ritrovare lo slancio - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sun, 23 Aug 2026 14:55:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel 2026: London P1 | Live - Red Bull",
+      "source": "Red Bull",
+      "published": "Fri, 07 Aug 2026 21:29:57 GMT"
     }
   ]
 }
