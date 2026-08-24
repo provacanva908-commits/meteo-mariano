@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T04:01:37.244590+00:00",
+  "updated_at": "2026-08-24T04:57:04.144026+00:00",
   "local_date": "2026-08-24",
   "articles": [
     {
@@ -40,6 +40,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Serie A oggi, dove vedere in TV Roma-Fiorentina e Bologna-Lazio: gli orari delle partite - Fanpage",
+      "source": "Fanpage",
+      "published": "Mon, 24 Aug 2026 04:30:14 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Serie A Women’s Cup, si comincia! Venerdì scatta la nuova stagione: apre Como 1907-Juventus gratis su YouTube, poi Parma-Inter su Sky Sport e NOW - FIGC",
       "source": "FIGC",
       "published": "Thu, 20 Aug 2026 07:08:00 GMT"
@@ -50,13 +57,6 @@
       "title": "Serie A | Frosinone-Juventus | La partita - Juventus.com",
       "source": "Juventus.com",
       "published": "Sun, 23 Aug 2026 18:38:28 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Frosinone-Juventus 0-1, le pagelle della partita di Serie A - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sun, 23 Aug 2026 18:55:08 GMT"
     },
     {
       "type": "news",
