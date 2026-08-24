@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T19:43:56.361194+00:00",
+  "updated_at": "2026-08-24T20:12:12.005083+00:00",
   "local_date": "2026-08-24",
   "articles": [
     {
@@ -47,21 +47,21 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Sorteggio Champions League 2026/27: data, orario, fasce e il calendario delle italiane - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Mon, 24 Aug 2026 11:43:56 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Serie A, Bologna-Lazio 0-1, decide Frattesi. Ora in corso Roma-Fiorentina 1-0 - Sky TG24",
       "source": "Sky TG24",
       "published": "Mon, 24 Aug 2026 19:15:37 GMT"
     },
     {
       "type": "news",
+      "category": "CALCIO",
+      "title": "Sorteggio Champions League 2026/27: data, orario, fasce e il calendario delle italiane - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Mon, 24 Aug 2026 11:43:56 GMT"
+    },
+    {
+      "type": "news",
       "category": "TENNIS",
-      "title": "Sinner salta Us Open, come cambia ranking Atp: un pericolo per Jannik - Adnkronos",
+      "title": "Sinner salta Us Open, Alcaraz torna in campo a New York: come può cambiare il ranking Atp - Adnkronos",
       "source": "Adnkronos",
       "published": "Fri, 21 Aug 2026 15:10:00 GMT"
     },
