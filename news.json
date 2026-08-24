@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-24T21:54:48.828438+00:00",
-  "local_date": "2026-08-24",
+  "updated_at": "2026-08-24T22:32:17.534674+00:00",
+  "local_date": "2026-08-25",
   "articles": [
     {
       "type": "news",
@@ -8,13 +8,6 @@
       "title": "Calciomercato Lazio, per Pinamonti ballano 3 milioni: tutto fermo senza la cessione di Tavares - RomaToday",
       "source": "RomaToday",
       "published": "Sun, 23 Aug 2026 10:33:21 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Como-Kean in chiusura, parti più vicine: la Fiorentina attende l'offerta ufficiale, i dettagli - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Mon, 24 Aug 2026 20:55:06 GMT"
     },
     {
       "type": "news",
@@ -29,6 +22,13 @@
       "title": "Calciomercato Fiorentina, l'addio di Kean: con la Roma ultima partita in viola, poi l'avventura con Fabregas e il Como (che paga 45 milioni) - Il Riformista",
       "source": "Il Riformista",
       "published": "Mon, 24 Aug 2026 13:15:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Roma, Gasperini chiede due colpi e Leao apre al trasferimento: almeno 40 milioni per convincere il Milan - Il Riformista",
+      "source": "Il Riformista",
+      "published": "Mon, 24 Aug 2026 09:06:00 GMT"
     },
     {
       "type": "news",
@@ -47,16 +47,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, Bologna-Lazio 0-1, decide Frattesi. Ora in corso Roma-Fiorentina 1-0 - Sky TG24",
-      "source": "Sky TG24",
-      "published": "Mon, 24 Aug 2026 19:15:37 GMT"
+      "title": "Sorteggio Champions League 2026/27: data, orario, fasce e il calendario delle italiane - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Mon, 24 Aug 2026 11:43:56 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Sorteggio Champions League 2026/27: data, orario, fasce e il calendario delle italiane - Sportmediaset",
+      "title": "Sorteggio Europa League 2026/27: data, orario, fasce e il calendario delle italiane - Sportmediaset",
       "source": "Sportmediaset",
-      "published": "Mon, 24 Aug 2026 11:43:56 GMT"
+      "published": "Mon, 24 Aug 2026 13:29:16 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 25 agosto · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Mon, 24 Aug 2026 22:01:00 GMT"
     },
     {
       "type": "news",
@@ -78,13 +85,6 @@
       "title": "Ufficiale: Carlos Alcaraz torna agli Us Open. E ora si aspetta la decisione di Sinner - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Thu, 20 Aug 2026 17:09:09 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ranking ATP (24 agosto 2026): Jannik Sinner saldo in vetta, Flavio Cobolli si issa al numero 6! - OA Sport",
-      "source": "OA Sport",
-      "published": "Mon, 24 Aug 2026 07:10:40 GMT"
     },
     {
       "type": "news",
