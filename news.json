@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T05:47:06.780894+00:00",
+  "updated_at": "2026-08-24T06:28:00.130725+00:00",
   "local_date": "2026-08-24",
   "articles": [
     {
@@ -26,9 +26,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Roma-Oosterwolde, trattativa ai dettagli col Fenerbahce: le news di calciomercato - Sky Sport",
+      "title": "Inter, Jones ufficiale: 'Qui per fare un passo in più nella mia carriera'. Calciomercato news - Sky Sport",
       "source": "Sky Sport",
-      "published": "Sun, 23 Aug 2026 08:08:09 GMT"
+      "published": "Fri, 21 Aug 2026 21:21:08 GMT"
     },
     {
       "type": "news",
@@ -89,6 +89,13 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 09 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "FIP Tour: Touly ai quarti di finale a Porto Sant'Elpidio, Godallier in finale a Espoo - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sat, 22 Aug 2026 13:03:39 GMT"
@@ -106,13 +113,6 @@
       "title": "FIP Bronze Marnes II: Bergeron / Seurin, è ora di ritrovare lo slancio - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sun, 23 Aug 2026 14:55:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Da fisioterapista a giocatrice di padel al 100%: Clara Mansart cambia vita e lancia la sua sfida al FIP Bronze Marnes II - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sun, 23 Aug 2026 19:48:55 GMT"
     }
   ]
 }
