@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T17:44:42.155517+00:00",
+  "updated_at": "2026-08-24T18:17:31.938477+00:00",
   "local_date": "2026-08-24",
   "articles": [
     {
@@ -8,13 +8,6 @@
       "title": "Calciomercato Lazio, per Pinamonti ballano 3 milioni: tutto fermo senza la cessione di Tavares - RomaToday",
       "source": "RomaToday",
       "published": "Sun, 23 Aug 2026 10:33:21 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, ecco Oosterwolde: il ruolo, le caratteristiche e l'ingaggio del nuovo acquisto - Sisal",
-      "source": "Sisal",
-      "published": "Mon, 24 Aug 2026 11:56:55 GMT"
     },
     {
       "type": "news",
@@ -29,6 +22,13 @@
       "title": "Calciomercato Roma, Gasperini chiede due colpi e Leao apre al trasferimento: almeno 40 milioni per convincere il Milan - Il Riformista",
       "source": "Il Riformista",
       "published": "Mon, 24 Aug 2026 09:06:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Lazio, Pinamonti a un passo. Cifre e dettagli della trattativa - Il Riformista",
+      "source": "Il Riformista",
+      "published": "Mon, 24 Aug 2026 15:40:00 GMT"
     },
     {
       "type": "news",
@@ -54,9 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Sorteggio Europa League 2026/27: data, orario, fasce e il calendario delle italiane - Sportmediaset",
+      "title": "Sorteggio Champions League 2026/27: data, orario, fasce e il calendario delle italiane - Sportmediaset",
       "source": "Sportmediaset",
-      "published": "Mon, 24 Aug 2026 13:29:16 GMT"
+      "published": "Mon, 24 Aug 2026 11:43:56 GMT"
     },
     {
       "type": "news",
@@ -64,6 +64,13 @@
       "title": "Sinner salta Us Open, Alcaraz torna in campo a New York: come può cambiare il ranking Atp - Adnkronos",
       "source": "Adnkronos",
       "published": "Fri, 21 Aug 2026 15:10:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Azzurri al top, Cobolli scala la vetta: numero 6 del Ranking Atp, Sinner leader almeno fino a ottobre. E Zverev scavalca Alcaraz - Secolo d'Italia",
+      "source": "Secolo d'Italia",
+      "published": "Mon, 24 Aug 2026 17:54:00 GMT"
     },
     {
       "type": "news",
@@ -78,13 +85,6 @@
       "title": "Ranking ATP (24 agosto 2026): Jannik Sinner saldo in vetta, Flavio Cobolli si issa al numero 6! - OA Sport",
       "source": "OA Sport",
       "published": "Mon, 24 Aug 2026 07:10:40 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Alternanza Sinner-Alcaraz: il tennis è un musical dove le star si danno il cambio - Domani",
-      "source": "Domani",
-      "published": "Mon, 24 Aug 2026 16:52:00 GMT"
     },
     {
       "type": "news",
