@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-25T13:07:21.331388+00:00",
+  "updated_at": "2026-08-25T14:03:27.422209+00:00",
   "local_date": "2026-08-25",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Lazio, per Pinamonti ballano 3 milioni: tutto fermo senza la cessione di Tavares - RomaToday",
+      "source": "RomaToday",
+      "published": "Sun, 23 Aug 2026 10:33:21 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -25,17 +32,17 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Como-Kean in chiusura, parti più vicine: la Fiorentina attende l'offerta ufficiale, i dettagli - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Mon, 24 Aug 2026 20:55:06 GMT"
-    },
-    {
-      "type": "news",
       "category": "CALCIO",
       "title": "L'Inter punta il G8, Napoli e Roma sognano, il Como vuole stupire: parte l'assalto alla Champions - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Tue, 25 Aug 2026 10:03:12 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A, Inter favorita ma la Roma lancia un messaggio al campionato - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Tue, 25 Aug 2026 11:04:00 GMT"
     },
     {
       "type": "news",
@@ -50,13 +57,6 @@
       "title": "Serie A | Frosinone-Juventus | La partita - Juventus.com",
       "source": "Juventus.com",
       "published": "Sun, 23 Aug 2026 18:38:28 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Le partite di Serie A di oggi, il calendario e gli orari della 1^ giornata - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Mon, 24 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -96,6 +96,13 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "Giochi del Mediterraneo: Pothier/Bahurel e Fonteny/Boronad affrontano due sfide enormi per un posto in semifinale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Tue, 25 Aug 2026 06:58:25 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "FIP Tour: Touly ai quarti di finale a Porto Sant'Elpidio, Godallier in finale a Espoo - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sat, 22 Aug 2026 13:03:39 GMT"
@@ -103,16 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Circuito FIP: terzo sigillo per Lorena Vano nel 2026! Sargolini brilla in Finlandia - padelmagazine.it",
+      "title": "Circuito FIP: terzo sigillo di Lorena Vano nel 2026! Sargolini brilla in Finlandia - padelmagazine.it",
       "source": "padelmagazine.it",
-      "published": "Tue, 25 Aug 2026 13:04:39 GMT"
+      "published": "Tue, 25 Aug 2026 13:24:44 GMT"
     }
   ]
 }
