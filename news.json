@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T19:50:00.088272+00:00",
+  "updated_at": "2026-08-25T20:19:29.258044+00:00",
   "local_date": "2026-08-25",
   "articles": [
     {
@@ -19,16 +19,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale | Di Gregorio in prestito al Bournemouth - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Tue, 25 Aug 2026 10:20:33 GMT"
+      "title": "Calciomercato Lazio, per Pinamonti ballano 3 milioni: tutto fermo senza la cessione di Tavares - RomaToday",
+      "source": "RomaToday",
+      "published": "Sun, 23 Aug 2026 10:33:21 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale l'arrivo di Grabara alla Juventus con la formula del prestito - Diretta",
-      "source": "Diretta",
-      "published": "Tue, 25 Aug 2026 10:02:00 GMT"
+      "title": "Ufficiale | Di Gregorio in prestito al Bournemouth - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Tue, 25 Aug 2026 10:20:33 GMT"
     },
     {
       "type": "news",
@@ -96,6 +96,13 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "Giochi Mediterraneo, padel: Italia in semifinale con Orsi e Marchetti - Askanews",
+      "source": "Askanews",
+      "published": "Tue, 25 Aug 2026 19:59:47 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "Padel: Giorgia Marchetti e Carolina Orsi centrano la semifinale ai Giochi del Mediterraneo - OA Sport",
       "source": "OA Sport",
       "published": "Tue, 25 Aug 2026 18:33:59 GMT"
@@ -106,13 +113,6 @@
       "title": "Giochi del Mediterraneo: Pothier/Bahurel e Fonteny/Boronad affrontano due sfide enormi per un posto in semifinale - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Tue, 25 Aug 2026 06:58:25 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Circuito FIP: terzo sigillo di Lorena Vano nel 2026! Sargolini brilla in Finlandia - padelmagazine.it",
-      "source": "padelmagazine.it",
-      "published": "Tue, 25 Aug 2026 13:24:44 GMT"
     }
   ]
 }
