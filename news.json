@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T05:42:48.731842+00:00",
+  "updated_at": "2026-08-25T06:18:20.717080+00:00",
   "local_date": "2026-08-25",
   "articles": [
     {
@@ -8,6 +8,13 @@
       "title": "Calciomercato Lazio, per Pinamonti ballano 3 milioni: tutto fermo senza la cessione di Tavares - RomaToday",
       "source": "RomaToday",
       "published": "Sun, 23 Aug 2026 10:33:21 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Como-Kean in chiusura, parti più vicine: la Fiorentina attende l'offerta ufficiale, i dettagli - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Mon, 24 Aug 2026 20:55:06 GMT"
     },
     {
       "type": "news",
@@ -25,10 +32,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Fiorentina, l'addio di Kean: con la Roma ultima partita in viola, poi l'avventura con Fabregas e il Como (che paga 45 milioni) - Il Riformista",
-      "source": "Il Riformista",
-      "published": "Mon, 24 Aug 2026 13:15:00 GMT"
+      "category": "CALCIO",
+      "title": "Napoli, Como e Inter sono due test da Champions League: il calendario degli azzurri - Il Mattino",
+      "source": "Il Mattino",
+      "published": "Tue, 25 Aug 2026 05:39:59 GMT"
     },
     {
       "type": "news",
@@ -50,13 +57,6 @@
       "title": "Sorteggio Europa League 2026/27: data, orario, fasce e il calendario delle italiane - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Mon, 24 Aug 2026 13:29:16 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Le partite di Serie A di oggi, il calendario e gli orari della 1^ giornata - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Mon, 24 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -82,9 +82,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Azzurri al top, Cobolli scala la vetta: numero 6 del Ranking Atp, Sinner leader almeno fino a ottobre. E Zverev scavalca Alcaraz - Secolo d'Italia",
-      "source": "Secolo d'Italia",
-      "published": "Mon, 24 Aug 2026 17:54:00 GMT"
+      "title": "Sinner non ce la fa, ufficiale il forfait agli Us Open: \"Sono deluso ma ho bisogno di più tempo\" - RaiNews",
+      "source": "RaiNews",
+      "published": "Fri, 21 Aug 2026 18:54:00 GMT"
     },
     {
       "type": "news",
