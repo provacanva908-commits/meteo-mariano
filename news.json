@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T23:52:57.625550+00:00",
+  "updated_at": "2026-08-25T01:16:48.804224+00:00",
   "local_date": "2026-08-25",
   "articles": [
     {
@@ -89,6 +89,13 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 09 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "FIP Tour: Touly ai quarti di finale a Porto Sant'Elpidio, Godallier in finale a Espoo - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sat, 22 Aug 2026 13:03:39 GMT"
@@ -96,23 +103,16 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "FIP Gold Belgrado: vittoria schiacciante per la Francia, cinque coppie su cinque nel secondo turno di qualificazione - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Mon, 24 Aug 2026 13:13:08 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Terni, solidarietà con il torneo di padel per le malattie genetiche rare - - Umbria 24",
-      "source": "- Umbria 24",
-      "published": "Mon, 24 Aug 2026 18:20:15 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Gold Belgrado – Cinque coppie francesi daranno il via alle qualificazioni questo lunedì. - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Mon, 24 Aug 2026 07:49:23 GMT"
     }
   ]
 }
