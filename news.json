@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T21:28:14.870483+00:00",
+  "updated_at": "2026-08-25T21:55:22.517062+00:00",
   "local_date": "2026-08-25",
   "articles": [
     {
@@ -40,6 +40,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Serie A Women's Cup | Como 1907-Juventus, la partita - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Fri, 21 Aug 2026 21:29:12 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Sorteggi fase campionato Champions League, Europa League e Conference League: tutto quello che c'è da sapere - UEFA.com",
       "source": "UEFA.com",
       "published": "Tue, 25 Aug 2026 14:08:46 GMT"
@@ -50,13 +57,6 @@
       "title": "Inter 4-1 Monza | Serie A Enilive - Lega Serie A",
       "source": "Lega Serie A",
       "published": "Tue, 25 Aug 2026 16:55:41 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A | Frosinone-Juventus | La partita - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Sun, 23 Aug 2026 18:38:28 GMT"
     },
     {
       "type": "news",
