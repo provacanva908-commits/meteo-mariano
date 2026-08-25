@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-08-25T19:16:26.584556+00:00",
+  "updated_at": "2026-08-25T19:50:00.088272+00:00",
   "local_date": "2026-08-25",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli, ufficiale una cessione in difesa: la formula dell'operazione - NapoliToday",
+      "source": "NapoliToday",
+      "published": "Tue, 25 Aug 2026 19:30:00 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "Calciomercato, Accomando: \"Il Como ha l'accordo con Kean, si può chiudere\" - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Tue, 25 Aug 2026 12:05:55 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, per Pinamonti ballano 3 milioni: tutto fermo senza la cessione di Tavares - RomaToday",
-      "source": "RomaToday",
-      "published": "Sun, 23 Aug 2026 10:33:21 GMT"
     },
     {
       "type": "news",
@@ -26,9 +26,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Como, seconda offerta alla Fiorentina per Kean - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Tue, 25 Aug 2026 17:54:39 GMT"
+      "title": "Ufficiale l'arrivo di Grabara alla Juventus con la formula del prestito - Diretta",
+      "source": "Diretta",
+      "published": "Tue, 25 Aug 2026 10:02:00 GMT"
     },
     {
       "type": "news",
@@ -110,9 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
+      "title": "Circuito FIP: terzo sigillo di Lorena Vano nel 2026! Sargolini brilla in Finlandia - padelmagazine.it",
+      "source": "padelmagazine.it",
+      "published": "Tue, 25 Aug 2026 13:24:44 GMT"
     }
   ]
 }
