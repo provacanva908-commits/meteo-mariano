@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T08:56:21.246895+00:00",
+  "updated_at": "2026-08-25T09:44:18.490644+00:00",
   "local_date": "2026-08-25",
   "articles": [
     {
@@ -8,6 +8,13 @@
       "title": "Calciomercato Lazio, per Pinamonti ballano 3 milioni: tutto fermo senza la cessione di Tavares - RomaToday",
       "source": "RomaToday",
       "published": "Sun, 23 Aug 2026 10:33:21 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Serie A, le trattative di oggi: Grabara alla Juve, Kean vuole il Como, Pinamonti verso la Lazio - Virgilio Sport",
+      "source": "Virgilio Sport",
+      "published": "Mon, 24 Aug 2026 16:40:00 GMT"
     },
     {
       "type": "news",
@@ -25,20 +32,6 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, Pinamonti a un passo. Cifre e dettagli della trattativa - Il Riformista",
-      "source": "Il Riformista",
-      "published": "Mon, 24 Aug 2026 15:40:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Sorteggio Champions League 2026/27: data, orario, fasce e il calendario delle italiane - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Mon, 24 Aug 2026 11:43:56 GMT"
-    },
-    {
-      "type": "news",
       "category": "CALCIO",
       "title": "Roma-Fiorentina 4-0, le pagelle della partita di Serie A - Sky Sport",
       "source": "Sky Sport",
@@ -50,6 +43,13 @@
       "title": "Serie A | Frosinone-Juventus | La partita - Juventus.com",
       "source": "Juventus.com",
       "published": "Sun, 23 Aug 2026 18:38:28 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Sorteggio Champions League 2026/27: data, orario, fasce e il calendario delle italiane - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Mon, 24 Aug 2026 11:43:56 GMT"
     },
     {
       "type": "news",
