@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-08-25T14:03:27.422209+00:00",
+  "updated_at": "2026-08-25T15:00:36.209974+00:00",
   "local_date": "2026-08-25",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato, Accomando: \"Il Como ha l'accordo con Kean, si può chiudere\" - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Tue, 25 Aug 2026 12:05:55 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "Calciomercato Lazio, per Pinamonti ballano 3 milioni: tutto fermo senza la cessione di Tavares - RomaToday",
       "source": "RomaToday",
       "published": "Sun, 23 Aug 2026 10:33:21 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato, Accomando: \"Il Como ha l'accordo con Kean, si può chiudere\" - Libero",
-      "source": "Libero",
-      "published": "Tue, 25 Aug 2026 12:12:45 GMT"
     },
     {
       "type": "news",
@@ -40,23 +40,23 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Sorteggi fase campionato Champions League, Europa League e Conference League: tutto quello che c'è da sapere - UEFA.com",
+      "source": "UEFA.com",
+      "published": "Tue, 25 Aug 2026 14:08:46 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Champions League 2026-27, il sorteggio: data, orario, fasce, calendario e possibili avversarie delle italiane - IlFaroOnline",
+      "source": "IlFaroOnline",
+      "published": "Tue, 25 Aug 2026 10:23:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Serie A, Inter favorita ma la Roma lancia un messaggio al campionato - Adnkronos",
       "source": "Adnkronos",
       "published": "Tue, 25 Aug 2026 11:04:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A: poker della Roma alla Fiorentina, la Lazio passa a Bologna - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
-      "published": "Tue, 25 Aug 2026 09:57:39 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A | Frosinone-Juventus | La partita - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Sun, 23 Aug 2026 18:38:28 GMT"
     },
     {
       "type": "news",
@@ -103,9 +103,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Tour: Touly ai quarti di finale a Porto Sant'Elpidio, Godallier in finale a Espoo - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sat, 22 Aug 2026 13:03:39 GMT"
+      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
