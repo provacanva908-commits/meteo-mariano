@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T23:00:52.895160+00:00",
+  "updated_at": "2026-08-25T23:33:45.640271+00:00",
   "local_date": "2026-08-26",
   "articles": [
     {
@@ -19,9 +19,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma: è arrivato Oosterwolde, prestito con diritto che può diventare obbligo - Sportmediaset",
+      "title": "Calciomercato, Accomando: \"Il Como ha l'accordo con Kean, si può chiudere\" - Sportmediaset",
       "source": "Sportmediaset",
-      "published": "Tue, 25 Aug 2026 18:40:30 GMT"
+      "published": "Tue, 25 Aug 2026 12:05:55 GMT"
     },
     {
       "type": "news",
@@ -61,13 +61,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 25 agosto · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Mon, 24 Aug 2026 22:01:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Sinner salta Us Open, come cambia ranking Atp: un pericolo per Jannik - Adnkronos",
       "source": "Adnkronos",
       "published": "Fri, 21 Aug 2026 15:10:00 GMT"
@@ -85,6 +78,13 @@
       "title": "US Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
       "published": "Tue, 25 Aug 2026 14:08:23 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner, perché ha rinunciato agli US Open: il nuovo approccio dopo il Roland Garros - OA Sport",
+      "source": "OA Sport",
+      "published": "Tue, 25 Aug 2026 08:35:18 GMT"
     },
     {
       "type": "news",
