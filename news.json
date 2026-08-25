@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T09:44:18.490644+00:00",
+  "updated_at": "2026-08-25T10:16:15.839100+00:00",
   "local_date": "2026-08-25",
   "articles": [
     {
@@ -12,9 +12,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Serie A, le trattative di oggi: Grabara alla Juve, Kean vuole il Como, Pinamonti verso la Lazio - Virgilio Sport",
-      "source": "Virgilio Sport",
-      "published": "Mon, 24 Aug 2026 16:40:00 GMT"
+      "title": "Calciomercato Roma: è arrivato Oosterwolde, prestito con diritto che può diventare obbligo - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Tue, 25 Aug 2026 09:17:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Ufficiale | Di Gregorio in prestito al Bournemouth - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Tue, 25 Aug 2026 09:32:22 GMT"
     },
     {
       "type": "news",
@@ -25,17 +32,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan, trattativa dell'Aston Villa per Leao - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Mon, 24 Aug 2026 21:33:05 GMT"
-    },
-    {
-      "type": "news",
       "category": "CALCIO",
-      "title": "Roma-Fiorentina 4-0, le pagelle della partita di Serie A - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Mon, 24 Aug 2026 20:57:13 GMT"
+      "title": "L'Inter punta il G8, Napoli e Roma sognano, il Como vuole stupire: parte l'assalto alla Champions - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Tue, 25 Aug 2026 10:00:44 GMT"
     },
     {
       "type": "news",
@@ -47,9 +47,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Sorteggio Champions League 2026/27: data, orario, fasce e il calendario delle italiane - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Mon, 24 Aug 2026 11:43:56 GMT"
+      "title": "Roma-Fiorentina 4-0, le pagelle della partita di Serie A - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Mon, 24 Aug 2026 20:57:13 GMT"
     },
     {
       "type": "news",
@@ -82,9 +82,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner non ce la fa, ufficiale il forfait agli Us Open: \"Sono deluso ma ho bisogno di più tempo\" - RaiNews",
-      "source": "RaiNews",
-      "published": "Fri, 21 Aug 2026 18:54:00 GMT"
+      "title": "Sinner, perché ha rinunciato agli US Open: il nuovo approccio dopo il Roland Garros - OA Sport",
+      "source": "OA Sport",
+      "published": "Tue, 25 Aug 2026 08:35:18 GMT"
     },
     {
       "type": "news",
