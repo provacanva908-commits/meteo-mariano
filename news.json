@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T03:28:50.422195+00:00",
+  "updated_at": "2026-08-25T04:19:02.117451+00:00",
   "local_date": "2026-08-25",
   "articles": [
     {
@@ -8,13 +8,6 @@
       "title": "Calciomercato Lazio, per Pinamonti ballano 3 milioni: tutto fermo senza la cessione di Tavares - RomaToday",
       "source": "RomaToday",
       "published": "Sun, 23 Aug 2026 10:33:21 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Como-Kean in chiusura, parti più vicine: la Fiorentina attende l'offerta ufficiale, i dettagli - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Mon, 24 Aug 2026 20:55:06 GMT"
     },
     {
       "type": "news",
@@ -32,10 +25,17 @@
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Lazio, Pinamonti a un passo. Cifre e dettagli della trattativa - Il Riformista",
+      "source": "Il Riformista",
+      "published": "Mon, 24 Aug 2026 15:40:00 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
-      "title": "Napoli, Como e Inter sono due test da Champions League: il calendario degli azzurri - Il Mattino",
-      "source": "Il Mattino",
-      "published": "Mon, 24 Aug 2026 22:45:01 GMT"
+      "title": "Serie A. Inter-Monza 4-1, la sintesi della partita - RaiNews",
+      "source": "RaiNews",
+      "published": "Sat, 22 Aug 2026 21:43:36 GMT"
     },
     {
       "type": "news",
@@ -63,7 +63,7 @@
       "category": "TENNIS",
       "title": "Italiani allo US Open 2026 oggi: le partite del 25 agosto · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Mon, 24 Aug 2026 22:01:00 GMT"
+      "published": "Tue, 25 Aug 2026 03:56:15 GMT"
     },
     {
       "type": "news",
