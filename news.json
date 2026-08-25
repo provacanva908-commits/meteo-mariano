@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T06:18:20.717080+00:00",
+  "updated_at": "2026-08-25T07:16:17.620970+00:00",
   "local_date": "2026-08-25",
   "articles": [
     {
@@ -33,13 +33,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Napoli, Como e Inter sono due test da Champions League: il calendario degli azzurri - Il Mattino",
-      "source": "Il Mattino",
-      "published": "Tue, 25 Aug 2026 05:39:59 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Serie A. Inter-Monza 4-1, la sintesi della partita - RaiNews",
       "source": "RaiNews",
       "published": "Sat, 22 Aug 2026 21:43:36 GMT"
@@ -57,6 +50,13 @@
       "title": "Sorteggio Europa League 2026/27: data, orario, fasce e il calendario delle italiane - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Mon, 24 Aug 2026 13:29:16 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Roma-Fiorentina 4-0, le pagelle della partita di Serie A - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Mon, 24 Aug 2026 20:57:13 GMT"
     },
     {
       "type": "news",
@@ -96,6 +96,13 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "Giochi del Mediterraneo: Pothier/Bahurel e Fonteny/Boronad affrontano due sfide enormi per un posto in semifinale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Tue, 25 Aug 2026 06:58:25 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "FIP Tour: Touly ai quarti di finale a Porto Sant'Elpidio, Godallier in finale a Espoo - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sat, 22 Aug 2026 13:03:39 GMT"
@@ -106,13 +113,6 @@
       "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 02 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Gold Belgrado: vittoria schiacciante per la Francia, cinque coppie su cinque nel secondo turno di qualificazione - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Mon, 24 Aug 2026 13:13:08 GMT"
     }
   ]
 }
