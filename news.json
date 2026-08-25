@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T18:34:39.689464+00:00",
+  "updated_at": "2026-08-25T19:16:26.584556+00:00",
   "local_date": "2026-08-25",
   "articles": [
     {
@@ -47,16 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A | Frosinone-Juventus | La partita - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Sun, 23 Aug 2026 18:38:28 GMT"
+      "title": "Inter 4-1 Monza | Serie A Enilive - Lega Serie A",
+      "source": "Lega Serie A",
+      "published": "Tue, 25 Aug 2026 16:55:41 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Le partite di Serie A di oggi, il calendario e gli orari della 1^ giornata - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Mon, 24 Aug 2026 07:00:00 GMT"
+      "title": "Serie A | Frosinone-Juventus | La partita - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Sun, 23 Aug 2026 18:38:28 GMT"
     },
     {
       "type": "news",
@@ -96,6 +96,13 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "Padel: Giorgia Marchetti e Carolina Orsi centrano la semifinale ai Giochi del Mediterraneo - OA Sport",
+      "source": "OA Sport",
+      "published": "Tue, 25 Aug 2026 18:33:59 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "Giochi del Mediterraneo: Pothier/Bahurel e Fonteny/Boronad affrontano due sfide enormi per un posto in semifinale - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Tue, 25 Aug 2026 06:58:25 GMT"
@@ -103,16 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Circuito FIP: terzo sigillo di Lorena Vano nel 2026! Sargolini brilla in Finlandia - padelmagazine.it",
-      "source": "padelmagazine.it",
-      "published": "Tue, 25 Aug 2026 13:24:44 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Bronze Marnes II: Bahurel / Val Lopez, una coppia vincente già pronta a guidare le speranze francesi - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Tue, 25 Aug 2026 11:31:37 GMT"
+      "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 02 Aug 2026 07:00:00 GMT"
     }
   ]
 }
