@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-08-25T12:01:00.797853+00:00",
+  "updated_at": "2026-08-25T13:07:21.331388+00:00",
   "local_date": "2026-08-25",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, per Pinamonti ballano 3 milioni: tutto fermo senza la cessione di Tavares - RomaToday",
-      "source": "RomaToday",
-      "published": "Sun, 23 Aug 2026 10:33:21 GMT"
+      "title": "Calciomercato, Accomando: \"Il Como ha l'accordo con Kean, si può chiudere\" - Libero",
+      "source": "Libero",
+      "published": "Tue, 25 Aug 2026 12:12:45 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "Calciomercato Roma: è arrivato Oosterwolde, prestito con diritto che può diventare obbligo - Sportmediaset",
       "source": "Sportmediaset",
-      "published": "Tue, 25 Aug 2026 09:17:00 GMT"
+      "published": "Tue, 25 Aug 2026 09:19:05 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "Ufficiale | Di Gregorio in prestito al Bournemouth - Juventus.com",
       "source": "Juventus.com",
-      "published": "Tue, 25 Aug 2026 09:45:00 GMT"
+      "published": "Tue, 25 Aug 2026 10:20:33 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan, trattativa dell'Aston Villa per Leao - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Mon, 24 Aug 2026 21:33:05 GMT"
+      "title": "Como-Kean in chiusura, parti più vicine: la Fiorentina attende l'offerta ufficiale, i dettagli - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Mon, 24 Aug 2026 20:55:06 GMT"
     },
     {
       "type": "news",
@@ -47,16 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Roma-Fiorentina 4-0, le pagelle della partita di Serie A - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Mon, 24 Aug 2026 20:57:13 GMT"
+      "title": "Serie A | Frosinone-Juventus | La partita - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Sun, 23 Aug 2026 18:38:28 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A | Frosinone-Juventus | La partita - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Sun, 23 Aug 2026 18:38:28 GMT"
+      "title": "Le partite di Serie A di oggi, il calendario e gli orari della 1^ giornata - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Mon, 24 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -75,16 +75,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ufficiale: Carlos Alcaraz torna agli Us Open. E ora si aspetta la decisione di Sinner - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Thu, 20 Aug 2026 17:09:09 GMT"
+      "title": "Sinner, perché ha rinunciato agli US Open: il nuovo approccio dopo il Roland Garros - OA Sport",
+      "source": "OA Sport",
+      "published": "Tue, 25 Aug 2026 08:35:18 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner, perché ha rinunciato agli US Open: il nuovo approccio dopo il Roland Garros - OA Sport",
-      "source": "OA Sport",
-      "published": "Tue, 25 Aug 2026 08:35:18 GMT"
+      "title": "Sinner a casa Juve dopo il forfait agli Us Open. E sui ko Jannik-Alcaraz ecco i consigli di Federer! - Tuttosport",
+      "source": "Tuttosport",
+      "published": "Tue, 25 Aug 2026 09:08:32 GMT"
     },
     {
       "type": "news",
@@ -92,13 +92,6 @@
       "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 09 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Giochi del Mediterraneo: Pothier/Bahurel e Fonteny/Boronad affrontano due sfide enormi per un posto in semifinale - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Tue, 25 Aug 2026 06:58:25 GMT"
     },
     {
       "type": "news",
@@ -113,6 +106,13 @@
       "title": "Premier Padel Pretoria: riscossa Chingalan. Brea-Triay, bis col brivido - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 02 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Circuito FIP: terzo sigillo per Lorena Vano nel 2026! Sargolini brilla in Finlandia - padelmagazine.it",
+      "source": "padelmagazine.it",
+      "published": "Tue, 25 Aug 2026 13:04:39 GMT"
     }
   ]
 }
