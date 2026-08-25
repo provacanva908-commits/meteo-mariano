@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T02:32:47.171769+00:00",
+  "updated_at": "2026-08-25T03:28:50.422195+00:00",
   "local_date": "2026-08-25",
   "articles": [
     {
@@ -40,13 +40,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A. Inter-Monza 4-1, la sintesi della partita - RaiNews",
-      "source": "RaiNews",
-      "published": "Sat, 22 Aug 2026 21:43:36 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Sorteggio Champions League 2026/27: data, orario, fasce e il calendario delle italiane - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Mon, 24 Aug 2026 11:43:56 GMT"
@@ -57,6 +50,13 @@
       "title": "Sorteggio Europa League 2026/27: data, orario, fasce e il calendario delle italiane - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Mon, 24 Aug 2026 13:29:16 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Le partite di Serie A di oggi, il calendario e gli orari della 1^ giornata - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Mon, 24 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
