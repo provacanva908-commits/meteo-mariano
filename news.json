@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T15:54:54.109807+00:00",
+  "updated_at": "2026-08-25T16:43:56.668209+00:00",
   "local_date": "2026-08-25",
   "articles": [
     {
@@ -54,9 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A: poker della Roma alla Fiorentina, la Lazio passa a Bologna - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
-      "published": "Tue, 25 Aug 2026 09:57:39 GMT"
+      "title": "Serie A | Frosinone-Juventus | La partita - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Sun, 23 Aug 2026 18:38:28 GMT"
     },
     {
       "type": "news",
@@ -110,9 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Circuito FIP: terzo sigillo di Lorena Vano nel 2026! Sargolini brilla in Finlandia - padelmagazine.it",
+      "title": "Circuito FIP: terzo sigillo per Lorena Vano nel 2026! Sargolini brilla in Finlandia - padelmagazine.it",
       "source": "padelmagazine.it",
-      "published": "Tue, 25 Aug 2026 13:24:44 GMT"
+      "published": "Tue, 25 Aug 2026 13:04:24 GMT"
     }
   ]
 }
