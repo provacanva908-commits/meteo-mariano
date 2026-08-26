@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T11:02:55.668428+00:00",
+  "updated_at": "2026-08-26T11:41:03.485551+00:00",
   "local_date": "2026-08-26",
   "articles": [
     {
@@ -68,13 +68,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 25 agosto · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Tue, 25 Aug 2026 20:16:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "US Open, doppio misto: Cobolli e Bencic in semifinale, battuti Alcaraz e Serena Williams - Sky Sport",
       "source": "Sky Sport",
       "published": "Tue, 25 Aug 2026 22:49:49 GMT"
@@ -85,6 +78,13 @@
       "title": "Sinner salta Us Open, come cambia ranking Atp: un pericolo per Jannik - Adnkronos",
       "source": "Adnkronos",
       "published": "Fri, 21 Aug 2026 15:10:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "US Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Wed, 26 Aug 2026 08:48:45 GMT"
     },
     {
       "type": "news",
@@ -110,9 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Bronze Marnes II – Camille Sireix, l'instancabile giocatrice del circuito FIP, torna con Tess De Vocht - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Wed, 26 Aug 2026 09:04:49 GMT"
+      "title": "GdB Padel Tour lanciato: arriva l’ultima tappa prima del Master finale - Giornale di Brescia",
+      "source": "Giornale di Brescia",
+      "published": "Tue, 25 Aug 2026 20:59:09 GMT"
     }
   ]
 }
