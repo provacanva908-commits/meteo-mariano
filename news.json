@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T23:57:24.116978+00:00",
+  "updated_at": "2026-08-26T01:51:03.937928+00:00",
   "local_date": "2026-08-26",
   "articles": [
     {
@@ -19,16 +19,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma: è arrivato Oosterwolde, prestito con diritto che può diventare obbligo - Sportmediaset",
+      "title": "Calciomercato, Accomando: \"Il Como ha l'accordo con Kean, si può chiudere\" - Sportmediaset",
       "source": "Sportmediaset",
-      "published": "Tue, 25 Aug 2026 18:40:30 GMT"
+      "published": "Tue, 25 Aug 2026 12:05:55 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "Ufficiale | Di Gregorio in prestito al Bournemouth - Juventus.com",
       "source": "Juventus.com",
-      "published": "Tue, 25 Aug 2026 10:20:33 GMT"
+      "published": "Wed, 26 Aug 2026 00:45:00 GMT"
     },
     {
       "type": "news",
@@ -61,6 +61,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "US Open, doppio misto: Cobolli e Bencic in semifinale, battuti Alcaraz e Serena Williams - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Tue, 25 Aug 2026 22:49:49 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Sinner salta Us Open, come cambia ranking Atp: un pericolo per Jannik - Adnkronos",
       "source": "Adnkronos",
       "published": "Fri, 21 Aug 2026 15:10:00 GMT"
@@ -78,13 +85,6 @@
       "title": "US Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
       "published": "Tue, 25 Aug 2026 14:08:23 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner, perché ha rinunciato agli US Open: il nuovo approccio dopo il Roland Garros - OA Sport",
-      "source": "OA Sport",
-      "published": "Tue, 25 Aug 2026 08:35:18 GMT"
     },
     {
       "type": "news",
