@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T08:54:48.719504+00:00",
+  "updated_at": "2026-08-26T09:49:12.439604+00:00",
   "local_date": "2026-08-26",
   "articles": [
     {
@@ -8,6 +8,13 @@
       "title": "Ultimi colpi di calciomercato: le mosse di Inter, Milan, Juventus, Napoli e Roma - lapresse.it",
       "source": "lapresse.it",
       "published": "Wed, 26 Aug 2026 05:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli, ufficiale una cessione in difesa: la formula dell'operazione - NapoliToday",
+      "source": "NapoliToday",
+      "published": "Tue, 25 Aug 2026 19:30:00 GMT"
     },
     {
       "type": "news",
@@ -25,10 +32,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Juventus, ufficiale la cessione di Perin al Palermo: contratto pluriennale - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Wed, 26 Aug 2026 07:20:00 GMT"
+      "category": "CALCIO",
+      "title": "Prandelli: \"Inter unica italiana 'europea', Napoli compatto, la mentalità Como... La Champions la vedo così\" - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Wed, 26 Aug 2026 07:38:23 GMT"
     },
     {
       "type": "news",
@@ -40,9 +47,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Prandelli: \"Inter unica italiana 'europea', Napoli compatto, la mentalità Como... La Champions la vedo così\" - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Wed, 26 Aug 2026 07:38:23 GMT"
+      "title": "Il ranking delle squadre italiane al sorteggio di Champions League: in che fascia saranno Como e Roma? - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Wed, 26 Aug 2026 09:00:15 GMT"
     },
     {
       "type": "news",
@@ -53,24 +60,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Date e orari della terza giornata: Roma-Fiorentina e Juventus-Milan in diretta su Sky Sport e NOW - FIGC",
-      "source": "FIGC",
-      "published": "Tue, 25 Aug 2026 23:18:00 GMT"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
       "title": "Monaco: “Un Alcaraz all’80% potrebbe vincere gli US Open. Sinner? Vidi una macchia scura al ginocchio già a Wimbledon” - OA Sport",
       "source": "OA Sport",
       "published": "Wed, 26 Aug 2026 08:30:23 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 25 agosto · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Mon, 24 Aug 2026 22:01:00 GMT"
     },
     {
       "type": "news",
@@ -85,6 +78,13 @@
       "title": "Sinner salta Us Open, come cambia ranking Atp: un pericolo per Jannik - Adnkronos",
       "source": "Adnkronos",
       "published": "Fri, 21 Aug 2026 15:10:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "US Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Wed, 26 Aug 2026 08:48:45 GMT"
     },
     {
       "type": "news",
@@ -110,9 +110,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "GdB Padel Tour lanciato: arriva l’ultima tappa prima del Master finale - Giornale di Brescia",
-      "source": "Giornale di Brescia",
-      "published": "Tue, 25 Aug 2026 20:59:09 GMT"
+      "title": "FIP Bronze Marnes II – Camille Sireix, l'instancabile giocatrice del circuito FIP, torna con Tess De Vocht - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Wed, 26 Aug 2026 09:04:49 GMT"
     }
   ]
 }
