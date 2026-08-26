@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T15:58:20.025398+00:00",
+  "updated_at": "2026-08-26T16:54:18.809283+00:00",
   "local_date": "2026-08-26",
   "articles": [
     {
@@ -26,9 +26,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, c'è Kessie: Gasp prova il blitz per soffiarlo alla Juventus - RomaToday",
-      "source": "RomaToday",
-      "published": "Wed, 26 Aug 2026 09:49:00 GMT"
+      "title": "Ufficiale | Di Gregorio in prestito al Bournemouth - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Wed, 26 Aug 2026 00:47:02 GMT"
     },
     {
       "type": "news",
@@ -68,23 +68,23 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 27 agosto · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Wed, 26 Aug 2026 16:49:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "US Open, doppio misto: Cobolli e Bencic in semifinale, battuti Alcaraz e Serena Williams - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Tue, 25 Aug 2026 22:49:49 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Sinner salta Us Open, come cambia ranking Atp: un pericolo per Jannik - Adnkronos",
       "source": "Adnkronos",
       "published": "Fri, 21 Aug 2026 15:10:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "US Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Wed, 26 Aug 2026 08:50:10 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "US Open 2026, italiani e italiane in campo: il programma del 25 agosto · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Tue, 25 Aug 2026 20:16:00 GMT"
     },
     {
       "type": "news",
