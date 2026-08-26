@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-26T04:50:46.081741+00:00",
+  "updated_at": "2026-08-26T05:28:47.710341+00:00",
   "local_date": "2026-08-26",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Ultimi colpi di calciomercato: le mosse di Inter, Milan, Juventus, Napoli e Roma - lapresse.it",
+      "source": "lapresse.it",
+      "published": "Wed, 26 Aug 2026 05:00:00 GMT"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -15,13 +22,6 @@
       "title": "Calciomercato Lazio, per Pinamonti ballano 3 milioni: tutto fermo senza la cessione di Tavares - RomaToday",
       "source": "RomaToday",
       "published": "Sun, 23 Aug 2026 10:33:21 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato, Accomando: \"Il Como ha l'accordo con Kean, si può chiudere\" - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Tue, 25 Aug 2026 12:05:55 GMT"
     },
     {
       "type": "news",
