@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-26T10:24:36.241831+00:00",
+  "updated_at": "2026-08-26T11:02:55.668428+00:00",
   "local_date": "2026-08-26",
   "articles": [
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Ultimi colpi di calciomercato: le mosse di Inter, Milan, Juventus, Napoli e Roma - lapresse.it",
-      "source": "lapresse.it",
-      "published": "Wed, 26 Aug 2026 05:00:00 GMT"
-    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -29,6 +22,13 @@
       "title": "Calciomercato Roma, c'è Kessie: Gasp prova il blitz per soffiarlo alla Juventus - RomaToday",
       "source": "RomaToday",
       "published": "Wed, 26 Aug 2026 09:49:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Ufficiale | Di Gregorio in prestito al Bournemouth - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Wed, 26 Aug 2026 00:47:02 GMT"
     },
     {
       "type": "news",
@@ -54,9 +54,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Napoli, la ricetta di Allegri: \"Lottare in Serie A, Champions e Coppa Italia. Hojlund deve fare più gol\" - Mediaset Infinity",
-      "source": "Mediaset Infinity",
-      "published": "Wed, 26 Aug 2026 08:01:12 GMT"
+      "title": "Napoli, la ricetta di Allegri: \"Lottare in Serie A, Champions e Coppa Italia. Hojlund deve fare più gol\" - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Wed, 26 Aug 2026 07:39:00 GMT"
     },
     {
       "type": "news",
@@ -64,6 +64,13 @@
       "title": "Monaco: “Un Alcaraz all’80% potrebbe vincere gli US Open. Sinner? Vidi una macchia scura al ginocchio già a Wimbledon” - OA Sport",
       "source": "OA Sport",
       "published": "Wed, 26 Aug 2026 08:30:23 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 25 agosto · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Tue, 25 Aug 2026 20:16:00 GMT"
     },
     {
       "type": "news",
@@ -78,13 +85,6 @@
       "title": "Sinner salta Us Open, come cambia ranking Atp: un pericolo per Jannik - Adnkronos",
       "source": "Adnkronos",
       "published": "Fri, 21 Aug 2026 15:10:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "US Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Wed, 26 Aug 2026 08:48:45 GMT"
     },
     {
       "type": "news",
