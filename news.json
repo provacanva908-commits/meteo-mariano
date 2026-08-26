@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T06:02:35.906742+00:00",
+  "updated_at": "2026-08-26T07:05:06.004971+00:00",
   "local_date": "2026-08-26",
   "articles": [
     {
@@ -28,7 +28,7 @@
       "category": "CALCIOMERCATO",
       "title": "Ufficiale | Di Gregorio in prestito al Bournemouth - Juventus.com",
       "source": "Juventus.com",
-      "published": "Wed, 26 Aug 2026 00:45:00 GMT"
+      "published": "Wed, 26 Aug 2026 00:47:02 GMT"
     },
     {
       "type": "news",
@@ -40,16 +40,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Women's Cup | Como 1907-Juventus, la partita - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Fri, 21 Aug 2026 21:29:12 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Sorteggi fase campionato Champions League, Europa League e Conference League: tutto quello che c'è da sapere - UEFA.com",
-      "source": "UEFA.com",
-      "published": "Tue, 25 Aug 2026 14:08:46 GMT"
+      "title": "Serie A, un difensore per il Monza: dall’Inter arriva Yvan Maye - Il Cittadino di Monza e Brianza",
+      "source": "Il Cittadino di Monza e Brianza",
+      "published": "Wed, 26 Aug 2026 05:32:00 GMT"
     },
     {
       "type": "news",
@@ -57,6 +50,20 @@
       "title": "Inter 4-1 Monza | Serie A Enilive - Lega Serie A",
       "source": "Lega Serie A",
       "published": "Tue, 25 Aug 2026 16:55:41 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A | Frosinone-Juventus | La partita - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Sun, 23 Aug 2026 18:38:28 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 25 agosto · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Mon, 24 Aug 2026 22:01:00 GMT"
     },
     {
       "type": "news",
@@ -78,13 +85,6 @@
       "title": "US Open, Doppio Misto: Cobolli e Bencic sono in semifinale, battuti Alcaraz e Serena - SuperTennis",
       "source": "SuperTennis",
       "published": "Tue, 25 Aug 2026 22:06:05 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ufficiale: Carlos Alcaraz torna agli Us Open. E ora si aspetta la decisione di Sinner - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Thu, 20 Aug 2026 17:09:09 GMT"
     },
     {
       "type": "news",
