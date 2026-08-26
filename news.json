@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T19:06:29.216724+00:00",
+  "updated_at": "2026-08-26T21:49:44.977414+00:00",
   "local_date": "2026-08-26",
   "articles": [
     {
@@ -12,16 +12,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, per Pinamonti ballano 3 milioni: tutto fermo senza la cessione di Tavares - RomaToday",
-      "source": "RomaToday",
-      "published": "Sun, 23 Aug 2026 10:33:21 GMT"
+      "title": "Kessie Juventus, la cessione di David può sbloccare la trattativa: le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Wed, 26 Aug 2026 21:44:21 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan, rilancio del Galatasaray per Leao: offerta da 50 milioni tra fisso e bonus - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Wed, 26 Aug 2026 12:33:00 GMT"
+      "title": "Calciomercato Lazio, per Pinamonti ballano 3 milioni: tutto fermo senza la cessione di Tavares - RomaToday",
+      "source": "RomaToday",
+      "published": "Sun, 23 Aug 2026 10:33:21 GMT"
     },
     {
       "type": "news",
@@ -35,7 +35,7 @@
       "category": "CALCIO",
       "title": "Fasce sorteggio Champions 2026/2027, in quali sono le italiane? Contro chi possono giocare Inter, Napoli, Roma e Como - Goal.com",
       "source": "Goal.com",
-      "published": "Wed, 26 Aug 2026 15:51:34 GMT"
+      "published": "Wed, 26 Aug 2026 21:12:31 GMT"
     },
     {
       "type": "news",
@@ -61,13 +61,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Monaco: “Un Alcaraz all’80% potrebbe vincere gli US Open. Sinner? Vidi una macchia scura al ginocchio già a Wimbledon” - OA Sport",
-      "source": "OA Sport",
-      "published": "Wed, 26 Aug 2026 08:30:23 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Italiani allo US Open 2026 oggi: le partite del 27 agosto · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
       "published": "Wed, 26 Aug 2026 16:49:00 GMT"
@@ -75,9 +68,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "US Open, doppio misto: Cobolli e Bencic in semifinale, battuti Alcaraz e Serena Williams - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Tue, 25 Aug 2026 22:49:49 GMT"
+      "title": "Monaco: “Un Alcaraz all’80% potrebbe vincere gli US Open. Sinner? Vidi una macchia scura al ginocchio già a Wimbledon” - OA Sport",
+      "source": "OA Sport",
+      "published": "Wed, 26 Aug 2026 08:30:23 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 25 agosto · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Tue, 25 Aug 2026 20:16:00 GMT"
     },
     {
       "type": "news",
@@ -96,23 +96,23 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Manu Martín decide tra Galán, Chingotto, Coello e Tapia - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Wed, 26 Aug 2026 07:17:00 GMT"
+      "title": "Padel: sarà derby in semifinale nel doppio maschile. Squadre di tiro con l'arco alle sfide per il bronzo - Comitato Olimpico Nazionale",
+      "source": "Comitato Olimpico Nazionale",
+      "published": "Wed, 26 Aug 2026 21:26:24 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel: Giorgia Marchetti e Carolina Orsi centrano la semifinale ai Giochi del Mediterraneo - OA Sport",
+      "title": "Padel: azzurri in semifinale nel misto. Sarà derby nel doppio maschile ai Giochi del Mediterraneo - OA Sport",
       "source": "OA Sport",
-      "published": "Tue, 25 Aug 2026 18:33:59 GMT"
+      "published": "Wed, 26 Aug 2026 20:29:13 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Giochi del Mediterraneo: Pothier/Bahurel e Fonteny/Boronad affrontano due sfide enormi per un posto in semifinale - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Tue, 25 Aug 2026 06:58:25 GMT"
+      "title": "Giochi del Mediterraneo, padel femminile: il Portogallo ferma le azzurre Dal Pozzo-Casali e vola in semifinale - PugliaLive",
+      "source": "PugliaLive",
+      "published": "Wed, 26 Aug 2026 20:48:19 GMT"
     }
   ]
 }
