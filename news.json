@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T14:21:35.160288+00:00",
+  "updated_at": "2026-08-26T15:58:20.025398+00:00",
   "local_date": "2026-08-26",
   "articles": [
     {
@@ -19,23 +19,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Calciomercato Milan, rilancio del Galatasaray per Leao: offerta da 50 milioni tra fisso e bonus - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Wed, 26 Aug 2026 12:33:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Calciomercato Roma, c'è Kessie: Gasp prova il blitz per soffiarlo alla Juventus - RomaToday",
       "source": "RomaToday",
       "published": "Wed, 26 Aug 2026 09:49:00 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan, rilancio del Galatasaray per Leao: offerta da 50 milioni tra fisso e bonus - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Wed, 26 Aug 2026 11:42:00 GMT"
-    },
-    {
-      "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: fasce e possibili avversarie di Inter, Roma, Napoli e Como - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Tue, 25 Aug 2026 16:12:02 GMT"
+      "title": "Fasce sorteggio Champions 2026/2027, in quali sono le italiane? Contro chi possono giocare Inter, Napoli, Roma e Como - Goal.com",
+      "source": "Goal.com",
+      "published": "Wed, 26 Aug 2026 15:49:14 GMT"
     },
     {
       "type": "news",
@@ -47,16 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Il ranking delle squadre italiane al sorteggio di Champions League: in che fascia saranno Como e Roma? - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Wed, 26 Aug 2026 09:00:15 GMT"
+      "title": "Champions League: fasce e possibili avversarie di Inter, Roma, Napoli e Como - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Tue, 25 Aug 2026 16:12:02 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Nazionale italiana Under 16: i 22 convocati per l'amichevole di Biasca con i pari età dell'Ambrì Piotta. Si gioca domenica a 30 agosto alle ore 16.00 - Italia Hockey",
-      "source": "Italia Hockey",
-      "published": "Wed, 26 Aug 2026 08:16:17 GMT"
+      "title": "Il ranking delle squadre italiane al sorteggio di Champions League: in che fascia saranno Como e Roma? - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Wed, 26 Aug 2026 09:00:15 GMT"
     },
     {
       "type": "news",
@@ -64,13 +64,6 @@
       "title": "Monaco: “Un Alcaraz all’80% potrebbe vincere gli US Open. Sinner? Vidi una macchia scura al ginocchio già a Wimbledon” - OA Sport",
       "source": "OA Sport",
       "published": "Wed, 26 Aug 2026 08:30:23 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "US Open, doppio misto: Cobolli e Bencic in semifinale, battuti Alcaraz e Serena Williams - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Tue, 25 Aug 2026 22:49:49 GMT"
     },
     {
       "type": "news",
@@ -88,10 +81,24 @@
     },
     {
       "type": "news",
+      "category": "TENNIS",
+      "title": "US Open 2026, italiani e italiane in campo: il programma del 25 agosto · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Tue, 25 Aug 2026 20:16:00 GMT"
+    },
+    {
+      "type": "news",
       "category": "PADEL",
       "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 09 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Manu Martín decide tra Galán, Chingotto, Coello e Tapia - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Wed, 26 Aug 2026 07:17:00 GMT"
     },
     {
       "type": "news",
@@ -106,13 +113,6 @@
       "title": "Giochi del Mediterraneo: Pothier/Bahurel e Fonteny/Boronad affrontano due sfide enormi per un posto in semifinale - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Tue, 25 Aug 2026 06:58:25 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "GdB Padel Tour lanciato: arriva l’ultima tappa prima del Master finale - Giornale di Brescia",
-      "source": "Giornale di Brescia",
-      "published": "Tue, 25 Aug 2026 20:59:09 GMT"
     }
   ]
 }
