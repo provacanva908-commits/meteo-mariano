@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T02:27:54.683430+00:00",
+  "updated_at": "2026-08-27T13:03:11.687507+00:00",
   "local_date": "2026-08-27",
   "articles": [
     {
@@ -19,16 +19,30 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Calciomercato Roma, Vaz verso la Premier League: accordo vicino con l’Hull City, diritto di riscatto da 30 milioni - TeleRadioStereo",
+      "source": "TeleRadioStereo",
+      "published": "Thu, 27 Aug 2026 11:11:58 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Calciomercato Lazio, per Pinamonti ballano 3 milioni: tutto fermo senza la cessione di Tavares - RomaToday",
       "source": "RomaToday",
       "published": "Sun, 23 Aug 2026 10:33:21 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Roma, idea Morato se Ziolkowski va al Monza: le news di calciomercato - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 26 Aug 2026 22:06:40 GMT"
+      "category": "CALCIO",
+      "title": "Champions League, oggi sorteggio per Inter, Napoli, Roma e Como: orario, fasce e dove vederlo - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Thu, 27 Aug 2026 04:30:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Champions League, oggi il sorteggio con Inter, Napoli, Roma e Como - Il Sole 24 ORE",
+      "source": "Il Sole 24 ORE",
+      "published": "Thu, 27 Aug 2026 08:57:06 GMT"
     },
     {
       "type": "news",
@@ -40,23 +54,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: fasce e possibili avversarie di Inter, Roma, Napoli e Como - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Tue, 25 Aug 2026 16:12:02 GMT"
+      "title": "Calcio, alle 18 i sorteggi di Champions: attesa per Inter, Roma, Napoli e Como - RaiNews",
+      "source": "RaiNews",
+      "published": "Thu, 27 Aug 2026 09:51:00 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League al Sinigaglia, ora è ufficiale: lo stadio di Como supera l'esame della Commissione - QuiComo",
-      "source": "QuiComo",
-      "published": "Wed, 26 Aug 2026 15:10:17 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Il ranking delle squadre italiane al sorteggio di Champions League: in che fascia saranno Como e Roma? - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Wed, 26 Aug 2026 09:00:15 GMT"
+      "category": "TENNIS",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 27 agosto · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Wed, 26 Aug 2026 16:49:00 GMT"
     },
     {
       "type": "news",
@@ -75,16 +82,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "US Open, doppio misto: Cobolli e Bencic in semifinale, battuti Alcaraz e Serena Williams - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Tue, 25 Aug 2026 22:49:49 GMT"
+      "title": "US Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Wed, 26 Aug 2026 08:50:10 GMT"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "US Open 2026, italiani e italiane in campo: il programma del 27 agosto · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Wed, 26 Aug 2026 16:49:00 GMT"
+      "category": "PADEL",
+      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - Comitato Olimpico Nazionale",
+      "source": "Comitato Olimpico Nazionale",
+      "published": "Wed, 26 Aug 2026 21:26:24 GMT"
     },
     {
       "type": "news",
@@ -96,16 +103,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel: sarà derby in semifinale nel doppio maschile. Squadre di tiro con l'arco alle sfide per il bronzo - Comitato Olimpico Nazionale",
-      "source": "Comitato Olimpico Nazionale",
-      "published": "Wed, 26 Aug 2026 21:26:24 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Padel: azzurri in semifinale nel misto. Sarà derby nel doppio maschile ai Giochi del Mediterraneo - OA Sport",
-      "source": "OA Sport",
-      "published": "Wed, 26 Aug 2026 20:29:13 GMT"
+      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - FITP",
+      "source": "FITP",
+      "published": "Wed, 26 Aug 2026 21:28:39 GMT"
     },
     {
       "type": "news",
