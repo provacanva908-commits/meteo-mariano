@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-26T21:49:44.977414+00:00",
-  "local_date": "2026-08-26",
+  "updated_at": "2026-08-27T02:27:54.683430+00:00",
+  "local_date": "2026-08-27",
   "articles": [
     {
       "type": "news",
@@ -26,9 +26,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale | Di Gregorio in prestito al Bournemouth - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Wed, 26 Aug 2026 00:47:02 GMT"
+      "title": "Roma, idea Morato se Ziolkowski va al Monza: le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Wed, 26 Aug 2026 22:06:40 GMT"
     },
     {
       "type": "news",
@@ -47,23 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Prandelli: \"Inter unica italiana 'europea', Napoli compatto, la mentalità Como... La Champions la vedo così\" - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Wed, 26 Aug 2026 07:38:23 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Champions League al Sinigaglia, ora è ufficiale: lo stadio di Como supera l'esame della Commissione - QuiComo",
       "source": "QuiComo",
       "published": "Wed, 26 Aug 2026 15:10:17 GMT"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 27 agosto · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Wed, 26 Aug 2026 16:49:00 GMT"
+      "category": "CALCIO",
+      "title": "Il ranking delle squadre italiane al sorteggio di Champions League: in che fascia saranno Como e Roma? - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Wed, 26 Aug 2026 09:00:15 GMT"
     },
     {
       "type": "news",
@@ -75,16 +68,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 25 agosto · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Tue, 25 Aug 2026 20:16:00 GMT"
+      "title": "Sinner salta Us Open, come cambia ranking Atp: un pericolo per Jannik - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Fri, 21 Aug 2026 15:10:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner salta Us Open, come cambia ranking Atp: un pericolo per Jannik - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Fri, 21 Aug 2026 15:10:00 GMT"
+      "title": "US Open, doppio misto: Cobolli e Bencic in semifinale, battuti Alcaraz e Serena Williams - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Tue, 25 Aug 2026 22:49:49 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "US Open 2026, italiani e italiane in campo: il programma del 27 agosto · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Wed, 26 Aug 2026 16:49:00 GMT"
     },
     {
       "type": "news",
