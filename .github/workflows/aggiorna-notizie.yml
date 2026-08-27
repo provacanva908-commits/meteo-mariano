@@ -22,19 +22,26 @@ jobs:
           python-version: "3.12"
 
       - name: Crea feed sportivo
+        env:
+          FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
         run: |
           python <<'PY'
           import html
           import json
+          import os
           import re
           import urllib.parse
           import urllib.request
           import xml.etree.ElementTree as ET
-          from datetime import datetime, timezone
+          from datetime import datetime, timedelta, timezone
           from zoneinfo import ZoneInfo
 
           ITALY_TZ = ZoneInfo("Europe/Rome")
           now_italy = datetime.now(ITALY_TZ)
+          today = now_italy.date()
+          tomorrow = today + timedelta(days=1)
+
+          FOOTBALL_DATA_TOKEN = os.environ.get("FOOTBALL_DATA_TOKEN", "")
 
           blocked_phrases = [
               "guarda il video",
@@ -96,7 +103,8 @@ jobs:
                   "allenatore",
                   "convocati",
                   "calendario",
-                  "partita"
+                  "partita",
+                  "risultato"
               ],
               "TENNIS": [
                   "sinner",
@@ -154,7 +162,9 @@ jobs:
                   "ultim'ora",
                   "breaking",
                   "accordo",
-                  "firma"
+                  "firma",
+                  "live",
+                  "diretta"
               ]):
                   score += 2
 
@@ -252,12 +262,160 @@ jobs:
 
               return selected
 
+          def convert_utc_to_italy_time(value):
+              if not value:
+                  return ""
+
+              try:
+                  date = datetime.fromisoformat(
+                      value.replace("Z", "+00:00")
+                  )
+                  local = date.astimezone(ITALY_TZ)
+                  return local.strftime("%H:%M")
+              except Exception:
+                  return ""
+
+          def get_score(match):
+              score = match.get("score", {})
+              full_time = score.get("fullTime", {}) or {}
+              half_time = score.get("halfTime", {}) or {}
+
+              home_score = full_time.get("home")
+              away_score = full_time.get("away")
+
+              if home_score is None or away_score is None:
+                  home_score = half_time.get("home")
+                  away_score = half_time.get("away")
+
+              return home_score, away_score
+
+          def status_label(status):
+              labels = {
+                  "SCHEDULED": "In programma",
+                  "TIMED": "In programma",
+                  "IN_PLAY": "LIVE",
+                  "PAUSED": "Intervallo",
+                  "FINISHED": "Finale",
+                  "POSTPONED": "Rinviata",
+                  "SUSPENDED": "Sospesa",
+                  "CANCELED": "Annullata"
+              }
+
+              return labels.get(status, status or "")
+
+          def fetch_football_matches():
+              if not FOOTBALL_DATA_TOKEN:
+                  print("FOOTBALL_DATA_TOKEN assente")
+                  return []
+
+              competitions = [
+                  "SA",
+                  "CL",
+                  "PL",
+                  "PD",
+                  "BL1",
+                  "FL1"
+              ]
+
+              url = (
+                  "https://api.football-data.org/v4/matches"
+                  "?competitions=" + ",".join(competitions) +
+                  "&dateFrom=" + today.isoformat() +
+                  "&dateTo=" + tomorrow.isoformat()
+              )
+
+              request = urllib.request.Request(
+                  url,
+                  headers={
+                      "X-Auth-Token": FOOTBALL_DATA_TOKEN,
+                      "User-Agent": "Mozilla/5.0"
+                  }
+              )
+
+              with urllib.request.urlopen(request, timeout=30) as response:
+                  data = json.loads(
+                      response.read().decode("utf-8")
+                  )
+
+              matches = data.get("matches", [])
+
+              result = []
+
+              priority = {
+                  "IN_PLAY": 1,
+                  "PAUSED": 2,
+                  "FINISHED": 3,
+                  "TIMED": 4,
+                  "SCHEDULED": 5
+              }
+
+              for match in matches:
+                  status = match.get("status", "")
+                  home = match.get("homeTeam", {}).get("shortName") or match.get("homeTeam", {}).get("name", "")
+                  away = match.get("awayTeam", {}).get("shortName") or match.get("awayTeam", {}).get("name", "")
+                  competition = match.get("competition", {}).get("name", "Calcio")
+                  utc_date = match.get("utcDate", "")
+
+                  home_score, away_score = get_score(match)
+
+                  item = {
+                      "type": "match",
+                      "category": "CALCIO",
+                      "competition": competition,
+                      "home": home,
+                      "away": away,
+                      "time": convert_utc_to_italy_time(utc_date),
+                      "status": status,
+                      "status_label": status_label(status),
+                      "home_score": home_score,
+                      "away_score": away_score,
+                      "is_live": status in ["IN_PLAY", "PAUSED"],
+                      "_priority": priority.get(status, 9)
+                  }
+
+                  result.append(item)
+
+              result.sort(
+                  key=lambda item: (
+                      item["_priority"],
+                      item.get("time", "")
+                  )
+              )
+
+              selected = result[:8]
+
+              for item in selected:
+                  item.pop("_priority", None)
+
+              if not selected:
+                  return [{
+                      "type": "message",
+                      "category": "CALCIO",
+                      "title": "Nessuna partita delle principali competizioni in programma oggi",
+                      "source": "football-data.org"
+                  }]
+
+              return selected
+
           articles = []
+
+          try:
+              articles.extend(
+                  fetch_football_matches()
+              )
+          except Exception as error:
+              print("Errore recupero risultati calcio:", error)
+              articles.append({
+                  "type": "message",
+                  "category": "CALCIO",
+                  "title": "Risultati calcio momentaneamente non disponibili",
+                  "source": "football-data.org"
+              })
 
           feeds = [
               (
                   "CALCIOMERCATO",
-                  'calciomercato OR "mercato serie a" OR "trattativa" OR "ufficiale"'
+                  'calciomercato OR "mercato serie a" OR "trattativa" OR "ufficiale" OR "accordo"'
               ),
               (
                   "CALCIO",
