@@ -43,6 +43,81 @@ jobs:
 
           FOOTBALL_DATA_TOKEN = os.environ.get("FOOTBALL_DATA_TOKEN", "")
 
+          IMPORTANT_COMPETITIONS = [
+              "Serie A",
+              "UEFA Champions League",
+              "UEFA Europa League",
+              "UEFA Conference League"
+          ]
+
+          FOOTBALL_DATA_COMPETITIONS = [
+              "SA",
+              "CL",
+              "EL",
+              "CLI",
+              "PL",
+              "PD",
+              "BL1",
+              "FL1",
+              "DED",
+              "PPL"
+          ]
+
+          TOP_FOREIGN_TEAMS = [
+              "Real Madrid",
+              "Barcelona",
+              "FC Barcelona",
+              "Atlético Madrid",
+              "Atletico Madrid",
+              "Manchester City",
+              "Manchester United",
+              "Liverpool",
+              "Arsenal",
+              "Chelsea",
+              "Tottenham",
+              "Bayern Munich",
+              "FC Bayern München",
+              "Borussia Dortmund",
+              "Paris Saint-Germain",
+              "PSG",
+              "Marseille",
+              "Olympique Marseille",
+              "Lyon",
+              "Olympique Lyonnais",
+              "Benfica",
+              "Porto",
+              "FC Porto",
+              "Sporting CP",
+              "Sporting",
+              "Ajax",
+              "PSV",
+              "Feyenoord"
+          ]
+
+          ITALIAN_TEAMS = [
+              "Inter",
+              "Milan",
+              "Juventus",
+              "Napoli",
+              "Roma",
+              "Lazio",
+              "Atalanta",
+              "Fiorentina",
+              "Bologna",
+              "Torino",
+              "Genoa",
+              "Sampdoria",
+              "Como",
+              "Monza",
+              "Udinese",
+              "Sassuolo",
+              "Parma",
+              "Cagliari",
+              "Lecce",
+              "Verona",
+              "Hellas Verona"
+          ]
+
           blocked_phrases = [
               "guarda il video",
               "video:",
@@ -84,7 +159,9 @@ jobs:
               ],
               "CALCIO": [
                   "serie a",
+                  "coppa italia",
                   "champions",
+                  "champions league",
                   "europa league",
                   "conference league",
                   "nazionale",
@@ -98,6 +175,16 @@ jobs:
                   "atalanta",
                   "como",
                   "monza",
+                  "real madrid",
+                  "barcellona",
+                  "barcelona",
+                  "manchester city",
+                  "manchester united",
+                  "liverpool",
+                  "arsenal",
+                  "chelsea",
+                  "bayern",
+                  "psg",
                   "ufficiale",
                   "infortunio",
                   "allenatore",
@@ -143,9 +230,19 @@ jobs:
               value = re.sub(r"\s+", " ", value)
               return value.strip()
 
+          def normalize(value):
+              return clean_text(value).lower()
+
           def is_blocked(title):
               normalized = title.lower()
               return any(phrase in normalized for phrase in blocked_phrases)
+
+          def contains_any(text, words):
+              text_norm = normalize(text)
+              for word in words:
+                  if normalize(word) in text_norm:
+                      return True
+              return False
 
           def importance_score(title, category):
               normalized = title.lower()
@@ -164,7 +261,9 @@ jobs:
                   "accordo",
                   "firma",
                   "live",
-                  "diretta"
+                  "diretta",
+                  "risultato",
+                  "finale"
               ]):
                   score += 2
 
@@ -275,6 +374,16 @@ jobs:
               except Exception:
                   return ""
 
+          def get_match_local_date(value):
+              try:
+                  date = datetime.fromisoformat(
+                      value.replace("Z", "+00:00")
+                  )
+                  local = date.astimezone(ITALY_TZ)
+                  return local.date()
+              except Exception:
+                  return None
+
           def get_score(match):
               score = match.get("score", {})
               full_time = score.get("fullTime", {}) or {}
@@ -303,23 +412,33 @@ jobs:
 
               return labels.get(status, status or "")
 
-          def fetch_football_matches():
-              if not FOOTBALL_DATA_TOKEN:
-                  print("FOOTBALL_DATA_TOKEN assente")
-                  return []
+          def is_important_match(match):
+              competition = match.get("competition", {}).get("name", "")
+              competition_code = match.get("competition", {}).get("code", "")
 
-              competitions = [
-                  "SA",
-                  "CL",
-                  "PL",
-                  "PD",
-                  "BL1",
-                  "FL1"
-              ]
+              home = match.get("homeTeam", {}).get("shortName") or match.get("homeTeam", {}).get("name", "")
+              away = match.get("awayTeam", {}).get("shortName") or match.get("awayTeam", {}).get("name", "")
 
+              teams_text = home + " " + away
+
+              if competition_code in ["SA", "CL", "EL", "CLI"]:
+                  return True
+
+              if contains_any(competition, IMPORTANT_COMPETITIONS):
+                  return True
+
+              if contains_any(teams_text, ITALIAN_TEAMS):
+                  return True
+
+              if contains_any(teams_text, TOP_FOREIGN_TEAMS):
+                  return True
+
+              return False
+
+          def fetch_matches_for_competition(code):
               url = (
                   "https://api.football-data.org/v4/matches"
-                  "?competitions=" + ",".join(competitions) +
+                  "?competitions=" + code +
                   "&dateFrom=" + today.isoformat() +
                   "&dateTo=" + tomorrow.isoformat()
               )
@@ -337,7 +456,35 @@ jobs:
                       response.read().decode("utf-8")
                   )
 
-              matches = data.get("matches", [])
+              return data.get("matches", [])
+
+          def fetch_football_matches():
+              if not FOOTBALL_DATA_TOKEN:
+                  print("FOOTBALL_DATA_TOKEN assente")
+                  return []
+
+              all_matches = []
+              seen_ids = set()
+
+              for code in FOOTBALL_DATA_COMPETITIONS:
+                  try:
+                      matches = fetch_matches_for_competition(code)
+
+                      for match in matches:
+                          match_id = match.get("id")
+
+                          if match_id in seen_ids:
+                              continue
+
+                          seen_ids.add(match_id)
+                          all_matches.append(match)
+
+                  except Exception as error:
+                      print(
+                          "Errore recupero competizione",
+                          code,
+                          error
+                      )
 
               result = []
 
@@ -349,12 +496,20 @@ jobs:
                   "SCHEDULED": 5
               }
 
-              for match in matches:
+              for match in all_matches:
+                  if not is_important_match(match):
+                      continue
+
                   status = match.get("status", "")
+                  utc_date = match.get("utcDate", "")
+                  local_date = get_match_local_date(utc_date)
+
+                  if local_date not in [today, tomorrow]:
+                      continue
+
                   home = match.get("homeTeam", {}).get("shortName") or match.get("homeTeam", {}).get("name", "")
                   away = match.get("awayTeam", {}).get("shortName") or match.get("awayTeam", {}).get("name", "")
                   competition = match.get("competition", {}).get("name", "Calcio")
-                  utc_date = match.get("utcDate", "")
 
                   home_score, away_score = get_score(match)
 
@@ -370,6 +525,7 @@ jobs:
                       "home_score": home_score,
                       "away_score": away_score,
                       "is_live": status in ["IN_PLAY", "PAUSED"],
+                      "local_date": str(local_date),
                       "_priority": priority.get(status, 9)
                   }
 
@@ -378,6 +534,7 @@ jobs:
               result.sort(
                   key=lambda item: (
                       item["_priority"],
+                      item.get("local_date", ""),
                       item.get("time", "")
                   )
               )
@@ -391,7 +548,7 @@ jobs:
                   return [{
                       "type": "message",
                       "category": "CALCIO",
-                      "title": "Nessuna partita delle principali competizioni in programma oggi",
+                      "title": "Nessuna partita rilevante in programma oggi tra Serie A, coppe europee e top club",
                       "source": "football-data.org"
                   }]
 
@@ -419,7 +576,7 @@ jobs:
               ),
               (
                   "CALCIO",
-                  'calcio OR "serie a" OR champions OR nazionale OR "coppa italia"'
+                  '"serie a" OR "coppa italia" OR "champions league" OR "europa league" OR "conference league"'
               ),
               (
                   "TENNIS",
