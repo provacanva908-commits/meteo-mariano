@@ -1,12 +1,55 @@
 {
-  "updated_at": "2026-08-27T16:50:45.921657+00:00",
-  "local_date": "2026-08-27",
+  "updated_at": "2026-08-27T22:56:33.951507+00:00",
+  "local_date": "2026-08-28",
   "articles": [
     {
-      "type": "message",
+      "type": "match",
       "category": "CALCIO",
-      "title": "Nessuna partita rilevante in programma oggi tra Serie A, coppe europee e top club",
-      "source": "football-data.org"
+      "competition": "Serie A",
+      "home": "Milan",
+      "away": "Venezia FC",
+      "time": "20:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-08-28"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Ligue 1",
+      "home": "Lille",
+      "away": "PSG",
+      "time": "20:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-08-28"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Primeira Liga",
+      "home": "Rio Ave",
+      "away": "Sporting CP",
+      "time": "21:15",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-08-28"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Ufficiale | Cristiana Girelli: rinnovo del prestito al Bay FC - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Thu, 27 Aug 2026 17:08:55 GMT"
     },
     {
       "type": "news",
@@ -18,51 +61,44 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ricci a un passo dal Como, accordo con il Milan per un prestito oneroso - ANSA",
-      "source": "ANSA",
-      "published": "Thu, 27 Aug 2026 11:39:00 GMT"
+      "title": "Calciomercato, per il Ravenna finisce la 'telenovela' Parigi: l'attaccante firma con il Pescara - RavennaToday",
+      "source": "RavennaToday",
+      "published": "Thu, 27 Aug 2026 13:40:47 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Atalanta: Ahanor sblocca Romagnoli? Le ultime - Fantacalcio",
-      "source": "Fantacalcio",
-      "published": "Thu, 27 Aug 2026 08:49:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Roma, accordo con l'Hull City per Vaz: prestito con diritto di riscatto per 32 milioni totali - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Thu, 27 Aug 2026 11:14:10 GMT"
+      "title": "Calciomercato Napoli, avanza la trattativa per Guiu: lo spagnolo può arrivare anche senza cessioni - Il Mattino",
+      "source": "Il Mattino",
+      "published": "Thu, 27 Aug 2026 21:55:04 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Sorteggi Champions League, il calendario delle italiane: l'Inter subito contro il Real Madrid di Mourinho e il Liverpool - Open",
+      "title": "Sorteggio Champions League 2026/2027, fase campionato: Inter e Roma trovano il Real di Mourinho, il Napoli sfida Arsenal e Manchester City, il Como di Fabregas contro Barcellona e PSG - Goal.com",
+      "source": "Goal.com",
+      "published": "Thu, 27 Aug 2026 17:18:18 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Sorteggi Champions League, Mourinho ritrova Inter e Roma. Chivu pesca il Liverpool, Gasp il Psg. City e Arsenal per il Napoli. Como con Psg e Barça - Open",
       "source": "Open",
-      "published": "Thu, 27 Aug 2026 16:41:35 GMT"
+      "published": "Thu, 27 Aug 2026 16:45:45 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, la diretta del sorteggio della League Phase. Quattro le italiane: Inter, Napoli, Roma e Como - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "Thu, 27 Aug 2026 14:03:19 GMT"
+      "title": "DIRETTA: il sorteggio della Champions League 2026/27 LIVE! Le fasce, dove vederlo in tv e streaming e le avversarie di Inter, Napoli, Roma e Como - Goal.com",
+      "source": "Goal.com",
+      "published": "Thu, 27 Aug 2026 18:36:34 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "LIVE - Sorteggio Champions League: le avversarie di Inter, Roma, Napoli e Como - Fantacalcio",
-      "source": "Fantacalcio",
-      "published": "Thu, 27 Aug 2026 15:44:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Sorteggio Champions League 2026/27 in diretta: ecco le avversarie di Inter, Roma, Napoli e Como - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "Thu, 27 Aug 2026 16:32:42 GMT"
+      "title": "Champions League: i sorteggi per Roma, Inter, Napoli e Como - Euronews.com",
+      "source": "Euronews.com",
+      "published": "Thu, 27 Aug 2026 20:10:44 GMT"
     },
     {
       "type": "news",
@@ -95,6 +131,13 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - Comitato Olimpico Nazionale",
+      "source": "Comitato Olimpico Nazionale",
+      "published": "Wed, 26 Aug 2026 21:26:24 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - FITP",
       "source": "FITP",
       "published": "Wed, 26 Aug 2026 21:28:39 GMT"
@@ -102,23 +145,16 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "FIP Gold Belgrado – Alix Collombon si conferma all'altezza, i quarti di finale promettono grandi emozioni - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Thu, 27 Aug 2026 17:48:15 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "FIP Gold Belgrado: Joris/Robert a un tie-break dagli ottavi di finale, Hugounenq/Muesser frustrati… Collombon ultima francese in gara - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Wed, 26 Aug 2026 22:52:11 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Giochi del Mediterraneo, padel femminile: il Portogallo ferma le azzurre Dal Pozzo-Casali e vola in semifinale - PugliaLive",
-      "source": "PugliaLive",
-      "published": "Wed, 26 Aug 2026 20:48:19 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Padel: azzurri in semifinale nel misto. Sarà derby nel doppio maschile ai Giochi del Mediterraneo - OA Sport",
-      "source": "OA Sport",
-      "published": "Wed, 26 Aug 2026 20:29:13 GMT"
     }
   ]
 }
