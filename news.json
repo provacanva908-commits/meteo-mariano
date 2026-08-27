@@ -1,13 +1,32 @@
 {
-  "updated_at": "2026-08-27T13:03:11.687507+00:00",
+  "updated_at": "2026-08-27T16:39:37.439312+00:00",
   "local_date": "2026-08-27",
   "articles": [
     {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale una cessione in difesa: la formula dell'operazione - NapoliToday",
-      "source": "NapoliToday",
-      "published": "Tue, 25 Aug 2026 19:30:00 GMT"
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Primera Division",
+      "home": "Celta",
+      "away": "Osasuna",
+      "time": "20:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Primera Division",
+      "home": "Barça",
+      "away": "Athletic",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false
     },
     {
       "type": "news",
@@ -19,16 +38,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, Vaz verso la Premier League: accordo vicino con l’Hull City, diritto di riscatto da 30 milioni - TeleRadioStereo",
-      "source": "TeleRadioStereo",
-      "published": "Thu, 27 Aug 2026 11:11:58 GMT"
+      "title": "Ricci a un passo dal Como, accordo con il Milan per un prestito oneroso - ANSA",
+      "source": "ANSA",
+      "published": "Thu, 27 Aug 2026 11:39:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, per Pinamonti ballano 3 milioni: tutto fermo senza la cessione di Tavares - RomaToday",
-      "source": "RomaToday",
-      "published": "Sun, 23 Aug 2026 10:33:21 GMT"
+      "title": "Calciomercato Atalanta: Ahanor sblocca Romagnoli? Le ultime - Fantacalcio",
+      "source": "Fantacalcio",
+      "published": "Thu, 27 Aug 2026 08:49:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Roma, accordo con l'Hull City per Vaz: prestito con diritto di riscatto per 32 milioni totali - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Thu, 27 Aug 2026 11:14:10 GMT"
     },
     {
       "type": "news",
@@ -40,9 +66,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, oggi il sorteggio con Inter, Napoli, Roma e Como - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
-      "published": "Thu, 27 Aug 2026 08:57:06 GMT"
+      "title": "DIRETTA: il sorteggio della Champions League 2026/27 LIVE! Le fasce, dove vederlo in tv e streaming e le avversarie di Inter, Napoli, Roma e Como - Goal.com",
+      "source": "Goal.com",
+      "published": "Thu, 27 Aug 2026 16:10:56 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Sorteggio Champions League 2026/27 in diretta: ecco le avversarie di Inter, Roma, Napoli e Como - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Thu, 27 Aug 2026 16:32:42 GMT"
     },
     {
       "type": "news",
@@ -50,13 +83,6 @@
       "title": "Fasce sorteggio Champions 2026/2027, in quali sono le italiane? Contro chi possono giocare Inter, Napoli, Roma e Como - Goal.com",
       "source": "Goal.com",
       "published": "Wed, 26 Aug 2026 21:12:31 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Calcio, alle 18 i sorteggi di Champions: attesa per Inter, Roma, Napoli e Como - RaiNews",
-      "source": "RaiNews",
-      "published": "Thu, 27 Aug 2026 09:51:00 GMT"
     },
     {
       "type": "news",
@@ -68,6 +94,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "US Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Wed, 26 Aug 2026 08:50:10 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Monaco: “Un Alcaraz all’80% potrebbe vincere gli US Open. Sinner? Vidi una macchia scura al ginocchio già a Wimbledon” - OA Sport",
       "source": "OA Sport",
       "published": "Wed, 26 Aug 2026 08:30:23 GMT"
@@ -75,23 +108,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner salta Us Open, come cambia ranking Atp: un pericolo per Jannik - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Fri, 21 Aug 2026 15:10:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "US Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Wed, 26 Aug 2026 08:50:10 GMT"
+      "title": "Sinner non ce la fa, ufficiale il forfait agli Us Open: \"Sono deluso ma ho bisogno di più tempo\" - RaiNews",
+      "source": "RaiNews",
+      "published": "Fri, 21 Aug 2026 18:54:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - Comitato Olimpico Nazionale",
-      "source": "Comitato Olimpico Nazionale",
-      "published": "Wed, 26 Aug 2026 21:26:24 GMT"
+      "title": "Giochi del Mediterraneo, padel femminile: il Portogallo ferma le azzurre Dal Pozzo-Casali e vola in semifinale - PugliaLive",
+      "source": "PugliaLive",
+      "published": "Wed, 26 Aug 2026 20:48:19 GMT"
     },
     {
       "type": "news",
@@ -110,9 +136,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Giochi del Mediterraneo, padel femminile: il Portogallo ferma le azzurre Dal Pozzo-Casali e vola in semifinale - PugliaLive",
-      "source": "PugliaLive",
-      "published": "Wed, 26 Aug 2026 20:48:19 GMT"
+      "title": "FIP Gold Belgrado: Joris/Robert a un tie-break dagli ottavi di finale, Hugounenq/Muesser frustrati… Collombon ultima francese in gara - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Wed, 26 Aug 2026 22:52:11 GMT"
     }
   ]
 }
