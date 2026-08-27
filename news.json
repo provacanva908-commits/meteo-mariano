@@ -1,32 +1,12 @@
 {
-  "updated_at": "2026-08-27T16:39:37.439312+00:00",
+  "updated_at": "2026-08-27T16:50:45.921657+00:00",
   "local_date": "2026-08-27",
   "articles": [
     {
-      "type": "match",
+      "type": "message",
       "category": "CALCIO",
-      "competition": "Primera Division",
-      "home": "Celta",
-      "away": "Osasuna",
-      "time": "20:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Primera Division",
-      "home": "Barça",
-      "away": "Athletic",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false
+      "title": "Nessuna partita rilevante in programma oggi tra Serie A, coppe europee e top club",
+      "source": "football-data.org"
     },
     {
       "type": "news",
@@ -59,16 +39,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, oggi sorteggio per Inter, Napoli, Roma e Como: orario, fasce e dove vederlo - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Thu, 27 Aug 2026 04:30:00 GMT"
+      "title": "Sorteggi Champions League, il calendario delle italiane: l'Inter subito contro il Real Madrid di Mourinho e il Liverpool - Open",
+      "source": "Open",
+      "published": "Thu, 27 Aug 2026 16:41:35 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "DIRETTA: il sorteggio della Champions League 2026/27 LIVE! Le fasce, dove vederlo in tv e streaming e le avversarie di Inter, Napoli, Roma e Como - Goal.com",
-      "source": "Goal.com",
-      "published": "Thu, 27 Aug 2026 16:10:56 GMT"
+      "title": "Champions League, la diretta del sorteggio della League Phase. Quattro le italiane: Inter, Napoli, Roma e Como - Il Messaggero",
+      "source": "Il Messaggero",
+      "published": "Thu, 27 Aug 2026 14:03:19 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "LIVE - Sorteggio Champions League: le avversarie di Inter, Roma, Napoli e Como - Fantacalcio",
+      "source": "Fantacalcio",
+      "published": "Thu, 27 Aug 2026 15:44:00 GMT"
     },
     {
       "type": "news",
@@ -76,20 +63,6 @@
       "title": "Sorteggio Champions League 2026/27 in diretta: ecco le avversarie di Inter, Roma, Napoli e Como - Il Fatto Quotidiano",
       "source": "Il Fatto Quotidiano",
       "published": "Thu, 27 Aug 2026 16:32:42 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Fasce sorteggio Champions 2026/2027, in quali sono le italiane? Contro chi possono giocare Inter, Napoli, Roma e Como - Goal.com",
-      "source": "Goal.com",
-      "published": "Wed, 26 Aug 2026 21:12:31 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 27 agosto · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Wed, 26 Aug 2026 16:49:00 GMT"
     },
     {
       "type": "news",
@@ -101,6 +74,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 27 agosto · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Wed, 26 Aug 2026 16:49:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Monaco: “Un Alcaraz all’80% potrebbe vincere gli US Open. Sinner? Vidi una macchia scura al ginocchio già a Wimbledon” - OA Sport",
       "source": "OA Sport",
       "published": "Wed, 26 Aug 2026 08:30:23 GMT"
@@ -108,23 +88,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner non ce la fa, ufficiale il forfait agli Us Open: \"Sono deluso ma ho bisogno di più tempo\" - RaiNews",
-      "source": "RaiNews",
-      "published": "Fri, 21 Aug 2026 18:54:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Giochi del Mediterraneo, padel femminile: il Portogallo ferma le azzurre Dal Pozzo-Casali e vola in semifinale - PugliaLive",
-      "source": "PugliaLive",
-      "published": "Wed, 26 Aug 2026 20:48:19 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 09 Aug 2026 07:00:00 GMT"
+      "title": "Cobolli/Bencic ko in finale nel doppio misto agli Us Open: vincono Mensik/Muchova - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Thu, 27 Aug 2026 04:24:52 GMT"
     },
     {
       "type": "news",
@@ -139,6 +105,20 @@
       "title": "FIP Gold Belgrado: Joris/Robert a un tie-break dagli ottavi di finale, Hugounenq/Muesser frustrati… Collombon ultima francese in gara - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Wed, 26 Aug 2026 22:52:11 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Giochi del Mediterraneo, padel femminile: il Portogallo ferma le azzurre Dal Pozzo-Casali e vola in semifinale - PugliaLive",
+      "source": "PugliaLive",
+      "published": "Wed, 26 Aug 2026 20:48:19 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Padel: azzurri in semifinale nel misto. Sarà derby nel doppio maschile ai Giochi del Mediterraneo - OA Sport",
+      "source": "OA Sport",
+      "published": "Wed, 26 Aug 2026 20:29:13 GMT"
     }
   ]
 }
