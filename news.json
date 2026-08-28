@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T06:51:51.760312+00:00",
+  "updated_at": "2026-08-28T19:14:14.884690+00:00",
   "local_date": "2026-08-28",
   "articles": [
     {
@@ -9,11 +9,11 @@
       "home": "Milan",
       "away": "Venezia FC",
       "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "is_live": true,
       "local_date": "2026-08-28"
     },
     {
@@ -23,11 +23,11 @@
       "home": "Lille",
       "away": "PSG",
       "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "is_live": true,
       "local_date": "2026-08-28"
     },
     {
@@ -47,20 +47,6 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale una cessione in difesa: la formula dell'operazione - NapoliToday",
-      "source": "NapoliToday",
-      "published": "Tue, 25 Aug 2026 19:30:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Ufficiale | Cristiana Girelli: rinnovo del prestito al Bay FC - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Thu, 27 Aug 2026 17:08:55 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "Kessie Juventus, la cessione di David può sbloccare la trattativa: le news di calciomercato - Sky Sport",
       "source": "Sky Sport",
       "published": "Wed, 26 Aug 2026 21:44:21 GMT"
@@ -68,44 +54,51 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, per Pinamonti ballano 3 milioni: tutto fermo senza la cessione di Tavares - RomaToday",
-      "source": "RomaToday",
-      "published": "Sun, 23 Aug 2026 10:33:21 GMT"
+      "title": "Ufficiale | Miretti in prestito al Besiktas - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Fri, 28 Aug 2026 16:58:10 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli, Woltemade può arrivare in prestito. In attacco il domino parte da Noa Lang - Il Riformista",
+      "source": "Il Riformista",
+      "published": "Fri, 28 Aug 2026 14:40:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "UFFICIALE - Juventus, Miretti in prestito al Besiktas - Fantacalcio",
+      "source": "Fantacalcio",
+      "published": "Fri, 28 Aug 2026 16:51:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Sorteggio Champions League 2026/2027, fase campionato: Inter e Roma trovano il Real di Mourinho, il Napoli sfida Arsenal e Manchester City, il Como di Fabregas contro Barcellona e PSG - Goal.com",
-      "source": "Goal.com",
-      "published": "Thu, 27 Aug 2026 17:18:18 GMT"
+      "title": "Europa League 2026/27: Juventus e Milan al via - Lega Serie A",
+      "source": "Lega Serie A",
+      "published": "Fri, 28 Aug 2026 07:38:58 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, sorteggio spettacolare per le italiane: Inter-Real Madrid, Napoli-City, Roma-PSG e Como-United - Allora! Italian Australian News",
-      "source": "Allora! Italian Australian News",
-      "published": "Fri, 28 Aug 2026 04:47:28 GMT"
+      "title": "Serie A, Napoli-Como: una sfida al sapore di Champions - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Fri, 28 Aug 2026 15:38:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "DIRETTA: il sorteggio della Champions League 2026/27 LIVE! Le fasce, dove vederlo in tv e streaming e le avversarie di Inter, Napoli, Roma e Como - Goal.com",
-      "source": "Goal.com",
-      "published": "Thu, 27 Aug 2026 18:36:34 GMT"
+      "title": "Serie A, Milan-Venezia apre la seconda giornata: in corso ora, il risultato è 0-0. LIVE - Sky TG24",
+      "source": "Sky TG24",
+      "published": "Fri, 28 Aug 2026 18:07:31 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: i sorteggi per Roma, Inter, Napoli e Como - Euronews.com",
-      "source": "Euronews.com",
-      "published": "Thu, 27 Aug 2026 20:10:44 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Il nuovo vantaggio di Jannik Sinner nel ranking ATP: cosa cambia dopo la sconfitta di Zverev. Alcaraz lontanissimo - OA Sport",
-      "source": "OA Sport",
-      "published": "Thu, 20 Aug 2026 11:16:36 GMT"
+      "title": "SERIE A ENILIVE | I CONVOCATI PER JUVENTUS-PARMA - parmacalcio1913.com",
+      "source": "parmacalcio1913.com",
+      "published": "Fri, 28 Aug 2026 16:06:15 GMT"
     },
     {
       "type": "news",
@@ -117,16 +110,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 27 agosto · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Wed, 26 Aug 2026 16:49:00 GMT"
+      "title": "Federer sugli US Open senza Sinner: \"Sceglierei Alcaraz e Djokovic, ma su entrambi tanti dubbi\" - Fanpage",
+      "source": "Fanpage",
+      "published": "Fri, 28 Aug 2026 09:49:55 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "WTA Monterrey 2026, Ann Li ed Elise Mertens approdano in semifinale - OA Sport",
+      "title": "Monaco: “Un Alcaraz all’80% potrebbe vincere gli US Open. Sinner? Vidi una macchia scura al ginocchio già a Wimbledon” - OA Sport",
       "source": "OA Sport",
-      "published": "Fri, 28 Aug 2026 05:20:42 GMT"
+      "published": "Wed, 26 Aug 2026 08:30:23 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "WTA Monterrey: Li e Bartunkova vincono i derby, in semifinale Mertens e Parry - Ubitennis",
+      "source": "Ubitennis",
+      "published": "Fri, 28 Aug 2026 07:30:15 GMT"
     },
     {
       "type": "news",
@@ -145,16 +145,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Gold Belgrado – Alix Collombon si conferma all'altezza, i quarti di finale promettono grandi emozioni - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Thu, 27 Aug 2026 17:48:15 GMT"
+      "title": "Giochi del Mediterraneo, padel femminile: Orsi-Marchetti si fermano in semifinale, domani la finale per il bronzo - PugliaLive",
+      "source": "PugliaLive",
+      "published": "Fri, 28 Aug 2026 11:32:17 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Gold Belgrado: Joris/Robert a un tie-break dagli ottavi di finale, Hugounenq/Muesser frustrati… Collombon ultima francese in gara - padel-magazine.it",
+      "title": "Premier Padel Finale: Tello, Nieto, Salazar… inizia la battaglia per gli ultimi posti! - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Wed, 26 Aug 2026 22:52:11 GMT"
+      "published": "Fri, 28 Aug 2026 14:55:00 GMT"
     }
   ]
 }
