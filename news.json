@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T22:56:33.951507+00:00",
+  "updated_at": "2026-08-28T06:51:51.760312+00:00",
   "local_date": "2026-08-28",
   "articles": [
     {
@@ -47,6 +47,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli, ufficiale una cessione in difesa: la formula dell'operazione - NapoliToday",
+      "source": "NapoliToday",
+      "published": "Tue, 25 Aug 2026 19:30:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Ufficiale | Cristiana Girelli: rinnovo del prestito al Bay FC - Juventus.com",
       "source": "Juventus.com",
       "published": "Thu, 27 Aug 2026 17:08:55 GMT"
@@ -61,16 +68,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato, per il Ravenna finisce la 'telenovela' Parigi: l'attaccante firma con il Pescara - RavennaToday",
-      "source": "RavennaToday",
-      "published": "Thu, 27 Aug 2026 13:40:47 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, avanza la trattativa per Guiu: lo spagnolo può arrivare anche senza cessioni - Il Mattino",
-      "source": "Il Mattino",
-      "published": "Thu, 27 Aug 2026 21:55:04 GMT"
+      "title": "Calciomercato Lazio, per Pinamonti ballano 3 milioni: tutto fermo senza la cessione di Tavares - RomaToday",
+      "source": "RomaToday",
+      "published": "Sun, 23 Aug 2026 10:33:21 GMT"
     },
     {
       "type": "news",
@@ -82,9 +82,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Sorteggi Champions League, Mourinho ritrova Inter e Roma. Chivu pesca il Liverpool, Gasp il Psg. City e Arsenal per il Napoli. Como con Psg e Barça - Open",
-      "source": "Open",
-      "published": "Thu, 27 Aug 2026 16:45:45 GMT"
+      "title": "Champions League, sorteggio spettacolare per le italiane: Inter-Real Madrid, Napoli-City, Roma-PSG e Como-United - Allora! Italian Australian News",
+      "source": "Allora! Italian Australian News",
+      "published": "Fri, 28 Aug 2026 04:47:28 GMT"
     },
     {
       "type": "news",
@@ -103,6 +103,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Il nuovo vantaggio di Jannik Sinner nel ranking ATP: cosa cambia dopo la sconfitta di Zverev. Alcaraz lontanissimo - OA Sport",
+      "source": "OA Sport",
+      "published": "Thu, 20 Aug 2026 11:16:36 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "US Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
       "published": "Wed, 26 Aug 2026 08:50:10 GMT"
@@ -117,16 +124,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Monaco: “Un Alcaraz all’80% potrebbe vincere gli US Open. Sinner? Vidi una macchia scura al ginocchio già a Wimbledon” - OA Sport",
+      "title": "WTA Monterrey 2026, Ann Li ed Elise Mertens approdano in semifinale - OA Sport",
       "source": "OA Sport",
-      "published": "Wed, 26 Aug 2026 08:30:23 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Cobolli/Bencic ko in finale nel doppio misto agli Us Open: vincono Mensik/Muchova - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Thu, 27 Aug 2026 04:24:52 GMT"
+      "published": "Fri, 28 Aug 2026 05:20:42 GMT"
     },
     {
       "type": "news",
