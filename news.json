@@ -1,118 +1,118 @@
 {
-  "updated_at": "2026-08-29T20:27:18.764125+00:00",
-  "local_date": "2026-08-29",
+  "updated_at": "2026-08-29T22:46:04.274986+00:00",
+  "local_date": "2026-08-30",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Juventus",
-      "away": "Parma",
-      "time": "20:45",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 1,
-      "away_score": 0,
-      "is_live": true,
-      "local_date": "2026-08-29"
+      "competition": "Eredivisie",
+      "home": "Utrecht",
+      "away": "PSV",
+      "time": "12:15",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-08-30"
     },
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Ligue 1",
-      "home": "Olympique Lyon",
-      "away": "Le Havre",
-      "time": "20:45",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 0,
-      "away_score": 1,
-      "is_live": true,
-      "local_date": "2026-08-29"
+      "competition": "Eredivisie",
+      "home": "Feyenoord",
+      "away": "Den Haag",
+      "time": "14:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-08-30"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Premier League",
-      "home": "Liverpool",
-      "away": "Nottingham",
-      "time": "13:30",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 2,
-      "away_score": 2,
+      "home": "Chelsea",
+      "away": "Brighton Hove",
+      "time": "15:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-08-29"
+      "local_date": "2026-08-30"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Eredivisie",
+      "home": "Telstar",
+      "away": "Ajax",
+      "time": "16:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-08-30"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Primera Division",
+      "home": "Real Madrid",
+      "away": "Málaga",
+      "time": "17:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-08-30"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Sassuolo",
-      "away": "Torino",
+      "home": "Napoli",
+      "away": "Como 1907",
       "time": "18:30",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 2,
-      "away_score": 1,
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-08-29"
+      "local_date": "2026-08-30"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Fiorentina",
-      "away": "Frosinone",
-      "time": "18:30",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 0,
-      "away_score": 3,
+      "home": "Lazio",
+      "away": "Genoa",
+      "time": "20:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-08-29"
+      "local_date": "2026-08-30"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Monza",
-      "away": "Udinese",
-      "time": "18:30",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 2,
-      "away_score": 3,
+      "home": "Cagliari",
+      "away": "Inter",
+      "time": "20:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-08-29"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Premier League",
-      "home": "Tottenham",
-      "away": "Newcastle",
-      "time": "18:30",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 0,
-      "away_score": 2,
-      "is_live": false,
-      "local_date": "2026-08-29"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Primeira Liga",
-      "home": "Acad. Viseu",
-      "away": "Porto",
-      "time": "19:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 0,
-      "away_score": 3,
-      "is_live": false,
-      "local_date": "2026-08-29"
+      "local_date": "2026-08-30"
     },
     {
       "type": "news",
@@ -120,6 +120,13 @@
       "title": "Calciomercato Serie A: Roma scatenata, uscite Inter e Milan in cerca del post Leao. Le ultime - Tuttosport",
       "source": "Tuttosport",
       "published": "Sat, 29 Aug 2026 13:36:55 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Atalanta, ufficiale il ritorno di Kessie - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sat, 29 Aug 2026 16:20:50 GMT"
     },
     {
       "type": "news",
@@ -133,14 +140,7 @@
       "category": "CALCIOMERCATO",
       "title": "Kessie all'Atalanta: ufficiale il clamoroso ritorno di mercato - Sky Sport",
       "source": "Sky Sport",
-      "published": "Sat, 29 Aug 2026 17:25:31 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Serie A: ufficiale, Asllani in prestito dall'Inter all'Al-Jazira - ANSA",
-      "source": "ANSA",
-      "published": "Sat, 29 Aug 2026 13:50:00 GMT"
+      "published": "Sat, 29 Aug 2026 14:46:48 GMT"
     },
     {
       "type": "news",
@@ -159,16 +159,23 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Champions League, italiane lontane dalle big ma tutte ai playoff secondo l'algoritmo: le previsioni per Roma, Napoli, Inter e Como - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Sat, 29 Aug 2026 10:57:04 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Champions League, svelato il calendario di Inter, Napoli, Roma e Como: date e orari - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Sat, 29 Aug 2026 11:22:29 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League, italiane lontane dalle big ma tutte ai playoff secondo l'algoritmo: le previsioni per Roma, Napoli, Inter e Como - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Sat, 29 Aug 2026 10:57:04 GMT"
+      "category": "TENNIS",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 30 agosto · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Sat, 29 Aug 2026 22:01:00 GMT"
     },
     {
       "type": "news",
@@ -183,13 +190,6 @@
       "title": "Monaco: “Un Alcaraz all’80% potrebbe vincere gli US Open. Sinner? Vidi una macchia scura al ginocchio già a Wimbledon” - OA Sport",
       "source": "OA Sport",
       "published": "Wed, 26 Aug 2026 08:30:23 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "L'Italia fa tredici, ma la finale resta tra quei due: Sinner è “Maradona” in casa Juve, Alcaraz l'umano ne invoca il ritorno - Il Mattino",
-      "source": "Il Mattino",
-      "published": "Sat, 29 Aug 2026 13:45:20 GMT"
     },
     {
       "type": "news",
