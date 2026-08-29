@@ -1,7 +1,77 @@
 {
-  "updated_at": "2026-08-29T14:31:45.109393+00:00",
+  "updated_at": "2026-08-29T17:52:31.216072+00:00",
   "local_date": "2026-08-29",
   "articles": [
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Fiorentina",
+      "away": "Frosinone",
+      "time": "18:30",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 2,
+      "is_live": true,
+      "local_date": "2026-08-29"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Sassuolo",
+      "away": "Torino",
+      "time": "18:30",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 1,
+      "away_score": 1,
+      "is_live": true,
+      "local_date": "2026-08-29"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Monza",
+      "away": "Udinese",
+      "time": "18:30",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 1,
+      "away_score": 3,
+      "is_live": true,
+      "local_date": "2026-08-29"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Premier League",
+      "home": "Tottenham",
+      "away": "Newcastle",
+      "time": "18:30",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "is_live": true,
+      "local_date": "2026-08-29"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Primeira Liga",
+      "home": "Acad. Viseu",
+      "away": "Porto",
+      "time": "19:00",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 3,
+      "is_live": true,
+      "local_date": "2026-08-29"
+    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -13,76 +83,6 @@
       "status_label": "Finale",
       "home_score": 2,
       "away_score": 2,
-      "is_live": false,
-      "local_date": "2026-08-29"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Monza",
-      "away": "Udinese",
-      "time": "18:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-08-29"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Sassuolo",
-      "away": "Torino",
-      "time": "18:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-08-29"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Fiorentina",
-      "away": "Frosinone",
-      "time": "18:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-08-29"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Premier League",
-      "home": "Tottenham",
-      "away": "Newcastle",
-      "time": "18:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-08-29"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Primeira Liga",
-      "home": "Acad. Viseu",
-      "away": "Porto",
-      "time": "19:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
       "is_live": false,
       "local_date": "2026-08-29"
     },
@@ -124,13 +124,6 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Kessie Juventus, la cessione di David può sbloccare la trattativa: le news di calciomercato - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 26 Aug 2026 21:44:21 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "Como, ufficiale l'acquisto di Ricci dal Milan - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Sat, 29 Aug 2026 12:55:28 GMT"
@@ -138,9 +131,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Milan, tifosi d'accordo dopo il Venezia: \"Ecco cosa serve dal mercato\" - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Fri, 28 Aug 2026 21:38:48 GMT"
+      "title": "Kessie Juventus, la cessione di David può sbloccare la trattativa: le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Wed, 26 Aug 2026 21:44:21 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Kessie all'Atalanta: ufficiale il clamoroso ritorno di mercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sat, 29 Aug 2026 16:06:01 GMT"
     },
     {
       "type": "news",
@@ -187,16 +187,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "L'Italia fa tredici, ma la finale resta tra quei due: Sinner è “Maradona” in casa Juve, Alcaraz l'umano ne invoca il ritorno - Il Mattino",
-      "source": "Il Mattino",
-      "published": "Sat, 29 Aug 2026 13:45:20 GMT"
+      "title": "Monaco: “Un Alcaraz all’80% potrebbe vincere gli US Open. Sinner? Vidi una macchia scura al ginocchio già a Wimbledon” - OA Sport",
+      "source": "OA Sport",
+      "published": "Wed, 26 Aug 2026 08:30:23 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Monaco: “Un Alcaraz all’80% potrebbe vincere gli US Open. Sinner? Vidi una macchia scura al ginocchio già a Wimbledon” - OA Sport",
-      "source": "OA Sport",
-      "published": "Wed, 26 Aug 2026 08:30:23 GMT"
+      "title": "L'Italia fa tredici, ma la finale resta tra quei due: Sinner è “Maradona” in casa Juve, Alcaraz l'umano ne invoca il ritorno - Il Mattino",
+      "source": "Il Mattino",
+      "published": "Sat, 29 Aug 2026 13:45:20 GMT"
     },
     {
       "type": "news",
@@ -215,9 +215,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Finale: Tello, Nieto, Salazar… inizia la battaglia per gli ultimi posti! - padel-magazine.it",
+      "title": "FIP Westerbork: Sorteggio maschile concluso, due coppie francesi ai quarti di finale Silver femminili - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Fri, 28 Aug 2026 14:55:00 GMT"
+      "published": "Sat, 29 Aug 2026 14:10:42 GMT"
     },
     {
       "type": "news",
