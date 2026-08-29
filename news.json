@@ -1,48 +1,118 @@
 {
-  "updated_at": "2026-08-28T19:14:14.884690+00:00",
-  "local_date": "2026-08-28",
+  "updated_at": "2026-08-29T02:17:32.558877+00:00",
+  "local_date": "2026-08-29",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Milan",
-      "away": "Venezia FC",
-      "time": "20:45",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 0,
-      "away_score": 0,
-      "is_live": true,
-      "local_date": "2026-08-28"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Ligue 1",
-      "home": "Lille",
-      "away": "PSG",
-      "time": "20:45",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 0,
-      "away_score": 0,
-      "is_live": true,
-      "local_date": "2026-08-28"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Primeira Liga",
-      "home": "Rio Ave",
-      "away": "Sporting CP",
-      "time": "21:15",
+      "competition": "Premier League",
+      "home": "Liverpool",
+      "away": "Nottingham",
+      "time": "13:30",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
       "away_score": null,
       "is_live": false,
-      "local_date": "2026-08-28"
+      "local_date": "2026-08-29"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Monza",
+      "away": "Udinese",
+      "time": "18:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-08-29"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Sassuolo",
+      "away": "Torino",
+      "time": "18:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-08-29"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Fiorentina",
+      "away": "Frosinone",
+      "time": "18:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-08-29"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Premier League",
+      "home": "Tottenham",
+      "away": "Newcastle",
+      "time": "18:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-08-29"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Primeira Liga",
+      "home": "Acad. Viseu",
+      "away": "Porto",
+      "time": "19:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-08-29"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Juventus",
+      "away": "Parma",
+      "time": "20:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-08-29"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Ligue 1",
+      "home": "Olympique Lyon",
+      "away": "Le Havre",
+      "time": "20:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-08-29"
     },
     {
       "type": "news",
@@ -61,16 +131,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Milan, tifosi d'accordo dopo il Venezia: \"Ecco cosa serve dal mercato\" - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Fri, 28 Aug 2026 21:38:48 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Calciomercato Napoli, Woltemade può arrivare in prestito. In attacco il domino parte da Noa Lang - Il Riformista",
       "source": "Il Riformista",
       "published": "Fri, 28 Aug 2026 14:40:00 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "UFFICIALE - Juventus, Miretti in prestito al Besiktas - Fantacalcio",
-      "source": "Fantacalcio",
-      "published": "Fri, 28 Aug 2026 16:51:00 GMT"
+      "category": "CALCIO",
+      "title": "Champions League, ecco le avversarie di Inter, Napoli, Roma e Como - Lega Serie A",
+      "source": "Lega Serie A",
+      "published": "Thu, 27 Aug 2026 16:39:44 GMT"
     },
     {
       "type": "news",
@@ -82,23 +159,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, Napoli-Como: una sfida al sapore di Champions - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Fri, 28 Aug 2026 15:38:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, Milan-Venezia apre la seconda giornata: in corso ora, il risultato è 0-0. LIVE - Sky TG24",
-      "source": "Sky TG24",
-      "published": "Fri, 28 Aug 2026 18:07:31 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "SERIE A ENILIVE | I CONVOCATI PER JUVENTUS-PARMA - parmacalcio1913.com",
       "source": "parmacalcio1913.com",
       "published": "Fri, 28 Aug 2026 16:06:15 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Sorteggi Europa League: le avversarie di Juventus e Milan. Incroci, calendario e i pericoli per Spalletti e Amorim - TGLA7",
+      "source": "TGLA7",
+      "published": "Fri, 28 Aug 2026 14:21:06 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Il nuovo vantaggio di Jannik Sinner nel ranking ATP: cosa cambia dopo la sconfitta di Zverev. Alcaraz lontanissimo - OA Sport",
+      "source": "OA Sport",
+      "published": "Thu, 20 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -123,13 +200,6 @@
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "WTA Monterrey: Li e Bartunkova vincono i derby, in semifinale Mertens e Parry - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Fri, 28 Aug 2026 07:30:15 GMT"
-    },
-    {
-      "type": "news",
       "category": "PADEL",
       "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - Comitato Olimpico Nazionale",
       "source": "Comitato Olimpico Nazionale",
@@ -145,16 +215,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Giochi del Mediterraneo, padel femminile: Orsi-Marchetti si fermano in semifinale, domani la finale per il bronzo - PugliaLive",
-      "source": "PugliaLive",
-      "published": "Fri, 28 Aug 2026 11:32:17 GMT"
+      "title": "Premier Padel Finale: Tello, Nieto, Salazar… inizia la battaglia per gli ultimi posti! - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Fri, 28 Aug 2026 14:55:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Finale: Tello, Nieto, Salazar… inizia la battaglia per gli ultimi posti! - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Fri, 28 Aug 2026 14:55:00 GMT"
+      "title": "Giochi del Mediterraneo, padel femminile: Orsi-Marchetti si fermano in semifinale, domani la finale per il bronzo - PugliaLive",
+      "source": "PugliaLive",
+      "published": "Fri, 28 Aug 2026 11:32:17 GMT"
     }
   ]
 }
