@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T02:17:32.558877+00:00",
+  "updated_at": "2026-08-29T09:11:27.533236+00:00",
   "local_date": "2026-08-29",
   "articles": [
     {
@@ -9,20 +9,6 @@
       "home": "Liverpool",
       "away": "Nottingham",
       "time": "13:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-08-29"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Monza",
-      "away": "Udinese",
-      "time": "18:30",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -50,6 +36,20 @@
       "competition": "Serie A",
       "home": "Fiorentina",
       "away": "Frosinone",
+      "time": "18:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-08-29"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Monza",
+      "away": "Udinese",
       "time": "18:30",
       "status": "TIMED",
       "status_label": "In programma",
@@ -124,13 +124,6 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale | Miretti in prestito al Besiktas - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Fri, 28 Aug 2026 16:58:10 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "Milan, tifosi d'accordo dopo il Venezia: \"Ecco cosa serve dal mercato\" - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Fri, 28 Aug 2026 21:38:48 GMT"
@@ -138,9 +131,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, Woltemade può arrivare in prestito. In attacco il domino parte da Noa Lang - Il Riformista",
-      "source": "Il Riformista",
-      "published": "Fri, 28 Aug 2026 14:40:00 GMT"
+      "title": "Ufficiale | Miretti in prestito al Besiktas - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Fri, 28 Aug 2026 16:58:10 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Palermo, Gabrielloni è rosanero: ufficiale l’arrivo dell’attaccante - PalermoToday",
+      "source": "PalermoToday",
+      "published": "Sat, 29 Aug 2026 07:23:36 GMT"
     },
     {
       "type": "news",
@@ -152,30 +152,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Europa League 2026/27: Juventus e Milan al via - Lega Serie A",
-      "source": "Lega Serie A",
-      "published": "Fri, 28 Aug 2026 07:38:58 GMT"
+      "title": "Champions League: i sorteggi per Roma, Inter, Napoli e Como - Euronews.com",
+      "source": "Euronews.com",
+      "published": "Thu, 27 Aug 2026 20:10:44 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "SERIE A ENILIVE | I CONVOCATI PER JUVENTUS-PARMA - parmacalcio1913.com",
-      "source": "parmacalcio1913.com",
-      "published": "Fri, 28 Aug 2026 16:06:15 GMT"
+      "title": "Serie A, chi tifa per le big? Juve regina, Inter in crescita, Napoli e Roma al femminile - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sat, 29 Aug 2026 05:44:55 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Sorteggi Europa League: le avversarie di Juventus e Milan. Incroci, calendario e i pericoli per Spalletti e Amorim - TGLA7",
-      "source": "TGLA7",
-      "published": "Fri, 28 Aug 2026 14:21:06 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Il nuovo vantaggio di Jannik Sinner nel ranking ATP: cosa cambia dopo la sconfitta di Zverev. Alcaraz lontanissimo - OA Sport",
-      "source": "OA Sport",
-      "published": "Thu, 20 Aug 2026 07:00:00 GMT"
+      "title": "Napoli Como, le probabili formazioni della partita di Serie A - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sat, 29 Aug 2026 09:08:38 GMT"
     },
     {
       "type": "news",
@@ -187,23 +180,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Federer sugli US Open senza Sinner: \"Sceglierei Alcaraz e Djokovic, ma su entrambi tanti dubbi\" - Fanpage",
-      "source": "Fanpage",
-      "published": "Fri, 28 Aug 2026 09:49:55 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Monaco: “Un Alcaraz all’80% potrebbe vincere gli US Open. Sinner? Vidi una macchia scura al ginocchio già a Wimbledon” - OA Sport",
       "source": "OA Sport",
       "published": "Wed, 26 Aug 2026 08:30:23 GMT"
     },
     {
       "type": "news",
-      "category": "PADEL",
-      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - Comitato Olimpico Nazionale",
-      "source": "Comitato Olimpico Nazionale",
-      "published": "Wed, 26 Aug 2026 21:26:24 GMT"
+      "category": "TENNIS",
+      "title": "ATP Winston-Salem: Buse-Fery, sarà finale tra giocatori in ascesa - Ubitennis",
+      "source": "Ubitennis",
+      "published": "Sat, 29 Aug 2026 07:21:17 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "WTA Monterrey 2026, la finale sarà tra Diane Parry ed Elise Mertens - OA Sport",
+      "source": "OA Sport",
+      "published": "Sat, 29 Aug 2026 05:09:10 GMT"
     },
     {
       "type": "news",
@@ -218,6 +211,13 @@
       "title": "Premier Padel Finale: Tello, Nieto, Salazar… inizia la battaglia per gli ultimi posti! - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Fri, 28 Aug 2026 14:55:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Gold Belgrado – Alix Collombon si conferma all'altezza, i quarti di finale promettono grandi emozioni - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Thu, 27 Aug 2026 17:48:15 GMT"
     },
     {
       "type": "news",
