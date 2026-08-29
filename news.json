@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T09:11:27.533236+00:00",
+  "updated_at": "2026-08-29T14:31:45.109393+00:00",
   "local_date": "2026-08-29",
   "articles": [
     {
@@ -9,6 +9,20 @@
       "home": "Liverpool",
       "away": "Nottingham",
       "time": "13:30",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
+      "away_score": 2,
+      "is_live": false,
+      "local_date": "2026-08-29"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Monza",
+      "away": "Udinese",
+      "time": "18:30",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -36,20 +50,6 @@
       "competition": "Serie A",
       "home": "Fiorentina",
       "away": "Frosinone",
-      "time": "18:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-08-29"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Monza",
-      "away": "Udinese",
       "time": "18:30",
       "status": "TIMED",
       "status_label": "In programma",
@@ -117,9 +117,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Calciomercato Serie A: Roma scatenata, uscite Inter e Milan in cerca del post Leao. Le ultime - Tuttosport",
+      "source": "Tuttosport",
+      "published": "Sat, 29 Aug 2026 13:36:55 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Kessie Juventus, la cessione di David può sbloccare la trattativa: le news di calciomercato - Sky Sport",
       "source": "Sky Sport",
       "published": "Wed, 26 Aug 2026 21:44:21 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Como, ufficiale l'acquisto di Ricci dal Milan - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Sat, 29 Aug 2026 12:55:28 GMT"
     },
     {
       "type": "news",
@@ -130,45 +144,38 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Ufficiale | Miretti in prestito al Besiktas - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Fri, 28 Aug 2026 16:58:10 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Palermo, Gabrielloni è rosanero: ufficiale l’arrivo dell’attaccante - PalermoToday",
-      "source": "PalermoToday",
-      "published": "Sat, 29 Aug 2026 07:23:36 GMT"
+      "category": "CALCIO",
+      "title": "Champions League, il calendario: si comincia con Real-Inter, Napoli-Arsenal, Fenerbahce-Roma e Como-Lipsia - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Sat, 29 Aug 2026 11:30:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, ecco le avversarie di Inter, Napoli, Roma e Como - Lega Serie A",
-      "source": "Lega Serie A",
-      "published": "Thu, 27 Aug 2026 16:39:44 GMT"
+      "title": "Champions league, il calendario: tutte le partite di Inter, Napoli, Roma e Como - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Sat, 29 Aug 2026 12:06:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: i sorteggi per Roma, Inter, Napoli e Como - Euronews.com",
-      "source": "Euronews.com",
-      "published": "Thu, 27 Aug 2026 20:10:44 GMT"
+      "title": "Champions League, italiane lontane dalle big ma tutte ai playoff secondo l'algoritmo: le previsioni per Roma, Napoli, Inter e Como - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Sat, 29 Aug 2026 10:57:04 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, chi tifa per le big? Juve regina, Inter in crescita, Napoli e Roma al femminile - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sat, 29 Aug 2026 05:44:55 GMT"
+      "title": "Champions League, svelato il calendario di Inter, Napoli, Roma e Como: date e orari - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Sat, 29 Aug 2026 11:22:29 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Napoli Como, le probabili formazioni della partita di Serie A - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sat, 29 Aug 2026 09:08:38 GMT"
+      "category": "TENNIS",
+      "title": "Il nuovo vantaggio di Jannik Sinner nel ranking ATP: cosa cambia dopo la sconfitta di Zverev. Alcaraz lontanissimo - OA Sport",
+      "source": "OA Sport",
+      "published": "Thu, 20 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -180,23 +187,23 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "L'Italia fa tredici, ma la finale resta tra quei due: Sinner è “Maradona” in casa Juve, Alcaraz l'umano ne invoca il ritorno - Il Mattino",
+      "source": "Il Mattino",
+      "published": "Sat, 29 Aug 2026 13:45:20 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Monaco: “Un Alcaraz all’80% potrebbe vincere gli US Open. Sinner? Vidi una macchia scura al ginocchio già a Wimbledon” - OA Sport",
       "source": "OA Sport",
       "published": "Wed, 26 Aug 2026 08:30:23 GMT"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "ATP Winston-Salem: Buse-Fery, sarà finale tra giocatori in ascesa - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Sat, 29 Aug 2026 07:21:17 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "WTA Monterrey 2026, la finale sarà tra Diane Parry ed Elise Mertens - OA Sport",
-      "source": "OA Sport",
-      "published": "Sat, 29 Aug 2026 05:09:10 GMT"
+      "category": "PADEL",
+      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - Comitato Olimpico Nazionale",
+      "source": "Comitato Olimpico Nazionale",
+      "published": "Wed, 26 Aug 2026 21:26:24 GMT"
     },
     {
       "type": "news",
@@ -218,13 +225,6 @@
       "title": "FIP Gold Belgrado – Alix Collombon si conferma all'altezza, i quarti di finale promettono grandi emozioni - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Thu, 27 Aug 2026 17:48:15 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Giochi del Mediterraneo, padel femminile: Orsi-Marchetti si fermano in semifinale, domani la finale per il bronzo - PugliaLive",
-      "source": "PugliaLive",
-      "published": "Fri, 28 Aug 2026 11:32:17 GMT"
     }
   ]
 }
