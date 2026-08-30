@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T22:46:04.274986+00:00",
+  "updated_at": "2026-08-30T00:47:58.943237+00:00",
   "local_date": "2026-08-30",
   "articles": [
     {
@@ -90,8 +90,8 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Lazio",
-      "away": "Genoa",
+      "home": "Cagliari",
+      "away": "Inter",
       "time": "20:45",
       "status": "TIMED",
       "status_label": "In programma",
@@ -104,8 +104,8 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Cagliari",
-      "away": "Inter",
+      "home": "Lazio",
+      "away": "Genoa",
       "time": "20:45",
       "status": "TIMED",
       "status_label": "In programma",
@@ -124,16 +124,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Atalanta, ufficiale il ritorno di Kessie - Sky Sport",
+      "title": "Kessie Juventus, la cessione di David può sbloccare la trattativa: le news di calciomercato - Sky Sport",
       "source": "Sky Sport",
-      "published": "Sat, 29 Aug 2026 16:20:50 GMT"
+      "published": "Wed, 26 Aug 2026 21:44:21 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Kessie Juventus, la cessione di David può sbloccare la trattativa: le news di calciomercato - Sky Sport",
+      "title": "Calciomercato Atalanta, ufficiale il ritorno di Kessie - Sky Sport",
       "source": "Sky Sport",
-      "published": "Wed, 26 Aug 2026 21:44:21 GMT"
+      "published": "Sat, 29 Aug 2026 16:20:50 GMT"
     },
     {
       "type": "news",
@@ -173,13 +173,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 30 agosto · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Sat, 29 Aug 2026 22:01:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "US Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
       "published": "Wed, 26 Aug 2026 08:50:10 GMT"
@@ -194,9 +187,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "WTA Monterrey su SuperTennis: finale Parry-Mertens - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Sat, 29 Aug 2026 13:19:04 GMT"
+      "title": "Federer sugli US Open senza Sinner: \"Sceglierei Alcaraz e Djokovic, ma su entrambi tanti dubbi\" - Fanpage",
+      "source": "Fanpage",
+      "published": "Fri, 28 Aug 2026 09:49:55 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "US Open 2026, italiani e italiane in campo: il programma del 30 agosto · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Sat, 29 Aug 2026 22:01:00 GMT"
     },
     {
       "type": "news",
