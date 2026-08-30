@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-08-30T18:49:25.629835+00:00",
+  "updated_at": "2026-08-30T21:43:28.412719+00:00",
   "local_date": "2026-08-30",
   "articles": [
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Napoli",
-      "away": "Como 1907",
-      "time": "18:30",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 1,
-      "away_score": 2,
-      "is_live": true,
-      "local_date": "2026-08-30"
-    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -90,13 +76,27 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
+      "home": "Napoli",
+      "away": "Como 1907",
+      "time": "18:30",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 2,
+      "is_live": false,
+      "local_date": "2026-08-30"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
       "home": "Lazio",
       "away": "Genoa",
       "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 0,
       "is_live": false,
       "local_date": "2026-08-30"
     },
@@ -107,19 +107,19 @@
       "home": "Cagliari",
       "away": "Inter",
       "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 0,
+      "away_score": 1,
       "is_live": false,
       "local_date": "2026-08-30"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Kessie Juventus, la cessione di David può sbloccare la trattativa: le news di calciomercato - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 26 Aug 2026 21:44:21 GMT"
+      "title": "Sassuolo, ufficiale l'acquisto di Van der Brempt dal Como: prestito con obbligo di riscatto condizionato per il belga - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Sun, 30 Aug 2026 19:38:35 GMT"
     },
     {
       "type": "news",
@@ -131,16 +131,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato, Raimondi: \"Milan, oggi arriva un nuovo talento\" - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Sun, 30 Aug 2026 12:40:34 GMT"
+      "title": "UFFICIALE - De Roon è un nuovo giocatore della Roma: il comunicato e le cifre dell'accordo con l'Atalanta - SOS Fanta",
+      "source": "SOS Fanta",
+      "published": "Sun, 30 Aug 2026 21:00:37 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, sfuma un acquisto in attacco: andrà in Spagna - NapoliToday",
-      "source": "NapoliToday",
-      "published": "Sun, 30 Aug 2026 15:33:48 GMT"
+      "title": "Calciomercato: la Juventus stringe per Sarr, l'Atalanta insiste per Rowe - ANSA",
+      "source": "ANSA",
+      "published": "Sun, 30 Aug 2026 17:53:00 GMT"
     },
     {
       "type": "news",
@@ -159,16 +159,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Le date di Europa League fanno cambiare il calendario di Serie A: quando si giocano Lazio-Milan e Sassuolo-Juventus della quarta giornata - Goal.com",
-      "source": "Goal.com",
-      "published": "Sun, 30 Aug 2026 16:13:07 GMT"
+      "title": "Serie A, classifica, risultati e prossima giornata: Inter e Lazio rispondono, quattro squadre a punteggio pieno. Oggi Roma e Atalanta - Il Messaggero",
+      "source": "Il Messaggero",
+      "published": "Sun, 30 Aug 2026 21:17:11 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, classifica, risultati e prossima giornata: Milan e Juve in testa, oggi Napoli, Inter e Lazio - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "Sun, 30 Aug 2026 16:34:47 GMT"
+      "title": "Le date di Europa League fanno cambiare il calendario di Serie A: quando si giocano Lazio-Milan e Sassuolo-Juventus della quarta giornata - Goal.com",
+      "source": "Goal.com",
+      "published": "Sun, 30 Aug 2026 16:13:07 GMT"
     },
     {
       "type": "news",
@@ -187,16 +187,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP: le ambizioni di Cobolli e Musetti, Sinner saldo in vetta - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Sun, 30 Aug 2026 10:04:06 GMT"
+      "title": "Orfano di Sinner, lo US Open cerca un padrone. Ma incoronare subito Alcaraz è un azzardo - eurosport.it",
+      "source": "eurosport.it",
+      "published": "Sun, 30 Aug 2026 16:46:45 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Orfano di Sinner, lo US Open cerca un padrone. Ma incoronare subito Alcaraz è un azzardo - eurosport.it",
-      "source": "eurosport.it",
-      "published": "Sun, 30 Aug 2026 16:46:45 GMT"
+      "title": "Ranking ATP: le ambizioni di Cobolli e Musetti, Sinner saldo in vetta - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Sun, 30 Aug 2026 10:04:06 GMT"
     },
     {
       "type": "news",
