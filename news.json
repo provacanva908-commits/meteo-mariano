@@ -1,125 +1,76 @@
 {
-  "updated_at": "2026-08-30T21:43:28.412719+00:00",
-  "local_date": "2026-08-30",
+  "updated_at": "2026-08-30T23:56:29.890590+00:00",
+  "local_date": "2026-08-31",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "Utrecht",
-      "away": "PSV",
-      "time": "12:15",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 1,
-      "away_score": 6,
+      "competition": "Serie A",
+      "home": "Lecce",
+      "away": "Roma",
+      "time": "18:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-08-30"
+      "local_date": "2026-08-31"
     },
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "Feyenoord",
-      "away": "Den Haag",
-      "time": "14:30",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 2,
-      "away_score": 2,
+      "competition": "Serie A",
+      "home": "Atalanta",
+      "away": "Bologna",
+      "time": "20:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-08-30"
+      "local_date": "2026-08-31"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Premier League",
-      "home": "Chelsea",
-      "away": "Brighton Hove",
-      "time": "15:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 4,
-      "away_score": 3,
+      "home": "Aston Villa",
+      "away": "Arsenal",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-08-30"
+      "local_date": "2026-08-31"
     },
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "Telstar",
-      "away": "Ajax",
-      "time": "16:45",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 0,
-      "away_score": 4,
+      "competition": "Primeira Liga",
+      "home": "SL Benfica",
+      "away": "Estoril Praia",
+      "time": "21:15",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-08-30"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Primera Division",
-      "home": "Real Madrid",
-      "away": "Málaga",
-      "time": "17:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 4,
-      "away_score": 0,
-      "is_live": false,
-      "local_date": "2026-08-30"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Napoli",
-      "away": "Como 1907",
-      "time": "18:30",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 1,
-      "away_score": 2,
-      "is_live": false,
-      "local_date": "2026-08-30"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Lazio",
-      "away": "Genoa",
-      "time": "20:45",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 1,
-      "away_score": 0,
-      "is_live": false,
-      "local_date": "2026-08-30"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Cagliari",
-      "away": "Inter",
-      "time": "20:45",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 0,
-      "away_score": 1,
-      "is_live": false,
-      "local_date": "2026-08-30"
+      "local_date": "2026-08-31"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Sassuolo, ufficiale l'acquisto di Van der Brempt dal Como: prestito con obbligo di riscatto condizionato per il belga - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Sun, 30 Aug 2026 19:38:35 GMT"
+      "title": "Roma, De Roon è ufficiale. E si avvicina Luiz Henrique: le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sun, 30 Aug 2026 22:57:51 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Offerta ufficiale dell'Atletico Madrid per Jonathan David, spunta anche il Como: la posizione della Juventus, cosa manca per chiudere e chi può arrivare al suo posto - Goal.com",
+      "source": "Goal.com",
+      "published": "Sun, 30 Aug 2026 20:49:25 GMT"
     },
     {
       "type": "news",
@@ -131,44 +82,44 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "UFFICIALE - De Roon è un nuovo giocatore della Roma: il comunicato e le cifre dell'accordo con l'Atalanta - SOS Fanta",
-      "source": "SOS Fanta",
-      "published": "Sun, 30 Aug 2026 21:00:37 GMT"
+      "title": "Sassuolo, ufficiale l'acquisto di Van der Brempt dal Como: prestito con obbligo di riscatto condizionato per il belga - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Sun, 30 Aug 2026 19:38:35 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato: la Juventus stringe per Sarr, l'Atalanta insiste per Rowe - ANSA",
+      "category": "CALCIO",
+      "title": "Serie A: ufficiale De Roon alla Roma, domani raggiungerà la squadra a Lecce - ANSA",
       "source": "ANSA",
-      "published": "Sun, 30 Aug 2026 17:53:00 GMT"
+      "published": "Sun, 30 Aug 2026 20:48:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions league, il calendario: tutte le partite di Inter, Napoli, Roma e Como - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Sat, 29 Aug 2026 12:06:00 GMT"
+      "title": "Napoli 1-2 Como | Serie A Enilive - Lega Serie A",
+      "source": "Lega Serie A",
+      "published": "Sun, 30 Aug 2026 20:17:13 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
-      "source": "Goal.com",
-      "published": "Sun, 30 Aug 2026 08:04:21 GMT"
+      "title": "Europa League: il calendario completo di Milan e Juventus - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Sun, 30 Aug 2026 10:03:23 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, classifica, risultati e prossima giornata: Inter e Lazio rispondono, quattro squadre a punteggio pieno. Oggi Roma e Atalanta - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "Sun, 30 Aug 2026 21:17:11 GMT"
+      "title": "Serie A Enilive | Lazio-Genoa, le dichiarazioni post partita - S.S. Lazio",
+      "source": "S.S. Lazio",
+      "published": "Sun, 30 Aug 2026 22:21:48 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Le date di Europa League fanno cambiare il calendario di Serie A: quando si giocano Lazio-Milan e Sassuolo-Juventus della quarta giornata - Goal.com",
-      "source": "Goal.com",
-      "published": "Sun, 30 Aug 2026 16:13:07 GMT"
+      "category": "TENNIS",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 31 agosto · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Sun, 30 Aug 2026 22:01:00 GMT"
     },
     {
       "type": "news",
@@ -190,13 +141,6 @@
       "title": "Orfano di Sinner, lo US Open cerca un padrone. Ma incoronare subito Alcaraz è un azzardo - eurosport.it",
       "source": "eurosport.it",
       "published": "Sun, 30 Aug 2026 16:46:45 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ranking ATP: le ambizioni di Cobolli e Musetti, Sinner saldo in vetta - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Sun, 30 Aug 2026 10:04:06 GMT"
     },
     {
       "type": "news",
