@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-08-30T11:48:57.546367+00:00",
+  "updated_at": "2026-08-30T15:39:46.225293+00:00",
   "local_date": "2026-08-30",
   "articles": [
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Primera Division",
+      "home": "Real Madrid",
+      "away": "Málaga",
+      "time": "17:00",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 2,
+      "away_score": 0,
+      "is_live": true,
+      "local_date": "2026-08-30"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Eredivisie",
+      "home": "Telstar",
+      "away": "Ajax",
+      "time": "16:45",
+      "status": "PAUSED",
+      "status_label": "Intervallo",
+      "home_score": 0,
+      "away_score": 1,
+      "is_live": true,
+      "local_date": "2026-08-30"
+    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -9,11 +37,25 @@
       "home": "Utrecht",
       "away": "PSV",
       "time": "12:15",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
+      "status": "FINISHED",
+      "status_label": "Finale",
       "home_score": 1,
+      "away_score": 6,
+      "is_live": false,
+      "local_date": "2026-08-30"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Eredivisie",
+      "home": "Feyenoord",
+      "away": "Den Haag",
+      "time": "14:30",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
       "away_score": 2,
-      "is_live": true,
+      "is_live": false,
       "local_date": "2026-08-30"
     },
     {
@@ -23,24 +65,10 @@
       "home": "Chelsea",
       "away": "Brighton Hove",
       "time": "15:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-08-30"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Primera Division",
-      "home": "Real Madrid",
-      "away": "Málaga",
-      "time": "17:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 4,
+      "away_score": 3,
       "is_live": false,
       "local_date": "2026-08-30"
     },
@@ -87,39 +115,11 @@
       "local_date": "2026-08-30"
     },
     {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Ligue 1",
-      "home": "Monaco",
-      "away": "Marseille",
-      "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-08-30"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "Feyenoord",
-      "away": "Den Haag",
-      "time": "14:30",
-      "status": "2026-08-30 11:30:00Z",
-      "status_label": "2026-08-30 11:30:00Z",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-08-30"
-    },
-    {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, El Aynaoui verso il Lipsia: accordo raggiunto per il centrocampista - TeleRadioStereo",
-      "source": "TeleRadioStereo",
-      "published": "Sun, 30 Aug 2026 07:34:06 GMT"
+      "title": "Kessie Juventus, la cessione di David può sbloccare la trattativa: le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Wed, 26 Aug 2026 21:44:21 GMT"
     },
     {
       "type": "news",
@@ -131,9 +131,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Kessie Juventus, la cessione di David può sbloccare la trattativa: le news di calciomercato - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 26 Aug 2026 21:44:21 GMT"
+      "title": "Calciomercato, Raimondi: \"Milan, oggi arriva un nuovo talento\" - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Sun, 30 Aug 2026 12:40:34 GMT"
     },
     {
       "type": "news",
@@ -152,13 +152,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, il calendario delle partite di Inter, Napoli, Roma e Como: le date e gli orari - today.it",
-      "source": "today.it",
-      "published": "Sun, 30 Aug 2026 09:54:18 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Champions League, ecco le avversarie di Inter, Napoli, Roma e Como - Lega Serie A",
       "source": "Lega Serie A",
       "published": "Thu, 27 Aug 2026 16:39:44 GMT"
@@ -172,10 +165,10 @@
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 30 agosto · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Sun, 30 Aug 2026 07:23:50 GMT"
+      "category": "CALCIO",
+      "title": "Serie A oggi: guida a Napoli-Como, Cagliari-Inter e Lazio-Genoa - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Sun, 30 Aug 2026 07:29:00 GMT"
     },
     {
       "type": "news",
@@ -187,16 +180,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Monaco: “Un Alcaraz all’80% potrebbe vincere gli US Open. Sinner? Vidi una macchia scura al ginocchio già a Wimbledon” - OA Sport",
-      "source": "OA Sport",
-      "published": "Wed, 26 Aug 2026 08:30:23 GMT"
+      "title": "\"Senza Sinner...\", Medvedev parla di Jannik agli Us Open (e 'snobba' Alcaraz) - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Sun, 30 Aug 2026 11:38:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Orfano di Sinner, lo US Open cerca un padrone. Ma incoronare subito Alcaraz è un azzardo - eurosport.it",
-      "source": "eurosport.it",
-      "published": "Sun, 30 Aug 2026 06:56:35 GMT"
+      "title": "US Open 2026, italiani e italiane in campo: il programma del 30 agosto · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Sat, 29 Aug 2026 22:01:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Ranking ATP: le ambizioni di Cobolli e Musetti, Sinner saldo in vetta - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Sun, 30 Aug 2026 10:04:06 GMT"
     },
     {
       "type": "news",
@@ -222,9 +222,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Westerbork: Sorteggio maschile concluso, due coppie francesi ai quarti di finale Silver femminili - padel-magazine.it",
+      "title": "FIP Gold Belgrado – Alix Collombon si conferma all'altezza, i quarti di finale promettono grandi emozioni - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Sat, 29 Aug 2026 14:10:42 GMT"
+      "published": "Thu, 27 Aug 2026 17:48:15 GMT"
     }
   ]
 }
