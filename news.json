@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T05:19:31.565075+00:00",
+  "updated_at": "2026-08-31T11:42:31.947224+00:00",
   "local_date": "2026-08-31",
   "articles": [
     {
@@ -61,58 +61,65 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Roma, ufficiale la cessione di Ziolkowski al Monza: prestito con diritto di riscatto a 18 milioni - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Mon, 31 Aug 2026 09:11:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Roma, De Roon è ufficiale. E si avvicina Luiz Henrique: le news di calciomercato - Sky Sport",
       "source": "Sky Sport",
-      "published": "Sat, 29 Aug 2026 23:00:36 GMT"
+      "published": "Mon, 31 Aug 2026 07:48:20 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Sassuolo, ufficiale l'acquisto di Van der Brempt dal Como: prestito con obbligo di riscatto condizionato per il belga - Sportmediaset",
+      "title": "Ufficiale il prestito di Ziolkowski dalla Roma al Monza - ANSA",
+      "source": "ANSA",
+      "published": "Mon, 31 Aug 2026 08:44:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Cagliari, è ufficiale l'acquisto di Yanis Massolin dall'Inter in prestito con diritto e controriscatto - Sportmediaset",
       "source": "Sportmediaset",
-      "published": "Sun, 30 Aug 2026 19:38:35 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Offerta ufficiale dell'Atletico Madrid per Jonathan David, spunta anche il Como: la posizione della Juventus, cosa manca per chiudere e chi può arrivare al suo posto - Goal.com",
-      "source": "Goal.com",
-      "published": "Sun, 30 Aug 2026 20:49:25 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato: la Juventus stringe per Sarr, l'Atalanta insiste per Rowe - ANSA",
-      "source": "ANSA",
-      "published": "Sun, 30 Aug 2026 17:53:00 GMT"
+      "published": "Mon, 31 Aug 2026 11:34:42 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, ecco le avversarie di Inter, Napoli, Roma e Como - Lega Serie A",
-      "source": "Lega Serie A",
-      "published": "Thu, 27 Aug 2026 16:39:44 GMT"
+      "title": "Champions League, svelato il calendario di Inter, Napoli, Roma e Como: date e orari - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Mon, 31 Aug 2026 08:17:57 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Napoli 1-2 Como | Serie A Enilive - Lega Serie A",
-      "source": "Lega Serie A",
-      "published": "Sun, 30 Aug 2026 20:17:13 GMT"
+      "title": "Serie A, seconda giornata: Inter, Milan, Juventus e Lazio a punteggio pieno. Napoli ko, vola il Como - lurlo.news",
+      "source": "lurlo.news",
+      "published": "Mon, 31 Aug 2026 09:38:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A: ufficiale De Roon alla Roma, domani raggiungerà la squadra a Lecce - ANSA",
-      "source": "ANSA",
-      "published": "Sun, 30 Aug 2026 20:48:00 GMT"
+      "title": "Serie A, cambia il calendario della 4° giornata: anticipata Lazio-Milan, posticipate Juve e Roma - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Mon, 31 Aug 2026 10:34:57 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A oggi, dove vedere in TV Lecce-Roma e Atalanta-Bologna: gli orari delle partite - Fanpage",
-      "source": "Fanpage",
-      "published": "Mon, 31 Aug 2026 04:30:21 GMT"
+      "title": "Ecco la Champions League 2026/27: il calendario delle quattro italiane - Sisal",
+      "source": "Sisal",
+      "published": "Mon, 31 Aug 2026 10:33:15 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "La sconfitta agli US Open costa caro a Novak Djokovic nel ranking ATP: un risultato che non si verificava dal 2018 - OA Sport",
+      "source": "OA Sport",
+      "published": "Mon, 31 Aug 2026 10:59:26 GMT"
     },
     {
       "type": "news",
@@ -124,23 +131,16 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Scommesse tennis, US Open: su Snai duello Alcaraz-Zverev per la vittoria. Senza Sinner, l’Italia punta su Cobolli - JAMMA",
+      "source": "JAMMA",
+      "published": "Mon, 31 Aug 2026 10:07:15 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "US Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
       "published": "Tue, 25 Aug 2026 14:09:54 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Monaco: “Un Alcaraz all’80% potrebbe vincere gli US Open. Sinner? Vidi una macchia scura al ginocchio già a Wimbledon” - OA Sport",
-      "source": "OA Sport",
-      "published": "Wed, 26 Aug 2026 08:30:23 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "\"Senza Sinner...\", Medvedev parla di Jannik agli Us Open (e 'snobba' Alcaraz) - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Sun, 30 Aug 2026 11:38:00 GMT"
     },
     {
       "type": "news",
@@ -159,16 +159,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Gold Belgrado: Nieto/Yanguas e Stupaczuk/Sanz in finale per il quarto posto in classifica - padel-magazine.it",
+      "title": "FIP Gold Belgrado: Rufo e Iglesias conquistano il loro primo titolo insieme sconfiggendo Salazar/Osoro in finale - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Sun, 30 Aug 2026 07:21:48 GMT"
+      "published": "Mon, 31 Aug 2026 07:15:02 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Gold Belgrado – Alix Collombon si conferma all'altezza, i quarti di finale promettono grandi emozioni - padel-magazine.it",
+      "title": "FIP Gold Belgrado: Nieto/Yanguas e Stupaczuk/Sanz in finale per il quarto posto in classifica - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Thu, 27 Aug 2026 17:48:15 GMT"
+      "published": "Sun, 30 Aug 2026 07:21:48 GMT"
     }
   ]
 }
