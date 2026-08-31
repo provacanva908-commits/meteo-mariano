@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T23:56:29.890590+00:00",
+  "updated_at": "2026-08-31T05:19:31.565075+00:00",
   "local_date": "2026-08-31",
   "articles": [
     {
@@ -63,7 +63,14 @@
       "category": "CALCIOMERCATO",
       "title": "Roma, De Roon è ufficiale. E si avvicina Luiz Henrique: le news di calciomercato - Sky Sport",
       "source": "Sky Sport",
-      "published": "Sun, 30 Aug 2026 22:57:51 GMT"
+      "published": "Sat, 29 Aug 2026 23:00:36 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Sassuolo, ufficiale l'acquisto di Van der Brempt dal Como: prestito con obbligo di riscatto condizionato per il belga - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Sun, 30 Aug 2026 19:38:35 GMT"
     },
     {
       "type": "news",
@@ -75,23 +82,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Serie A: Roma scatenata, uscite Inter e Milan in cerca del post Leao. Le ultime - Tuttosport",
-      "source": "Tuttosport",
-      "published": "Sat, 29 Aug 2026 13:36:55 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Sassuolo, ufficiale l'acquisto di Van der Brempt dal Como: prestito con obbligo di riscatto condizionato per il belga - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Sun, 30 Aug 2026 19:38:35 GMT"
+      "title": "Calciomercato: la Juventus stringe per Sarr, l'Atalanta insiste per Rowe - ANSA",
+      "source": "ANSA",
+      "published": "Sun, 30 Aug 2026 17:53:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A: ufficiale De Roon alla Roma, domani raggiungerà la squadra a Lecce - ANSA",
-      "source": "ANSA",
-      "published": "Sun, 30 Aug 2026 20:48:00 GMT"
+      "title": "Champions League, ecco le avversarie di Inter, Napoli, Roma e Como - Lega Serie A",
+      "source": "Lega Serie A",
+      "published": "Thu, 27 Aug 2026 16:39:44 GMT"
     },
     {
       "type": "news",
@@ -103,16 +103,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Europa League: il calendario completo di Milan e Juventus - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "Sun, 30 Aug 2026 10:03:23 GMT"
+      "title": "Serie A: ufficiale De Roon alla Roma, domani raggiungerà la squadra a Lecce - ANSA",
+      "source": "ANSA",
+      "published": "Sun, 30 Aug 2026 20:48:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Enilive | Lazio-Genoa, le dichiarazioni post partita - S.S. Lazio",
-      "source": "S.S. Lazio",
-      "published": "Sun, 30 Aug 2026 22:21:48 GMT"
+      "title": "Serie A oggi, dove vedere in TV Lecce-Roma e Atalanta-Bologna: gli orari delle partite - Fanpage",
+      "source": "Fanpage",
+      "published": "Mon, 31 Aug 2026 04:30:21 GMT"
     },
     {
       "type": "news",
@@ -131,16 +131,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "\"Senza Sinner...\", Medvedev parla di Jannik agli Us Open (e 'snobba' Alcaraz) - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Sun, 30 Aug 2026 11:38:00 GMT"
+      "title": "Monaco: “Un Alcaraz all’80% potrebbe vincere gli US Open. Sinner? Vidi una macchia scura al ginocchio già a Wimbledon” - OA Sport",
+      "source": "OA Sport",
+      "published": "Wed, 26 Aug 2026 08:30:23 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Orfano di Sinner, lo US Open cerca un padrone. Ma incoronare subito Alcaraz è un azzardo - eurosport.it",
-      "source": "eurosport.it",
-      "published": "Sun, 30 Aug 2026 16:46:45 GMT"
+      "title": "\"Senza Sinner...\", Medvedev parla di Jannik agli Us Open (e 'snobba' Alcaraz) - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Sun, 30 Aug 2026 11:38:00 GMT"
     },
     {
       "type": "news",
