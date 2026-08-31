@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T11:42:31.947224+00:00",
+  "updated_at": "2026-08-31T18:10:19.162637+00:00",
   "local_date": "2026-08-31",
   "articles": [
     {
@@ -9,11 +9,11 @@
       "home": "Lecce",
       "away": "Roma",
       "time": "18:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 4,
+      "is_live": true,
       "local_date": "2026-08-31"
     },
     {
@@ -61,6 +61,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli, ufficiale a sorpresa un acquisto in attacco: operazione a titolo definitivo - NapoliToday",
+      "source": "NapoliToday",
+      "published": "Mon, 31 Aug 2026 15:15:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Roma, ufficiale la cessione di Ziolkowski al Monza: prestito con diritto di riscatto a 18 milioni - Corriere dello Sport",
       "source": "Corriere dello Sport",
       "published": "Mon, 31 Aug 2026 09:11:00 GMT"
@@ -68,51 +75,44 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Calciomercato Bari, ufficiale l’arrivo di Vincenzo Prisco in prestito dal Napoli - trmtv.it",
+      "source": "trmtv.it",
+      "published": "Mon, 31 Aug 2026 17:56:11 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Roma, De Roon è ufficiale. E si avvicina Luiz Henrique: le news di calciomercato - Sky Sport",
       "source": "Sky Sport",
-      "published": "Mon, 31 Aug 2026 07:48:20 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Ufficiale il prestito di Ziolkowski dalla Roma al Monza - ANSA",
-      "source": "ANSA",
-      "published": "Mon, 31 Aug 2026 08:44:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Cagliari, è ufficiale l'acquisto di Yanis Massolin dall'Inter in prestito con diritto e controriscatto - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Mon, 31 Aug 2026 11:34:42 GMT"
+      "published": "Sat, 29 Aug 2026 23:00:36 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, svelato il calendario di Inter, Napoli, Roma e Como: date e orari - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Mon, 31 Aug 2026 08:17:57 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, seconda giornata: Inter, Milan, Juventus e Lazio a punteggio pieno. Napoli ko, vola il Como - lurlo.news",
-      "source": "lurlo.news",
-      "published": "Mon, 31 Aug 2026 09:38:00 GMT"
+      "title": "TRIBUNA.COM * SERIE A: «UFFICIALE| L'EUROPA LEAGUE CAMBIA DATA E ORARIO DI LAZIO-MILAN: IL CALENDARIO AGGIORNATO - agenziagiornalisticaopinione.it",
+      "source": "agenziagiornalisticaopinione.it",
+      "published": "Mon, 31 Aug 2026 18:00:17 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
       "title": "Serie A, cambia il calendario della 4° giornata: anticipata Lazio-Milan, posticipate Juve e Roma - Sportmediaset",
       "source": "Sportmediaset",
-      "published": "Mon, 31 Aug 2026 10:34:57 GMT"
+      "published": "Mon, 31 Aug 2026 10:54:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Ecco la Champions League 2026/27: il calendario delle quattro italiane - Sisal",
-      "source": "Sisal",
-      "published": "Mon, 31 Aug 2026 10:33:15 GMT"
+      "title": "L'Europa stravolge la quarta giornata di Serie A: cosa cambia per Roma, Lazio, Milan e Juventus - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Mon, 31 Aug 2026 12:34:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A, cambia il calendario della 4ª giornata: Juve, Roma e Como posticipate, Milan anticipato - Fantacalcio",
+      "source": "Fantacalcio",
+      "published": "Mon, 31 Aug 2026 11:41:00 GMT"
     },
     {
       "type": "news",
@@ -124,16 +124,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 31 agosto · Tennis ATP e WTA - olympics.com",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 30 agosto · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Sun, 30 Aug 2026 22:01:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Scommesse tennis, US Open: su Snai duello Alcaraz-Zverev per la vittoria. Senza Sinner, l’Italia punta su Cobolli - JAMMA",
-      "source": "JAMMA",
-      "published": "Mon, 31 Aug 2026 10:07:15 GMT"
+      "published": "Sat, 29 Aug 2026 22:01:00 GMT"
     },
     {
       "type": "news",
@@ -141,6 +134,13 @@
       "title": "US Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
       "published": "Tue, 25 Aug 2026 14:09:54 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Jasmine Paolini allo US Open 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Mon, 31 Aug 2026 15:46:11 GMT"
     },
     {
       "type": "news",
