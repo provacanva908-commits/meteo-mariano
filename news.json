@@ -1,62 +1,12 @@
 {
-  "updated_at": "2026-08-31T18:10:19.162637+00:00",
-  "local_date": "2026-08-31",
+  "updated_at": "2026-08-31T22:53:23.450577+00:00",
+  "local_date": "2026-09-01",
   "articles": [
     {
-      "type": "match",
+      "type": "message",
       "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Lecce",
-      "away": "Roma",
-      "time": "18:30",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 0,
-      "away_score": 4,
-      "is_live": true,
-      "local_date": "2026-08-31"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Atalanta",
-      "away": "Bologna",
-      "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-08-31"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Premier League",
-      "home": "Aston Villa",
-      "away": "Arsenal",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-08-31"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Primeira Liga",
-      "home": "SL Benfica",
-      "away": "Estoril Praia",
-      "time": "21:15",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-08-31"
+      "title": "Nessuna partita rilevante in programma oggi tra Serie A, coppe europee e top club",
+      "source": "football-data.org"
     },
     {
       "type": "news",
@@ -75,30 +25,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Bari, ufficiale l’arrivo di Vincenzo Prisco in prestito dal Napoli - trmtv.it",
-      "source": "trmtv.it",
-      "published": "Mon, 31 Aug 2026 17:56:11 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "Roma, De Roon è ufficiale. E si avvicina Luiz Henrique: le news di calciomercato - Sky Sport",
       "source": "Sky Sport",
       "published": "Sat, 29 Aug 2026 23:00:36 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "TRIBUNA.COM * SERIE A: «UFFICIALE| L'EUROPA LEAGUE CAMBIA DATA E ORARIO DI LAZIO-MILAN: IL CALENDARIO AGGIORNATO - agenziagiornalisticaopinione.it",
-      "source": "agenziagiornalisticaopinione.it",
-      "published": "Mon, 31 Aug 2026 18:00:17 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, cambia il calendario della 4° giornata: anticipata Lazio-Milan, posticipate Juve e Roma - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Mon, 31 Aug 2026 10:54:00 GMT"
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli, ufficiale Mazzocchi al Venezia: il comunicato del club - Il Mattino",
+      "source": "Il Mattino",
+      "published": "Mon, 31 Aug 2026 21:51:07 GMT"
     },
     {
       "type": "news",
@@ -110,37 +46,51 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, cambia il calendario della 4ª giornata: Juve, Roma e Como posticipate, Milan anticipato - Fantacalcio",
-      "source": "Fantacalcio",
-      "published": "Mon, 31 Aug 2026 11:41:00 GMT"
+      "title": "Coppa Italia '26/'27: Spezia-Vado, le designazioni - Spezia Calcio - Sito ufficiale",
+      "source": "Spezia Calcio - Sito ufficiale",
+      "published": "Mon, 31 Aug 2026 12:49:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A Enilive | Data e orario di Lazio-Milan - S.S. Lazio",
+      "source": "S.S. Lazio",
+      "published": "Mon, 31 Aug 2026 10:28:35 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Biglietti Champions League: date e fasi di vendita per Inter–Club Brugge - Inter.it",
+      "source": "Inter.it",
+      "published": "Mon, 31 Aug 2026 14:34:30 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "La sconfitta agli US Open costa caro a Novak Djokovic nel ranking ATP: un risultato che non si verificava dal 2018 - OA Sport",
-      "source": "OA Sport",
-      "published": "Mon, 31 Aug 2026 10:59:26 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 30 agosto · Tennis ATP e WTA - olympics.com",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 1 settembre · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Sat, 29 Aug 2026 22:01:00 GMT"
+      "published": "Mon, 31 Aug 2026 22:01:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "US Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 31 agosto · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Tue, 25 Aug 2026 14:09:54 GMT"
+      "published": "Sun, 30 Aug 2026 22:01:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "\"Un po' di malinconia che Jannik Sinner non sia agli Us Open\", Franco Bragagna: \"Complimenti alle azzurre di Velasco ma adesso inizia il torneo\" - il Dolomiti",
+      "source": "il Dolomiti",
+      "published": "Mon, 31 Aug 2026 19:09:44 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
       "title": "Jasmine Paolini allo US Open 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Mon, 31 Aug 2026 15:46:11 GMT"
+      "published": "Mon, 31 Aug 2026 18:38:41 GMT"
     },
     {
       "type": "news",
