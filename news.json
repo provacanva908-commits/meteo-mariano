@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-01T19:38:17.533637+00:00",
-  "local_date": "2026-09-01",
+  "updated_at": "2026-09-01T22:04:17.078820+00:00",
+  "local_date": "2026-09-02",
   "articles": [
     {
       "type": "message",
@@ -18,9 +18,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Gli affari dell'ultimo giorno di calciomercato: sfuma Manu Koné al Chelsea, Sarr alla Juventus, Gudmundsson alla Lazio, Zeballos al Monza, Fiorentina scatenata - Goal.com",
-      "source": "Goal.com",
-      "published": "Tue, 01 Sep 2026 18:11:15 GMT"
+      "title": "Calciomercato Napoli, ufficiale la cessione di Mazzocchi: il saluto del club azzurro - NapoliToday",
+      "source": "NapoliToday",
+      "published": "Tue, 01 Sep 2026 06:30:00 GMT"
     },
     {
       "type": "news",
@@ -32,9 +32,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Tutti i colpi dell’ultimo giorno di calciomercato in Serie A, da Kean al Como a Woltemade alla Juventus - Fanpage",
-      "source": "Fanpage",
-      "published": "Tue, 01 Sep 2026 18:10:02 GMT"
+      "title": "Ufficiale | Jonathan David in prestito all'Atletico Madrid - juventus.com",
+      "source": "juventus.com",
+      "published": "Tue, 01 Sep 2026 21:40:22 GMT"
     },
     {
       "type": "news",
@@ -60,16 +60,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, oggi in vendita i biglietti delle partite casalinghe - La Provincia di Como",
-      "source": "La Provincia di Como",
-      "published": "Tue, 01 Sep 2026 09:06:26 GMT"
+      "title": "Colpaccio del Monza, 1-0 al Torino e ottavi di Coppa Italia col Milan - La Provincia di Cremona",
+      "source": "La Provincia di Cremona",
+      "published": "Tue, 01 Sep 2026 21:33:07 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 30 agosto · Tennis ATP e WTA - olympics.com",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 1 settembre · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Sat, 29 Aug 2026 22:01:00 GMT"
+      "published": "Mon, 31 Aug 2026 22:01:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "US Open 2026, italiani e italiane in campo: il programma del 31 agosto · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Sun, 30 Aug 2026 22:01:00 GMT"
     },
     {
       "type": "news",
@@ -87,13 +94,6 @@
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Orfano di Sinner, lo US Open cerca un padrone. Ma incoronare subito Alcaraz è un azzardo - eurosport.it",
-      "source": "eurosport.it",
-      "published": "Sun, 30 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
       "category": "PADEL",
       "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - Comitato Olimpico Nazionale",
       "source": "Comitato Olimpico Nazionale",
@@ -102,8 +102,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - FITP",
-      "source": "FITP",
+      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - fitp.it",
+      "source": "fitp.it",
       "published": "Wed, 26 Aug 2026 21:28:39 GMT"
     },
     {
