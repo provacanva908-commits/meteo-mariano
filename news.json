@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T06:47:47.295045+00:00",
+  "updated_at": "2026-09-01T12:07:49.286591+00:00",
   "local_date": "2026-09-01",
   "articles": [
     {
@@ -11,9 +11,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale a sorpresa un acquisto in attacco: operazione a titolo definitivo - NapoliToday",
-      "source": "NapoliToday",
+      "title": "Calciomercato Napoli, ufficiale a sorpresa un acquisto in attacco: operazione a titolo definitivo - napolitoday.it",
+      "source": "napolitoday.it",
       "published": "Mon, 31 Aug 2026 15:15:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli, ufficiale la cessione di Mazzocchi: il saluto del club azzurro - napolitoday.it",
+      "source": "napolitoday.it",
+      "published": "Tue, 01 Sep 2026 06:30:00 GMT"
     },
     {
       "type": "news",
@@ -25,44 +32,37 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Serie A: Roma scatenata, uscite Inter e Milan in cerca del post Leao. Le ultime - Tuttosport",
-      "source": "Tuttosport",
-      "published": "Sat, 29 Aug 2026 13:36:55 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Como in chiusura per il prestito di Robert Sanchez dal Chelsea. Calciomercato news - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Mon, 31 Aug 2026 20:12:40 GMT"
+      "title": "Calciomercato Serie A, ultimo giorno LIVE: Gudmundsson verso la Lazio, Koné resta alla Roma - IlFaroOnline",
+      "source": "IlFaroOnline",
+      "published": "Tue, 01 Sep 2026 11:13:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, ecco le avversarie di Inter, Napoli, Roma e Como - legaseriea.it",
-      "source": "legaseriea.it",
+      "title": "Champions League, ecco le avversarie di Inter, Napoli, Roma e Como - Lega Serie A",
+      "source": "Lega Serie A",
       "published": "Thu, 27 Aug 2026 16:39:44 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "L'Europa stravolge la quarta giornata di Serie A: cosa cambia per Roma, Lazio, Milan e Juventus - Corriere dello Sport",
+      "title": "Coppa Italia, dove seguire i due match di oggi. Roma, maxi offerta del Chelsea per Kone - Corriere dello Sport",
       "source": "Corriere dello Sport",
-      "published": "Mon, 31 Aug 2026 12:34:00 GMT"
+      "published": "Tue, 01 Sep 2026 09:43:53 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia oggi in TV, dove vedere Parma-Cremonese e Torino-Monza: orari e canale - Fanpage",
-      "source": "Fanpage",
-      "published": "Tue, 01 Sep 2026 05:30:29 GMT"
+      "title": "EUROPA LEAGUE 2026/27, IL CALENDARIO ROSSONERO - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Sat, 29 Aug 2026 19:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia '26/'27: Spezia-Vado, le designazioni - Spezia Calcio - Sito ufficiale",
-      "source": "Spezia Calcio - Sito ufficiale",
-      "published": "Mon, 31 Aug 2026 12:49:00 GMT"
+      "title": "MILAN FUTURO SCONFITTO IN COPPA ITALIA - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Sat, 29 Aug 2026 17:00:00 GMT"
     },
     {
       "type": "news",
@@ -76,7 +76,14 @@
       "category": "TENNIS",
       "title": "Jasmine Paolini allo US Open 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Mon, 31 Aug 2026 21:39:24 GMT"
+      "published": "Tue, 01 Sep 2026 06:46:47 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Tennis ATP e WTA, gli appuntamenti di settembre 2026: il programma, i tornei e dove vedere in diretta tv - olympics.com",
+      "source": "olympics.com",
+      "published": "Tue, 01 Sep 2026 09:00:00 GMT"
     },
     {
       "type": "news",
@@ -84,13 +91,6 @@
       "title": "US Open 2026, italiani e italiane in campo: il programma del 31 agosto · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
       "published": "Sun, 30 Aug 2026 22:01:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "US Open 2026, italiani e italiane in campo: il programma del 30 agosto · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Sat, 29 Aug 2026 22:01:00 GMT"
     },
     {
       "type": "news",
