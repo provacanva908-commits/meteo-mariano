@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T01:42:12.507282+00:00",
+  "updated_at": "2026-09-01T06:47:47.295045+00:00",
   "local_date": "2026-09-01",
   "articles": [
     {
@@ -18,13 +18,6 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Roma, ufficiale la cessione di Ziolkowski al Monza: prestito con diritto di riscatto a 18 milioni - corrieredellosport.it",
-      "source": "corrieredellosport.it",
-      "published": "Mon, 31 Aug 2026 09:11:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "Roma, De Roon è ufficiale. E si avvicina Luiz Henrique: le news di calciomercato - Sky Sport",
       "source": "Sky Sport",
       "published": "Sat, 29 Aug 2026 23:00:36 GMT"
@@ -38,10 +31,31 @@
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Como in chiusura per il prestito di Robert Sanchez dal Chelsea. Calciomercato news - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Mon, 31 Aug 2026 20:12:40 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
-      "title": "L'Europa stravolge la quarta giornata di Serie A: cosa cambia per Roma, Lazio, Milan e Juventus - corrieredellosport.it",
-      "source": "corrieredellosport.it",
+      "title": "Champions League, ecco le avversarie di Inter, Napoli, Roma e Como - legaseriea.it",
+      "source": "legaseriea.it",
+      "published": "Thu, 27 Aug 2026 16:39:44 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "L'Europa stravolge la quarta giornata di Serie A: cosa cambia per Roma, Lazio, Milan e Juventus - Corriere dello Sport",
+      "source": "Corriere dello Sport",
       "published": "Mon, 31 Aug 2026 12:34:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Coppa Italia oggi in TV, dove vedere Parma-Cremonese e Torino-Monza: orari e canale - Fanpage",
+      "source": "Fanpage",
+      "published": "Tue, 01 Sep 2026 05:30:29 GMT"
     },
     {
       "type": "news",
@@ -49,20 +63,6 @@
       "title": "Coppa Italia '26/'27: Spezia-Vado, le designazioni - Spezia Calcio - Sito ufficiale",
       "source": "Spezia Calcio - Sito ufficiale",
       "published": "Mon, 31 Aug 2026 12:49:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Lecce-Roma 0-4, stesso risultato della prima giornata per Gasperini - Lega Serie A",
-      "source": "Lega Serie A",
-      "published": "Mon, 31 Aug 2026 18:33:33 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A Enilive | Data e orario di Lazio-Milan - S.S. Lazio",
-      "source": "S.S. Lazio",
-      "published": "Mon, 31 Aug 2026 10:28:35 GMT"
     },
     {
       "type": "news",
@@ -76,7 +76,7 @@
       "category": "TENNIS",
       "title": "Jasmine Paolini allo US Open 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Mon, 31 Aug 2026 18:38:41 GMT"
+      "published": "Mon, 31 Aug 2026 21:39:24 GMT"
     },
     {
       "type": "news",
@@ -109,16 +109,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Gold Belgrado: Rufo e Iglesias conquistano il loro primo titolo insieme sconfiggendo Salazar/Osoro in finale - padel-magazine.it",
+      "title": "FIP Gold Belgrado: Nieto/Yanguas e Stupaczuk/Sanz in finale per il quarto posto in classifica - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Mon, 31 Aug 2026 07:15:02 GMT"
+      "published": "Sun, 30 Aug 2026 07:21:48 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Gold Belgrado: Nieto/Yanguas e Stupaczuk/Sanz in finale per il quarto posto in classifica - padel-magazine.it",
+      "title": "FIP Gold Belgrado: Rufo e Iglesias conquistano il loro primo titolo insieme sconfiggendo Salazar/Osoro in finale - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Sun, 30 Aug 2026 07:21:48 GMT"
+      "published": "Mon, 31 Aug 2026 07:15:02 GMT"
     }
   ]
 }
