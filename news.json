@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T16:40:25.295683+00:00",
+  "updated_at": "2026-09-01T19:38:17.533637+00:00",
   "local_date": "2026-09-01",
   "articles": [
     {
@@ -11,37 +11,44 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale la cessione di Mazzocchi: il saluto del club azzurro - NapoliToday",
-      "source": "NapoliToday",
-      "published": "Tue, 01 Sep 2026 06:30:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale a sorpresa un acquisto in attacco: operazione a titolo definitivo - NapoliToday",
-      "source": "NapoliToday",
-      "published": "Mon, 31 Aug 2026 15:15:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Gli affari dell'ultimo giorno di calciomercato: sfuma Manu Koné al Chelsea, Sarr alla Juventus, Gudmundsson alla Lazio, Roma su Gittens - Goal.com",
+      "title": "Il Pagellone del calciomercato: Roma e Como regine dell'estate, Milan incompleto, Napoli immobile, Inter con più alternative, Juventus scoppiettante sul finale - Goal.com",
       "source": "Goal.com",
-      "published": "Tue, 01 Sep 2026 10:43:00 GMT"
+      "published": "Tue, 01 Sep 2026 18:03:21 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, preso Gudmundsson: in arrivo il nuovo attaccante di Gattuso - RomaToday",
-      "source": "RomaToday",
-      "published": "Tue, 01 Sep 2026 10:16:00 GMT"
+      "title": "Gli affari dell'ultimo giorno di calciomercato: sfuma Manu Koné al Chelsea, Sarr alla Juventus, Gudmundsson alla Lazio, Zeballos al Monza, Fiorentina scatenata - Goal.com",
+      "source": "Goal.com",
+      "published": "Tue, 01 Sep 2026 18:11:15 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Como, ufficiale l'acquisto di Moise Kean: c'è la firma. Fabregas: \"Alza il nostro livello\" - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Tue, 01 Sep 2026 17:09:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Tutti i colpi dell’ultimo giorno di calciomercato in Serie A, da Kean al Como a Woltemade alla Juventus - Fanpage",
+      "source": "Fanpage",
+      "published": "Tue, 01 Sep 2026 18:10:02 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Champions League, ecco le avversarie di Inter, Napoli, Roma e Como - Lega Serie A",
+      "source": "Lega Serie A",
+      "published": "Thu, 27 Aug 2026 16:39:44 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
       "title": "Quando giocano le italiane in Europa League? Il calendario completo di Milan e Juventus - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
-      "published": "Tue, 01 Sep 2026 15:49:22 GMT"
+      "published": "Tue, 01 Sep 2026 15:49:26 GMT"
     },
     {
       "type": "news",
@@ -53,23 +60,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Come acquistare i biglietti per Roma-Atalanta: prezzi della Serie A, informazioni sulla partita, vendite last minute e altro ancora - Goal.com",
-      "source": "Goal.com",
-      "published": "Tue, 01 Sep 2026 13:58:24 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Coppa Italia, Roma, Lazio e tennis: le ultimissime - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Tue, 01 Sep 2026 09:44:31 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 1 settembre · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Mon, 31 Aug 2026 22:01:00 GMT"
+      "title": "Champions League, oggi in vendita i biglietti delle partite casalinghe - La Provincia di Como",
+      "source": "La Provincia di Como",
+      "published": "Tue, 01 Sep 2026 09:06:26 GMT"
     },
     {
       "type": "news",
@@ -81,9 +74,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "US Open 2026, italiani e italiane in campo: il programma del 31 agosto · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Sun, 30 Aug 2026 22:01:00 GMT"
+      "title": "\"Senza Sinner...\", Medvedev parla di Jannik agli Us Open (e 'snobba' Alcaraz) - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Sun, 30 Aug 2026 11:38:00 GMT"
     },
     {
       "type": "news",
@@ -91,6 +84,13 @@
       "title": "Jasmine Paolini allo US Open 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis WTA - olympics.com",
       "source": "olympics.com",
       "published": "Sun, 30 Aug 2026 20:42:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Orfano di Sinner, lo US Open cerca un padrone. Ma incoronare subito Alcaraz è un azzardo - eurosport.it",
+      "source": "eurosport.it",
+      "published": "Sun, 30 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -116,9 +116,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Gold Belgrado: Rufo e Iglesias conquistano il loro primo titolo insieme sconfiggendo Salazar/Osoro in finale - padel-magazine.it",
+      "title": "Premier Padel Finale: Tello, Nieto, Salazar… inizia la battaglia per gli ultimi posti! - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Mon, 31 Aug 2026 07:15:02 GMT"
+      "published": "Fri, 28 Aug 2026 14:55:00 GMT"
     }
   ]
 }
