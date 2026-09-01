@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T22:53:23.450577+00:00",
+  "updated_at": "2026-09-01T01:42:12.507282+00:00",
   "local_date": "2026-09-01",
   "articles": [
     {
@@ -18,8 +18,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Roma, ufficiale la cessione di Ziolkowski al Monza: prestito con diritto di riscatto a 18 milioni - Corriere dello Sport",
-      "source": "Corriere dello Sport",
+      "title": "Roma, ufficiale la cessione di Ziolkowski al Monza: prestito con diritto di riscatto a 18 milioni - corrieredellosport.it",
+      "source": "corrieredellosport.it",
       "published": "Mon, 31 Aug 2026 09:11:00 GMT"
     },
     {
@@ -32,15 +32,15 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale Mazzocchi al Venezia: il comunicato del club - Il Mattino",
-      "source": "Il Mattino",
-      "published": "Mon, 31 Aug 2026 21:51:07 GMT"
+      "title": "Calciomercato Serie A: Roma scatenata, uscite Inter e Milan in cerca del post Leao. Le ultime - Tuttosport",
+      "source": "Tuttosport",
+      "published": "Sat, 29 Aug 2026 13:36:55 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "L'Europa stravolge la quarta giornata di Serie A: cosa cambia per Roma, Lazio, Milan e Juventus - Corriere dello Sport",
-      "source": "Corriere dello Sport",
+      "title": "L'Europa stravolge la quarta giornata di Serie A: cosa cambia per Roma, Lazio, Milan e Juventus - corrieredellosport.it",
+      "source": "corrieredellosport.it",
       "published": "Mon, 31 Aug 2026 12:34:00 GMT"
     },
     {
@@ -53,16 +53,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Enilive | Data e orario di Lazio-Milan - S.S. Lazio",
-      "source": "S.S. Lazio",
-      "published": "Mon, 31 Aug 2026 10:28:35 GMT"
+      "title": "Lecce-Roma 0-4, stesso risultato della prima giornata per Gasperini - Lega Serie A",
+      "source": "Lega Serie A",
+      "published": "Mon, 31 Aug 2026 18:33:33 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Biglietti Champions League: date e fasi di vendita per Inter–Club Brugge - Inter.it",
-      "source": "Inter.it",
-      "published": "Mon, 31 Aug 2026 14:34:30 GMT"
+      "title": "Serie A Enilive | Data e orario di Lazio-Milan - S.S. Lazio",
+      "source": "S.S. Lazio",
+      "published": "Mon, 31 Aug 2026 10:28:35 GMT"
     },
     {
       "type": "news",
@@ -74,23 +74,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 31 agosto · Tennis ATP e WTA - olympics.com",
+      "title": "Jasmine Paolini allo US Open 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Mon, 31 Aug 2026 18:38:41 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "US Open 2026, italiani e italiane in campo: il programma del 31 agosto · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
       "published": "Sun, 30 Aug 2026 22:01:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "\"Un po' di malinconia che Jannik Sinner non sia agli Us Open\", Franco Bragagna: \"Complimenti alle azzurre di Velasco ma adesso inizia il torneo\" - il Dolomiti",
-      "source": "il Dolomiti",
-      "published": "Mon, 31 Aug 2026 19:09:44 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Jasmine Paolini allo US Open 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis WTA - olympics.com",
+      "title": "US Open 2026, italiani e italiane in campo: il programma del 30 agosto · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Mon, 31 Aug 2026 18:38:41 GMT"
+      "published": "Sat, 29 Aug 2026 22:01:00 GMT"
     },
     {
       "type": "news",
