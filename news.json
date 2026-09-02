@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T22:04:17.078820+00:00",
+  "updated_at": "2026-09-02T00:08:38.949389+00:00",
   "local_date": "2026-09-02",
   "articles": [
     {
@@ -25,16 +25,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Como, ufficiale l'acquisto di Moise Kean: c'è la firma. Fabregas: \"Alza il nostro livello\" - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Tue, 01 Sep 2026 17:09:00 GMT"
+      "title": "Calciomercato Napoli, Lindstrom ceduto. I botti di Juventus e Roma - Il Mattino",
+      "source": "Il Mattino",
+      "published": "Tue, 01 Sep 2026 23:00:40 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale | Jonathan David in prestito all'Atletico Madrid - juventus.com",
-      "source": "juventus.com",
-      "published": "Tue, 01 Sep 2026 21:40:22 GMT"
+      "title": "Como, ufficiale l'acquisto di Moise Kean: c'è la firma. Fabregas: \"Alza il nostro livello\" - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Tue, 01 Sep 2026 17:09:00 GMT"
     },
     {
       "type": "news",
@@ -46,30 +46,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Quando giocano le italiane in Europa League? Il calendario completo di Milan e Juventus - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Tue, 01 Sep 2026 15:49:26 GMT"
+      "title": "Coppa Italia, Torino-Monza 0-1: decide Dany Mota, agli ottavi c’è il Milan - RaiNews",
+      "source": "RaiNews",
+      "published": "Tue, 01 Sep 2026 20:12:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Liverpool-Atletico Madrid: dettagli dei biglietti per la Champions League - Liverpool FC",
-      "source": "Liverpool FC",
-      "published": "Tue, 01 Sep 2026 15:04:13 GMT"
+      "title": "Torino fuori dalla Coppa Italia: il Monza passa con Mota, Juric agli ottavi contro il Milan - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Tue, 01 Sep 2026 21:09:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Colpaccio del Monza, 1-0 al Torino e ottavi di Coppa Italia col Milan - La Provincia di Cremona",
-      "source": "La Provincia di Cremona",
-      "published": "Tue, 01 Sep 2026 21:33:07 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 1 settembre · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Mon, 31 Aug 2026 22:01:00 GMT"
+      "title": "Il Monza vola in Coppa Italia: Dany Mota stende il Torino, agli ottavi c’è il Milan - Il Giorno",
+      "source": "Il Giorno",
+      "published": "Tue, 01 Sep 2026 22:09:12 GMT"
     },
     {
       "type": "news",
@@ -94,6 +87,13 @@
     },
     {
       "type": "news",
+      "category": "TENNIS",
+      "title": "Ranking ATP: le ambizioni di Cobolli e Musetti, Sinner saldo in vetta - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Sun, 30 Aug 2026 10:04:06 GMT"
+    },
+    {
+      "type": "news",
       "category": "PADEL",
       "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - Comitato Olimpico Nazionale",
       "source": "Comitato Olimpico Nazionale",
@@ -102,8 +102,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - fitp.it",
-      "source": "fitp.it",
+      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - FITP",
+      "source": "FITP",
       "published": "Wed, 26 Aug 2026 21:28:39 GMT"
     },
     {
