@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T13:34:59.961099+00:00",
+  "updated_at": "2026-09-02T17:20:34.892700+00:00",
   "local_date": "2026-09-02",
   "articles": [
     {
@@ -11,9 +11,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Il Pagellone del calciomercato: Roma e Como regine dell'estate, Milan incompleto, Napoli immobile, Inter con più alternative, Juventus scoppiettante sul finale - Goal.com",
-      "source": "Goal.com",
-      "published": "Tue, 01 Sep 2026 18:03:21 GMT"
+      "title": "Pagellone calciomercato: Inter e Roma regine, la Juve si rinforza, dubbi sul Napoli - eurosport.it",
+      "source": "eurosport.it",
+      "published": "Wed, 02 Sep 2026 07:13:33 GMT"
     },
     {
       "type": "news",
@@ -32,16 +32,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale | Jonathan David in prestito all'Atletico Madrid - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Tue, 01 Sep 2026 21:40:58 GMT"
+      "title": "Calciomercato Roma: più Leweling di Luiz Henrique. Ma Gasp e i tifosi tornano in ansia per la cessione di Koné - RomaToday",
+      "source": "RomaToday",
+      "published": "Wed, 02 Sep 2026 12:28:16 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia: colpaccio del Monza, 1-0 al Torino e ottavi col Milan - dialessandria.it",
-      "source": "dialessandria.it",
-      "published": "Wed, 02 Sep 2026 06:31:58 GMT"
+      "title": "Serie A, gli arbitri della terza giornata: Inter-Napoli a Sozza. Mariani per Juventus-Milan - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Wed, 02 Sep 2026 13:53:34 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Coppa Italia, Serie A, Juve e Lazio: le ultimissime - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Wed, 02 Sep 2026 16:03:18 GMT"
     },
     {
       "type": "news",
@@ -53,44 +60,37 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calcio, Juric dopo Torino-Monza di Coppa Italia: «Convincerci che possiamo stare in Serie A, molto soddisfatti» - Il Cittadino di Monza e Brianza",
-      "source": "Il Cittadino di Monza e Brianza",
-      "published": "Wed, 02 Sep 2026 08:33:07 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Torino fuori dalla Coppa Italia: il Monza passa con Mota, Juric agli ottavi contro il Milan - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Tue, 01 Sep 2026 21:09:00 GMT"
+      "title": "Il Monza si impone 1-0 sul Torino e va agli ottavi di Coppa Italia col Milan - gazzettadiparma.it",
+      "source": "gazzettadiparma.it",
+      "published": "Wed, 02 Sep 2026 07:50:11 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Quanti punti sta perdendo Sinner da Alcaraz e Zverev: le proiezioni del ranking ATP agli US Open - OA Sport",
-      "source": "OA Sport",
-      "published": "Wed, 02 Sep 2026 10:50:09 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 30 agosto · Tennis ATP e WTA - olympics.com",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 2 settembre · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Sat, 29 Aug 2026 22:04:16 GMT"
+      "published": "Wed, 02 Sep 2026 06:40:13 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP: Sinner a quota 87 settimane al n. 1, Buse per la prima volta in top 30 - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Mon, 31 Aug 2026 09:28:08 GMT"
+      "title": "Ranking ATP: le ambizioni di Cobolli e Musetti, Sinner saldo in vetta - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Sun, 30 Aug 2026 10:04:06 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Race WTA Finals 2026: classifica singolare femminile aggiornata in tempo reale · Tennis oggi - olympics.com",
-      "source": "olympics.com",
-      "published": "Wed, 02 Sep 2026 08:00:00 GMT"
+      "title": "\"Senza Sinner...\", Medvedev parla di Jannik agli Us Open (e 'snobba' Alcaraz) - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Sun, 30 Aug 2026 11:38:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Alcaraz chiama, ora Sinner deve rispondere: ore decisive per la partecipazione di Jannik agli Us Open - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Fri, 21 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
