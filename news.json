@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T09:02:12.931183+00:00",
+  "updated_at": "2026-09-02T13:34:59.961099+00:00",
   "local_date": "2026-09-02",
   "articles": [
     {
@@ -11,23 +11,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Il Pagellone del calciomercato: Roma e Como regine dell'estate, Milan incompleto, Napoli immobile, Inter con più alternative, Juventus scoppiettante sul finale - goal.com",
-      "source": "goal.com",
+      "title": "Il Pagellone del calciomercato: Roma e Como regine dell'estate, Milan incompleto, Napoli immobile, Inter con più alternative, Juventus scoppiettante sul finale - Goal.com",
+      "source": "Goal.com",
       "published": "Tue, 01 Sep 2026 18:03:21 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Pagellone calciomercato: Inter e Roma regine, la Juve si rinforza, dubbi sul Napoli - eurosport.it",
-      "source": "eurosport.it",
-      "published": "Wed, 02 Sep 2026 07:13:33 GMT"
+      "title": "Il pagellone del calciomercato: Inter al top, cresce la Roma. Napoli fermo - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Wed, 02 Sep 2026 05:32:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Il pagellone del calciomercato: Inter al top, cresce la Roma. Napoli fermo - corrieredellosport.it",
-      "source": "corrieredellosport.it",
-      "published": "Wed, 02 Sep 2026 05:32:00 GMT"
+      "title": "Gli affari dell'ultimo giorno di calciomercato: David all'Atletico Madrid, Woltemade e Sarr alla Juventus, Pedro Gonçalves alla Fiorentina, Gudmundsson alla Lazio, Rowe all'Atalanta - Goal.com",
+      "source": "Goal.com",
+      "published": "Tue, 01 Sep 2026 19:45:29 GMT"
     },
     {
       "type": "news",
@@ -39,9 +39,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - goal.com",
-      "source": "goal.com",
-      "published": "Tue, 01 Sep 2026 08:03:31 GMT"
+      "title": "Coppa Italia: colpaccio del Monza, 1-0 al Torino e ottavi col Milan - dialessandria.it",
+      "source": "dialessandria.it",
+      "published": "Wed, 02 Sep 2026 06:31:58 GMT"
     },
     {
       "type": "news",
@@ -53,37 +53,30 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Il Monza si impone 1-0 sul Torino e va agli ottavi di Coppa Italia col Milan - gazzettadiparma.it",
-      "source": "gazzettadiparma.it",
-      "published": "Wed, 02 Sep 2026 07:50:11 GMT"
+      "title": "Calcio, Juric dopo Torino-Monza di Coppa Italia: «Convincerci che possiamo stare in Serie A, molto soddisfatti» - Il Cittadino di Monza e Brianza",
+      "source": "Il Cittadino di Monza e Brianza",
+      "published": "Wed, 02 Sep 2026 08:33:07 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Torino fuori dalla Coppa Italia: il Monza passa con Mota, Juric agli ottavi contro il Milan - corrieredellosport.it",
-      "source": "corrieredellosport.it",
+      "title": "Torino fuori dalla Coppa Italia: il Monza passa con Mota, Juric agli ottavi contro il Milan - Corriere dello Sport",
+      "source": "Corriere dello Sport",
       "published": "Tue, 01 Sep 2026 21:09:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 2 settembre · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Wed, 02 Sep 2026 06:33:00 GMT"
+      "title": "Quanti punti sta perdendo Sinner da Alcaraz e Zverev: le proiezioni del ranking ATP agli US Open - OA Sport",
+      "source": "OA Sport",
+      "published": "Wed, 02 Sep 2026 10:50:09 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "US Open 2026, italiani e italiane in campo: il programma del 30 agosto · Tennis ATP e WTA - olympics.com",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 30 agosto · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Sat, 29 Aug 2026 22:01:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "\"Senza Sinner...\", Medvedev parla di Jannik agli Us Open (e 'snobba' Alcaraz) - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Sun, 30 Aug 2026 11:38:00 GMT"
+      "published": "Sat, 29 Aug 2026 22:04:16 GMT"
     },
     {
       "type": "news",
@@ -91,6 +84,13 @@
       "title": "Ranking ATP: Sinner a quota 87 settimane al n. 1, Buse per la prima volta in top 30 - Ubitennis",
       "source": "Ubitennis",
       "published": "Mon, 31 Aug 2026 09:28:08 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Race WTA Finals 2026: classifica singolare femminile aggiornata in tempo reale · Tennis oggi - olympics.com",
+      "source": "olympics.com",
+      "published": "Wed, 02 Sep 2026 08:00:00 GMT"
     },
     {
       "type": "news",
@@ -109,16 +109,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Gold Belgrado: Nieto/Yanguas e Stupaczuk/Sanz in finale per il quarto posto in classifica - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sun, 30 Aug 2026 07:21:48 GMT"
+      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 09 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Finale: Tello, Nieto, Salazar… inizia la battaglia per gli ultimi posti! - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Fri, 28 Aug 2026 14:55:00 GMT"
+      "title": "Giochi del Mediterraneo, padel femminile: Orsi-Marchetti si fermano in semifinale, domani la finale per il bronzo - PugliaLive",
+      "source": "PugliaLive",
+      "published": "Fri, 28 Aug 2026 11:32:17 GMT"
     }
   ]
 }
