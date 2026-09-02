@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-02T19:58:08.269796+00:00",
-  "local_date": "2026-09-02",
+  "updated_at": "2026-09-02T22:32:23.285517+00:00",
+  "local_date": "2026-09-03",
   "articles": [
     {
       "type": "message",
@@ -11,30 +11,37 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Il pagellone del calciomercato: Inter al top, cresce la Roma. Napoli fermo - Corriere dello Sport",
-      "source": "Corriere dello Sport",
+      "title": "Il pagellone del calciomercato: Inter al top, cresce la Roma. Napoli fermo - corrieredellosport.it",
+      "source": "corrieredellosport.it",
       "published": "Wed, 02 Sep 2026 05:32:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Gli affari dell'ultimo giorno di calciomercato: David all'Atletico Madrid, Woltemade e Sarr alla Juventus, Pedro Gonçalves alla Fiorentina, Gudmundsson alla Lazio, Rowe all'Atalanta - Goal.com",
-      "source": "Goal.com",
-      "published": "Tue, 01 Sep 2026 19:45:29 GMT"
+      "title": "Le pagelle del calciomercato 2026/27 in Serie A: Roma scintillante, Napoli tra scarti e mediocrità - Fanpage",
+      "source": "Fanpage",
+      "published": "Wed, 02 Sep 2026 04:10:18 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Como, ufficiale la cessione di Audero al Rayo Vallecano - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Wed, 02 Sep 2026 08:19:42 GMT"
+      "title": "Ufficiale | Jonathan David in prestito all'Atletico Madrid - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Tue, 01 Sep 2026 21:40:58 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Napoli, ufficiale il rinnovo di Di Lorenzo fino al 2030: il capitano in azzurro a vita - Il Mattino",
-      "source": "Il Mattino",
-      "published": "Wed, 02 Sep 2026 15:35:44 GMT"
+      "title": "Calciomercato Lazio, preso Gudmundsson: in arrivo il nuovo attaccante di Gattuso - RomaToday",
+      "source": "RomaToday",
+      "published": "Tue, 01 Sep 2026 10:16:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Liste Uefa Champions, Europa e Conference: le scelte di Roma, Napoli, Inter, Como, Juve, Milan e Atalanta - corrieredellosport.it",
+      "source": "corrieredellosport.it",
+      "published": "Wed, 02 Sep 2026 20:09:21 GMT"
     },
     {
       "type": "news",
@@ -46,37 +53,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Napoli, ufficiale la lista per la Champions League: out Marianucci e Giovane - Il Mattino",
-      "source": "Il Mattino",
-      "published": "Wed, 02 Sep 2026 19:29:33 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Ufficiale la lista UEFA della Juventus per l'Europa League 2026/27 - Juventus.com",
       "source": "Juventus.com",
-      "published": "Wed, 02 Sep 2026 19:03:55 GMT"
+      "published": "Wed, 02 Sep 2026 19:22:04 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia, Serie A, Juve e Lazio: le ultimissime - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Wed, 02 Sep 2026 16:03:18 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 2 settembre · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Wed, 02 Sep 2026 06:40:13 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 1 settembre · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Mon, 31 Aug 2026 22:01:00 GMT"
+      "title": "Coppa Italia 26/27: Spezia-Vado 3-0 - Spezia Calcio - Sito ufficiale",
+      "source": "Spezia Calcio - Sito ufficiale",
+      "published": "Wed, 02 Sep 2026 18:45:00 GMT"
     },
     {
       "type": "news",
@@ -88,15 +74,29 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP: Sinner a quota 87 settimane al n. 1, Buse per la prima volta in top 30 - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Mon, 31 Aug 2026 09:28:08 GMT"
+      "title": "\"Senza Sinner...\", Medvedev parla di Jannik agli Us Open (e 'snobba' Alcaraz) - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Sun, 30 Aug 2026 11:38:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Jiri Lehecka-Toby Samuel, diretta Tennis, US Open ATP Live match - Tuttosport",
+      "source": "Tuttosport",
+      "published": "Wed, 02 Sep 2026 22:29:48 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Xinyu Wang-Anna Kalinskaya, diretta Tennis, US Open WTA Live match - Tuttosport",
+      "source": "Tuttosport",
+      "published": "Wed, 02 Sep 2026 22:29:48 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - coni.it",
-      "source": "coni.it",
+      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - Comitato Olimpico Nazionale",
+      "source": "Comitato Olimpico Nazionale",
       "published": "Wed, 26 Aug 2026 21:26:24 GMT"
     },
     {
