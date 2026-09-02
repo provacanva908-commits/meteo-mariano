@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T00:08:38.949389+00:00",
+  "updated_at": "2026-09-02T04:35:45.625438+00:00",
   "local_date": "2026-09-02",
   "articles": [
     {
@@ -18,9 +18,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale la cessione di Mazzocchi: il saluto del club azzurro - NapoliToday",
-      "source": "NapoliToday",
-      "published": "Tue, 01 Sep 2026 06:30:00 GMT"
+      "title": "Gli affari dell'ultimo giorno di calciomercato: David all'Atletico Madrid, Woltemade e Sarr alla Juventus, Pedro Gonçalves alla Fiorentina, Gudmundsson alla Lazio, Rowe all'Atalanta - Goal.com",
+      "source": "Goal.com",
+      "published": "Tue, 01 Sep 2026 19:45:29 GMT"
     },
     {
       "type": "news",
@@ -32,37 +32,51 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Como, ufficiale l'acquisto di Moise Kean: c'è la firma. Fabregas: \"Alza il nostro livello\" - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Tue, 01 Sep 2026 17:09:00 GMT"
+      "title": "Ufficiale | Jonathan David in prestito all'Atletico Madrid - juventus.com",
+      "source": "juventus.com",
+      "published": "Tue, 01 Sep 2026 21:40:58 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, ecco le avversarie di Inter, Napoli, Roma e Como - Lega Serie A",
-      "source": "Lega Serie A",
-      "published": "Thu, 27 Aug 2026 16:39:44 GMT"
+      "title": "Quando giocano le italiane in Europa League? Il calendario completo di Milan e Juventus - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Tue, 01 Sep 2026 15:49:26 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia, Torino-Monza 0-1: decide Dany Mota, agli ottavi c’è il Milan - RaiNews",
-      "source": "RaiNews",
-      "published": "Tue, 01 Sep 2026 20:12:00 GMT"
+      "title": "Liverpool-Atletico Madrid: dettagli dei biglietti per la Champions League - Liverpool FC",
+      "source": "Liverpool FC",
+      "published": "Tue, 01 Sep 2026 15:04:13 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Torino fuori dalla Coppa Italia: il Monza passa con Mota, Juric agli ottavi contro il Milan - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Tue, 01 Sep 2026 21:09:00 GMT"
+      "title": "Colpaccio del Monza, 1-0 al Torino e ottavi di Coppa Italia col Milan - Italpress",
+      "source": "Italpress",
+      "published": "Tue, 01 Sep 2026 23:15:08 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Il Monza vola in Coppa Italia: Dany Mota stende il Torino, agli ottavi c’è il Milan - Il Giorno",
-      "source": "Il Giorno",
-      "published": "Tue, 01 Sep 2026 22:09:12 GMT"
+      "title": "Coppa Italia, il Monza si regala il Milan agli ottavi: Torino battuto da un gol di Dany Mota! - MBNews",
+      "source": "MBNews",
+      "published": "Tue, 01 Sep 2026 21:15:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "US Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Tue, 25 Aug 2026 14:09:54 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "US Open 2026, italiani e italiane in campo: il programma del 1° settembre · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Tue, 01 Sep 2026 04:54:19 GMT"
     },
     {
       "type": "news",
@@ -74,23 +88,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "\"Senza Sinner...\", Medvedev parla di Jannik agli Us Open (e 'snobba' Alcaraz) - Adnkronos",
-      "source": "Adnkronos",
+      "title": "\"Senza Sinner...\", Medvedev parla di Jannik agli Us Open (e 'snobba' Alcaraz) - adnkronos.com",
+      "source": "adnkronos.com",
       "published": "Sun, 30 Aug 2026 11:38:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Jasmine Paolini allo US Open 2026: quando gioca, orari e dove vedere le partite in diretta · Tennis WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Sun, 30 Aug 2026 20:42:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ranking ATP: le ambizioni di Cobolli e Musetti, Sinner saldo in vetta - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Sun, 30 Aug 2026 10:04:06 GMT"
     },
     {
       "type": "news",
