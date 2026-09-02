@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T17:20:34.892700+00:00",
+  "updated_at": "2026-09-02T19:58:08.269796+00:00",
   "local_date": "2026-09-02",
   "articles": [
     {
@@ -7,13 +7,6 @@
       "category": "CALCIO",
       "title": "Nessuna partita rilevante in programma oggi tra Serie A, coppe europee e top club",
       "source": "football-data.org"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Pagellone calciomercato: Inter e Roma regine, la Juve si rinforza, dubbi sul Napoli - eurosport.it",
-      "source": "eurosport.it",
-      "published": "Wed, 02 Sep 2026 07:13:33 GMT"
     },
     {
       "type": "news",
@@ -32,9 +25,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma: più Leweling di Luiz Henrique. Ma Gasp e i tifosi tornano in ansia per la cessione di Koné - RomaToday",
-      "source": "RomaToday",
-      "published": "Wed, 02 Sep 2026 12:28:16 GMT"
+      "title": "Como, ufficiale la cessione di Audero al Rayo Vallecano - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Wed, 02 Sep 2026 08:19:42 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Napoli, ufficiale il rinnovo di Di Lorenzo fino al 2030: il capitano in azzurro a vita - Il Mattino",
+      "source": "Il Mattino",
+      "published": "Wed, 02 Sep 2026 15:35:44 GMT"
     },
     {
       "type": "news",
@@ -46,23 +46,23 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Napoli, ufficiale la lista per la Champions League: out Marianucci e Giovane - Il Mattino",
+      "source": "Il Mattino",
+      "published": "Wed, 02 Sep 2026 19:29:33 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Ufficiale la lista UEFA della Juventus per l'Europa League 2026/27 - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Wed, 02 Sep 2026 19:03:55 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Coppa Italia, Serie A, Juve e Lazio: le ultimissime - Corriere dello Sport",
       "source": "Corriere dello Sport",
       "published": "Wed, 02 Sep 2026 16:03:18 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Coppa Italia, Torino-Monza 0-1: decide Dany Mota, agli ottavi c’è il Milan - RaiNews",
-      "source": "RaiNews",
-      "published": "Tue, 01 Sep 2026 21:27:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Il Monza si impone 1-0 sul Torino e va agli ottavi di Coppa Italia col Milan - gazzettadiparma.it",
-      "source": "gazzettadiparma.it",
-      "published": "Wed, 02 Sep 2026 07:50:11 GMT"
     },
     {
       "type": "news",
@@ -74,29 +74,29 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP: le ambizioni di Cobolli e Musetti, Sinner saldo in vetta - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Sun, 30 Aug 2026 10:04:06 GMT"
+      "title": "Italiani allo US Open 2026 oggi: le partite del 1 settembre · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Mon, 31 Aug 2026 22:01:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "\"Senza Sinner...\", Medvedev parla di Jannik agli Us Open (e 'snobba' Alcaraz) - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Sun, 30 Aug 2026 11:38:00 GMT"
+      "title": "US Open 2026, italiani e italiane in campo: il programma del 31 agosto · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Sun, 30 Aug 2026 22:06:44 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Alcaraz chiama, ora Sinner deve rispondere: ore decisive per la partecipazione di Jannik agli Us Open - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Fri, 21 Aug 2026 07:00:00 GMT"
+      "title": "Ranking ATP: Sinner a quota 87 settimane al n. 1, Buse per la prima volta in top 30 - Ubitennis",
+      "source": "Ubitennis",
+      "published": "Mon, 31 Aug 2026 09:28:08 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - Comitato Olimpico Nazionale",
-      "source": "Comitato Olimpico Nazionale",
+      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - coni.it",
+      "source": "coni.it",
       "published": "Wed, 26 Aug 2026 21:26:24 GMT"
     },
     {
