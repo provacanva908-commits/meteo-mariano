@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T22:32:23.285517+00:00",
+  "updated_at": "2026-09-03T00:37:11.846955+00:00",
   "local_date": "2026-09-03",
   "articles": [
     {
@@ -7,13 +7,6 @@
       "category": "CALCIO",
       "title": "Nessuna partita rilevante in programma oggi tra Serie A, coppe europee e top club",
       "source": "football-data.org"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Il pagellone del calciomercato: Inter al top, cresce la Roma. Napoli fermo - corrieredellosport.it",
-      "source": "corrieredellosport.it",
-      "published": "Wed, 02 Sep 2026 05:32:00 GMT"
     },
     {
       "type": "news",
@@ -32,6 +25,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Napoli, ufficiale il rinnovo di Di Lorenzo - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Wed, 02 Sep 2026 17:05:33 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Calciomercato Lazio, preso Gudmundsson: in arrivo il nuovo attaccante di Gattuso - RomaToday",
       "source": "RomaToday",
       "published": "Tue, 01 Sep 2026 10:16:00 GMT"
@@ -39,30 +39,44 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Liste Uefa Champions, Europa e Conference: le scelte di Roma, Napoli, Inter, Como, Juve, Milan e Atalanta - corrieredellosport.it",
-      "source": "corrieredellosport.it",
-      "published": "Wed, 02 Sep 2026 20:09:21 GMT"
+      "title": "Terza giornata Serie A, gli arbitri: Inter-Napoli a Sozza, Juve-Milan affidata a Mariani - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Wed, 02 Sep 2026 14:09:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, gli arbitri della terza giornata: Inter-Napoli a Sozza. Mariani per Juventus-Milan - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Wed, 02 Sep 2026 13:53:34 GMT"
+      "title": "Coppa Italia, Torino-Monza 0-1: decide Dany Mota, agli ottavi c’è il Milan - RaiNews",
+      "source": "RaiNews",
+      "published": "Tue, 01 Sep 2026 21:27:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Ufficiale la lista UEFA della Juventus per l'Europa League 2026/27 - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Wed, 02 Sep 2026 19:22:04 GMT"
+      "title": "Buongiorno escluso: ecco le liste UEFA di Inter, Napoli, Roma e Como - eurosport.it",
+      "source": "eurosport.it",
+      "published": "Wed, 02 Sep 2026 21:50:28 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia 26/27: Spezia-Vado 3-0 - Spezia Calcio - Sito ufficiale",
-      "source": "Spezia Calcio - Sito ufficiale",
-      "published": "Wed, 02 Sep 2026 18:45:00 GMT"
+      "title": "Champions League: i giallorossi in lista UEFA per la League Phase - asroma.com",
+      "source": "asroma.com",
+      "published": "Wed, 02 Sep 2026 20:11:27 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Quanti punti sta perdendo Sinner da Alcaraz e Zverev: le proiezioni del ranking ATP agli US Open - oasport.it",
+      "source": "oasport.it",
+      "published": "Wed, 02 Sep 2026 10:50:09 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 2 settembre · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Wed, 02 Sep 2026 06:40:13 GMT"
     },
     {
       "type": "news",
@@ -77,20 +91,6 @@
       "title": "\"Senza Sinner...\", Medvedev parla di Jannik agli Us Open (e 'snobba' Alcaraz) - Adnkronos",
       "source": "Adnkronos",
       "published": "Sun, 30 Aug 2026 11:38:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Jiri Lehecka-Toby Samuel, diretta Tennis, US Open ATP Live match - Tuttosport",
-      "source": "Tuttosport",
-      "published": "Wed, 02 Sep 2026 22:29:48 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Xinyu Wang-Anna Kalinskaya, diretta Tennis, US Open WTA Live match - Tuttosport",
-      "source": "Tuttosport",
-      "published": "Wed, 02 Sep 2026 22:29:48 GMT"
     },
     {
       "type": "news",
@@ -109,16 +109,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 09 Aug 2026 07:00:00 GMT"
+      "title": "Giochi del Mediterraneo, padel femminile: Orsi-Marchetti si fermano in semifinale, domani la finale per il bronzo - PugliaLive",
+      "source": "PugliaLive",
+      "published": "Fri, 28 Aug 2026 11:32:17 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Giochi del Mediterraneo, padel femminile: Orsi-Marchetti si fermano in semifinale, domani la finale per il bronzo - PugliaLive",
-      "source": "PugliaLive",
-      "published": "Fri, 28 Aug 2026 11:32:17 GMT"
+      "title": "GdB Padel Tour, atto finale: sabato a Castenedolo sport, festa e trofei - Giornale di Brescia",
+      "source": "Giornale di Brescia",
+      "published": "Wed, 02 Sep 2026 05:51:56 GMT"
     }
   ]
 }
