@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T13:56:46.272173+00:00",
+  "updated_at": "2026-09-03T17:47:17.510101+00:00",
   "local_date": "2026-09-03",
   "articles": [
     {
@@ -7,6 +7,62 @@
       "category": "CALCIO",
       "title": "Nessuna partita rilevante in programma oggi tra Serie A, coppe europee e top club",
       "source": "football-data.org"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Coppa Italia, Champions League, Lazio e tennis: le ultimissime - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Thu, 03 Sep 2026 09:13:18 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Il mercato da un miliardo cambia la Serie A: Inter e Milan più forti, ma attenzione a Roma e Como - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Thu, 03 Sep 2026 06:38:57 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A Enilive | Il calendario della Lazio dalla sesta alla dodicesima giornata - S.S. Lazio",
+      "source": "S.S. Lazio",
+      "published": "Thu, 03 Sep 2026 14:36:24 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "La partita con cui l’Inter femminile si è qualificata per la Champions League - Il Post",
+      "source": "Il Post",
+      "published": "Thu, 03 Sep 2026 08:27:28 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
+      "source": "FITP",
+      "published": "Thu, 02 Jul 2026 17:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Madrid P1 Premier Padel 2026: Super Abbate che vola agli ottavi di finale - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Thu, 03 Sep 2026 06:52:47 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Bronze Marnes: Marie e Filho vincono il loro duello contro Choppe/Inzerillo, Thomas/Chevillard causano un'altra sorpresa, accedono agli ottavi di finale. - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Thu, 03 Sep 2026 10:25:09 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Gold Belgrado: Nieto/Yanguas e Stupaczuk/Sanz in finale per il quarto posto in classifica - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sun, 30 Aug 2026 07:21:48 GMT"
     }
   ]
 }
