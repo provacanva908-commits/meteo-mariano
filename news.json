@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T00:37:11.846955+00:00",
+  "updated_at": "2026-09-03T05:05:04.643725+00:00",
   "local_date": "2026-09-03",
   "articles": [
     {
@@ -11,9 +11,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Le pagelle del calciomercato 2026/27 in Serie A: Roma scintillante, Napoli tra scarti e mediocrità - Fanpage",
-      "source": "Fanpage",
-      "published": "Wed, 02 Sep 2026 04:10:18 GMT"
+      "title": "Il pagellone del calciomercato: Inter al top, cresce la Roma. Napoli fermo - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Wed, 02 Sep 2026 05:32:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Milan, ufficiale la cessione di Sardo: va in Serie C - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Wed, 02 Sep 2026 21:44:00 GMT"
     },
     {
       "type": "news",
@@ -31,17 +38,24 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, preso Gudmundsson: in arrivo il nuovo attaccante di Gattuso - RomaToday",
-      "source": "RomaToday",
-      "published": "Tue, 01 Sep 2026 10:16:00 GMT"
+      "category": "CALCIO",
+      "title": "Champions League, ufficiale la lista UEFA della Roma: i 24 convocati per la League Phase - TeleRadioStereo",
+      "source": "TeleRadioStereo",
+      "published": "Wed, 02 Sep 2026 20:20:28 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Terza giornata Serie A, gli arbitri: Inter-Napoli a Sozza, Juve-Milan affidata a Mariani - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Wed, 02 Sep 2026 14:09:00 GMT"
+      "title": "Napoli, ufficiale la lista per la Champions League: out Marianucci, Buongiorno e Giovane - Il Mattino",
+      "source": "Il Mattino",
+      "published": "Wed, 02 Sep 2026 19:29:33 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Coppa Italia 26/27: Spezia-Vado 3-0 - Spezia Calcio - Sito ufficiale",
+      "source": "Spezia Calcio - Sito ufficiale",
+      "published": "Wed, 02 Sep 2026 18:45:00 GMT"
     },
     {
       "type": "news",
@@ -52,45 +66,31 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Buongiorno escluso: ecco le liste UEFA di Inter, Napoli, Roma e Como - eurosport.it",
-      "source": "eurosport.it",
-      "published": "Wed, 02 Sep 2026 21:50:28 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League: i giallorossi in lista UEFA per la League Phase - asroma.com",
-      "source": "asroma.com",
-      "published": "Wed, 02 Sep 2026 20:11:27 GMT"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
-      "title": "Quanti punti sta perdendo Sinner da Alcaraz e Zverev: le proiezioni del ranking ATP agli US Open - oasport.it",
-      "source": "oasport.it",
-      "published": "Wed, 02 Sep 2026 10:50:09 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 2 settembre · Tennis ATP e WTA - olympics.com",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 1 settembre · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Wed, 02 Sep 2026 06:40:13 GMT"
+      "published": "Mon, 31 Aug 2026 22:01:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "US Open 2026, italiani e italiane in campo: il programma del 31 agosto · Tennis ATP e WTA - olympics.com",
+      "title": "Ranking ATP: Sinner a quota 87 settimane al n. 1, Buse per la prima volta in top 30 - Ubitennis",
+      "source": "Ubitennis",
+      "published": "Mon, 31 Aug 2026 09:28:08 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Ranking ATP: le ambizioni di Cobolli e Musetti, Sinner saldo in vetta - supertennis.tv",
+      "source": "supertennis.tv",
+      "published": "Sun, 30 Aug 2026 10:04:06 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Tennis ATP e WTA, gli appuntamenti di settembre 2026: il programma, i tornei e dove vedere in diretta tv - olympics.com",
       "source": "olympics.com",
-      "published": "Sun, 30 Aug 2026 22:06:44 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "\"Senza Sinner...\", Medvedev parla di Jannik agli Us Open (e 'snobba' Alcaraz) - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Sun, 30 Aug 2026 11:38:00 GMT"
+      "published": "Tue, 01 Sep 2026 09:00:00 GMT"
     },
     {
       "type": "news",
@@ -109,16 +109,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Giochi del Mediterraneo, padel femminile: Orsi-Marchetti si fermano in semifinale, domani la finale per il bronzo - PugliaLive",
-      "source": "PugliaLive",
-      "published": "Fri, 28 Aug 2026 11:32:17 GMT"
+      "title": "Premier padel Londra, la legge di Coello-Tapia. Calvo nella storia - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 09 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "GdB Padel Tour, atto finale: sabato a Castenedolo sport, festa e trofei - Giornale di Brescia",
-      "source": "Giornale di Brescia",
-      "published": "Wed, 02 Sep 2026 05:51:56 GMT"
+      "title": "FIP Gold Belgrado: Nieto/Yanguas e Stupaczuk/Sanz in finale per il quarto posto in classifica - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sun, 30 Aug 2026 07:21:48 GMT"
     }
   ]
 }
