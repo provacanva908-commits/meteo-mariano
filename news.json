@@ -1,12 +1,90 @@
 {
-  "updated_at": "2026-09-03T20:10:17.297045+00:00",
-  "local_date": "2026-09-03",
+  "updated_at": "2026-09-03T22:37:26.226061+00:00",
+  "local_date": "2026-09-04",
   "articles": [
     {
-      "type": "message",
+      "type": "match",
       "category": "CALCIO",
-      "title": "Nessuna partita rilevante in programma oggi tra Serie A, coppe europee e top club",
-      "source": "football-data.org"
+      "competition": "Ligue 1",
+      "home": "Olympique Lyon",
+      "away": "Auxerre",
+      "time": "19:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-09-04"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Genoa",
+      "away": "Como 1907",
+      "time": "20:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-09-04"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Premier League",
+      "home": "Ipswich Town",
+      "away": "Liverpool",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-09-04"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Ligue 1",
+      "home": "PSG",
+      "away": "Monaco",
+      "time": "21:05",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-09-04"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Primeira Liga",
+      "home": "Porto",
+      "away": "Moreirense",
+      "time": "21:15",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-09-04"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Primera Division",
+      "home": "Real Betis",
+      "away": "Real Madrid",
+      "time": "21:00",
+      "status": "2026-09-05 13:15:00Z",
+      "status_label": "2026-09-05 13:15:00Z",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-09-04"
     },
     {
       "type": "news",
@@ -32,23 +110,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale | Jonathan David in prestito all'Atletico Madrid - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Tue, 01 Sep 2026 21:40:58 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Il mercato da un miliardo cambia la Serie A: Inter e Milan più forti, ma attenzione a Roma e Como - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Thu, 03 Sep 2026 06:38:57 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A Enilive | Il calendario della Lazio dalla sesta alla dodicesima giornata - S.S. Lazio",
-      "source": "S.S. Lazio",
-      "published": "Thu, 03 Sep 2026 14:36:07 GMT"
+      "title": "Romagnoli lascia la Lazio e va all'Al Sadd: ora è ufficiale - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Thu, 03 Sep 2026 20:25:00 GMT"
     },
     {
       "type": "news",
@@ -60,9 +124,23 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Serie A Enilive | Il calendario della Lazio dalla sesta alla dodicesima giornata - S.S. Lazio",
+      "source": "S.S. Lazio",
+      "published": "Thu, 03 Sep 2026 14:36:07 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "La partita con cui l’Inter femminile si è qualificata per la Champions League - Il Post",
       "source": "Il Post",
       "published": "Thu, 03 Sep 2026 08:27:28 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A Women's Cup 2026/2027, annunciata la sede della finale - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Thu, 03 Sep 2026 14:27:27 GMT"
     },
     {
       "type": "news",
@@ -74,6 +152,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 4 settembre · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Thu, 03 Sep 2026 22:01:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Italiani allo US Open 2026 oggi: le partite del 3 settembre · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
       "published": "Wed, 02 Sep 2026 23:12:10 GMT"
@@ -81,23 +166,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 1 settembre · Tennis ATP e WTA - olympics.com",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 2 settembre · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Mon, 31 Aug 2026 22:01:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 31 agosto · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Sun, 30 Aug 2026 22:06:44 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Junior Euro Padel Cup: doppia semifinale per gli Azzurrini - FITP",
-      "source": "FITP",
-      "published": "Thu, 02 Jul 2026 17:00:00 GMT"
+      "published": "Wed, 02 Sep 2026 06:33:00 GMT"
     },
     {
       "type": "news",
@@ -105,6 +176,13 @@
       "title": "Madrid P1 Premier Padel 2026: Super Abbate che vola agli ottavi di finale - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Thu, 03 Sep 2026 06:52:47 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - FITP",
+      "source": "FITP",
+      "published": "Wed, 26 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
