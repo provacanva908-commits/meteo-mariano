@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T09:32:16.206895+00:00",
+  "updated_at": "2026-09-04T13:44:46.008925+00:00",
   "local_date": "2026-09-04",
   "articles": [
     {
@@ -89,8 +89,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Il Pagellone del calciomercato: Roma e Como regine dell'estate, Milan incompleto, Napoli immobile, Inter con più alternative, Juventus scoppiettante sul finale - goal.com",
-      "source": "goal.com",
+      "title": "Il Pagellone del calciomercato: Roma e Como regine dell'estate, Milan incompleto, Napoli immobile, Inter con più alternative, Juventus scoppiettante sul finale - Goal.com",
+      "source": "Goal.com",
       "published": "Tue, 01 Sep 2026 18:03:21 GMT"
     },
     {
@@ -103,16 +103,30 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Firmato il nuovo accordo triennale tra la Regione e Anisap per le visite di specialistica ambulatoriale - Regione Emilia-Romagna",
+      "source": "Regione Emilia-Romagna",
+      "published": "Fri, 04 Sep 2026 03:08:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Calciomercato 2026, i 20 affari saltati: da Palestra all'Inter a Leweling alla Roma - Sky Sport",
       "source": "Sky Sport",
       "published": "Fri, 04 Sep 2026 06:24:12 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Romagnoli lascia la Lazio e va all'Al Sadd: ora è ufficiale - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Thu, 03 Sep 2026 20:25:00 GMT"
+      "category": "CALCIO",
+      "title": "Sorteggio League Phase: Roma ancora con Barcellona, Real e Chelsea, Juventus con Psg e Lione, Inter con Arsenal e Manchester City - figc.it",
+      "source": "figc.it",
+      "published": "Fri, 04 Sep 2026 02:27:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "UEFA Women’s Champions League: le avversarie di Roma, Inter e Juventus - L Football",
+      "source": "L Football",
+      "published": "Fri, 04 Sep 2026 10:51:13 GMT"
     },
     {
       "type": "news",
@@ -124,23 +138,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Torna la Serie A, scintille nel weekend con Inter-Napoli e Juve-Milan - lapresse.it",
-      "source": "lapresse.it",
-      "published": "Fri, 04 Sep 2026 06:18:11 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Spectrum Synergy Pro FIGH è il pallone ufficiale della stagione 2026/2027 di Serie A Gold e Serie A1 - FIGH: Federazione Italiana Giuoco Handball",
-      "source": "FIGH: Federazione Italiana Giuoco Handball",
-      "published": "Thu, 03 Sep 2026 23:30:40 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Milan-Inter, Juventus-Napoli e non solo: date e orari dalla 6ª alla 12ª giornata - eurosport.it",
-      "source": "eurosport.it",
-      "published": "Thu, 03 Sep 2026 19:55:30 GMT"
+      "title": "Women's Champions League: sorteggiate avversarie di Roma, Juve e Inter - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Fri, 04 Sep 2026 13:04:04 GMT"
     },
     {
       "type": "news",
@@ -159,16 +159,30 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 2 settembre · Tennis ATP e WTA - olympics.com",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 3 settembre · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Wed, 02 Sep 2026 06:33:00 GMT"
+      "published": "Wed, 02 Sep 2026 23:12:10 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 31 agosto · Tennis ATP e WTA - olympics.com",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 2 settembre · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Sun, 30 Aug 2026 22:06:44 GMT"
+      "published": "Wed, 02 Sep 2026 06:40:13 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - Comitato Olimpico Nazionale",
+      "source": "Comitato Olimpico Nazionale",
+      "published": "Wed, 26 Aug 2026 21:26:24 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Bronze Marnes: inizia la parte seria, è il momento degli ottavi di finale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Fri, 04 Sep 2026 06:59:51 GMT"
     },
     {
       "type": "news",
@@ -180,23 +194,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Bronze Marnes: Marie e Filho vincono il loro duello contro Choppe/Inzerillo, Thomas/Chevillard causano un'altra sorpresa, accedono agli ottavi di finale. - padel-magazine.it",
+      "title": "FIP Bronze Marnes: Dardaine e Mansart sfiorano l'eliminazione di TS2, due coppie francesi, nei quarti di finale - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Thu, 03 Sep 2026 10:25:09 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - fitp.it",
-      "source": "fitp.it",
-      "published": "Wed, 26 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Gold Belgrado: Nieto/Yanguas e Stupaczuk/Sanz in finale per il quarto posto in classifica - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sun, 30 Aug 2026 07:21:48 GMT"
+      "published": "Fri, 04 Sep 2026 09:15:25 GMT"
     }
   ]
 }
