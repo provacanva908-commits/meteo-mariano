@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T22:37:26.226061+00:00",
+  "updated_at": "2026-09-04T00:25:19.241046+00:00",
   "local_date": "2026-09-04",
   "articles": [
     {
@@ -47,6 +47,20 @@
     {
       "type": "match",
       "category": "CALCIO",
+      "competition": "Primera Division",
+      "home": "Real Betis",
+      "away": "Real Madrid",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-09-04"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
       "competition": "Ligue 1",
       "home": "PSG",
       "away": "Monaco",
@@ -67,20 +81,6 @@
       "time": "21:15",
       "status": "TIMED",
       "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-09-04"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Primera Division",
-      "home": "Real Betis",
-      "away": "Real Madrid",
-      "time": "21:00",
-      "status": "2026-09-05 13:15:00Z",
-      "status_label": "2026-09-05 13:15:00Z",
       "home_score": null,
       "away_score": null,
       "is_live": false,
@@ -124,6 +124,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Spectrum Synergy Pro FIGH è il pallone ufficiale della stagione 2026/2027 di Serie A Gold e Serie A1 - FIGH: Federazione Italiana Giuoco Handball",
+      "source": "FIGH: Federazione Italiana Giuoco Handball",
+      "published": "Thu, 03 Sep 2026 23:04:32 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Serie A Enilive | Il calendario della Lazio dalla sesta alla dodicesima giornata - S.S. Lazio",
       "source": "S.S. Lazio",
       "published": "Thu, 03 Sep 2026 14:36:07 GMT"
@@ -134,13 +141,6 @@
       "title": "La partita con cui l’Inter femminile si è qualificata per la Champions League - Il Post",
       "source": "Il Post",
       "published": "Thu, 03 Sep 2026 08:27:28 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A Women's Cup 2026/2027, annunciata la sede della finale - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Thu, 03 Sep 2026 14:27:27 GMT"
     },
     {
       "type": "news",
@@ -173,8 +173,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Madrid P1 Premier Padel 2026: Super Abbate che vola agli ottavi di finale - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
+      "title": "Madrid P1 Premier Padel 2026: Super Abbate che vola agli ottavi di finale - mrpadelpaddle.com",
+      "source": "mrpadelpaddle.com",
       "published": "Thu, 03 Sep 2026 06:52:47 GMT"
     },
     {
