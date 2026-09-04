@@ -1,90 +1,118 @@
 {
-  "updated_at": "2026-09-04T21:50:51.610962+00:00",
-  "local_date": "2026-09-04",
+  "updated_at": "2026-09-04T23:38:31.579162+00:00",
+  "local_date": "2026-09-05",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Ligue 1",
-      "home": "Olympique Lyon",
-      "away": "Auxerre",
-      "time": "19:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 3,
-      "away_score": 1,
+      "competition": "Serie A",
+      "home": "Fiorentina",
+      "away": "Torino",
+      "time": "15:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-09-04"
+      "local_date": "2026-09-05"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Eredivisie",
+      "home": "NEC",
+      "away": "Feyenoord",
+      "time": "16:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-09-05"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Genoa",
-      "away": "Como 1907",
-      "time": "20:45",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 1,
-      "away_score": 4,
+      "home": "Inter",
+      "away": "Napoli",
+      "time": "18:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-09-04"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Premier League",
-      "home": "Ipswich Town",
-      "away": "Liverpool",
-      "time": "21:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 0,
-      "away_score": 2,
-      "is_live": false,
-      "local_date": "2026-09-04"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Primera Division",
-      "home": "Real Betis",
-      "away": "Real Madrid",
-      "time": "21:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 1,
-      "away_score": 0,
-      "is_live": false,
-      "local_date": "2026-09-04"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Ligue 1",
-      "home": "PSG",
-      "away": "Monaco",
-      "time": "21:05",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 1,
-      "away_score": 2,
-      "is_live": false,
-      "local_date": "2026-09-04"
+      "local_date": "2026-09-05"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Primeira Liga",
-      "home": "Porto",
-      "away": "Moreirense",
-      "time": "21:15",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 2,
-      "away_score": 1,
+      "home": "Marítimo",
+      "away": "SL Benfica",
+      "time": "19:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-09-04"
+      "local_date": "2026-09-05"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Eredivisie",
+      "home": "Ajax",
+      "away": "PSV",
+      "time": "20:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-09-05"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Roma",
+      "away": "Atalanta",
+      "time": "20:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-09-05"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Primeira Liga",
+      "home": "Sporting CP",
+      "away": "CD Nacional",
+      "time": "21:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-09-05"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Premier League",
+      "home": "Nottingham",
+      "away": "Tottenham",
+      "time": "16:00",
+      "status": "2026-09-05 13:00:00Z",
+      "status_label": "2026-09-05 13:00:00Z",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-09-05"
     },
     {
       "type": "news",
@@ -110,37 +138,37 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Firmato il nuovo accordo triennale tra la Regione e Anisap per le visite di specialistica ambulatoriale - Regione Emilia-Romagna",
-      "source": "Regione Emilia-Romagna",
-      "published": "Fri, 04 Sep 2026 03:08:00 GMT"
+      "title": "Le pagelle del calciomercato 2026/27 in Serie A: Roma scintillante, Napoli tra scarti e mediocrità - Fanpage",
+      "source": "Fanpage",
+      "published": "Wed, 02 Sep 2026 04:10:18 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Torna la Serie A: dove vedere Inter-Napoli, Juve-Milan e Roma-Atalanta in diretta tv e streaming - today.it",
-      "source": "today.it",
-      "published": "Fri, 04 Sep 2026 19:05:15 GMT"
+      "title": "Missione Champions: Inter e Napoli per il riscatto, Roma e Como parlano la lingua delle più forti - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Fri, 04 Sep 2026 22:14:47 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "I convocati per Roma-Atalanta | Serie A Enilive 2026/27 MD3 - Atalanta",
-      "source": "Atalanta",
-      "published": "Fri, 04 Sep 2026 14:00:34 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Liverpool, le scelte di Iraola per la Champions League: un italiano in lista e uno escluso - Diretta",
-      "source": "Diretta",
-      "published": "Fri, 04 Sep 2026 08:47:31 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Roma nella Champions League 2026/27: calendario e rosa - UEFA.com",
-      "source": "UEFA.com",
+      "title": "Roma nella Champions League 2026/27: calendario e rosa - it.uefa.com",
+      "source": "it.uefa.com",
       "published": "Fri, 04 Sep 2026 17:36:57 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Napoli nella Champions League 2026/27: calendario e rosa - it.uefa.com",
+      "source": "it.uefa.com",
+      "published": "Fri, 04 Sep 2026 17:39:47 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "L'Inter nella Champions League 2026/27: calendario e rosa - it.uefa.com",
+      "source": "it.uefa.com",
+      "published": "Fri, 04 Sep 2026 17:39:47 GMT"
     },
     {
       "type": "news",
@@ -148,6 +176,13 @@
       "title": "Quanti punti sta perdendo Sinner da Alcaraz e Zverev: le proiezioni del ranking ATP agli US Open - OA Sport",
       "source": "OA Sport",
       "published": "Wed, 02 Sep 2026 10:50:09 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 5 settembre · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Fri, 04 Sep 2026 22:01:00 GMT"
     },
     {
       "type": "news",
@@ -162,13 +197,6 @@
       "title": "US Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
       "published": "Tue, 01 Sep 2026 07:23:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 30 agosto · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Sat, 29 Aug 2026 22:01:00 GMT"
     },
     {
       "type": "news",
@@ -187,16 +215,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Bronze Marnes: Bahurel / Val López eliminano il TS2 e possono sognare una finale - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Fri, 04 Sep 2026 15:32:29 GMT"
+      "title": "Madrid P1 Premier Padel 2026: Super Abbate che vola agli ottavi di finale - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Thu, 03 Sep 2026 06:52:47 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Bronze Marnes: Dardaine e Mansart sfiorano l'eliminazione di TS2, due coppie francesi, nei quarti di finale - padel-magazine.it",
+      "title": "FIP Bronze Marnes: Bahurel / Val López eliminano il TS2 e possono sognare una finale - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Fri, 04 Sep 2026 09:15:25 GMT"
+      "published": "Fri, 04 Sep 2026 15:32:29 GMT"
     }
   ]
 }
