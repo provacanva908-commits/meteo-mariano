@@ -1,77 +1,7 @@
 {
-  "updated_at": "2026-09-04T19:38:54.453119+00:00",
+  "updated_at": "2026-09-04T21:50:51.610962+00:00",
   "local_date": "2026-09-04",
   "articles": [
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Genoa",
-      "away": "Como 1907",
-      "time": "20:45",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 1,
-      "away_score": 3,
-      "is_live": true,
-      "local_date": "2026-09-04"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Premier League",
-      "home": "Ipswich Town",
-      "away": "Liverpool",
-      "time": "21:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 0,
-      "away_score": 2,
-      "is_live": true,
-      "local_date": "2026-09-04"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Primera Division",
-      "home": "Real Betis",
-      "away": "Real Madrid",
-      "time": "21:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 0,
-      "away_score": 0,
-      "is_live": true,
-      "local_date": "2026-09-04"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Ligue 1",
-      "home": "PSG",
-      "away": "Monaco",
-      "time": "21:05",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 0,
-      "away_score": 0,
-      "is_live": true,
-      "local_date": "2026-09-04"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Primeira Liga",
-      "home": "Porto",
-      "away": "Moreirense",
-      "time": "21:15",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 0,
-      "away_score": 0,
-      "is_live": true,
-      "local_date": "2026-09-04"
-    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -82,6 +12,76 @@
       "status": "FINISHED",
       "status_label": "Finale",
       "home_score": 3,
+      "away_score": 1,
+      "is_live": false,
+      "local_date": "2026-09-04"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Genoa",
+      "away": "Como 1907",
+      "time": "20:45",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 4,
+      "is_live": false,
+      "local_date": "2026-09-04"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Premier League",
+      "home": "Ipswich Town",
+      "away": "Liverpool",
+      "time": "21:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 0,
+      "away_score": 2,
+      "is_live": false,
+      "local_date": "2026-09-04"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Primera Division",
+      "home": "Real Betis",
+      "away": "Real Madrid",
+      "time": "21:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 0,
+      "is_live": false,
+      "local_date": "2026-09-04"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Ligue 1",
+      "home": "PSG",
+      "away": "Monaco",
+      "time": "21:05",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 2,
+      "is_live": false,
+      "local_date": "2026-09-04"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Primeira Liga",
+      "home": "Porto",
+      "away": "Moreirense",
+      "time": "21:15",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
       "away_score": 1,
       "is_live": false,
       "local_date": "2026-09-04"
@@ -103,16 +103,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Firmato il nuovo accordo triennale tra la Regione e Anisap per le visite di specialistica ambulatoriale - Regione Emilia-Romagna",
-      "source": "Regione Emilia-Romagna",
-      "published": "Fri, 04 Sep 2026 03:08:00 GMT"
+      "title": "Calciomercato, la Serie A supera il miliardo: solo la Premier ha speso di più. Milan e Juventus regine degli investimenti - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Thu, 03 Sep 2026 06:00:48 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato, la Serie A supera il miliardo: solo la Premier ha speso di più. Milan e Juventus regine degli investimenti - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "Thu, 03 Sep 2026 06:00:48 GMT"
+      "title": "Firmato il nuovo accordo triennale tra la Regione e Anisap per le visite di specialistica ambulatoriale - Regione Emilia-Romagna",
+      "source": "Regione Emilia-Romagna",
+      "published": "Fri, 04 Sep 2026 03:08:00 GMT"
     },
     {
       "type": "news",
@@ -124,16 +124,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League femminile, le avversarie di Roma, Inter e Juventus: il calendario - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 04 Sep 2026 13:09:01 GMT"
+      "title": "I convocati per Roma-Atalanta | Serie A Enilive 2026/27 MD3 - Atalanta",
+      "source": "Atalanta",
+      "published": "Fri, 04 Sep 2026 14:00:34 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "I convocati per Roma-Atalanta | Serie A Enilive 2026/27 MD3 - Atalanta",
-      "source": "Atalanta",
-      "published": "Fri, 04 Sep 2026 14:00:34 GMT"
+      "title": "Liverpool, le scelte di Iraola per la Champions League: un italiano in lista e uno escluso - Diretta",
+      "source": "Diretta",
+      "published": "Fri, 04 Sep 2026 08:47:31 GMT"
     },
     {
       "type": "news",
@@ -159,16 +159,37 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "US Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Tue, 01 Sep 2026 07:23:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Italiani allo US Open 2026 oggi: le partite del 30 agosto · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
       "published": "Sat, 29 Aug 2026 22:01:00 GMT"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner ancora in palestra: \"Dura saltare lo Us Open\", la malinconia del numero 1 Atp - RaiNews",
-      "source": "RaiNews",
-      "published": "Fri, 04 Sep 2026 05:10:00 GMT"
+      "category": "PADEL",
+      "title": "FIP Bronze Marnes: Bergeron e Seurin vincono una grande battaglia contro Boronad/Robert e affronteranno Fonteny/Moragues in semifinale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Fri, 04 Sep 2026 16:15:15 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - Comitato Olimpico Nazionale",
+      "source": "Comitato Olimpico Nazionale",
+      "published": "Wed, 26 Aug 2026 21:26:24 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Bronze Marnes: Bahurel / Val López eliminano il TS2 e possono sognare una finale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Fri, 04 Sep 2026 15:32:29 GMT"
     },
     {
       "type": "news",
@@ -176,27 +197,6 @@
       "title": "FIP Bronze Marnes: Dardaine e Mansart sfiorano l'eliminazione di TS2, due coppie francesi, nei quarti di finale - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Fri, 04 Sep 2026 09:15:25 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Madrid P1 Premier Padel 2026: Super Abbate che vola agli ottavi di finale - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Thu, 03 Sep 2026 06:52:47 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Bronze Marnes: inizia la parte seria, è il momento degli ottavi di finale - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Fri, 04 Sep 2026 06:59:51 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Bronze Marnes: Courrin/Seux e Wagner/Piombo avanzano ai quarti di finale, i favoriti non deludono - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Fri, 04 Sep 2026 12:29:40 GMT"
     }
   ]
 }
