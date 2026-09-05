@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T01:25:49.165148+00:00",
+  "updated_at": "2026-09-05T06:15:26.198044+00:00",
   "local_date": "2026-09-05",
   "articles": [
     {
@@ -131,8 +131,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato, la Serie A supera il miliardo: solo la Premier ha speso di più. Milan e Juventus regine degli investimenti - ilfattoquotidiano.it",
-      "source": "ilfattoquotidiano.it",
+      "title": "Calciomercato, la Serie A supera il miliardo: solo la Premier ha speso di più. Milan e Juventus regine degli investimenti - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
       "published": "Thu, 03 Sep 2026 06:00:48 GMT"
     },
     {
@@ -145,6 +145,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Serie A, weekend da resa dei conti: Inter-Napoli può già spaccare la classifica, Juve-Milan e Roma-Atalanta accendono il terzo turno - Giornale La Voce",
+      "source": "Giornale La Voce",
+      "published": "Sat, 05 Sep 2026 04:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Missione Champions: Inter e Napoli per il riscatto, Roma e Como parlano la lingua delle più forti - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Fri, 04 Sep 2026 22:14:47 GMT"
@@ -152,23 +159,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Roma nella Champions League 2026/27: calendario e rosa - UEFA.com",
-      "source": "UEFA.com",
-      "published": "Fri, 04 Sep 2026 17:36:57 GMT"
+      "title": "Le partite di oggi: Inter-Napoli e Roma-Atalanta. Poi Serie B, Premier, Liga, Ligue 1 e Bundesliga - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sat, 05 Sep 2026 05:50:05 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Napoli nella Champions League 2026/27: calendario e rosa - UEFA.com",
-      "source": "UEFA.com",
-      "published": "Fri, 04 Sep 2026 17:39:47 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "L'Inter nella Champions League 2026/27: calendario e rosa - UEFA.com",
-      "source": "UEFA.com",
-      "published": "Fri, 04 Sep 2026 17:39:47 GMT"
+      "title": "Serie A, oggi Inter-Napoli: orario, probabili formazioni e dove vederla in tv - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Sat, 05 Sep 2026 04:39:00 GMT"
     },
     {
       "type": "news",
@@ -194,9 +194,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 3 settembre · Tennis ATP e WTA - olympics.com",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 31 agosto · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Wed, 02 Sep 2026 23:12:10 GMT"
+      "published": "Sun, 30 Aug 2026 22:06:44 GMT"
     },
     {
       "type": "news",
