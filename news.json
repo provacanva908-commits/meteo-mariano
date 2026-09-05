@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T06:15:26.198044+00:00",
+  "updated_at": "2026-09-05T10:44:53.045909+00:00",
   "local_date": "2026-09-05",
   "articles": [
     {
@@ -23,20 +23,6 @@
       "home": "Nottingham",
       "away": "Tottenham",
       "time": "16:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-09-05"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "NEC",
-      "away": "Feyenoord",
-      "time": "16:30",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -75,20 +61,6 @@
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "Ajax",
-      "away": "PSV",
-      "time": "20:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-09-05"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
       "competition": "Serie A",
       "home": "Roma",
       "away": "Atalanta",
@@ -109,6 +81,34 @@
       "time": "21:30",
       "status": "TIMED",
       "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-09-05"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Eredivisie",
+      "home": "NEC",
+      "away": "Feyenoord",
+      "time": "16:30",
+      "status": "2026-09-05 13:30:00Z",
+      "status_label": "2026-09-05 13:30:00Z",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-09-05"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Eredivisie",
+      "home": "Ajax",
+      "away": "PSV",
+      "time": "20:00",
+      "status": "2026-09-05 17:00:00Z",
+      "status_label": "2026-09-05 17:00:00Z",
       "home_score": null,
       "away_score": null,
       "is_live": false,
@@ -138,9 +138,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Le pagelle del calciomercato 2026/27 in Serie A: Roma scintillante, Napoli tra scarti e mediocrità - Fanpage",
-      "source": "Fanpage",
+      "title": "Le pagelle del calciomercato 2026/27 in Serie A: Roma scintillante, Napoli tra scarti e mediocrità - fanpage.it",
+      "source": "fanpage.it",
       "published": "Wed, 02 Sep 2026 04:10:18 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A, weekend da big match: Inter-Napoli, Roma-Atalanta e Juventus-Milan. Orari, tv e streaming - IlFaroOnline",
+      "source": "IlFaroOnline",
+      "published": "Sat, 05 Sep 2026 09:15:00 GMT"
     },
     {
       "type": "news",
@@ -152,23 +159,16 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Inter-Napoli e Roma-Atalanta oggi in Serie A: orario, probabili formazioni e dove vederle in tv - lapresse.it",
+      "source": "lapresse.it",
+      "published": "Sat, 05 Sep 2026 06:18:41 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Missione Champions: Inter e Napoli per il riscatto, Roma e Como parlano la lingua delle più forti - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Fri, 04 Sep 2026 22:14:47 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Le partite di oggi: Inter-Napoli e Roma-Atalanta. Poi Serie B, Premier, Liga, Ligue 1 e Bundesliga - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sat, 05 Sep 2026 05:50:05 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, oggi Inter-Napoli: orario, probabili formazioni e dove vederla in tv - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Sat, 05 Sep 2026 04:39:00 GMT"
     },
     {
       "type": "news",
@@ -176,13 +176,6 @@
       "title": "Quanti punti sta perdendo Sinner da Alcaraz e Zverev: le proiezioni del ranking ATP agli US Open - OA Sport",
       "source": "OA Sport",
       "published": "Wed, 02 Sep 2026 10:50:09 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 5 settembre · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Fri, 04 Sep 2026 22:01:00 GMT"
     },
     {
       "type": "news",
@@ -197,6 +190,13 @@
       "title": "Italiani allo US Open 2026 oggi: le partite del 31 agosto · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
       "published": "Sun, 30 Aug 2026 22:06:44 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 30 agosto · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Sat, 29 Aug 2026 22:01:00 GMT"
     },
     {
       "type": "news",
