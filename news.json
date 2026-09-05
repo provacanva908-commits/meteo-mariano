@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T23:38:31.579162+00:00",
+  "updated_at": "2026-09-05T01:25:49.165148+00:00",
   "local_date": "2026-09-05",
   "articles": [
     {
@@ -9,6 +9,20 @@
       "home": "Fiorentina",
       "away": "Torino",
       "time": "15:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-09-05"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Premier League",
+      "home": "Nottingham",
+      "away": "Tottenham",
+      "time": "16:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -101,20 +115,6 @@
       "local_date": "2026-09-05"
     },
     {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Premier League",
-      "home": "Nottingham",
-      "away": "Tottenham",
-      "time": "16:00",
-      "status": "2026-09-05 13:00:00Z",
-      "status_label": "2026-09-05 13:00:00Z",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-09-05"
-    },
-    {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "Il Pagellone del calciomercato: Roma e Como regine dell'estate, Milan incompleto, Napoli immobile, Inter con più alternative, Juventus scoppiettante sul finale - Goal.com",
@@ -131,8 +131,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato, la Serie A supera il miliardo: solo la Premier ha speso di più. Milan e Juventus regine degli investimenti - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
+      "title": "Calciomercato, la Serie A supera il miliardo: solo la Premier ha speso di più. Milan e Juventus regine degli investimenti - ilfattoquotidiano.it",
+      "source": "ilfattoquotidiano.it",
       "published": "Thu, 03 Sep 2026 06:00:48 GMT"
     },
     {
@@ -152,22 +152,22 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Roma nella Champions League 2026/27: calendario e rosa - it.uefa.com",
-      "source": "it.uefa.com",
+      "title": "Roma nella Champions League 2026/27: calendario e rosa - UEFA.com",
+      "source": "UEFA.com",
       "published": "Fri, 04 Sep 2026 17:36:57 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Napoli nella Champions League 2026/27: calendario e rosa - it.uefa.com",
-      "source": "it.uefa.com",
+      "title": "Napoli nella Champions League 2026/27: calendario e rosa - UEFA.com",
+      "source": "UEFA.com",
       "published": "Fri, 04 Sep 2026 17:39:47 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "L'Inter nella Champions League 2026/27: calendario e rosa - it.uefa.com",
-      "source": "it.uefa.com",
+      "title": "L'Inter nella Champions League 2026/27: calendario e rosa - UEFA.com",
+      "source": "UEFA.com",
       "published": "Fri, 04 Sep 2026 17:39:47 GMT"
     },
     {
@@ -194,9 +194,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "US Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 3 settembre · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Tue, 01 Sep 2026 07:23:00 GMT"
+      "published": "Wed, 02 Sep 2026 23:12:10 GMT"
     },
     {
       "type": "news",
@@ -204,6 +204,13 @@
       "title": "FIP Bronze Marnes: Bergeron e Seurin vincono una grande battaglia contro Boronad/Robert e affronteranno Fonteny/Moragues in semifinale - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Fri, 04 Sep 2026 16:15:15 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Madrid P1 – Nieto e Yangaus eliminano Coello e Tapia: la prima volta in 15 mesi nei quarti di finale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Fri, 04 Sep 2026 21:59:35 GMT"
     },
     {
       "type": "news",
@@ -218,13 +225,6 @@
       "title": "Madrid P1 Premier Padel 2026: Super Abbate che vola agli ottavi di finale - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Thu, 03 Sep 2026 06:52:47 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Bronze Marnes: Bahurel / Val López eliminano il TS2 e possono sognare una finale - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Fri, 04 Sep 2026 15:32:29 GMT"
     }
   ]
 }
