@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T10:44:53.045909+00:00",
+  "updated_at": "2026-09-05T13:34:25.855329+00:00",
   "local_date": "2026-09-05",
   "articles": [
     {
@@ -9,6 +9,20 @@
       "home": "Fiorentina",
       "away": "Torino",
       "time": "15:00",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "is_live": true,
+      "local_date": "2026-09-05"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Premier League",
+      "home": "Nottingham",
+      "away": "Tottenham",
+      "time": "16:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -19,10 +33,10 @@
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Premier League",
-      "home": "Nottingham",
-      "away": "Tottenham",
-      "time": "16:00",
+      "competition": "Eredivisie",
+      "home": "NEC",
+      "away": "Feyenoord",
+      "time": "16:30",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -61,6 +75,20 @@
     {
       "type": "match",
       "category": "CALCIO",
+      "competition": "Eredivisie",
+      "home": "Ajax",
+      "away": "PSV",
+      "time": "20:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-09-05"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
       "competition": "Serie A",
       "home": "Roma",
       "away": "Atalanta",
@@ -81,34 +109,6 @@
       "time": "21:30",
       "status": "TIMED",
       "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-09-05"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "NEC",
-      "away": "Feyenoord",
-      "time": "16:30",
-      "status": "2026-09-05 13:30:00Z",
-      "status_label": "2026-09-05 13:30:00Z",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-09-05"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "Ajax",
-      "away": "PSV",
-      "time": "20:00",
-      "status": "2026-09-05 17:00:00Z",
-      "status_label": "2026-09-05 17:00:00Z",
       "home_score": null,
       "away_score": null,
       "is_live": false,
@@ -138,8 +138,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Le pagelle del calciomercato 2026/27 in Serie A: Roma scintillante, Napoli tra scarti e mediocrità - fanpage.it",
-      "source": "fanpage.it",
+      "title": "Le pagelle del calciomercato 2026/27 in Serie A: Roma scintillante, Napoli tra scarti e mediocrità - Fanpage",
+      "source": "Fanpage",
       "published": "Wed, 02 Sep 2026 04:10:18 GMT"
     },
     {
@@ -152,16 +152,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, weekend da resa dei conti: Inter-Napoli può già spaccare la classifica, Juve-Milan e Roma-Atalanta accendono il terzo turno - Giornale La Voce",
-      "source": "Giornale La Voce",
-      "published": "Sat, 05 Sep 2026 04:00:00 GMT"
+      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
+      "source": "Goal.com",
+      "published": "Sat, 05 Sep 2026 08:06:02 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Inter-Napoli e Roma-Atalanta oggi in Serie A: orario, probabili formazioni e dove vederle in tv - lapresse.it",
-      "source": "lapresse.it",
-      "published": "Sat, 05 Sep 2026 06:18:41 GMT"
+      "title": "Costacurta: \"Psg al top in Champions\". Le italiane? \"Inter la migliore. Spazio anche per Roma e Como\" - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sat, 05 Sep 2026 11:15:25 GMT"
     },
     {
       "type": "news",
@@ -201,16 +201,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Bronze Marnes: Bergeron e Seurin vincono una grande battaglia contro Boronad/Robert e affronteranno Fonteny/Moragues in semifinale - padel-magazine.it",
+      "title": "Madrid P1 – Nieto e Yangaus eliminano Coello e Tapia: la prima volta in 15 mesi nei quarti di finale - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Fri, 04 Sep 2026 16:15:15 GMT"
+      "published": "Fri, 04 Sep 2026 21:59:35 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Madrid P1 – Nieto e Yangaus eliminano Coello e Tapia: la prima volta in 15 mesi nei quarti di finale - padel-magazine.it",
+      "title": "FIP Bronze Marnes: Bergeron e Seurin vincono una grande battaglia contro Boronad/Robert e affronteranno Fonteny/Moragues in semifinale - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Fri, 04 Sep 2026 21:59:35 GMT"
+      "published": "Fri, 04 Sep 2026 16:15:15 GMT"
     },
     {
       "type": "news",
