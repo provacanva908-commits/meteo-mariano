@@ -1,33 +1,19 @@
 {
-  "updated_at": "2026-09-06T19:38:12.281141+00:00",
+  "updated_at": "2026-09-06T21:44:24.222103+00:00",
   "local_date": "2026-09-06",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Juventus",
-      "away": "Milan",
-      "time": "20:45",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 0,
-      "away_score": 0,
-      "is_live": true,
-      "local_date": "2026-09-06"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Ligue 1",
-      "home": "Marseille",
-      "away": "Paris FC",
-      "time": "20:45",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
+      "home": "Parma",
+      "away": "Monza",
+      "time": "15:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
       "home_score": 1,
-      "away_score": 2,
-      "is_live": true,
+      "away_score": 1,
+      "is_live": false,
       "local_date": "2026-09-06"
     },
     {
@@ -41,20 +27,6 @@
       "status_label": "Finale",
       "home_score": 3,
       "away_score": 2,
-      "is_live": false,
-      "local_date": "2026-09-06"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Parma",
-      "away": "Monza",
-      "time": "15:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 1,
-      "away_score": 1,
       "is_live": false,
       "local_date": "2026-09-06"
     },
@@ -87,11 +59,32 @@
       "local_date": "2026-09-06"
     },
     {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale un'altra operazione in uscita: il comunicato - NapoliToday",
-      "source": "NapoliToday",
-      "published": "Sun, 06 Sep 2026 16:04:00 GMT"
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Juventus",
+      "away": "Milan",
+      "time": "20:45",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 1,
+      "is_live": false,
+      "local_date": "2026-09-06"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Ligue 1",
+      "home": "Marseille",
+      "away": "Paris FC",
+      "time": "20:45",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
+      "away_score": 3,
+      "is_live": false,
+      "local_date": "2026-09-06"
     },
     {
       "type": "news",
@@ -103,9 +96,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Inter, ufficiale il rinnovo di Esposito fino al 2032 - Sportmediaset",
+      "title": "Inter, ufficiale il rinnovo di Pio Esposito: \"Emozione incredibile. Felice di continuare insieme\" - Sportmediaset",
       "source": "Sportmediaset",
-      "published": "Sun, 06 Sep 2026 15:30:29 GMT"
+      "published": "Sun, 06 Sep 2026 15:23:34 GMT"
     },
     {
       "type": "news",
@@ -116,10 +109,24 @@
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Inter, Esposito nerazzurro quasi a vita: ufficiale il rinnovo dell'attaccante - Diretta",
+      "source": "Diretta",
+      "published": "Sun, 06 Sep 2026 21:22:11 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, verso Napoli-Arsenal: Gunners show all'Emirates, Chelsea battuto in rimonta - Il Mattino",
-      "source": "Il Mattino",
-      "published": "Sun, 06 Sep 2026 17:28:00 GMT"
+      "title": "Juventus-Milan, Serie A 2026/2027 - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Sun, 06 Sep 2026 18:45:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A | Juventus-Milan | La partita - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Sun, 06 Sep 2026 20:57:10 GMT"
     },
     {
       "type": "news",
@@ -131,16 +138,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, Real Madrid - Inter: le attività di vigilia - Inter.it",
-      "source": "Inter.it",
-      "published": "Sun, 06 Sep 2026 08:01:49 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A Women's Cup | Juventus Women-Milan | La partita - Juventus.com",
+      "title": "Serie A | Juventus-Milan | Le interviste - Juventus.com",
       "source": "Juventus.com",
-      "published": "Sun, 06 Sep 2026 13:15:16 GMT"
+      "published": "Sun, 06 Sep 2026 21:39:20 GMT"
     },
     {
       "type": "news",
@@ -152,23 +152,23 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Tennis, US Open: Alcaraz regola Paul e vola ai quarti di finale - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Sun, 06 Sep 2026 20:44:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 5 settembre · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Fri, 04 Sep 2026 22:01:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Italiani allo US Open 2026 oggi: le partite del 3 settembre · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
       "published": "Wed, 02 Sep 2026 23:12:10 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 2 settembre · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Wed, 02 Sep 2026 06:40:13 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Alcaraz-Paul oggi agli US Open, il risultato in diretta live della partita - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sun, 06 Sep 2026 17:00:21 GMT"
     },
     {
       "type": "news",
@@ -187,16 +187,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Madrid P1 – Nieto e Yangaus eliminano Coello e Tapia: la prima volta in 15 mesi nei quarti di finale - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Fri, 04 Sep 2026 21:59:35 GMT"
+      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - Comitato Olimpico Nazionale",
+      "source": "Comitato Olimpico Nazionale",
+      "published": "Wed, 26 Aug 2026 21:26:24 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - Comitato Olimpico Nazionale",
-      "source": "Comitato Olimpico Nazionale",
-      "published": "Wed, 26 Aug 2026 21:26:24 GMT"
+      "title": "Madrid P1 – Nieto e Yangaus eliminano Coello e Tapia: la prima volta in 15 mesi nei quarti di finale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Fri, 04 Sep 2026 21:59:35 GMT"
     }
   ]
 }
