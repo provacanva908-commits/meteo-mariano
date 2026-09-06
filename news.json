@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T00:03:27.278071+00:00",
+  "updated_at": "2026-09-06T04:31:30.625322+00:00",
   "local_date": "2026-09-06",
   "articles": [
     {
@@ -110,23 +110,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato, la Serie A supera il miliardo: solo la Premier ha speso di più. Milan e Juventus regine degli investimenti - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
+      "title": "Calciomercato, la Serie A supera il miliardo: solo la Premier ha speso di più. Milan e Juventus regine degli investimenti - ilfattoquotidiano.it",
+      "source": "ilfattoquotidiano.it",
       "published": "Thu, 03 Sep 2026 06:00:48 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Real Madrid vs F.C. Internazionale Milano | UEFA Women's Champions League 2026/27 - UEFA.com",
-      "source": "UEFA.com",
+      "title": "Real Madrid vs F.C. Internazionale Milano | UEFA Women's Champions League 2026/27 - it.uefa.com",
+      "source": "it.uefa.com",
       "published": "Sat, 05 Sep 2026 11:20:27 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
-      "source": "Goal.com",
-      "published": "Sat, 05 Sep 2026 08:06:02 GMT"
     },
     {
       "type": "news",
@@ -140,7 +133,21 @@
       "category": "CALCIO",
       "title": "Serie A: Roma batte Atalanta 2-1 Inter rimonta-show sul Napoli - ANSA",
       "source": "ANSA",
-      "published": "Sat, 05 Sep 2026 20:49:00 GMT"
+      "published": "Sat, 05 Sep 2026 20:58:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Calcio serie A, Roma e e Inter a punteggio pieno: prima vanno sotto e poi battono l'Atalanta e il Napoli - Abruzzo Popolare",
+      "source": "Abruzzo Popolare",
+      "published": "Sat, 05 Sep 2026 21:25:49 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 5 settembre · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Fri, 04 Sep 2026 22:01:00 GMT"
     },
     {
       "type": "news",
@@ -159,16 +166,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "US Open – Sinner è stato subito capace di tornare, Alcaraz anche, Musetti e Paolini no - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Sat, 05 Sep 2026 05:48:32 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Sinner ancora in palestra: \"Dura saltare lo Us Open\", la malinconia del numero 1 Atp - RaiNews",
       "source": "RaiNews",
-      "published": "Fri, 04 Sep 2026 05:20:29 GMT"
+      "published": "Fri, 04 Sep 2026 05:10:00 GMT"
     },
     {
       "type": "news",
