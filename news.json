@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-09-06T17:47:36.348318+00:00",
+  "updated_at": "2026-09-06T19:38:12.281141+00:00",
   "local_date": "2026-09-06",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Bologna",
-      "away": "Sassuolo",
-      "time": "18:00",
+      "home": "Juventus",
+      "away": "Milan",
+      "time": "20:45",
       "status": "IN_PLAY",
       "status_label": "LIVE",
-      "home_score": 1,
-      "away_score": 2,
+      "home_score": 0,
+      "away_score": 0,
       "is_live": true,
       "local_date": "2026-09-06"
     },
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Parma",
-      "away": "Monza",
-      "time": "15:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
+      "competition": "Ligue 1",
+      "home": "Marseille",
+      "away": "Paris FC",
+      "time": "20:45",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
       "home_score": 1,
-      "away_score": 1,
-      "is_live": false,
+      "away_score": 2,
+      "is_live": true,
       "local_date": "2026-09-06"
     },
     {
@@ -41,6 +41,20 @@
       "status_label": "Finale",
       "home_score": 3,
       "away_score": 2,
+      "is_live": false,
+      "local_date": "2026-09-06"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Parma",
+      "away": "Monza",
+      "time": "15:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 1,
       "is_live": false,
       "local_date": "2026-09-06"
     },
@@ -62,27 +76,13 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Juventus",
-      "away": "Milan",
-      "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-09-06"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Ligue 1",
-      "home": "Marseille",
-      "away": "Paris FC",
-      "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "home": "Bologna",
+      "away": "Sassuolo",
+      "time": "18:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
+      "away_score": 2,
       "is_live": false,
       "local_date": "2026-09-06"
     },
@@ -103,8 +103,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Inter, ufficiale il rinnovo di Esposito fino al 2032 - sportmediaset.mediaset.it",
-      "source": "sportmediaset.mediaset.it",
+      "title": "Inter, ufficiale il rinnovo di Esposito fino al 2032 - Sportmediaset",
+      "source": "Sportmediaset",
       "published": "Sun, 06 Sep 2026 15:30:29 GMT"
     },
     {
@@ -113,13 +113,6 @@
       "title": "Calciomercato, la Serie A supera il miliardo: solo la Premier ha speso di più. Milan e Juventus regine degli investimenti - Il Fatto Quotidiano",
       "source": "Il Fatto Quotidiano",
       "published": "Thu, 03 Sep 2026 06:00:48 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Juventus Milan, Serie A Women's Cup 2026/27 - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Sun, 06 Sep 2026 10:30:00 GMT"
     },
     {
       "type": "news",
@@ -138,6 +131,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Champions League, Real Madrid - Inter: le attività di vigilia - Inter.it",
+      "source": "Inter.it",
+      "published": "Sun, 06 Sep 2026 08:01:49 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Serie A Women's Cup | Juventus Women-Milan | La partita - Juventus.com",
       "source": "Juventus.com",
       "published": "Sun, 06 Sep 2026 13:15:16 GMT"
@@ -152,23 +152,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 5 settembre · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Fri, 04 Sep 2026 22:01:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 4 settembre · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Thu, 03 Sep 2026 22:01:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Italiani allo US Open 2026 oggi: le partite del 3 settembre · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
       "published": "Wed, 02 Sep 2026 23:12:10 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 2 settembre · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Wed, 02 Sep 2026 06:40:13 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Alcaraz-Paul oggi agli US Open, il risultato in diretta live della partita - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sun, 06 Sep 2026 17:00:21 GMT"
     },
     {
       "type": "news",
@@ -194,8 +194,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - coni.it",
-      "source": "coni.it",
+      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - Comitato Olimpico Nazionale",
+      "source": "Comitato Olimpico Nazionale",
       "published": "Wed, 26 Aug 2026 21:26:24 GMT"
     }
   ]
