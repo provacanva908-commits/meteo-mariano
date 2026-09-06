@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-06T04:31:30.625322+00:00",
+  "updated_at": "2026-09-06T08:52:06.575888+00:00",
   "local_date": "2026-09-06",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Frosinone",
-      "away": "Venezia FC",
+      "home": "Parma",
+      "away": "Monza",
       "time": "15:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -20,8 +20,8 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Parma",
-      "away": "Monza",
+      "home": "Frosinone",
+      "away": "Venezia FC",
       "time": "15:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -110,23 +110,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato, la Serie A supera il miliardo: solo la Premier ha speso di più. Milan e Juventus regine degli investimenti - ilfattoquotidiano.it",
-      "source": "ilfattoquotidiano.it",
+      "title": "Calciomercato, la Serie A supera il miliardo: solo la Premier ha speso di più. Milan e Juventus regine degli investimenti - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
       "published": "Thu, 03 Sep 2026 06:00:48 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Real Madrid vs F.C. Internazionale Milano | UEFA Women's Champions League 2026/27 - it.uefa.com",
-      "source": "it.uefa.com",
-      "published": "Sat, 05 Sep 2026 11:20:27 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, l'Inter batte il Napoli in rimonta, la Roma vince nel finale, il Torino vince a Firenze - Radio RTL 102.5",
-      "source": "Radio RTL 102.5",
-      "published": "Sat, 05 Sep 2026 21:35:41 GMT"
     },
     {
       "type": "news",
@@ -138,16 +124,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calcio serie A, Roma e e Inter a punteggio pieno: prima vanno sotto e poi battono l'Atalanta e il Napoli - Abruzzo Popolare",
-      "source": "Abruzzo Popolare",
-      "published": "Sat, 05 Sep 2026 21:25:49 GMT"
+      "title": "Champions League, Real Madrid - Inter: le attività di vigilia - Inter.it",
+      "source": "Inter.it",
+      "published": "Sun, 06 Sep 2026 08:01:49 GMT"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 5 settembre · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Fri, 04 Sep 2026 22:01:00 GMT"
+      "category": "CALCIO",
+      "title": "Serie A, oggi Juventus-Milan: orario, probabili formazioni e dove vederla in tv - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Sun, 06 Sep 2026 05:45:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A: Hermoso e Soulé, all'Olimpico la Roma ribalta l'Atalanta nel finale - ANSA",
+      "source": "ANSA",
+      "published": "Sat, 05 Sep 2026 20:48:00 GMT"
     },
     {
       "type": "news",
@@ -159,6 +152,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 3 settembre · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Wed, 02 Sep 2026 23:12:10 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Italiani allo US Open 2026 oggi: le partite del 2 settembre · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
       "published": "Wed, 02 Sep 2026 06:40:13 GMT"
@@ -166,9 +166,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner ancora in palestra: \"Dura saltare lo Us Open\", la malinconia del numero 1 Atp - RaiNews",
-      "source": "RaiNews",
-      "published": "Fri, 04 Sep 2026 05:10:00 GMT"
+      "title": "US Open 2026, italiani e italiane in campo: il programma del 6 settembre · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Sun, 06 Sep 2026 00:25:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Da Goñi a Galan, senza Tapia e Coello: le statistiche di Premier Padel - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Sun, 06 Sep 2026 06:32:55 GMT"
     },
     {
       "type": "news",
@@ -190,13 +197,6 @@
       "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - Comitato Olimpico Nazionale",
       "source": "Comitato Olimpico Nazionale",
       "published": "Wed, 26 Aug 2026 21:26:24 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Madrid P1 Premier Padel 2026: Super Abbate che vola agli ottavi di finale - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Thu, 03 Sep 2026 06:52:47 GMT"
     }
   ]
 }
