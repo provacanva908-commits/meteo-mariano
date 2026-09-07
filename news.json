@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T17:53:44.054017+00:00",
+  "updated_at": "2026-09-07T21:15:36.089330+00:00",
   "local_date": "2026-09-07",
   "articles": [
     {
@@ -18,9 +18,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato, la Serie A supera il miliardo: solo la Premier ha speso di più. Milan e Juventus regine degli investimenti - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "Thu, 03 Sep 2026 06:00:48 GMT"
+      "title": "Firmato il nuovo accordo triennale tra la Regione e Anisap per le visite di specialistica ambulatoriale - Regione Emilia-Romagna",
+      "source": "Regione Emilia-Romagna",
+      "published": "Fri, 04 Sep 2026 03:08:00 GMT"
     },
     {
       "type": "news",
@@ -32,37 +32,44 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "COMUNICATO UFFICIALE: DEMIREL HODZIC - acmilan.com",
-      "source": "acmilan.com",
-      "published": "Mon, 07 Sep 2026 11:00:00 GMT"
+      "title": "Comunicato Ufficiale - Roberta Picchi - Como 1907",
+      "source": "Como 1907",
+      "published": "Mon, 07 Sep 2026 15:49:23 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, il programma della prima di League Phase e il calendario delle italiane (Inter, Napoli, Roma e Como) - Il Messaggero",
-      "source": "Il Messaggero",
+      "title": "Champions League, il programma della prima di League Phase e il calendario delle italiane (Inter, Napoli, Roma e Como) - ilmessaggero.it",
+      "source": "ilmessaggero.it",
       "published": "Mon, 07 Sep 2026 08:54:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: Real Madrid-Inter a Oliver, Nyberg arbitrerà Napoli-Arsenal - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Mon, 07 Sep 2026 13:30:00 GMT"
+      "title": "Nella Champions «italiana» l'Inter parte davanti a Roma, Napoli e Como - eurosport.it",
+      "source": "eurosport.it",
+      "published": "Mon, 07 Sep 2026 18:46:10 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: Napoli-Arsenal in campo mercoledì alle 21 DIRETTA - ANSA",
-      "source": "ANSA",
+      "title": "Champions League: Real Madrid-Inter in campo martedì alle 21 DIRETTA - ansa.it",
+      "source": "ansa.it",
+      "published": "Mon, 07 Sep 2026 14:30:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Champions League: Napoli-Arsenal in campo mercoledì alle 21 DIRETTA - ansa.it",
+      "source": "ansa.it",
       "published": "Mon, 07 Sep 2026 17:09:55 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "La Serie A viaggia a due velocità: Inter e Roma vanno a mille, Juventus e Milan sembrano giocare un altro noiosissimo campionato - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "Mon, 07 Sep 2026 10:18:32 GMT"
+      "category": "TENNIS",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 8 settembre · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Mon, 07 Sep 2026 21:00:00 GMT"
     },
     {
       "type": "news",
@@ -74,23 +81,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 5 settembre · Tennis ATP e WTA - olympics.com",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 6 settembre · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Fri, 04 Sep 2026 22:01:00 GMT"
+      "published": "Sun, 06 Sep 2026 00:25:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 4 settembre · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Thu, 03 Sep 2026 22:01:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 3 settembre · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Wed, 02 Sep 2026 23:12:10 GMT"
+      "title": "Sinner, come cambia il ranking dopo gli Us Open? Duello Zverev-Alcaraz per il secondo posto, ma Jannik è nel mirino - ilmessaggero.it",
+      "source": "ilmessaggero.it",
+      "published": "Mon, 07 Sep 2026 17:51:44 GMT"
     },
     {
       "type": "news",
@@ -109,16 +109,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - Comitato Olimpico Nazionale",
-      "source": "Comitato Olimpico Nazionale",
-      "published": "Wed, 26 Aug 2026 21:26:24 GMT"
+      "title": "Madrid P1 – Nieto e Yangaus eliminano Coello e Tapia: la prima volta in 15 mesi nei quarti di finale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Fri, 04 Sep 2026 21:59:35 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Madrid P1 – Nieto e Yangaus eliminano Coello e Tapia: la prima volta in 15 mesi nei quarti di finale - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Fri, 04 Sep 2026 21:59:35 GMT"
+      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - coni.it",
+      "source": "coni.it",
+      "published": "Wed, 26 Aug 2026 21:26:24 GMT"
     }
   ]
 }
