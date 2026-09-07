@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T12:30:46.112964+00:00",
+  "updated_at": "2026-09-07T17:53:44.054017+00:00",
   "local_date": "2026-09-07",
   "articles": [
     {
@@ -32,9 +32,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Inter: ufficiale il rinnovo di Esposito fino al 2032 - ANSA",
-      "source": "ANSA",
-      "published": "Sun, 06 Sep 2026 15:12:00 GMT"
+      "title": "COMUNICATO UFFICIALE: DEMIREL HODZIC - acmilan.com",
+      "source": "acmilan.com",
+      "published": "Mon, 07 Sep 2026 11:00:00 GMT"
     },
     {
       "type": "news",
@@ -46,23 +46,23 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Champions League: Real Madrid-Inter a Oliver, Nyberg arbitrerà Napoli-Arsenal - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Mon, 07 Sep 2026 13:30:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Champions League: Napoli-Arsenal in campo mercoledì alle 21 DIRETTA - ANSA",
+      "source": "ANSA",
+      "published": "Mon, 07 Sep 2026 17:09:55 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "La Serie A viaggia a due velocità: Inter e Roma vanno a mille, Juventus e Milan sembrano giocare un altro noiosissimo campionato - Il Fatto Quotidiano",
       "source": "Il Fatto Quotidiano",
       "published": "Mon, 07 Sep 2026 10:18:32 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Inter, Roma e Como già super: Milan e Juventus sono all’altezza? - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Mon, 07 Sep 2026 07:38:06 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Inizia la Champions League: tutto su Real Madrid-Inter - Inter.it",
-      "source": "Inter.it",
-      "published": "Mon, 07 Sep 2026 11:19:55 GMT"
     },
     {
       "type": "news",
@@ -81,16 +81,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 3 settembre · Tennis ATP e WTA - olympics.com",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 4 settembre · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Wed, 02 Sep 2026 23:12:10 GMT"
+      "published": "Thu, 03 Sep 2026 22:01:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 2 settembre · Tennis ATP e WTA - olympics.com",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 3 settembre · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Wed, 02 Sep 2026 06:40:13 GMT"
+      "published": "Wed, 02 Sep 2026 23:12:10 GMT"
     },
     {
       "type": "news",
