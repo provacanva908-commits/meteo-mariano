@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-07T21:15:36.089330+00:00",
-  "local_date": "2026-09-07",
+  "updated_at": "2026-09-07T23:35:25.825468+00:00",
+  "local_date": "2026-09-08",
   "articles": [
     {
       "type": "message",
@@ -18,8 +18,15 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Firmato il nuovo accordo triennale tra la Regione e Anisap per le visite di specialistica ambulatoriale - Regione Emilia-Romagna",
-      "source": "Regione Emilia-Romagna",
+      "title": "Calciomercato Napoli, ufficiale un'altra operazione in uscita: il comunicato - NapoliToday",
+      "source": "NapoliToday",
+      "published": "Sun, 06 Sep 2026 16:50:29 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Firmato il nuovo accordo triennale tra la Regione e Anisap per le visite di specialistica ambulatoriale - salute.regione.emilia-romagna.it",
+      "source": "salute.regione.emilia-romagna.it",
       "published": "Fri, 04 Sep 2026 03:08:00 GMT"
     },
     {
@@ -31,20 +38,6 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Comunicato Ufficiale - Roberta Picchi - Como 1907",
-      "source": "Como 1907",
-      "published": "Mon, 07 Sep 2026 15:49:23 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League, il programma della prima di League Phase e il calendario delle italiane (Inter, Napoli, Roma e Como) - ilmessaggero.it",
-      "source": "ilmessaggero.it",
-      "published": "Mon, 07 Sep 2026 08:54:00 GMT"
-    },
-    {
-      "type": "news",
       "category": "CALCIO",
       "title": "Nella Champions «italiana» l'Inter parte davanti a Roma, Napoli e Como - eurosport.it",
       "source": "eurosport.it",
@@ -53,16 +46,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: Real Madrid-Inter in campo martedì alle 21 DIRETTA - ansa.it",
-      "source": "ansa.it",
-      "published": "Mon, 07 Sep 2026 14:30:00 GMT"
+      "title": "Champions League: Napoli-Arsenal in campo mercoledì alle 21 DIRETTA - ANSA",
+      "source": "ANSA",
+      "published": "Mon, 07 Sep 2026 15:43:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: Napoli-Arsenal in campo mercoledì alle 21 DIRETTA - ansa.it",
-      "source": "ansa.it",
-      "published": "Mon, 07 Sep 2026 17:09:55 GMT"
+      "title": "Champions League: Real Madrid-Inter in campo martedì alle 21 DIRETTA - ANSA",
+      "source": "ANSA",
+      "published": "Mon, 07 Sep 2026 19:41:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "La Serie A viaggia a due velocità: Inter e Roma vanno a mille, Juventus e Milan sembrano giocare un altro noiosissimo campionato - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Mon, 07 Sep 2026 10:18:32 GMT"
     },
     {
       "type": "news",
@@ -70,6 +70,13 @@
       "title": "Italiani allo US Open 2026 oggi: le partite del 8 settembre · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
       "published": "Mon, 07 Sep 2026 21:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner, come cambia il ranking dopo gli Us Open? Duello Zverev-Alcaraz per il secondo posto, ma Jannik è nel mirino - Il Messaggero",
+      "source": "Il Messaggero",
+      "published": "Mon, 07 Sep 2026 22:22:58 GMT"
     },
     {
       "type": "news",
@@ -84,13 +91,6 @@
       "title": "Italiani allo US Open 2026 oggi: le partite del 6 settembre · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
       "published": "Sun, 06 Sep 2026 00:25:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner, come cambia il ranking dopo gli Us Open? Duello Zverev-Alcaraz per il secondo posto, ma Jannik è nel mirino - ilmessaggero.it",
-      "source": "ilmessaggero.it",
-      "published": "Mon, 07 Sep 2026 17:51:44 GMT"
     },
     {
       "type": "news",
@@ -109,16 +109,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Madrid P1 – Nieto e Yangaus eliminano Coello e Tapia: la prima volta in 15 mesi nei quarti di finale - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Fri, 04 Sep 2026 21:59:35 GMT"
+      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - Comitato Olimpico Nazionale",
+      "source": "Comitato Olimpico Nazionale",
+      "published": "Wed, 26 Aug 2026 21:26:24 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - coni.it",
-      "source": "coni.it",
-      "published": "Wed, 26 Aug 2026 21:26:24 GMT"
+      "title": "Madrid P1 – Nieto e Yangaus eliminano Coello e Tapia: la prima volta in 15 mesi nei quarti di finale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Fri, 04 Sep 2026 21:59:35 GMT"
     }
   ]
 }
