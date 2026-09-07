@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T01:07:35.012033+00:00",
+  "updated_at": "2026-09-07T06:06:48.704261+00:00",
   "local_date": "2026-09-07",
   "articles": [
     {
@@ -18,6 +18,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli, ufficiale un'altra operazione in uscita: il comunicato - NapoliToday",
+      "source": "NapoliToday",
+      "published": "Sun, 06 Sep 2026 16:50:29 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Calciomercato, la Serie A supera il miliardo: solo la Premier ha speso di più. Milan e Juventus regine degli investimenti - Il Fatto Quotidiano",
       "source": "Il Fatto Quotidiano",
       "published": "Thu, 03 Sep 2026 06:00:48 GMT"
@@ -25,23 +32,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Inter, Esposito nerazzurro quasi a vita: ufficiale il rinnovo dell'attaccante - Diretta",
-      "source": "Diretta",
-      "published": "Sun, 06 Sep 2026 21:22:11 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Inter, ufficiale il rinnovo di Esposito fino al 2032 - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Sun, 06 Sep 2026 15:30:29 GMT"
+      "title": "Inter: ufficiale il rinnovo di Esposito fino al 2032 - ANSA",
+      "source": "ANSA",
+      "published": "Sun, 06 Sep 2026 15:12:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, verso Napoli-Arsenal: Gunners show all'Emirates, Chelsea battuto in rimonta - Il Mattino",
-      "source": "Il Mattino",
-      "published": "Sun, 06 Sep 2026 17:28:00 GMT"
+      "title": "Champions League in TV, le partite della 1° giornata da Real Madrid-Inter a Napoli-Arsenal: programma e orari - Fanpage",
+      "source": "Fanpage",
+      "published": "Mon, 07 Sep 2026 05:00:43 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A: la Roma ribalta l'Atalanta nel finale, è vetta insieme all'Inter - ANSA",
+      "source": "ANSA",
+      "published": "Sun, 06 Sep 2026 09:45:00 GMT"
     },
     {
       "type": "news",
@@ -49,13 +56,6 @@
       "title": "Serie A | Juventus-Milan | Le interviste - Juventus.com",
       "source": "Juventus.com",
       "published": "Sun, 06 Sep 2026 21:44:24 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A | Juventus-Milan | La partita - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Sun, 06 Sep 2026 20:57:10 GMT"
     },
     {
       "type": "news",
@@ -88,9 +88,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis, US Open: Alcaraz regola Paul e vola ai quarti di finale - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Sun, 06 Sep 2026 20:44:00 GMT"
+      "title": "Italiani allo US Open 2026 oggi: le partite del 3 settembre · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Wed, 02 Sep 2026 23:12:10 GMT"
     },
     {
       "type": "news",
@@ -98,13 +98,6 @@
       "title": "Da Goñi a Galan, senza Tapia e Coello: le statistiche di Premier Padel - SuperTennis",
       "source": "SuperTennis",
       "published": "Sun, 06 Sep 2026 06:32:55 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Bronze Marnes: Bergeron e Seurin vincono una grande battaglia contro Boronad/Robert e affronteranno Fonteny/Moragues in semifinale - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Fri, 04 Sep 2026 16:15:15 GMT"
     },
     {
       "type": "news",
@@ -119,6 +112,13 @@
       "title": "Madrid P1 – Nieto e Yangaus eliminano Coello e Tapia: la prima volta in 15 mesi nei quarti di finale - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Fri, 04 Sep 2026 21:59:35 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Madrid P1 Premier Padel 2026: Super Abbate che vola agli ottavi di finale - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Thu, 03 Sep 2026 06:52:47 GMT"
     }
   ]
 }
