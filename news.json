@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T01:23:48.542898+00:00",
+  "updated_at": "2026-09-08T06:22:00.235735+00:00",
   "local_date": "2026-09-08",
   "articles": [
     {
@@ -18,6 +18,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli, ufficiale un'altra operazione in uscita: il comunicato - NapoliToday",
+      "source": "NapoliToday",
+      "published": "Sat, 05 Sep 2026 18:45:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Firmato il nuovo accordo triennale tra la Regione e Anisap per le visite di specialistica ambulatoriale - Regione Emilia-Romagna",
       "source": "Regione Emilia-Romagna",
       "published": "Fri, 04 Sep 2026 03:08:00 GMT"
@@ -31,45 +38,31 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Comunicato Ufficiale - Roberta Picchi - Como 1907",
-      "source": "Como 1907",
-      "published": "Mon, 07 Sep 2026 15:49:23 GMT"
-    },
-    {
-      "type": "news",
       "category": "CALCIO",
-      "title": "Nella Champions «italiana» l'Inter parte davanti a Roma, Napoli e Como - eurosport.it",
-      "source": "eurosport.it",
-      "published": "Mon, 07 Sep 2026 18:46:10 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League: Napoli-Arsenal in campo mercoledì alle 21 DIRETTA - ansa.it",
-      "source": "ansa.it",
+      "title": "Champions League: Napoli-Arsenal in campo mercoledì alle 21 DIRETTA - ANSA",
+      "source": "ANSA",
       "published": "Mon, 07 Sep 2026 15:43:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: Real Madrid-Inter in campo martedì alle 21 DIRETTA - ansa.it",
-      "source": "ansa.it",
+      "title": "Champions League: Real Madrid-Inter in campo martedì alle 21 DIRETTA - ANSA",
+      "source": "ANSA",
       "published": "Mon, 07 Sep 2026 19:41:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League Napoli, dal Borussia Dortmund al Liverpool: quelle notti magiche contro le big - Il Mattino",
-      "source": "Il Mattino",
-      "published": "Mon, 07 Sep 2026 22:10:32 GMT"
+      "title": "Champions League, le probabili formazioni della sfida tra Real Madrid e Inter - Diretta",
+      "source": "Diretta",
+      "published": "Mon, 07 Sep 2026 20:23:00 GMT"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 8 settembre · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Mon, 07 Sep 2026 21:00:00 GMT"
+      "category": "CALCIO",
+      "title": "La Serie A viaggia a due velocità: Inter e Roma vanno a mille, Juventus e Milan sembrano giocare un altro noiosissimo campionato - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Mon, 07 Sep 2026 10:18:32 GMT"
     },
     {
       "type": "news",
@@ -94,17 +87,17 @@
     },
     {
       "type": "news",
-      "category": "PADEL",
-      "title": "Da Goñi a Galan, senza Tapia e Coello: le statistiche di Premier Padel - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Sun, 06 Sep 2026 06:32:55 GMT"
+      "category": "TENNIS",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 4 settembre · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Thu, 03 Sep 2026 22:01:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - Comitato Olimpico Nazionale",
-      "source": "Comitato Olimpico Nazionale",
-      "published": "Wed, 26 Aug 2026 21:26:24 GMT"
+      "title": "Da Goñi a Galan, senza Tapia e Coello: le statistiche di Premier Padel - supertennis.tv",
+      "source": "supertennis.tv",
+      "published": "Sun, 06 Sep 2026 06:32:55 GMT"
     },
     {
       "type": "news",
@@ -116,9 +109,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Madrid P1 Premier Padel 2026: Super Abbate che vola agli ottavi di finale - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Thu, 03 Sep 2026 06:52:47 GMT"
+      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - coni.it",
+      "source": "coni.it",
+      "published": "Wed, 26 Aug 2026 21:26:24 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - FITP",
+      "source": "FITP",
+      "published": "Wed, 26 Aug 2026 21:29:11 GMT"
     }
   ]
 }
