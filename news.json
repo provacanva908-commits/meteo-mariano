@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T11:33:56.451114+00:00",
+  "updated_at": "2026-09-08T15:17:59.724287+00:00",
   "local_date": "2026-09-08",
   "articles": [
     {
@@ -11,44 +11,44 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Perugia: doppio colpo in attacco. Van Amersfoort ufficiale. Accordo con Vergani - umbriaon.it",
-      "source": "umbriaon.it",
-      "published": "Tue, 08 Sep 2026 07:49:20 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Pagellone calciomercato: Inter e Roma regine, la Juve si rinforza, dubbi sul Napoli - eurosport.it",
-      "source": "eurosport.it",
-      "published": "Wed, 02 Sep 2026 07:13:33 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "CCNL Legno Arredo Industria: firmata l’ipotesi di accordo per il rinnovo - Confindustria Ancona",
-      "source": "Confindustria Ancona",
-      "published": "Tue, 08 Sep 2026 07:19:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Giuli firma l'Accordo di coproduzione cinematografica con la Corea del Sud - Italy for Movies",
-      "source": "Italy for Movies",
-      "published": "Tue, 08 Sep 2026 11:10:36 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League, dove vedere Real Madrid-Inter, Napoli-Arsenal e le partite di Roma e Como: la guida al primo turno - Il Riformista",
+      "title": "Calciomercato Avellino, James Rodriguez vicinissimo alla firma: colpaccio in serie B, decisiva la telefonata con Nesta - Il Riformista",
       "source": "Il Riformista",
-      "published": "Tue, 08 Sep 2026 10:04:00 GMT"
+      "published": "Tue, 08 Sep 2026 11:46:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Lazio, ufficiale Diogo Leite: i dettagli dell'operazione e la durata del contratto - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Tue, 08 Sep 2026 12:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "UFFICIALE - Lazio, ecco Diogo Leite: ruolo, quotazione e FVM - Fantacalcio",
+      "source": "Fantacalcio",
+      "published": "Tue, 08 Sep 2026 12:12:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Italpress, accordo con l’agenzia slovena Sta per rafforzare la presenza in Europa - Milano Finanza",
+      "source": "Milano Finanza",
+      "published": "Tue, 08 Sep 2026 14:22:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Come vedere la UEFA Champions League su NOW: le partite di Inter, Roma, Napoli e Como, come abbonarsi a NOW e quanto costa - Goal.com",
-      "source": "Goal.com",
-      "published": "Tue, 08 Sep 2026 08:46:42 GMT"
+      "title": "Champions League, il programma della prima di League Phase e il calendario delle italiane (Inter, Napoli, Roma e Como) - ilmessaggero.it",
+      "source": "ilmessaggero.it",
+      "published": "Tue, 08 Sep 2026 10:22:20 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Champions League 2026/27, quanto incassano le italiane: le cifre di Inter, Napoli, Roma e Como - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Tue, 08 Sep 2026 14:45:24 GMT"
     },
     {
       "type": "news",
@@ -60,9 +60,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League 2026/27, si parte: quando giocano Inter, Napoli, Roma e Como e dove vederle - Skuola.net",
-      "source": "Skuola.net",
-      "published": "Tue, 08 Sep 2026 09:00:35 GMT"
+      "title": "Champions League oggi, chi gioca? Non solo Real Madrid-Inter: partite e dove vederle in tv - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Tue, 08 Sep 2026 11:39:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "\"Mi sono arrabbiato...\", Zverev 'rosica' (ancora) per finale Wimbledon persa con Sinner - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Tue, 08 Sep 2026 11:47:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 8 settembre · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Tue, 08 Sep 2026 07:10:00 GMT"
     },
     {
       "type": "news",
@@ -76,21 +90,7 @@
       "category": "TENNIS",
       "title": "Italiani allo US Open 2026 oggi: le partite del 6 settembre · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Sun, 06 Sep 2026 00:25:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 5 settembre · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Fri, 04 Sep 2026 22:01:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 4 settembre · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Thu, 03 Sep 2026 22:01:00 GMT"
+      "published": "Sun, 06 Sep 2026 00:27:17 GMT"
     },
     {
       "type": "news",
@@ -109,8 +109,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - Comitato Olimpico Nazionale",
-      "source": "Comitato Olimpico Nazionale",
+      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - coni.it",
+      "source": "coni.it",
       "published": "Wed, 26 Aug 2026 21:26:24 GMT"
     },
     {
