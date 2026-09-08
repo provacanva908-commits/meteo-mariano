@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T15:17:59.724287+00:00",
+  "updated_at": "2026-09-08T18:50:25.741515+00:00",
   "local_date": "2026-09-08",
   "articles": [
     {
@@ -11,9 +11,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Avellino, James Rodriguez vicinissimo alla firma: colpaccio in serie B, decisiva la telefonata con Nesta - Il Riformista",
-      "source": "Il Riformista",
-      "published": "Tue, 08 Sep 2026 11:46:00 GMT"
+      "title": "Difesa, Italia e Grecia firmano a Roma l'accordo per la cessione di due fregate italiane ad Atene - Euronews.com",
+      "source": "Euronews.com",
+      "published": "Tue, 08 Sep 2026 17:20:47 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Italia e Grecia firmano a Roma l’accordo per la cessione di due FREMM ad Atene - Analisi Difesa",
+      "source": "Analisi Difesa",
+      "published": "Tue, 08 Sep 2026 15:42:29 GMT"
     },
     {
       "type": "news",
@@ -25,30 +32,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "UFFICIALE - Lazio, ecco Diogo Leite: ruolo, quotazione e FVM - Fantacalcio",
-      "source": "Fantacalcio",
-      "published": "Tue, 08 Sep 2026 12:12:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Italpress, accordo con l’agenzia slovena Sta per rafforzare la presenza in Europa - Milano Finanza",
-      "source": "Milano Finanza",
-      "published": "Tue, 08 Sep 2026 14:22:00 GMT"
+      "title": "Modena, è ufficiale l'acquisto di Andrea Belotti: il \"Gallo\" riparte dalla Serie BKT - DAZN",
+      "source": "DAZN",
+      "published": "Tue, 08 Sep 2026 16:02:35 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, il programma della prima di League Phase e il calendario delle italiane (Inter, Napoli, Roma e Como) - ilmessaggero.it",
-      "source": "ilmessaggero.it",
+      "title": "Champions League, il programma della prima di League Phase e il calendario delle italiane (Inter, Napoli, Roma e Como) - Il Messaggero",
+      "source": "Il Messaggero",
       "published": "Tue, 08 Sep 2026 10:22:20 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League 2026/27, quanto incassano le italiane: le cifre di Inter, Napoli, Roma e Como - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Tue, 08 Sep 2026 14:45:24 GMT"
     },
     {
       "type": "news",
@@ -60,9 +53,30 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Champions League: Real Madrid-Inter in campo alle 21 - DIRETTA - ansa.it",
+      "source": "ansa.it",
+      "published": "Tue, 08 Sep 2026 15:46:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Champions League oggi, chi gioca? Non solo Real Madrid-Inter: partite e dove vederle in tv - Adnkronos",
       "source": "Adnkronos",
       "published": "Tue, 08 Sep 2026 11:39:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Zverev riscrive la finale di Wimbledon persa con Sinner: \"Giocavo meglio di lui, poi sono scivolato\" - Fanpage",
+      "source": "Fanpage",
+      "published": "Tue, 08 Sep 2026 13:36:21 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 8 settembre · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Mon, 07 Sep 2026 21:06:44 GMT"
     },
     {
       "type": "news",
@@ -74,23 +88,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 8 settembre · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Tue, 08 Sep 2026 07:10:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Italiani allo US Open 2026 oggi: le partite del 7 settembre · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Sun, 06 Sep 2026 22:01:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 6 settembre · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Sun, 06 Sep 2026 00:27:17 GMT"
+      "published": "Sun, 06 Sep 2026 22:02:30 GMT"
     },
     {
       "type": "news",
@@ -109,8 +109,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - coni.it",
-      "source": "coni.it",
+      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - Comitato Olimpico Nazionale",
+      "source": "Comitato Olimpico Nazionale",
       "published": "Wed, 26 Aug 2026 21:26:24 GMT"
     },
     {
