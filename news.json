@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T06:22:00.235735+00:00",
+  "updated_at": "2026-09-08T11:33:56.451114+00:00",
   "local_date": "2026-09-08",
   "articles": [
     {
@@ -11,6 +11,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Calciomercato Perugia: doppio colpo in attacco. Van Amersfoort ufficiale. Accordo con Vergani - umbriaon.it",
+      "source": "umbriaon.it",
+      "published": "Tue, 08 Sep 2026 07:49:20 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Pagellone calciomercato: Inter e Roma regine, la Juve si rinforza, dubbi sul Napoli - eurosport.it",
       "source": "eurosport.it",
       "published": "Wed, 02 Sep 2026 07:13:33 GMT"
@@ -18,51 +25,44 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, ufficiale un'altra operazione in uscita: il comunicato - NapoliToday",
-      "source": "NapoliToday",
-      "published": "Sat, 05 Sep 2026 18:45:00 GMT"
+      "title": "CCNL Legno Arredo Industria: firmata l’ipotesi di accordo per il rinnovo - Confindustria Ancona",
+      "source": "Confindustria Ancona",
+      "published": "Tue, 08 Sep 2026 07:19:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Firmato il nuovo accordo triennale tra la Regione e Anisap per le visite di specialistica ambulatoriale - Regione Emilia-Romagna",
-      "source": "Regione Emilia-Romagna",
-      "published": "Fri, 04 Sep 2026 03:08:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Ufficiale | Jonathan David in prestito all'Atletico Madrid - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Tue, 01 Sep 2026 18:34:38 GMT"
+      "title": "Giuli firma l'Accordo di coproduzione cinematografica con la Corea del Sud - Italy for Movies",
+      "source": "Italy for Movies",
+      "published": "Tue, 08 Sep 2026 11:10:36 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: Napoli-Arsenal in campo mercoledì alle 21 DIRETTA - ANSA",
-      "source": "ANSA",
-      "published": "Mon, 07 Sep 2026 15:43:00 GMT"
+      "title": "Champions League, dove vedere Real Madrid-Inter, Napoli-Arsenal e le partite di Roma e Como: la guida al primo turno - Il Riformista",
+      "source": "Il Riformista",
+      "published": "Tue, 08 Sep 2026 10:04:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: Real Madrid-Inter in campo martedì alle 21 DIRETTA - ANSA",
-      "source": "ANSA",
-      "published": "Mon, 07 Sep 2026 19:41:00 GMT"
+      "title": "Come vedere la UEFA Champions League su NOW: le partite di Inter, Roma, Napoli e Como, come abbonarsi a NOW e quanto costa - Goal.com",
+      "source": "Goal.com",
+      "published": "Tue, 08 Sep 2026 08:46:42 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, le probabili formazioni della sfida tra Real Madrid e Inter - Diretta",
-      "source": "Diretta",
-      "published": "Mon, 07 Sep 2026 20:23:00 GMT"
+      "title": "Champions League, quanti punti faranno Inter, Napoli, Roma e Como: la previsione dell'AI sul piazzamento - Fanpage",
+      "source": "Fanpage",
+      "published": "Tue, 08 Sep 2026 09:10:29 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "La Serie A viaggia a due velocità: Inter e Roma vanno a mille, Juventus e Milan sembrano giocare un altro noiosissimo campionato - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "Mon, 07 Sep 2026 10:18:32 GMT"
+      "title": "Champions League 2026/27, si parte: quando giocano Inter, Napoli, Roma e Como e dove vederle - Skuola.net",
+      "source": "Skuola.net",
+      "published": "Tue, 08 Sep 2026 09:00:35 GMT"
     },
     {
       "type": "news",
@@ -95,8 +95,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Da Goñi a Galan, senza Tapia e Coello: le statistiche di Premier Padel - supertennis.tv",
-      "source": "supertennis.tv",
+      "title": "Da Goñi a Galan, senza Tapia e Coello: le statistiche di Premier Padel - SuperTennis",
+      "source": "SuperTennis",
       "published": "Sun, 06 Sep 2026 06:32:55 GMT"
     },
     {
@@ -109,8 +109,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - coni.it",
-      "source": "coni.it",
+      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - Comitato Olimpico Nazionale",
+      "source": "Comitato Olimpico Nazionale",
       "published": "Wed, 26 Aug 2026 21:26:24 GMT"
     },
     {
