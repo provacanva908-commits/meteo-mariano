@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T18:50:25.741515+00:00",
+  "updated_at": "2026-09-08T21:31:35.956543+00:00",
   "local_date": "2026-09-08",
   "articles": [
     {
@@ -11,22 +11,22 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Difesa, Italia e Grecia firmano a Roma l'accordo per la cessione di due fregate italiane ad Atene - Euronews.com",
-      "source": "Euronews.com",
+      "title": "Italia e Grecia firmano a Roma l’accordo per la cessione di due FREMM ad Atene – AGGIORNATO - Analisi Difesa",
+      "source": "Analisi Difesa",
+      "published": "Tue, 08 Sep 2026 20:15:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Difesa, Italia e Grecia firmano a Roma l'accordo per la cessione di due fregate italiane ad Atene - Euronews",
+      "source": "Euronews",
       "published": "Tue, 08 Sep 2026 17:20:47 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Italia e Grecia firmano a Roma l’accordo per la cessione di due FREMM ad Atene - Analisi Difesa",
-      "source": "Analisi Difesa",
-      "published": "Tue, 08 Sep 2026 15:42:29 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Lazio, ufficiale Diogo Leite: i dettagli dell'operazione e la durata del contratto - Corriere dello Sport",
-      "source": "Corriere dello Sport",
+      "title": "Lazio, ufficiale Diogo Leite: i dettagli dell'operazione e la durata del contratto - corrieredellosport.it",
+      "source": "corrieredellosport.it",
       "published": "Tue, 08 Sep 2026 12:00:00 GMT"
     },
     {
@@ -46,23 +46,30 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, quanti punti faranno Inter, Napoli, Roma e Como: la previsione dell'AI sul piazzamento - Fanpage",
-      "source": "Fanpage",
-      "published": "Tue, 08 Sep 2026 09:10:29 GMT"
+      "title": "Ascolti Serie A, Juve-Milan batte Inter-Napoli. Bene Roma e Como - Primaonline",
+      "source": "Primaonline",
+      "published": "Tue, 08 Sep 2026 12:26:05 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: Real Madrid-Inter in campo alle 21 - DIRETTA - ansa.it",
-      "source": "ansa.it",
+      "title": "Champions League: Real Madrid-Inter in campo 2-0 - DIRETTA - ANSA",
+      "source": "ANSA",
+      "published": "Tue, 08 Sep 2026 19:44:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Champions League: Real Madrid-Inter in campo alle 21 - DIRETTA - ANSA",
+      "source": "ANSA",
       "published": "Tue, 08 Sep 2026 15:46:00 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League oggi, chi gioca? Non solo Real Madrid-Inter: partite e dove vederle in tv - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Tue, 08 Sep 2026 11:39:00 GMT"
+      "category": "TENNIS",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 8 settembre · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Tue, 08 Sep 2026 07:10:00 GMT"
     },
     {
       "type": "news",
@@ -70,13 +77,6 @@
       "title": "Zverev riscrive la finale di Wimbledon persa con Sinner: \"Giocavo meglio di lui, poi sono scivolato\" - Fanpage",
       "source": "Fanpage",
       "published": "Tue, 08 Sep 2026 13:36:21 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 8 settembre · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Mon, 07 Sep 2026 21:06:44 GMT"
     },
     {
       "type": "news",
@@ -102,6 +102,13 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - coni.it",
+      "source": "coni.it",
+      "published": "Wed, 26 Aug 2026 21:26:24 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "Madrid P1 – Nieto e Yangaus eliminano Coello e Tapia: la prima volta in 15 mesi nei quarti di finale - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Fri, 04 Sep 2026 21:59:35 GMT"
@@ -109,16 +116,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel: derby in semifinale nel torneo maschile. Squadre del tiro con l'arco alle sfide per il bronzo - Comitato Olimpico Nazionale",
-      "source": "Comitato Olimpico Nazionale",
-      "published": "Wed, 26 Aug 2026 21:26:24 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - FITP",
-      "source": "FITP",
-      "published": "Wed, 26 Aug 2026 21:29:11 GMT"
+      "title": "Madrid P1 Premier Padel 2026: Super Abbate che vola agli ottavi di finale - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Thu, 03 Sep 2026 06:52:47 GMT"
     }
   ]
 }
