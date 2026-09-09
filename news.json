@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T11:55:36.508915+00:00",
+  "updated_at": "2026-09-09T16:27:42.336397+00:00",
   "local_date": "2026-09-09",
   "articles": [
     {
@@ -117,16 +117,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Italia e Grecia firmano a Roma l’accordo per la cessione di due FREMM ad Atene – AGGIORNATO - Analisi Difesa",
-      "source": "Analisi Difesa",
-      "published": "Tue, 08 Sep 2026 20:15:45 GMT"
+      "title": "Fontaines D.C.: UFFICIALE in concerto a Roma e a IDays Milano nel 2027. Tutte le info e biglietti - Virgin Radio",
+      "source": "Virgin Radio",
+      "published": "Wed, 09 Sep 2026 09:00:51 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Presidente del Consiglio comunale. Giovedì 10 settembre Buscemi in Bicocca per la firma dell’accordo tra l’Ateneo e la King Abdullah University of Science and Technology - Comune di Milano",
-      "source": "Comune di Milano",
-      "published": "Wed, 09 Sep 2026 10:54:49 GMT"
+      "title": "ACEA e Politecnico di Milano firmano accordo di collaborazione strategica - cronacamilano.it",
+      "source": "cronacamilano.it",
+      "published": "Wed, 09 Sep 2026 09:42:16 GMT"
     },
     {
       "type": "news",
@@ -138,30 +138,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Gruppo San Donato, accordo da 419 milioni con il Kenya per 15 nuovi ospedali. I dettagli dell’intesa - Milano Finanza",
-      "source": "Milano Finanza",
-      "published": "Wed, 09 Sep 2026 11:16:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Le partite di oggi: serata di Champions, oltre a Napoli-Arsenal in campo anche Psg e Barcellona - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Wed, 09 Sep 2026 05:50:48 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Partite di Champions League: Liverpool contro Atletico Madrid, Arsenal in trasferta a Napoli. - Vietnam.vn",
-      "source": "Vietnam.vn",
-      "published": "Wed, 09 Sep 2026 10:47:42 GMT"
+      "title": "Visita di Tajani in Argentina: accordo di collaborazione San Carlo – Teatro Colón nel quadro di Neapolis 2500 - Ministero degli Affari Esteri e della Cooperazione Internazionale",
+      "source": "Ministero degli Affari Esteri e della Cooperazione Internazionale",
+      "published": "Wed, 09 Sep 2026 11:34:05 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
       "title": "Champions League: Napoli-Arsenal in campo alle 21 DIRETTA - ANSA",
       "source": "ANSA",
-      "published": "Wed, 09 Sep 2026 09:56:28 GMT"
+      "published": "Wed, 09 Sep 2026 09:56:00 GMT"
     },
     {
       "type": "news",
@@ -169,6 +155,20 @@
       "title": "Champions League, oggi Napoli-Arsenal: orario, probabili formazioni e dove vederla in tv - Adnkronos",
       "source": "Adnkronos",
       "published": "Wed, 09 Sep 2026 09:31:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Dopo la Coppa Italia l'Atalanta Primavera cerca il bis: oggi a Milano la sfida alla Fiorentina in Supercoppa - BergamoNews",
+      "source": "BergamoNews",
+      "published": "Wed, 09 Sep 2026 04:15:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Napoli-Arsenal, dove vedere la partita di Champions League in tv e streaming - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Wed, 09 Sep 2026 10:30:01 GMT"
     },
     {
       "type": "news",
@@ -180,23 +180,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Alcaraz è fuori dagli Us Open, Shelton in semifinale dopo una maratona al quinto set: conati di vomito e monologhi dopo i 139 giorni di stop - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Wed, 09 Sep 2026 09:37:48 GMT"
+      "title": "Alcaraz è fuori dagli Us Open, Shelton in semifinale dopo una maratona al quinto set: conati di vomito e monologhi dopo i 139 giorni di stop - corriere.it",
+      "source": "corriere.it",
+      "published": "Wed, 09 Sep 2026 13:28:24 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis, US Open: Shelton spezza il tabù Alcaraz e vola in semifinale - Giornale di Sicilia",
-      "source": "Giornale di Sicilia",
-      "published": "Wed, 09 Sep 2026 07:58:44 GMT"
+      "title": "US Open, Shelton domina Alcaraz e sfida Tiafoe: è derby Usa in semifinale - RaiNews",
+      "source": "RaiNews",
+      "published": "Wed, 09 Sep 2026 10:54:01 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Shelton in semifinale, Alcaraz battuto in 5 set - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 09 Sep 2026 04:11:57 GMT"
+      "title": "Ranking ATP, Alcaraz perde 1600 punti agli US Open | Come cambia la classifica - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Wed, 09 Sep 2026 14:57:27 GMT"
     },
     {
       "type": "news",
@@ -215,16 +215,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "ASICS diventa partner ufficiale dell'Alpine Paris Major Premier Padel 2026 - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sat, 05 Sep 2026 06:00:00 GMT"
+      "title": "Padel, Madrid P1: il siracusano Flavio Abbate si ferma a un passo dalla semifinale - Giornale di Sicilia",
+      "source": "Giornale di Sicilia",
+      "published": "Sun, 06 Sep 2026 06:12:51 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Bronze Marnes: Fonteny / Moragues campioni al loro primo torneo insieme - padel-magazine.it",
+      "title": "Guichard e Geens, impotenti contro Lebrón/Augsburger, sono stati eliminati ai sedicesimi di finale del Major di Parigi. - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Sat, 05 Sep 2026 15:47:50 GMT"
+      "published": "Wed, 09 Sep 2026 14:49:17 GMT"
     }
   ]
 }
