@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-09-09T16:27:42.336397+00:00",
+  "updated_at": "2026-09-09T19:25:51.025450+00:00",
   "local_date": "2026-09-09",
   "articles": [
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Liverpool",
+      "away": "Atleti",
+      "time": "21:00",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 1,
+      "is_live": true,
+      "local_date": "2026-09-09"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Napoli",
+      "away": "Arsenal",
+      "time": "21:00",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "is_live": true,
+      "local_date": "2026-09-09"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "PSG",
+      "away": "Sl. Bratislava",
+      "time": "21:00",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 1,
+      "away_score": 0,
+      "is_live": true,
+      "local_date": "2026-09-09"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Sporting CP",
+      "away": "Galatasaray",
+      "time": "21:00",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 1,
+      "is_live": true,
+      "local_date": "2026-09-09"
+    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -9,10 +65,10 @@
       "home": "Barça",
       "away": "Feyenoord",
       "time": "18:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 5,
+      "away_score": 1,
       "is_live": false,
       "local_date": "2026-09-09"
     },
@@ -23,66 +79,10 @@
       "home": "Stuttgart",
       "away": "Viking",
       "time": "18:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-09-09"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Liverpool",
-      "away": "Atleti",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-09-09"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Napoli",
-      "away": "Arsenal",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-09-09"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "PSG",
-      "away": "Sl. Bratislava",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-09-09"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Sporting CP",
-      "away": "Galatasaray",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 3,
+      "away_score": 1,
       "is_live": false,
       "local_date": "2026-09-09"
     },
@@ -124,23 +124,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "ACEA e Politecnico di Milano firmano accordo di collaborazione strategica - cronacamilano.it",
-      "source": "cronacamilano.it",
-      "published": "Wed, 09 Sep 2026 09:42:16 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Zankore firma un accordo di prestito da 3,1 Mrd USD per finanziare l'implementazione di GPU Nvidia presso la sua AI Factory in Indonesia - MarketScreener Italia",
-      "source": "MarketScreener Italia",
-      "published": "Wed, 09 Sep 2026 11:00:38 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "Visita di Tajani in Argentina: accordo di collaborazione San Carlo – Teatro Colón nel quadro di Neapolis 2500 - Ministero degli Affari Esteri e della Cooperazione Internazionale",
       "source": "Ministero degli Affari Esteri e della Cooperazione Internazionale",
       "published": "Wed, 09 Sep 2026 11:34:05 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Roma, abbandonata la pista svincolati: il focus ora è su Endrick, Gasperini vuole plasmarlo come ala - Il Riformista",
+      "source": "Il Riformista",
+      "published": "Wed, 09 Sep 2026 11:07:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Avellino sogna: presentata l'offerta ufficiale a James Rodriguez. Tutte le cifre - gazzetta.it",
+      "source": "gazzetta.it",
+      "published": "Wed, 09 Sep 2026 14:46:44 GMT"
     },
     {
       "type": "news",
@@ -159,37 +159,30 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Dopo la Coppa Italia l'Atalanta Primavera cerca il bis: oggi a Milano la sfida alla Fiorentina in Supercoppa - BergamoNews",
-      "source": "BergamoNews",
-      "published": "Wed, 09 Sep 2026 04:15:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Napoli-Arsenal, dove vedere la partita di Champions League in tv e streaming - Sky Sport",
       "source": "Sky Sport",
       "published": "Wed, 09 Sep 2026 10:30:01 GMT"
     },
     {
       "type": "news",
+      "category": "CALCIO",
+      "title": "Champions League LIVE: il Napoli debutta in casa con l'Arsenal - Diretta",
+      "source": "Diretta",
+      "published": "Wed, 09 Sep 2026 08:57:00 GMT"
+    },
+    {
+      "type": "news",
       "category": "TENNIS",
-      "title": "Sinner insidiato da Zverev, Alcaraz resta lontanissimo: come cambia il Ranking ATP agli US Open - Fanpage",
-      "source": "Fanpage",
+      "title": "Sinner insidiato da Zverev, Alcaraz resta lontanissimo: come cambia il Ranking ATP agli US Open - fanpage.it",
+      "source": "fanpage.it",
       "published": "Wed, 09 Sep 2026 08:52:25 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Alcaraz è fuori dagli Us Open, Shelton in semifinale dopo una maratona al quinto set: conati di vomito e monologhi dopo i 139 giorni di stop - corriere.it",
-      "source": "corriere.it",
-      "published": "Wed, 09 Sep 2026 13:28:24 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "US Open, Shelton domina Alcaraz e sfida Tiafoe: è derby Usa in semifinale - RaiNews",
-      "source": "RaiNews",
-      "published": "Wed, 09 Sep 2026 10:54:01 GMT"
+      "title": "US Open: Rybakina conquista semifinale e il numero 1 WTA - Ok Tennis",
+      "source": "Ok Tennis",
+      "published": "Wed, 09 Sep 2026 18:23:00 GMT"
     },
     {
       "type": "news",
@@ -197,6 +190,13 @@
       "title": "Ranking ATP, Alcaraz perde 1600 punti agli US Open | Come cambia la classifica - Il Fatto Quotidiano",
       "source": "Il Fatto Quotidiano",
       "published": "Wed, 09 Sep 2026 14:57:27 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Shelton in semifinale, Alcaraz battuto in 5 set - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Wed, 09 Sep 2026 04:11:57 GMT"
     },
     {
       "type": "news",
@@ -215,16 +215,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel, Madrid P1: il siracusano Flavio Abbate si ferma a un passo dalla semifinale - Giornale di Sicilia",
-      "source": "Giornale di Sicilia",
-      "published": "Sun, 06 Sep 2026 06:12:51 GMT"
+      "title": "Madrid P1 Premier Padel 2026: Super Abbate che vola agli ottavi di finale - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Thu, 03 Sep 2026 06:52:47 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Guichard e Geens, impotenti contro Lebrón/Augsburger, sono stati eliminati ai sedicesimi di finale del Major di Parigi. - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Wed, 09 Sep 2026 14:49:17 GMT"
+      "title": "Padel, Madrid P1: il siracusano Flavio Abbate si ferma a un passo dalla semifinale - Giornale di Sicilia",
+      "source": "Giornale di Sicilia",
+      "published": "Sun, 06 Sep 2026 06:12:51 GMT"
     }
   ]
 }
