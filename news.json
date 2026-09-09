@@ -1,61 +1,19 @@
 {
-  "updated_at": "2026-09-09T19:25:51.025450+00:00",
+  "updated_at": "2026-09-09T21:54:04.283081+00:00",
   "local_date": "2026-09-09",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Liverpool",
-      "away": "Atleti",
-      "time": "21:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 0,
+      "home": "Stuttgart",
+      "away": "Viking",
+      "time": "18:45",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 3,
       "away_score": 1,
-      "is_live": true,
-      "local_date": "2026-09-09"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Napoli",
-      "away": "Arsenal",
-      "time": "21:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 0,
-      "away_score": 0,
-      "is_live": true,
-      "local_date": "2026-09-09"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "PSG",
-      "away": "Sl. Bratislava",
-      "time": "21:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 1,
-      "away_score": 0,
-      "is_live": true,
-      "local_date": "2026-09-09"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Sporting CP",
-      "away": "Galatasaray",
-      "time": "21:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 0,
-      "away_score": 1,
-      "is_live": true,
+      "is_live": false,
       "local_date": "2026-09-09"
     },
     {
@@ -76,12 +34,54 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Stuttgart",
-      "away": "Viking",
-      "time": "18:45",
+      "home": "PSG",
+      "away": "Sl. Bratislava",
+      "time": "21:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 6,
+      "away_score": 1,
+      "is_live": false,
+      "local_date": "2026-09-09"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Sporting CP",
+      "away": "Galatasaray",
+      "time": "21:00",
       "status": "FINISHED",
       "status_label": "Finale",
       "home_score": 3,
+      "away_score": 1,
+      "is_live": false,
+      "local_date": "2026-09-09"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Napoli",
+      "away": "Arsenal",
+      "time": "21:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 0,
+      "away_score": 1,
+      "is_live": false,
+      "local_date": "2026-09-09"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Liverpool",
+      "away": "Atleti",
+      "time": "21:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
       "away_score": 1,
       "is_live": false,
       "local_date": "2026-09-09"
@@ -93,10 +93,10 @@
       "home": "Moreirense",
       "away": "SL Benfica",
       "time": "21:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 0,
+      "away_score": 4,
       "is_live": false,
       "local_date": "2026-09-09"
     },
@@ -117,20 +117,6 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Fontaines D.C.: UFFICIALE in concerto a Roma e a IDays Milano nel 2027. Tutte le info e biglietti - Virgin Radio",
-      "source": "Virgin Radio",
-      "published": "Wed, 09 Sep 2026 09:00:51 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Visita di Tajani in Argentina: accordo di collaborazione San Carlo – Teatro Colón nel quadro di Neapolis 2500 - Ministero degli Affari Esteri e della Cooperazione Internazionale",
-      "source": "Ministero degli Affari Esteri e della Cooperazione Internazionale",
-      "published": "Wed, 09 Sep 2026 11:34:05 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "Calciomercato Roma, abbandonata la pista svincolati: il focus ora è su Endrick, Gasperini vuole plasmarlo come ala - Il Riformista",
       "source": "Il Riformista",
       "published": "Wed, 09 Sep 2026 11:07:00 GMT"
@@ -138,9 +124,44 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Avellino sogna: presentata l'offerta ufficiale a James Rodriguez. Tutte le cifre - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Fabiani: «La rosa della Lazio vale 400 milioni. Tieniamo d'occhio calciomercato degli svincolati» - Il Messaggero",
+      "source": "Il Messaggero",
+      "published": "Wed, 09 Sep 2026 10:39:08 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Avellino sogna: presentata l'offerta ufficiale a James Rodriguez. Tutte le cifre - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Wed, 09 Sep 2026 14:46:44 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Contratto dei medici, Cimo-Fesmed pronta a non firmare il pre-accordo - ANSA",
+      "source": "ANSA",
+      "published": "Wed, 09 Sep 2026 12:49:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Champions League, il Barcellona travolge il Feyenoord (5-1), il Psg lo Slovan. Rimonta Liverpool contro l'Atletico Madrid (2-1) - Il Messaggero",
+      "source": "Il Messaggero",
+      "published": "Wed, 09 Sep 2026 21:33:13 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Champions League: in campo Napoli-Arsenal DIRETTA - ANSA",
+      "source": "ANSA",
+      "published": "Wed, 09 Sep 2026 19:35:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Napoli-Arsenal 0-1, le pagelle della partita di Champions League - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Wed, 09 Sep 2026 21:26:59 GMT"
     },
     {
       "type": "news",
@@ -151,30 +172,9 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League, oggi Napoli-Arsenal: orario, probabili formazioni e dove vederla in tv - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Wed, 09 Sep 2026 09:31:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Napoli-Arsenal, dove vedere la partita di Champions League in tv e streaming - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 09 Sep 2026 10:30:01 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League LIVE: il Napoli debutta in casa con l'Arsenal - Diretta",
-      "source": "Diretta",
-      "published": "Wed, 09 Sep 2026 08:57:00 GMT"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
-      "title": "Sinner insidiato da Zverev, Alcaraz resta lontanissimo: come cambia il Ranking ATP agli US Open - fanpage.it",
-      "source": "fanpage.it",
+      "title": "Sinner insidiato da Zverev, Alcaraz resta lontanissimo: come cambia il Ranking ATP agli US Open - Fanpage",
+      "source": "Fanpage",
       "published": "Wed, 09 Sep 2026 08:52:25 GMT"
     },
     {
@@ -187,16 +187,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP, Alcaraz perde 1600 punti agli US Open | Come cambia la classifica - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "Wed, 09 Sep 2026 14:57:27 GMT"
+      "title": "US Open, Shelton domina Alcaraz e sfida Tiafoe: è derby Usa in semifinale - RaiNews",
+      "source": "RaiNews",
+      "published": "Wed, 09 Sep 2026 10:54:01 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Shelton in semifinale, Alcaraz battuto in 5 set - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 09 Sep 2026 04:11:57 GMT"
+      "title": "Ranking ATP, Alcaraz perde 1600 punti agli US Open | Come cambia la classifica - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Wed, 09 Sep 2026 14:57:27 GMT"
     },
     {
       "type": "news",
