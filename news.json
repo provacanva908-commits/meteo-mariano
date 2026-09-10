@@ -1,14 +1,28 @@
 {
-  "updated_at": "2026-09-10T17:07:36.399985+00:00",
+  "updated_at": "2026-09-10T19:41:16.812827+00:00",
   "local_date": "2026-09-10",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Fenerbahçe",
-      "away": "Roma",
-      "time": "18:45",
+      "home": "Man United",
+      "away": "Sabah FK",
+      "time": "21:00",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 1,
+      "away_score": 0,
+      "is_live": true,
+      "local_date": "2026-09-10"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Slavia Praha",
+      "away": "RC Lens",
+      "time": "21:00",
       "status": "IN_PLAY",
       "status_label": "LIVE",
       "home_score": 0,
@@ -20,9 +34,9 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "PSV",
-      "away": "Shaktar",
-      "time": "18:45",
+      "home": "Bayern",
+      "away": "Bodø/Glimt",
+      "time": "21:00",
       "status": "IN_PLAY",
       "status_label": "LIVE",
       "home_score": 0,
@@ -37,10 +51,24 @@
       "home": "Como 1907",
       "away": "RB Leipzig",
       "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 1,
+      "away_score": 0,
+      "is_live": true,
+      "local_date": "2026-09-10"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "PSV",
+      "away": "Shaktar",
+      "time": "18:45",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 1,
       "is_live": false,
       "local_date": "2026-09-10"
     },
@@ -48,41 +76,13 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Bayern",
-      "away": "Bodø/Glimt",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-09-10"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Man United",
-      "away": "Sabah FK",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-09-10"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Slavia Praha",
-      "away": "RC Lens",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "home": "Fenerbahçe",
+      "away": "Roma",
+      "time": "18:45",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 1,
       "is_live": false,
       "local_date": "2026-09-10"
     },
@@ -110,30 +110,30 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Addio a Carlo Baffi, il vignettista ufficiale dell'autodromo di Monza: l'ultima caricatura per la vittoria di Kimi Antonelli - milano.corriere.it",
-      "source": "milano.corriere.it",
-      "published": "Thu, 10 Sep 2026 15:14:03 GMT"
+      "title": "Addio a Carlo Baffi, il vignettista ufficiale dell'autodromo di Monza: l'ultima caricatura per la vittoria di Kimi Antonelli - Corriere Milano",
+      "source": "Corriere Milano",
+      "published": "Thu, 10 Sep 2026 15:14:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Atalanta, Scalvini verso il rinnovo: accordo raggiunto. Rowe si presenta: \"Spero di esordire contro il Cagliari\" - SOS Fanta",
-      "source": "SOS Fanta",
+      "title": "Atalanta, Scalvini verso il rinnovo: accordo raggiunto. Rowe si presenta: \"Spero di esordire contro il Cagliari\" - sosfanta.com",
+      "source": "sosfanta.com",
       "published": "Thu, 10 Sep 2026 15:30:05 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio: Lotito vuole anche Icardi, Gattuso il mediano - Fantacalcio",
-      "source": "Fantacalcio",
-      "published": "Thu, 10 Sep 2026 05:57:00 GMT"
+      "title": "Como, la formazione ufficiale con il Lipsia: la scelta su Kean, Douvikas, Perrone, Milla, Diao, Valle e Couto - sosfanta.com",
+      "source": "sosfanta.com",
+      "published": "Thu, 10 Sep 2026 18:15:53 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Le partite di oggi: occhi sulla Champions con Fenerbahçe-Roma e Como-Lipsia. Poi United e Bayern - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Thu, 10 Sep 2026 05:27:03 GMT"
+      "title": "Champions League, Fenerbahce-Roma finisce 1-1. Como-Lipsia 1-0. LIVE - tg24.sky.it",
+      "source": "tg24.sky.it",
+      "published": "Thu, 10 Sep 2026 19:18:52 GMT"
     },
     {
       "type": "news",
@@ -145,23 +145,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: in campo Napoli-Arsenal DIRETTA - ANSA",
-      "source": "ANSA",
-      "published": "Wed, 09 Sep 2026 19:35:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Champions League: Napoli-Arsenal in campo alle 21 DIRETTA - ANSA",
       "source": "ANSA",
       "published": "Wed, 09 Sep 2026 09:56:00 GMT"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Tennis, Us Open: Zverev batte van de Zandschulp e vola in semifinale, sfiderà Khachanov - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Thu, 10 Sep 2026 06:08:16 GMT"
+      "category": "CALCIO",
+      "title": "Champions League, in campo Fenerbahce-Roma LIVE - ANSA",
+      "source": "ANSA",
+      "published": "Thu, 10 Sep 2026 17:06:00 GMT"
     },
     {
       "type": "news",
@@ -173,16 +166,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 9 settembre · Tennis ATP e WTA - olympics.com",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 8 settembre · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Tue, 08 Sep 2026 22:01:00 GMT"
+      "published": "Tue, 08 Sep 2026 07:10:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Tennis, Us Open: Zverev batte van de Zandschulp e vola in semifinale, sfiderà Khachanov - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Thu, 10 Sep 2026 06:08:16 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
       "title": "Italiani allo US Open 2026 oggi: le partite del 7 settembre · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Sun, 06 Sep 2026 22:02:30 GMT"
+      "published": "Sun, 06 Sep 2026 22:01:00 GMT"
     },
     {
       "type": "news",
@@ -194,23 +194,23 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - fitp.it",
-      "source": "fitp.it",
+      "title": "Madrid P1 Premier Padel 2026: Super Abbate che vola agli ottavi di finale - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Thu, 03 Sep 2026 06:52:47 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - FITP",
+      "source": "FITP",
       "published": "Wed, 26 Aug 2026 21:29:11 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Paris Major: il programma completo degli ottavi di finale di questo giovedì - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Thu, 10 Sep 2026 07:25:43 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Coello, Tapia, Lebrón, Augsburger... si godono una serata al Parco dei Principi - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Thu, 10 Sep 2026 07:53:52 GMT"
+      "title": "Women's World Cup, Italia-USA 52-55 (Zandalasini 14). Petrucci: \"Arbitri così bravi da meritare la finale...\" - fip.it",
+      "source": "fip.it",
+      "published": "Sun, 06 Sep 2026 21:06:05 GMT"
     }
   ]
 }
