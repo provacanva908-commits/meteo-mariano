@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T23:54:37.971719+00:00",
+  "updated_at": "2026-09-10T03:59:34.022116+00:00",
   "local_date": "2026-09-10",
   "articles": [
     {
@@ -131,16 +131,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: Psg e Barcellona a valanga, il Liverpool batte l’Atletico. Ok Stoccarda e Sporting - sportmediaset.mediaset.it",
-      "source": "sportmediaset.mediaset.it",
-      "published": "Wed, 09 Sep 2026 21:06:00 GMT"
+      "title": "Champions League, Napoli ko contro l’Arsenal: finisce 0-1. Liverpool batte l’Atletico, PSG travolgente - Allora! Italian Australian News",
+      "source": "Allora! Italian Australian News",
+      "published": "Wed, 09 Sep 2026 21:02:06 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, il Barcellona travolge il Feyenoord (5-1), il Psg lo Slovan. Rimonta Liverpool contro l'Atletico Madrid (2-1) - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "Wed, 09 Sep 2026 21:33:13 GMT"
+      "title": "Champions League: Psg e Barcellona a valanga, il Liverpool batte l’Atletico. Ok Stoccarda e Sporting - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Wed, 09 Sep 2026 21:06:00 GMT"
     },
     {
       "type": "news",
@@ -152,9 +152,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Napoli-Arsenal 0-1, le pagelle della partita di Champions League - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 09 Sep 2026 21:26:59 GMT"
+      "title": "Champions League: Napoli-Arsenal in campo alle 21 DIRETTA - ANSA",
+      "source": "ANSA",
+      "published": "Wed, 09 Sep 2026 09:56:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner insidiato da Zverev, Alcaraz resta lontanissimo: come cambia il Ranking ATP agli US Open - Fanpage",
+      "source": "Fanpage",
+      "published": "Wed, 09 Sep 2026 08:52:25 GMT"
     },
     {
       "type": "news",
@@ -166,13 +173,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Alcaraz è fuori dagli Us Open, Shelton in semifinale dopo una maratona al quinto set: conati di vomito e monologhi dopo i 139 giorni di stop - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Wed, 09 Sep 2026 13:28:24 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Ranking ATP, Alcaraz perde 1600 punti agli US Open | Come cambia la classifica - Il Fatto Quotidiano",
       "source": "Il Fatto Quotidiano",
       "published": "Wed, 09 Sep 2026 14:57:27 GMT"
@@ -180,9 +180,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 10 settembre · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Wed, 09 Sep 2026 22:01:00 GMT"
+      "title": "Alcaraz resta lontano da Sinner nel ranking ATP: il nuovo distacco, addio sogno n.1 a fine anno - OA Sport",
+      "source": "OA Sport",
+      "published": "Wed, 09 Sep 2026 11:05:03 GMT"
     },
     {
       "type": "news",
