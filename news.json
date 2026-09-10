@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-09-10T03:59:34.022116+00:00",
+  "updated_at": "2026-09-10T08:54:31.828854+00:00",
   "local_date": "2026-09-10",
   "articles": [
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "PSV",
-      "away": "Shaktar",
-      "time": "18:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-09-10"
-    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -34,9 +20,9 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Slavia Praha",
-      "away": "RC Lens",
-      "time": "21:00",
+      "home": "PSV",
+      "away": "Shaktar",
+      "time": "18:45",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -48,8 +34,8 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Man United",
-      "away": "Sabah FK",
+      "home": "Como 1907",
+      "away": "RB Leipzig",
       "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -76,8 +62,22 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Como 1907",
-      "away": "RB Leipzig",
+      "home": "Man United",
+      "away": "Sabah FK",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-09-10"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Slavia Praha",
+      "away": "RC Lens",
       "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -103,9 +103,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Fontaines D.C.: UFFICIALE in concerto a Roma e a IDays Milano nel 2027. Tutte le info e biglietti - Virgin Radio",
-      "source": "Virgin Radio",
-      "published": "Wed, 09 Sep 2026 09:00:51 GMT"
+      "title": "Calciomercato Lazio: Lotito vuole anche Icardi, Gattuso il mediano - Fantacalcio",
+      "source": "Fantacalcio",
+      "published": "Thu, 10 Sep 2026 05:57:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "AATech, accordo con INEO per rafforzare l’offerta nel banking - AziendaBanca",
+      "source": "AziendaBanca",
+      "published": "Thu, 10 Sep 2026 07:33:26 GMT"
     },
     {
       "type": "news",
@@ -117,30 +124,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, abbandonata la pista svincolati: il focus ora è su Endrick, Gasperini vuole plasmarlo come ala - Il Riformista",
-      "source": "Il Riformista",
-      "published": "Wed, 09 Sep 2026 11:07:00 GMT"
+      "title": "Corcel PLC sottoscrive l'accordo definitivo di acquisto di azioni con Sintana Energy Inc. per una partecipazione indiretta del 5% in KON-16 per 2,5 Mio USD - MarketScreener Italia",
+      "source": "MarketScreener Italia",
+      "published": "Thu, 10 Sep 2026 07:51:36 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Avellino sogna: presentata l'offerta ufficiale a James Rodriguez. Tutte le cifre - La Gazzetta dello Sport",
+      "category": "CALCIO",
+      "title": "Champions League, Napoli sconfitto per 1-0 dall’Arsenal. Oggi tocca a Roma e Como - Radio Norba",
+      "source": "Radio Norba",
+      "published": "Thu, 10 Sep 2026 05:21:38 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Le partite di oggi: occhi sulla Champions con Fenerbahçe-Roma e Como-Lipsia. Poi United e Bayern - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
-      "published": "Wed, 09 Sep 2026 14:46:44 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League, Napoli ko contro l’Arsenal: finisce 0-1. Liverpool batte l’Atletico, PSG travolgente - Allora! Italian Australian News",
-      "source": "Allora! Italian Australian News",
-      "published": "Wed, 09 Sep 2026 21:02:06 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League: Psg e Barcellona a valanga, il Liverpool batte l’Atletico. Ok Stoccarda e Sporting - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Wed, 09 Sep 2026 21:06:00 GMT"
+      "published": "Thu, 10 Sep 2026 05:27:03 GMT"
     },
     {
       "type": "news",
@@ -152,9 +152,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: Napoli-Arsenal in campo alle 21 DIRETTA - ANSA",
-      "source": "ANSA",
-      "published": "Wed, 09 Sep 2026 09:56:00 GMT"
+      "title": "Champions League: le probabili formazioni di Fenerbahçe-Roma e Como-Lipsia - Diretta",
+      "source": "Diretta",
+      "published": "Thu, 10 Sep 2026 08:38:20 GMT"
     },
     {
       "type": "news",
@@ -166,13 +166,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "US Open: Rybakina conquista semifinale e il numero 1 WTA - Ok Tennis",
-      "source": "Ok Tennis",
-      "published": "Wed, 09 Sep 2026 18:23:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Ranking ATP, Alcaraz perde 1600 punti agli US Open | Come cambia la classifica - Il Fatto Quotidiano",
       "source": "Il Fatto Quotidiano",
       "published": "Wed, 09 Sep 2026 14:57:27 GMT"
@@ -180,9 +173,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Alcaraz resta lontano da Sinner nel ranking ATP: il nuovo distacco, addio sogno n.1 a fine anno - OA Sport",
-      "source": "OA Sport",
-      "published": "Wed, 09 Sep 2026 11:05:03 GMT"
+      "title": "Tennis, Us Open: Zverev batte van de Zandschulp e vola in semifinale, sfiderà Khachanov - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Thu, 10 Sep 2026 06:08:16 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Tennis, Us Open: Gauff in semifinale, Andreeva ko dopo aver sciupato 2 match point - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Wed, 09 Sep 2026 20:56:36 GMT"
     },
     {
       "type": "news",
@@ -201,16 +201,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Madrid P1 Premier Padel 2026: Super Abbate che vola agli ottavi di finale - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Thu, 03 Sep 2026 06:52:47 GMT"
+      "title": "Padel, Madrid P1: il siracusano Flavio Abbate si ferma a un passo dalla semifinale - gds.it",
+      "source": "gds.it",
+      "published": "Sun, 06 Sep 2026 06:12:51 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel, Madrid P1: il siracusano Flavio Abbate si ferma a un passo dalla semifinale - Giornale di Sicilia",
-      "source": "Giornale di Sicilia",
-      "published": "Sun, 06 Sep 2026 06:12:51 GMT"
+      "title": "Women's World Cup, Italia-USA 52-55 (Zandalasini 14). Petrucci: \"Arbitri così bravi da meritare la finale...\" - fip.it",
+      "source": "fip.it",
+      "published": "Sun, 06 Sep 2026 21:06:05 GMT"
     }
   ]
 }
