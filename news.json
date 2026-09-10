@@ -1,104 +1,48 @@
 {
-  "updated_at": "2026-09-10T21:56:51.651696+00:00",
-  "local_date": "2026-09-10",
+  "updated_at": "2026-09-10T23:59:58.778847+00:00",
+  "local_date": "2026-09-11",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Fenerbahçe",
-      "away": "Roma",
-      "time": "18:45",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 1,
-      "away_score": 1,
+      "competition": "Serie A",
+      "home": "Venezia FC",
+      "away": "Fiorentina",
+      "time": "20:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-09-10"
+      "local_date": "2026-09-11"
     },
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "PSV",
-      "away": "Shaktar",
-      "time": "18:45",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 1,
-      "away_score": 1,
+      "competition": "Ligue 1",
+      "home": "Stade Rennais",
+      "away": "Marseille",
+      "time": "20:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-09-10"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Como 1907",
-      "away": "RB Leipzig",
-      "time": "21:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 4,
-      "away_score": 1,
-      "is_live": false,
-      "local_date": "2026-09-10"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Bayern",
-      "away": "Bodø/Glimt",
-      "time": "21:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 5,
-      "away_score": 0,
-      "is_live": false,
-      "local_date": "2026-09-10"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Slavia Praha",
-      "away": "RC Lens",
-      "time": "21:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 2,
-      "away_score": 3,
-      "is_live": false,
-      "local_date": "2026-09-10"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Man United",
-      "away": "Sabah FK",
-      "time": "21:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 4,
-      "away_score": 0,
-      "is_live": false,
-      "local_date": "2026-09-10"
+      "local_date": "2026-09-11"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Copa Libertadores",
-      "home": "Estudiantes LP",
-      "away": "Corinthians",
+      "home": "Independiente",
+      "away": "Flamengo",
       "time": "02:30",
       "status": "SCHEDULED",
       "status_label": "In programma",
       "home_score": null,
       "away_score": null,
       "is_live": false,
-      "local_date": "2026-09-10"
+      "local_date": "2026-09-11"
     },
     {
       "type": "news",
@@ -145,16 +89,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: Napoli-Arsenal in campo alle 21 DIRETTA - ANSA",
-      "source": "ANSA",
+      "title": "Champions League: Napoli-Arsenal in campo alle 21 DIRETTA - ansa.it",
+      "source": "ansa.it",
       "published": "Wed, 09 Sep 2026 09:56:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, il ritorno della Roma e l’esordio del Como: dove vedere le ultime due italiane in tv e streaming - Open",
-      "source": "Open",
-      "published": "Thu, 10 Sep 2026 11:41:29 GMT"
+      "title": "Champions League, esordio da sogno per il Como; la Roma pareggia in Turchia - Radio RTL 102.5",
+      "source": "Radio RTL 102.5",
+      "published": "Thu, 10 Sep 2026 21:47:30 GMT"
     },
     {
       "type": "news",
@@ -166,6 +110,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 8 settembre · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Tue, 08 Sep 2026 07:10:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Gran servizio, lucido, freddo: la sfida di Massellani, in caccia della semifinale agli Us Open jr - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Thu, 10 Sep 2026 17:30:04 GMT"
@@ -173,16 +124,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 8 settembre · Tennis ATP e WTA - olympics.com",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 7 settembre · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Mon, 07 Sep 2026 21:06:44 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 9 settembre · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Tue, 08 Sep 2026 22:01:00 GMT"
+      "published": "Sun, 06 Sep 2026 22:01:00 GMT"
     },
     {
       "type": "news",
@@ -194,16 +138,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - fitp.it",
-      "source": "fitp.it",
-      "published": "Wed, 26 Aug 2026 21:29:11 GMT"
+      "title": "Madrid P1 Premier Padel 2026: Super Abbate che vola agli ottavi di finale - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Thu, 03 Sep 2026 06:52:47 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Madrid P1 Premier Padel 2026: Super Abbate che vola agli ottavi di finale - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Thu, 03 Sep 2026 06:52:47 GMT"
+      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - FITP",
+      "source": "FITP",
+      "published": "Wed, 26 Aug 2026 21:29:11 GMT"
     },
     {
       "type": "news",
