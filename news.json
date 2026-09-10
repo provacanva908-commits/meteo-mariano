@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T13:27:38.215625+00:00",
+  "updated_at": "2026-09-10T17:07:36.399985+00:00",
   "local_date": "2026-09-10",
   "articles": [
     {
@@ -9,11 +9,11 @@
       "home": "Fenerbahçe",
       "away": "Roma",
       "time": "18:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "is_live": true,
       "local_date": "2026-09-10"
     },
     {
@@ -23,6 +23,20 @@
       "home": "PSV",
       "away": "Shaktar",
       "time": "18:45",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "is_live": true,
+      "local_date": "2026-09-10"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Como 1907",
+      "away": "RB Leipzig",
+      "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -48,8 +62,8 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Como 1907",
-      "away": "RB Leipzig",
+      "home": "Man United",
+      "away": "Sabah FK",
       "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -64,20 +78,6 @@
       "competition": "UEFA Champions League",
       "home": "Slavia Praha",
       "away": "RC Lens",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-09-10"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Man United",
-      "away": "Sabah FK",
       "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -110,9 +110,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Torino, le ultime sulle condizioni di Casadei e Coco verso la Roma. Ed è ufficiale il rinnovo di Cacciamani - SOS Fanta",
+      "title": "Addio a Carlo Baffi, il vignettista ufficiale dell'autodromo di Monza: l'ultima caricatura per la vittoria di Kimi Antonelli - milano.corriere.it",
+      "source": "milano.corriere.it",
+      "published": "Thu, 10 Sep 2026 15:14:03 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Atalanta, Scalvini verso il rinnovo: accordo raggiunto. Rowe si presenta: \"Spero di esordire contro il Cagliari\" - SOS Fanta",
       "source": "SOS Fanta",
-      "published": "Thu, 10 Sep 2026 11:30:49 GMT"
+      "published": "Thu, 10 Sep 2026 15:30:05 GMT"
     },
     {
       "type": "news",
@@ -120,20 +127,6 @@
       "title": "Calciomercato Lazio: Lotito vuole anche Icardi, Gattuso il mediano - Fantacalcio",
       "source": "Fantacalcio",
       "published": "Thu, 10 Sep 2026 05:57:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Cacciamani-Torino: ufficiale il rinnovo. Il comunicato e la durata del contratto - Tuttosport",
-      "source": "Tuttosport",
-      "published": "Thu, 10 Sep 2026 11:06:36 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League: Psg e Barcellona a valanga, il Liverpool batte l’Atletico. Ok Stoccarda e Sporting - sportmediaset.mediaset.it",
-      "source": "sportmediaset.mediaset.it",
-      "published": "Wed, 09 Sep 2026 21:06:00 GMT"
     },
     {
       "type": "news",
@@ -145,6 +138,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Champions League, il ritorno della Roma e l’esordio del Como: dove vedere le ultime due italiane in tv e streaming - Open",
+      "source": "Open",
+      "published": "Thu, 10 Sep 2026 11:41:29 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Champions League: in campo Napoli-Arsenal DIRETTA - ANSA",
       "source": "ANSA",
       "published": "Wed, 09 Sep 2026 19:35:00 GMT"
@@ -152,37 +152,37 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, il ritorno della Roma e l'esordio del Como: dove vedere le ultime due italiane in tv e streaming - Open",
-      "source": "Open",
-      "published": "Thu, 10 Sep 2026 11:41:29 GMT"
+      "title": "Champions League: Napoli-Arsenal in campo alle 21 DIRETTA - ANSA",
+      "source": "ANSA",
+      "published": "Wed, 09 Sep 2026 09:56:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis, US Open: Rybakina in semifinale e nuova numero 1 del ranking Wta - dialessandria.it",
-      "source": "dialessandria.it",
-      "published": "Wed, 09 Sep 2026 22:15:50 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ranking ATP, Alcaraz perde 1600 punti agli US Open | Come cambia la classifica - ilfattoquotidiano.it",
-      "source": "ilfattoquotidiano.it",
-      "published": "Wed, 09 Sep 2026 14:57:27 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Tennis, Us Open: Zverev batte van de Zandschulp e vola in semifinale, sfiderà Khachanov - sportmediaset.mediaset.it",
-      "source": "sportmediaset.mediaset.it",
+      "title": "Tennis, Us Open: Zverev batte van de Zandschulp e vola in semifinale, sfiderà Khachanov - Sportmediaset",
+      "source": "Sportmediaset",
       "published": "Thu, 10 Sep 2026 06:08:16 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis, US Open: Zverev è in semifinale, nel doppio fuori Bolelli-Vavassori - dialessandria.it",
-      "source": "dialessandria.it",
-      "published": "Thu, 10 Sep 2026 08:45:15 GMT"
+      "title": "Ranking ATP, Alcaraz perde 1600 punti agli US Open | Come cambia la classifica - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Wed, 09 Sep 2026 14:57:27 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 9 settembre · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Tue, 08 Sep 2026 22:01:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 7 settembre · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Sun, 06 Sep 2026 22:02:30 GMT"
     },
     {
       "type": "news",
@@ -194,16 +194,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - FITP",
-      "source": "FITP",
+      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - fitp.it",
+      "source": "fitp.it",
       "published": "Wed, 26 Aug 2026 21:29:11 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Padel, Madrid P1: il siracusano Flavio Abbate si ferma a un passo dalla semifinale - Giornale di Sicilia",
-      "source": "Giornale di Sicilia",
-      "published": "Sun, 06 Sep 2026 06:12:51 GMT"
     },
     {
       "type": "news",
@@ -211,6 +204,13 @@
       "title": "Paris Major: il programma completo degli ottavi di finale di questo giovedì - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Thu, 10 Sep 2026 07:25:43 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Coello, Tapia, Lebrón, Augsburger... si godono una serata al Parco dei Principi - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Thu, 10 Sep 2026 07:53:52 GMT"
     }
   ]
 }
