@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T08:54:31.828854+00:00",
+  "updated_at": "2026-09-10T13:27:38.215625+00:00",
   "local_date": "2026-09-10",
   "articles": [
     {
@@ -34,20 +34,6 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Como 1907",
-      "away": "RB Leipzig",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-09-10"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
       "home": "Bayern",
       "away": "Bodø/Glimt",
       "time": "21:00",
@@ -62,8 +48,8 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Man United",
-      "away": "Sabah FK",
+      "home": "Como 1907",
+      "away": "RB Leipzig",
       "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -89,6 +75,20 @@
     {
       "type": "match",
       "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Man United",
+      "away": "Sabah FK",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-09-10"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
       "competition": "Copa Libertadores",
       "home": "Estudiantes LP",
       "away": "Corinthians",
@@ -103,6 +103,20 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Milano-Bicocca rafforza la rete internazionale: siglato un accordo con KAUST - unimib.it",
+      "source": "unimib.it",
+      "published": "Thu, 10 Sep 2026 11:22:14 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Torino, le ultime sulle condizioni di Casadei e Coco verso la Roma. Ed è ufficiale il rinnovo di Cacciamani - SOS Fanta",
+      "source": "SOS Fanta",
+      "published": "Thu, 10 Sep 2026 11:30:49 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Calciomercato Lazio: Lotito vuole anche Icardi, Gattuso il mediano - Fantacalcio",
       "source": "Fantacalcio",
       "published": "Thu, 10 Sep 2026 05:57:00 GMT"
@@ -110,30 +124,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "AATech, accordo con INEO per rafforzare l’offerta nel banking - AziendaBanca",
-      "source": "AziendaBanca",
-      "published": "Thu, 10 Sep 2026 07:33:26 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Visita di Tajani in Argentina: accordo di collaborazione San Carlo – Teatro Colón nel quadro di Neapolis 2500 - Ministero degli Affari Esteri e della Cooperazione Internazionale",
-      "source": "Ministero degli Affari Esteri e della Cooperazione Internazionale",
-      "published": "Wed, 09 Sep 2026 11:34:05 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Corcel PLC sottoscrive l'accordo definitivo di acquisto di azioni con Sintana Energy Inc. per una partecipazione indiretta del 5% in KON-16 per 2,5 Mio USD - MarketScreener Italia",
-      "source": "MarketScreener Italia",
-      "published": "Thu, 10 Sep 2026 07:51:36 GMT"
+      "title": "Cacciamani-Torino: ufficiale il rinnovo. Il comunicato e la durata del contratto - Tuttosport",
+      "source": "Tuttosport",
+      "published": "Thu, 10 Sep 2026 11:06:36 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, Napoli sconfitto per 1-0 dall’Arsenal. Oggi tocca a Roma e Como - Radio Norba",
-      "source": "Radio Norba",
-      "published": "Thu, 10 Sep 2026 05:21:38 GMT"
+      "title": "Champions League: Psg e Barcellona a valanga, il Liverpool batte l’Atletico. Ok Stoccarda e Sporting - sportmediaset.mediaset.it",
+      "source": "sportmediaset.mediaset.it",
+      "published": "Wed, 09 Sep 2026 21:06:00 GMT"
     },
     {
       "type": "news",
@@ -152,37 +152,37 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: le probabili formazioni di Fenerbahçe-Roma e Como-Lipsia - Diretta",
-      "source": "Diretta",
-      "published": "Thu, 10 Sep 2026 08:38:20 GMT"
+      "title": "Champions League, il ritorno della Roma e l'esordio del Como: dove vedere le ultime due italiane in tv e streaming - Open",
+      "source": "Open",
+      "published": "Thu, 10 Sep 2026 11:41:29 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner insidiato da Zverev, Alcaraz resta lontanissimo: come cambia il Ranking ATP agli US Open - Fanpage",
-      "source": "Fanpage",
-      "published": "Wed, 09 Sep 2026 08:52:25 GMT"
+      "title": "Tennis, US Open: Rybakina in semifinale e nuova numero 1 del ranking Wta - dialessandria.it",
+      "source": "dialessandria.it",
+      "published": "Wed, 09 Sep 2026 22:15:50 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP, Alcaraz perde 1600 punti agli US Open | Come cambia la classifica - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
+      "title": "Ranking ATP, Alcaraz perde 1600 punti agli US Open | Come cambia la classifica - ilfattoquotidiano.it",
+      "source": "ilfattoquotidiano.it",
       "published": "Wed, 09 Sep 2026 14:57:27 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis, Us Open: Zverev batte van de Zandschulp e vola in semifinale, sfiderà Khachanov - Sportmediaset",
-      "source": "Sportmediaset",
+      "title": "Tennis, Us Open: Zverev batte van de Zandschulp e vola in semifinale, sfiderà Khachanov - sportmediaset.mediaset.it",
+      "source": "sportmediaset.mediaset.it",
       "published": "Thu, 10 Sep 2026 06:08:16 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis, Us Open: Gauff in semifinale, Andreeva ko dopo aver sciupato 2 match point - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Wed, 09 Sep 2026 20:56:36 GMT"
+      "title": "Tennis, US Open: Zverev è in semifinale, nel doppio fuori Bolelli-Vavassori - dialessandria.it",
+      "source": "dialessandria.it",
+      "published": "Thu, 10 Sep 2026 08:45:15 GMT"
     },
     {
       "type": "news",
@@ -201,16 +201,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel, Madrid P1: il siracusano Flavio Abbate si ferma a un passo dalla semifinale - gds.it",
-      "source": "gds.it",
+      "title": "Padel, Madrid P1: il siracusano Flavio Abbate si ferma a un passo dalla semifinale - Giornale di Sicilia",
+      "source": "Giornale di Sicilia",
       "published": "Sun, 06 Sep 2026 06:12:51 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Women's World Cup, Italia-USA 52-55 (Zandalasini 14). Petrucci: \"Arbitri così bravi da meritare la finale...\" - fip.it",
-      "source": "fip.it",
-      "published": "Sun, 06 Sep 2026 21:06:05 GMT"
+      "title": "Paris Major: il programma completo degli ottavi di finale di questo giovedì - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Thu, 10 Sep 2026 07:25:43 GMT"
     }
   ]
 }
