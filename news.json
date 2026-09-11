@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T17:11:35.170193+00:00",
+  "updated_at": "2026-09-11T19:46:51.106320+00:00",
   "local_date": "2026-09-11",
   "articles": [
     {
@@ -9,11 +9,11 @@
       "home": "Venezia FC",
       "away": "Fiorentina",
       "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "PAUSED",
+      "status_label": "Intervallo",
+      "home_score": 1,
+      "away_score": 2,
+      "is_live": true,
       "local_date": "2026-09-11"
     },
     {
@@ -23,11 +23,11 @@
       "home": "Stade Rennais",
       "away": "Marseille",
       "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "PAUSED",
+      "status_label": "Intervallo",
+      "home_score": 0,
+      "away_score": 0,
+      "is_live": true,
       "local_date": "2026-09-11"
     },
     {
@@ -47,9 +47,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "HWH International firma accordo di acquisizione e pianifica il cambio nome in EnerSyn Global - Investing.com",
-      "source": "Investing.com",
-      "published": "Fri, 11 Sep 2026 15:24:00 GMT"
+      "title": "La Commissione presenta al Consiglio per la firma uno storico accordo commerciale con l’India - Rappresentanza in Italia - Commissione europea",
+      "source": "Rappresentanza in Italia - Commissione europea",
+      "published": "Fri, 11 Sep 2026 12:00:00 GMT"
     },
     {
       "type": "news",
@@ -61,9 +61,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Intervista a Giulio Manfredi sull’accordo della Lega con Russia Unita e sui funerali di Mladic (11.09.2026) - Radio Radicale",
-      "source": "Radio Radicale",
-      "published": "Fri, 11 Sep 2026 16:30:00 GMT"
+      "title": "Calciomercato Icardi, chi è più vicino ad ingaggiare l'ex capitano dell'Inter: due club italiani, due greci ma offerte anche da Liga e Premier - Il Riformista",
+      "source": "Il Riformista",
+      "published": "Fri, 11 Sep 2026 13:41:00 GMT"
     },
     {
       "type": "news",
@@ -82,6 +82,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Serie A: clou con il Milan, Lazio prova a tenere il passo di Inter e Roma - ANSA",
+      "source": "ANSA",
+      "published": "Fri, 11 Sep 2026 15:19:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Serie A Women's Cup: Juventus-Inter e Sassuolo-Roma a caccia finale Viareggio - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Fri, 11 Sep 2026 13:14:44 GMT"
@@ -92,13 +99,6 @@
       "title": "Champions League: Napoli-Arsenal in campo alle 21 DIRETTA - ANSA",
       "source": "ANSA",
       "published": "Wed, 09 Sep 2026 09:56:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Performance Insights Champions League: il Real Madrid prepara le pericolose ripartenze contro l'Inter - UEFA.com",
-      "source": "UEFA.com",
-      "published": "Fri, 11 Sep 2026 15:22:34 GMT"
     },
     {
       "type": "news",
@@ -131,6 +131,13 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "Paris Major Premier Padel 2026: Orsi ai quarti di finale, Lebron che paura! - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Fri, 11 Sep 2026 07:17:26 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "Da Goñi a Galan, senza Tapia e Coello: le statistiche di Premier Padel - SuperTennis",
       "source": "SuperTennis",
       "published": "Sun, 06 Sep 2026 06:32:55 GMT"
@@ -148,13 +155,6 @@
       "title": "Paris Major: il programma completo degli ottavi di finale di questo giovedì - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Thu, 10 Sep 2026 07:25:43 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Coello, Tapia, Lebrón, Augsburger... si godono una serata al Parco dei Principi - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Thu, 10 Sep 2026 07:53:52 GMT"
     }
   ]
 }
