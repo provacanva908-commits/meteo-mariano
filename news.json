@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T23:59:58.778847+00:00",
+  "updated_at": "2026-09-11T04:29:43.357843+00:00",
   "local_date": "2026-09-11",
   "articles": [
     {
@@ -47,6 +47,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Ricerca tra Milano e Arabia Saudita. Bicocca firma l’accordo con Kaust: \"Insieme per energia, salute e IA\" - Il Giorno",
+      "source": "Il Giorno",
+      "published": "Fri, 11 Sep 2026 03:45:36 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Milano-Bicocca rafforza la rete internazionale: siglato un accordo con KAUST - unimib.it",
       "source": "unimib.it",
       "published": "Thu, 10 Sep 2026 11:22:14 GMT"
@@ -61,23 +68,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Atalanta, Scalvini verso il rinnovo: accordo raggiunto. Rowe si presenta: \"Spero di esordire contro il Cagliari\" - SOS Fanta",
-      "source": "SOS Fanta",
-      "published": "Thu, 10 Sep 2026 15:30:05 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Como, la formazione ufficiale con il Lipsia: la scelta su Kean, Douvikas, Perrone, Milla, Diao, Valle e Couto - SOS Fanta",
-      "source": "SOS Fanta",
-      "published": "Thu, 10 Sep 2026 18:15:53 GMT"
+      "title": "Sicurezza nei cantieri: il 12 settembre a Taranto la firma dell’accordo tra INAIL, Anci Puglia e sistema bilaterale dell’edilizia - ANCI Puglia",
+      "source": "ANCI Puglia",
+      "published": "Thu, 10 Sep 2026 19:40:08 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
       "title": "Prima giornata Champions League, giovedì: vincono Como, Bayern e United, pari Roma - UEFA.com",
       "source": "UEFA.com",
-      "published": "Thu, 10 Sep 2026 21:52:12 GMT"
+      "published": "Thu, 10 Sep 2026 21:52:13 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Champions League: Napoli-Arsenal in campo alle 21 DIRETTA - ANSA",
+      "source": "ANSA",
+      "published": "Wed, 09 Sep 2026 09:56:00 GMT"
     },
     {
       "type": "news",
@@ -89,16 +96,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: Napoli-Arsenal in campo alle 21 DIRETTA - ansa.it",
-      "source": "ansa.it",
-      "published": "Wed, 09 Sep 2026 09:56:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Champions League, esordio da sogno per il Como; la Roma pareggia in Turchia - Radio RTL 102.5",
       "source": "Radio RTL 102.5",
       "published": "Thu, 10 Sep 2026 21:47:30 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 10 settembre · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Wed, 09 Sep 2026 22:01:00 GMT"
     },
     {
       "type": "news",
@@ -110,9 +117,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 8 settembre · Tennis ATP e WTA - olympics.com",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 7 settembre · Tennis ATP e WTA - olympics.com",
       "source": "olympics.com",
-      "published": "Tue, 08 Sep 2026 07:10:00 GMT"
+      "published": "Sun, 06 Sep 2026 22:02:30 GMT"
     },
     {
       "type": "news",
@@ -120,13 +127,6 @@
       "title": "Gran servizio, lucido, freddo: la sfida di Massellani, in caccia della semifinale agli Us Open jr - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Thu, 10 Sep 2026 17:30:04 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 7 settembre · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Sun, 06 Sep 2026 22:01:00 GMT"
     },
     {
       "type": "news",
@@ -138,16 +138,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Madrid P1 Premier Padel 2026: Super Abbate che vola agli ottavi di finale - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Thu, 03 Sep 2026 06:52:47 GMT"
+      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - FITP",
+      "source": "FITP",
+      "published": "Wed, 26 Aug 2026 21:29:11 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - FITP",
-      "source": "FITP",
-      "published": "Wed, 26 Aug 2026 21:29:11 GMT"
+      "title": "Madrid P1 Premier Padel 2026: Super Abbate che vola agli ottavi di finale - mrpadelpaddle.com",
+      "source": "mrpadelpaddle.com",
+      "published": "Thu, 03 Sep 2026 06:52:47 GMT"
     },
     {
       "type": "news",
