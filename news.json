@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T13:33:07.797760+00:00",
+  "updated_at": "2026-09-11T17:11:35.170193+00:00",
   "local_date": "2026-09-11",
   "articles": [
     {
@@ -47,30 +47,30 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ricerca tra Milano e Arabia Saudita. Bicocca firma l’accordo con Kaust: \"Insieme per energia, salute e IA\" - Il Giorno",
-      "source": "Il Giorno",
-      "published": "Fri, 11 Sep 2026 03:47:12 GMT"
+      "title": "HWH International firma accordo di acquisizione e pianifica il cambio nome in EnerSyn Global - Investing.com",
+      "source": "Investing.com",
+      "published": "Fri, 11 Sep 2026 15:24:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "Blog | Serie A: come è andato quest’anno il calciomercato? Dall’Atalanta al Genoa i nostri voti - Info Data - Il Sole 24 ORE",
       "source": "Il Sole 24 ORE",
-      "published": "Fri, 11 Sep 2026 05:57:05 GMT"
+      "published": "Fri, 11 Sep 2026 11:59:08 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Il Giappone firma il primo accordo d’emergenza per GNL con Petronas della Malesia - Investing.com",
-      "source": "Investing.com",
-      "published": "Fri, 11 Sep 2026 13:05:00 GMT"
+      "title": "Intervista a Giulio Manfredi sull’accordo della Lega con Russia Unita e sui funerali di Mladic (11.09.2026) - Radio Radicale",
+      "source": "Radio Radicale",
+      "published": "Fri, 11 Sep 2026 16:30:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Libia, l'accordo per le elezioni e il piano americano di spartizione del potere. Intervista a Claudia Gazzini - radioradicale.it",
-      "source": "radioradicale.it",
-      "published": "Fri, 11 Sep 2026 09:57:18 GMT"
+      "title": "Venerdì 18 l’inaugurazione ufficiale del “nuovo” ponte di Lodi, sabato 19 la riapertura alla circolazione - Il Cittadino di Lodi",
+      "source": "Il Cittadino di Lodi",
+      "published": "Fri, 11 Sep 2026 14:59:25 GMT"
     },
     {
       "type": "news",
@@ -96,9 +96,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calcio, il Como debutta in Champions League: risveglio, gioia ed emozioni. Quel viaggio cominciato con la Mitropa Cup - Corriere Milano",
-      "source": "Corriere Milano",
-      "published": "Fri, 11 Sep 2026 05:33:23 GMT"
+      "title": "Performance Insights Champions League: il Real Madrid prepara le pericolose ripartenze contro l'Inter - UEFA.com",
+      "source": "UEFA.com",
+      "published": "Fri, 11 Sep 2026 15:22:34 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Italiani allo US Open 2026 oggi: le partite del 10 settembre · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Wed, 09 Sep 2026 22:01:00 GMT"
     },
     {
       "type": "news",
@@ -123,13 +130,6 @@
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "È l'anno di Zverev? Strada spianata verso la finale Us Open e... il n.1 di Sinner! Cosa succede se vince - Tuttosport",
-      "source": "Tuttosport",
-      "published": "Fri, 11 Sep 2026 11:45:04 GMT"
-    },
-    {
-      "type": "news",
       "category": "PADEL",
       "title": "Da Goñi a Galan, senza Tapia e Coello: le statistiche di Premier Padel - SuperTennis",
       "source": "SuperTennis",
@@ -145,16 +145,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Paris Major – rivincite e scontri: il fitto programma dei quarti di finale - padel-magazine.it",
+      "title": "Paris Major: il programma completo degli ottavi di finale di questo giovedì - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Fri, 11 Sep 2026 06:52:32 GMT"
+      "published": "Thu, 10 Sep 2026 07:25:43 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Paris Major: il programma completo degli ottavi di finale di questo giovedì - padel-magazine.it",
+      "title": "Coello, Tapia, Lebrón, Augsburger... si godono una serata al Parco dei Principi - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Thu, 10 Sep 2026 07:25:43 GMT"
+      "published": "Thu, 10 Sep 2026 07:53:52 GMT"
     }
   ]
 }
