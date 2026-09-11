@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T09:05:39.907634+00:00",
+  "updated_at": "2026-09-11T13:33:07.797760+00:00",
   "local_date": "2026-09-11",
   "articles": [
     {
@@ -54,23 +54,37 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Milano-Bicocca rafforza la rete internazionale: siglato un accordo con KAUST - unimib.it",
-      "source": "unimib.it",
-      "published": "Thu, 10 Sep 2026 11:22:14 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato, niente Avellino per James Rodriguez: il calciatore firma con l’Atletico Nacional - Il Mattino",
-      "source": "Il Mattino",
-      "published": "Fri, 11 Sep 2026 07:05:18 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "Blog | Serie A: come è andato quest’anno il calciomercato? Dall’Atalanta al Genoa i nostri voti - Info Data - Il Sole 24 ORE",
       "source": "Il Sole 24 ORE",
       "published": "Fri, 11 Sep 2026 05:57:05 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Il Giappone firma il primo accordo d’emergenza per GNL con Petronas della Malesia - Investing.com",
+      "source": "Investing.com",
+      "published": "Fri, 11 Sep 2026 13:05:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Libia, l'accordo per le elezioni e il piano americano di spartizione del potere. Intervista a Claudia Gazzini - radioradicale.it",
+      "source": "radioradicale.it",
+      "published": "Fri, 11 Sep 2026 09:57:18 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Champions League: Como da 9, Inter autolesionista, Napoli in crisi - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Fri, 11 Sep 2026 12:54:18 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A Women's Cup: Juventus-Inter e Sassuolo-Roma a caccia finale Viareggio - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Fri, 11 Sep 2026 13:14:44 GMT"
     },
     {
       "type": "news",
@@ -85,20 +99,6 @@
       "title": "Calcio, il Como debutta in Champions League: risveglio, gioia ed emozioni. Quel viaggio cominciato con la Mitropa Cup - Corriere Milano",
       "source": "Corriere Milano",
       "published": "Fri, 11 Sep 2026 05:33:23 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League, in campo Fenerbahce-Roma LIVE - ANSA",
-      "source": "ANSA",
-      "published": "Thu, 10 Sep 2026 17:06:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League: vincono Bayern e Manchester United, pari tra Psv e Shakhtar - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Thu, 10 Sep 2026 21:06:17 GMT"
     },
     {
       "type": "news",
@@ -124,9 +124,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Alcaraz resta lontano da Sinner nel ranking ATP: il nuovo distacco, addio sogno n.1 a fine anno - OA Sport",
-      "source": "OA Sport",
-      "published": "Wed, 09 Sep 2026 11:05:03 GMT"
+      "title": "È l'anno di Zverev? Strada spianata verso la finale Us Open e... il n.1 di Sinner! Cosa succede se vince - Tuttosport",
+      "source": "Tuttosport",
+      "published": "Fri, 11 Sep 2026 11:45:04 GMT"
     },
     {
       "type": "news",
@@ -138,16 +138,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Madrid P1 Premier Padel 2026: Super Abbate che vola agli ottavi di finale - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Thu, 03 Sep 2026 06:52:47 GMT"
+      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - FITP",
+      "source": "FITP",
+      "published": "Wed, 26 Aug 2026 21:29:11 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - FITP",
-      "source": "FITP",
-      "published": "Wed, 26 Aug 2026 21:29:11 GMT"
+      "title": "Paris Major – rivincite e scontri: il fitto programma dei quarti di finale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Fri, 11 Sep 2026 06:52:32 GMT"
     },
     {
       "type": "news",
