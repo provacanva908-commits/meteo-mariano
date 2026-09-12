@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T00:13:29.081211+00:00",
+  "updated_at": "2026-09-12T04:43:17.928175+00:00",
   "local_date": "2026-09-12",
   "articles": [
     {
@@ -20,8 +20,8 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "Premier League",
-      "home": "Liverpool",
-      "away": "Fulham",
+      "home": "Chelsea",
+      "away": "Hull City",
       "time": "16:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -34,8 +34,8 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "Premier League",
-      "home": "Chelsea",
-      "away": "Hull City",
+      "home": "Liverpool",
+      "away": "Fulham",
       "time": "16:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -117,15 +117,15 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Blog | Serie A: come è andato quest’anno il calciomercato? Dall’Atalanta al Genoa i nostri voti - Info Data - infodata.ilsole24ore.com",
-      "source": "infodata.ilsole24ore.com",
+      "title": "Blog | Serie A: come è andato quest’anno il calciomercato? Dall’Atalanta al Genoa i nostri voti - Info Data - Il Sole 24 ORE",
+      "source": "Il Sole 24 ORE",
       "published": "Fri, 11 Sep 2026 11:59:08 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "La Commissione presenta al Consiglio per la firma uno storico accordo commerciale con l’India - italy.representation.ec.europa.eu",
-      "source": "italy.representation.ec.europa.eu",
+      "title": "La Commissione presenta al Consiglio per la firma uno storico accordo commerciale con l’India - Rappresentanza in Italia - Commissione europea",
+      "source": "Rappresentanza in Italia - Commissione europea",
       "published": "Fri, 11 Sep 2026 12:00:00 GMT"
     },
     {
@@ -138,9 +138,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Intervista a Giulio Manfredi sull’accordo della Lega con Russia Unita e sui funerali di Mladic (11.09.2026) - Radio Radicale",
-      "source": "Radio Radicale",
-      "published": "Fri, 11 Sep 2026 16:30:00 GMT"
+      "title": "Toscana Strade, ora è tutto ufficiale: svolta storica per la Fi-Pi-Li. “Ora interventi sostanziali. Più avanti il pedaggio per i tir” - La Nazione",
+      "source": "La Nazione",
+      "published": "Sat, 12 Sep 2026 00:01:29 GMT"
     },
     {
       "type": "news",
@@ -152,15 +152,15 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A: clou con il Milan, Lazio prova a tenere il passo di Inter e Roma - ANSA",
-      "source": "ANSA",
+      "title": "Serie A: clou con il Milan, Lazio prova a tenere il passo di Inter e Roma - ansa.it",
+      "source": "ansa.it",
       "published": "Fri, 11 Sep 2026 15:19:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: Napoli-Arsenal in campo alle 21 DIRETTA - ANSA",
-      "source": "ANSA",
+      "title": "Champions League: Napoli-Arsenal in campo alle 21 DIRETTA - ansa.it",
+      "source": "ansa.it",
       "published": "Wed, 09 Sep 2026 09:56:00 GMT"
     },
     {
@@ -187,16 +187,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP, Alcaraz perde 1600 punti agli US Open | Come cambia la classifica - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "Wed, 09 Sep 2026 14:57:27 GMT"
+      "title": "Italiani allo US Open 2026 oggi: le partite del 10 settembre · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Wed, 09 Sep 2026 22:01:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "US Open, Zverev in finale remando: batte Khachanov e raggiunge Sinner nella Race - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Fri, 11 Sep 2026 23:02:24 GMT"
+      "title": "Ranking ATP, Alcaraz perde 1600 punti agli US Open | Come cambia la classifica - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Wed, 09 Sep 2026 14:57:27 GMT"
     },
     {
       "type": "news",
@@ -222,8 +222,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - fitp.it",
-      "source": "fitp.it",
+      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - FITP",
+      "source": "FITP",
       "published": "Wed, 26 Aug 2026 21:29:11 GMT"
     }
   ]
