@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T08:53:04.521016+00:00",
+  "updated_at": "2026-09-12T12:39:53.950586+00:00",
   "local_date": "2026-09-12",
   "articles": [
     {
@@ -131,30 +131,30 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Blog | Serie A: come è andato quest’anno il calciomercato? Dall’Atalanta al Genoa i nostri voti - Info Data - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
-      "published": "Fri, 11 Sep 2026 11:59:08 GMT"
+      "title": "Calciomercato, Milan: Bondo verso il reintegro. Novità anche per Palladino, Miranda, Scalvini e James Rodriguez - - Web Lombardia",
+      "source": "- Web Lombardia",
+      "published": "Sat, 12 Sep 2026 07:38:39 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "La Commissione presenta al Consiglio per la firma uno storico accordo commerciale con l’India - Rappresentanza in Italia - Commissione europea",
-      "source": "Rappresentanza in Italia - Commissione europea",
-      "published": "Fri, 11 Sep 2026 12:00:00 GMT"
+      "title": "Calcio serie C, novità Sardo nell'undici ufficiale del Pescara impegnato contro l'Atalanta U23 - Abruzzo Popolare",
+      "source": "Abruzzo Popolare",
+      "published": "Sat, 12 Sep 2026 12:25:47 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: Como da 9, Inter autolesionista, Napoli in crisi - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
+      "title": "Serie A Enilive | Lazio-Milan, i convocati biancocelesti - S.S. Lazio",
+      "source": "S.S. Lazio",
+      "published": "Sat, 12 Sep 2026 11:01:35 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Champions League: Como da 9, Inter autolesionista, Napoli in crisi - ilfattoquotidiano.it",
+      "source": "ilfattoquotidiano.it",
       "published": "Fri, 11 Sep 2026 12:54:18 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A: clou con il Milan, Lazio prova a tenere il passo di Inter e Roma - ANSA",
-      "source": "ANSA",
-      "published": "Fri, 11 Sep 2026 15:19:00 GMT"
     },
     {
       "type": "news",
@@ -173,13 +173,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "US Open, senza Sinner e Alcaraz crollano i prezzi: la semifinale a soli 19 dollari - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Fri, 11 Sep 2026 20:04:23 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Semifinale Zverev-Khachanov a 19 dollari! Senza Sinner e Alcaraz crollano i biglietti allo Us Open - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Fri, 11 Sep 2026 18:12:30 GMT"
@@ -187,23 +180,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Esperienza vs istinto, Zverev-Shelton in finale agli Us Open. Sasha tenta il sorpasso su Sinner nell'Atp Race - Quotidiano Nazionale",
-      "source": "Quotidiano Nazionale",
-      "published": "Sat, 12 Sep 2026 07:44:38 GMT"
+      "title": "US Open, senza Sinner e Alcaraz crollano i prezzi: la semifinale a soli 19 dollari - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Fri, 11 Sep 2026 20:04:23 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Italiani allo US Open 2026 oggi: le partite del 10 settembre · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Wed, 09 Sep 2026 22:01:00 GMT"
+      "title": "Sinner leader, Zverev e Shelton volano, Djokovic fuori dalla top 10! Alcaraz-Cobolli...: classifica Atp live - Tuttosport",
+      "source": "Tuttosport",
+      "published": "Sat, 12 Sep 2026 11:42:00 GMT"
     },
     {
       "type": "news",
-      "category": "PADEL",
-      "title": "Paris Major Premier Padel 2026: Orsi ai quarti di finale, Lebron che paura! - mrpadelpaddle.com",
-      "source": "mrpadelpaddle.com",
-      "published": "Fri, 11 Sep 2026 07:17:26 GMT"
+      "category": "TENNIS",
+      "title": "Esperienza vs istinto, Zverev-Shelton in finale agli Us Open. Sascha tenta il sorpasso su Sinner nell'Atp Race - Quotidiano Nazionale",
+      "source": "Quotidiano Nazionale",
+      "published": "Sat, 12 Sep 2026 07:45:18 GMT"
     },
     {
       "type": "news",
@@ -225,6 +218,13 @@
       "title": "Paris Major: il programma completo degli ottavi di finale di questo giovedì - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Thu, 10 Sep 2026 07:25:43 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Molti nuovi progetti debutteranno al FIP Platinum Lyon. - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 12 Sep 2026 08:10:08 GMT"
     }
   ]
 }
