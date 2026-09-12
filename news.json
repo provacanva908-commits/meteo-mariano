@@ -1,14 +1,28 @@
 {
-  "updated_at": "2026-09-12T18:03:17.515153+00:00",
+  "updated_at": "2026-09-12T20:30:43.765355+00:00",
   "local_date": "2026-09-12",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Premier League",
-      "home": "Tottenham",
-      "away": "Everton",
-      "time": "18:30",
+      "competition": "Serie A",
+      "home": "Atalanta",
+      "away": "Cagliari",
+      "time": "20:45",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 1,
+      "away_score": 2,
+      "is_live": true,
+      "local_date": "2026-09-12"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Ligue 1",
+      "home": "Paris FC",
+      "away": "Olympique Lyon",
+      "time": "20:45",
       "status": "IN_PLAY",
       "status_label": "LIVE",
       "home_score": 0,
@@ -19,13 +33,27 @@
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Primeira Liga",
-      "home": "Casa Pia",
-      "away": "Porto",
-      "time": "19:00",
+      "competition": "Premier League",
+      "home": "Sunderland",
+      "away": "Arsenal",
+      "time": "21:00",
       "status": "IN_PLAY",
       "status_label": "LIVE",
-      "home_score": 1,
+      "home_score": 0,
+      "away_score": 1,
+      "is_live": true,
+      "local_date": "2026-09-12"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Primera Division",
+      "home": "Real Madrid",
+      "away": "Rayo Vallecano",
+      "time": "21:00",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 3,
       "away_score": 1,
       "is_live": true,
       "local_date": "2026-09-12"
@@ -87,34 +115,6 @@
       "local_date": "2026-09-12"
     },
     {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "Sittard",
-      "away": "Ajax",
-      "time": "20:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-09-12"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Atalanta",
-      "away": "Cagliari",
-      "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-09-12"
-    },
-    {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "Pagellone calciomercato estivo Serie A 2026/2027: Inter e Roma regine, la Juventus si rinforza, dubbi sul Napoli - eurosport.it",
@@ -124,8 +124,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Inter, Dimarco la firma si avvicina. Via alla trattativa per il rinnovo fino al 2030 - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Inter, Dimarco la firma si avvicina. Via alla trattativa per il rinnovo fino al 2030 - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Sat, 12 Sep 2026 06:05:27 GMT"
     },
     {
@@ -152,79 +152,79 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: Napoli-Arsenal in campo alle 21 DIRETTA - ansa.it",
-      "source": "ansa.it",
+      "title": "Serie A Enilive | Lazio-Milan, le dichiarazioni post partita - S.S. Lazio",
+      "source": "S.S. Lazio",
+      "published": "Sat, 12 Sep 2026 19:11:52 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Champions League: Napoli-Arsenal in campo alle 21 DIRETTA - ANSA",
+      "source": "ANSA",
       "published": "Wed, 09 Sep 2026 09:56:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: Como da 9, Inter autolesionista, Napoli in crisi - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
+      "title": "Champions League: Como da 9, Inter autolesionista, Napoli in crisi - ilfattoquotidiano.it",
+      "source": "ilfattoquotidiano.it",
       "published": "Fri, 11 Sep 2026 12:54:18 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Coppa Italia ＬＩＶＥ: Milan-Lazio In Diretta - Loughborough University",
-      "source": "Loughborough University",
-      "published": "Sat, 12 Sep 2026 17:18:08 GMT"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
-      "title": "Semifinale Zverev-Khachanov a 19 dollari! Senza Sinner e Alcaraz crollano i biglietti allo Us Open - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Semifinale Zverev-Khachanov a 19 dollari! Senza Sinner e Alcaraz crollano i biglietti allo Us Open - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Fri, 11 Sep 2026 18:12:30 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "US Open, senza Sinner e Alcaraz crollano i prezzi: la semifinale a soli 19 dollari - sportmediaset.mediaset.it",
-      "source": "sportmediaset.mediaset.it",
+      "title": "US Open, senza Sinner e Alcaraz crollano i prezzi: la semifinale a soli 19 dollari - Sportmediaset",
+      "source": "Sportmediaset",
       "published": "Fri, 11 Sep 2026 20:04:23 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner leader, Zverev e Shelton volano, Djokovic fuori dalla top 10! Alcaraz-Cobolli...: classifica Atp live - tuttosport.com",
-      "source": "tuttosport.com",
-      "published": "Sat, 12 Sep 2026 11:42:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner insidiato da Zverev, Alcaraz resta lontanissimo: come cambia il Ranking ATP agli US Open - fanpage.it",
-      "source": "fanpage.it",
+      "title": "Sinner insidiato da Zverev, Alcaraz resta lontanissimo: come cambia il Ranking ATP agli US Open - Fanpage",
+      "source": "Fanpage",
       "published": "Wed, 09 Sep 2026 08:52:25 GMT"
     },
     {
       "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner leader, Zverev e Shelton volano, Djokovic fuori dalla top 10! Alcaraz-Cobolli...: classifica Atp live - Tuttosport",
+      "source": "Tuttosport",
+      "published": "Sat, 12 Sep 2026 11:42:00 GMT"
+    },
+    {
+      "type": "news",
       "category": "PADEL",
-      "title": "Paris Major: Di Nenno e Navarro sconfiggono Stupaczuk/Sanz e si uniscono ai favoriti in semifinale - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Fri, 11 Sep 2026 19:52:49 GMT"
+      "title": "EA7 World Legends Padel Tour: trionfo argentino a Roma con Perotti e Saviola, Totti e Rakitic ko in semifinale - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Sat, 12 Sep 2026 19:31:50 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
       "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - FITP",
       "source": "FITP",
-      "published": "Wed, 26 Aug 2026 21:29:11 GMT"
+      "published": "Wed, 26 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Tapia e Coello eliminano Lebrón/Augsburger e puntano al quarto titolo consecutivo al Major di Parigi - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sat, 12 Sep 2026 16:09:36 GMT"
+      "title": "EA7 World Legends Padel Tour, trionfo argentino a Roma: vincono Pierotti e Saviola, battuti in finale Vieri e Locatelli - Il Messaggero",
+      "source": "Il Messaggero",
+      "published": "Sat, 12 Sep 2026 18:47:51 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Major di Parigi: Sánchez e Ustero sconfiggono Ortega/Araújo e raggiungono insieme la loro prima finale in un Major. - padel-magazine.it",
+      "title": "Paris Major: Fernández e Calvo danno una lezione ai numeri 1 e accedono alla finale - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Sat, 12 Sep 2026 13:46:45 GMT"
+      "published": "Sat, 12 Sep 2026 17:51:10 GMT"
     }
   ]
 }
