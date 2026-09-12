@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-09-12T15:51:54.118977+00:00",
+  "updated_at": "2026-09-12T18:03:17.515153+00:00",
   "local_date": "2026-09-12",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Premier League",
-      "home": "Chelsea",
-      "away": "Hull City",
-      "time": "16:00",
+      "home": "Tottenham",
+      "away": "Everton",
+      "time": "18:30",
       "status": "IN_PLAY",
       "status_label": "LIVE",
-      "home_score": 2,
-      "away_score": 2,
+      "home_score": 0,
+      "away_score": 0,
       "is_live": true,
       "local_date": "2026-09-12"
     },
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Premier League",
-      "home": "Liverpool",
-      "away": "Fulham",
-      "time": "16:00",
+      "competition": "Primeira Liga",
+      "home": "Casa Pia",
+      "away": "Porto",
+      "time": "19:00",
       "status": "IN_PLAY",
       "status_label": "LIVE",
-      "home_score": 0,
-      "away_score": 0,
+      "home_score": 1,
+      "away_score": 1,
       "is_live": true,
       "local_date": "2026-09-12"
     },
@@ -47,14 +47,14 @@
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Lazio",
-      "away": "Milan",
-      "time": "18:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "competition": "Premier League",
+      "home": "Liverpool",
+      "away": "Fulham",
+      "time": "16:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 0,
+      "away_score": 0,
       "is_live": false,
       "local_date": "2026-09-12"
     },
@@ -62,27 +62,27 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "Premier League",
-      "home": "Tottenham",
-      "away": "Everton",
-      "time": "18:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "home": "Chelsea",
+      "away": "Hull City",
+      "time": "16:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
+      "away_score": 2,
       "is_live": false,
       "local_date": "2026-09-12"
     },
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Primeira Liga",
-      "home": "Casa Pia",
-      "away": "Porto",
-      "time": "19:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "competition": "Serie A",
+      "home": "Lazio",
+      "away": "Milan",
+      "time": "18:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
+      "away_score": 2,
       "is_live": false,
       "local_date": "2026-09-12"
     },
@@ -113,6 +113,118 @@
       "away_score": null,
       "is_live": false,
       "local_date": "2026-09-12"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Pagellone calciomercato estivo Serie A 2026/2027: Inter e Roma regine, la Juventus si rinforza, dubbi sul Napoli - eurosport.it",
+      "source": "eurosport.it",
+      "published": "Wed, 02 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Inter, Dimarco la firma si avvicina. Via alla trattativa per il rinnovo fino al 2030 - gazzetta.it",
+      "source": "gazzetta.it",
+      "published": "Sat, 12 Sep 2026 06:05:27 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "✔️[DIRETTA UFFICIALE] Lazio - AC Milan Diretta Streaming Gratis TV - Loughborough University",
+      "source": "Loughborough University",
+      "published": "Sat, 12 Sep 2026 15:53:59 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "CCNL Legno Arredo Industria: firmata l’ipotesi di accordo per il rinnovo - Confindustria Ancona",
+      "source": "Confindustria Ancona",
+      "published": "Tue, 08 Sep 2026 07:19:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A Enilive | Lazio-Milan, le dichiarazioni di Provstgaard nel pre partita - S.S. Lazio",
+      "source": "S.S. Lazio",
+      "published": "Sat, 12 Sep 2026 15:37:21 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Champions League: Napoli-Arsenal in campo alle 21 DIRETTA - ansa.it",
+      "source": "ansa.it",
+      "published": "Wed, 09 Sep 2026 09:56:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Champions League: Como da 9, Inter autolesionista, Napoli in crisi - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Fri, 11 Sep 2026 12:54:18 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Coppa Italia ＬＩＶＥ: Milan-Lazio In Diretta - Loughborough University",
+      "source": "Loughborough University",
+      "published": "Sat, 12 Sep 2026 17:18:08 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Semifinale Zverev-Khachanov a 19 dollari! Senza Sinner e Alcaraz crollano i biglietti allo Us Open - gazzetta.it",
+      "source": "gazzetta.it",
+      "published": "Fri, 11 Sep 2026 18:12:30 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "US Open, senza Sinner e Alcaraz crollano i prezzi: la semifinale a soli 19 dollari - sportmediaset.mediaset.it",
+      "source": "sportmediaset.mediaset.it",
+      "published": "Fri, 11 Sep 2026 20:04:23 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner leader, Zverev e Shelton volano, Djokovic fuori dalla top 10! Alcaraz-Cobolli...: classifica Atp live - tuttosport.com",
+      "source": "tuttosport.com",
+      "published": "Sat, 12 Sep 2026 11:42:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner insidiato da Zverev, Alcaraz resta lontanissimo: come cambia il Ranking ATP agli US Open - fanpage.it",
+      "source": "fanpage.it",
+      "published": "Wed, 09 Sep 2026 08:52:25 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Paris Major: Di Nenno e Navarro sconfiggono Stupaczuk/Sanz e si uniscono ai favoriti in semifinale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Fri, 11 Sep 2026 19:52:49 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - FITP",
+      "source": "FITP",
+      "published": "Wed, 26 Aug 2026 21:29:11 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Tapia e Coello eliminano Lebrón/Augsburger e puntano al quarto titolo consecutivo al Major di Parigi - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 12 Sep 2026 16:09:36 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Major di Parigi: Sánchez e Ustero sconfiggono Ortega/Araújo e raggiungono insieme la loro prima finale in un Major. - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 12 Sep 2026 13:46:45 GMT"
     }
   ]
 }
