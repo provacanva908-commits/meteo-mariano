@@ -1,131 +1,61 @@
 {
-  "updated_at": "2026-09-13T21:49:21.783738+00:00",
-  "local_date": "2026-09-13",
+  "updated_at": "2026-09-13T23:46:50.461670+00:00",
+  "local_date": "2026-09-14",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Lecce",
-      "away": "Monza",
-      "time": "15:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 3,
-      "away_score": 2,
+      "home": "Torino",
+      "away": "Roma",
+      "time": "18:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-09-13"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "Zwolle",
-      "away": "Feyenoord",
-      "time": "16:45",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 0,
-      "away_score": 7,
-      "is_live": false,
-      "local_date": "2026-09-13"
+      "local_date": "2026-09-14"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Napoli",
-      "away": "Bologna",
-      "time": "18:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 1,
-      "away_score": 0,
+      "home": "Como 1907",
+      "away": "Parma",
+      "time": "18:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-09-13"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Primeira Liga",
-      "home": "SL Benfica",
-      "away": "Gil Vicente",
-      "time": "19:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 3,
-      "away_score": 1,
-      "is_live": false,
-      "local_date": "2026-09-13"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "PSV",
-      "away": "Sparta",
-      "time": "20:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 4,
-      "away_score": 1,
-      "is_live": false,
-      "local_date": "2026-09-13"
+      "local_date": "2026-09-14"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Sassuolo",
-      "away": "Juventus",
+      "home": "Inter",
+      "away": "Udinese",
       "time": "20:45",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 3,
-      "away_score": 2,
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-09-13"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Ligue 1",
-      "home": "Brest",
-      "away": "PSG",
-      "time": "20:45",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 0,
-      "away_score": 1,
-      "is_live": false,
-      "local_date": "2026-09-13"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Primeira Liga",
-      "home": "Famalicão",
-      "away": "Sporting CP",
-      "time": "21:30",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 1,
-      "away_score": 1,
-      "is_live": false,
-      "local_date": "2026-09-13"
+      "local_date": "2026-09-14"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "Aree interne, delega all’assessore Ingala per firmare l’accordo di programma quadro - Il Moderatore",
       "source": "Il Moderatore",
-      "published": "Sun, 13 Sep 2026 11:17:30 GMT"
+      "published": "Sun, 13 Sep 2026 11:58:50 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "CCNL Legno Arredo Industria: firmata l’ipotesi di accordo per il rinnovo - confindustria.an.it",
-      "source": "confindustria.an.it",
+      "title": "CCNL Legno Arredo Industria: firmata l’ipotesi di accordo per il rinnovo - Confindustria Ancona",
+      "source": "Confindustria Ancona",
       "published": "Tue, 08 Sep 2026 07:19:00 GMT"
     },
     {
@@ -145,8 +75,8 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, il Sassuolo batte la Juventus nel finale. Vincono anche Lecce e Napoli - Radio RTL 102.5",
-      "source": "Radio RTL 102.5",
+      "title": "Serie A, il Sassuolo batte la Juventus nel finale. Vincono anche Lecce e Napoli - rtl.it",
+      "source": "rtl.it",
       "published": "Sun, 13 Sep 2026 21:12:33 GMT"
     },
     {
@@ -159,16 +89,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League. Finale a Belgrado, Brescia parte da Tbilisi - Federazione Italiana Nuoto",
-      "source": "Federazione Italiana Nuoto",
-      "published": "Fri, 11 Sep 2026 19:13:51 GMT"
+      "title": "Serie A, la quarta giornata: rimonta Milan a Roma e impresa Sassuolo contro la Juventus - La Voce di New York",
+      "source": "La Voce di New York",
+      "published": "Sun, 13 Sep 2026 22:13:47 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, Sassuolo-Juventus 3-2: finale folle al Mapei, Adzic decide al 94’ - Allora! Italian Australian News",
-      "source": "Allora! Italian Australian News",
-      "published": "Sun, 13 Sep 2026 21:20:10 GMT"
+      "title": "Champions League. Finale a Belgrado, Brescia parte da Tbilisi - Federazione Italiana Nuoto",
+      "source": "Federazione Italiana Nuoto",
+      "published": "Fri, 11 Sep 2026 19:13:51 GMT"
     },
     {
       "type": "news",
