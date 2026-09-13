@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T04:59:13.302418+00:00",
+  "updated_at": "2026-09-13T10:09:46.884776+00:00",
   "local_date": "2026-09-13",
   "articles": [
     {
@@ -9,20 +9,6 @@
       "home": "Lecce",
       "away": "Monza",
       "time": "15:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-09-13"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "Zwolle",
-      "away": "Feyenoord",
-      "time": "16:45",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -51,20 +37,6 @@
       "home": "SL Benfica",
       "away": "Gil Vicente",
       "time": "19:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-09-13"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "PSV",
-      "away": "Sparta",
-      "time": "20:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -115,6 +87,34 @@
       "local_date": "2026-09-13"
     },
     {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Eredivisie",
+      "home": "Zwolle",
+      "away": "Feyenoord",
+      "time": "16:45",
+      "status": "2026-09-13 14:45:00Z",
+      "status_label": "2026-09-13 14:45:00Z",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-09-13"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Eredivisie",
+      "home": "PSV",
+      "away": "Sparta",
+      "time": "20:00",
+      "status": "2026-09-13 18:00:00Z",
+      "status_label": "2026-09-13 18:00:00Z",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-09-13"
+    },
+    {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "Pagellone calciomercato estivo Serie A 2026/2027: Inter e Roma regine, la Juventus si rinforza, dubbi sul Napoli - eurosport.it",
@@ -145,23 +145,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Enilive | Lazio-Milan, le dichiarazioni di Provstgaard nel pre partita - S.S. Lazio",
-      "source": "S.S. Lazio",
-      "published": "Sat, 12 Sep 2026 15:36:44 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A Enilive | Lazio-Milan, le dichiarazioni post partita - S.S. Lazio",
-      "source": "S.S. Lazio",
-      "published": "Sat, 12 Sep 2026 19:11:53 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League: Como da 9, Inter autolesionista, Napoli in crisi - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "Fri, 11 Sep 2026 12:54:18 GMT"
+      "title": "Serie A Women's Cup | Juventus Women-Inter | La partita - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Sat, 12 Sep 2026 23:40:46 GMT"
     },
     {
       "type": "news",
@@ -172,10 +158,24 @@
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Semifinale Zverev-Khachanov a 19 dollari! Senza Sinner e Alcaraz crollano i biglietti allo Us Open - La Gazzetta dello Sport",
+      "category": "CALCIO",
+      "title": "Serie A Enilive | Lazio-Milan, le formazioni ufficiali - S.S. Lazio",
+      "source": "S.S. Lazio",
+      "published": "Sat, 12 Sep 2026 15:03:10 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Pronostico Torino-Roma quote risultato IA 4ª giornata Serie A - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
-      "published": "Fri, 11 Sep 2026 18:12:30 GMT"
+      "published": "Sun, 13 Sep 2026 08:30:12 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Quanti punti guadagna Zverev su Sinner se vince la finale degli US Open: le proiezioni per ranking ATP e Race - OA Sport",
+      "source": "OA Sport",
+      "published": "Sun, 13 Sep 2026 06:38:01 GMT"
     },
     {
       "type": "news",
@@ -187,16 +187,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner leader, Zverev e Shelton volano, Djokovic fuori dalla top 10! Alcaraz-Cobolli...: classifica Atp live - Tuttosport",
-      "source": "Tuttosport",
-      "published": "Sat, 12 Sep 2026 11:42:00 GMT"
+      "title": "Sinner insidiato da Zverev, Alcaraz resta lontanissimo: come cambia il Ranking ATP agli US Open - Fanpage",
+      "source": "Fanpage",
+      "published": "Wed, 09 Sep 2026 08:52:25 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner insidiato da Zverev, Alcaraz resta lontanissimo: come cambia il Ranking ATP agli US Open - Fanpage",
+      "title": "Sabalenka perde il controllo e spacca la racchetta dopo la sconfitta nella finale US Open: \"Volevo sfogare la delusione\" - Fanpage",
       "source": "Fanpage",
-      "published": "Wed, 09 Sep 2026 08:52:25 GMT"
+      "published": "Sun, 13 Sep 2026 06:51:05 GMT"
     },
     {
       "type": "news",
@@ -208,16 +208,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "EA7 World Legends Padel Tour: trionfo argentino a Roma con Perotti e Saviola, Totti e Rakitic ko in semifinale - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Sat, 12 Sep 2026 19:31:50 GMT"
+      "title": "Paris Major: Tapia/Coello e Chingalan non tradiscono. Calvo/Fernandez show! - padelmagazine.it",
+      "source": "padelmagazine.it",
+      "published": "Sat, 12 Sep 2026 20:30:09 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Paris Major: Tapia/Coello e Chingalan non tradiscono. Calvo/Fernandez show! - padelmagazine.it",
-      "source": "padelmagazine.it",
-      "published": "Sat, 12 Sep 2026 20:30:09 GMT"
+      "title": "EA7 World Legends Padel Tour: trionfo argentino a Roma con Perotti e Saviola, Totti e Rakitic ko in semifinale - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Sat, 12 Sep 2026 19:31:50 GMT"
     },
     {
       "type": "news",
