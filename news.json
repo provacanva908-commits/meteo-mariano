@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T10:09:46.884776+00:00",
+  "updated_at": "2026-09-13T14:25:34.979866+00:00",
   "local_date": "2026-09-13",
   "articles": [
     {
@@ -9,6 +9,20 @@
       "home": "Lecce",
       "away": "Monza",
       "time": "15:00",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 3,
+      "away_score": 1,
+      "is_live": true,
+      "local_date": "2026-09-13"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Eredivisie",
+      "home": "Zwolle",
+      "away": "Feyenoord",
+      "time": "16:45",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -37,6 +51,20 @@
       "home": "SL Benfica",
       "away": "Gil Vicente",
       "time": "19:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-09-13"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Eredivisie",
+      "home": "PSV",
+      "away": "Sparta",
+      "time": "20:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -87,34 +115,6 @@
       "local_date": "2026-09-13"
     },
     {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "Zwolle",
-      "away": "Feyenoord",
-      "time": "16:45",
-      "status": "2026-09-13 14:45:00Z",
-      "status_label": "2026-09-13 14:45:00Z",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-09-13"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "PSV",
-      "away": "Sparta",
-      "time": "20:00",
-      "status": "2026-09-13 18:00:00Z",
-      "status_label": "2026-09-13 18:00:00Z",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-09-13"
-    },
-    {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "Pagellone calciomercato estivo Serie A 2026/2027: Inter e Roma regine, la Juventus si rinforza, dubbi sul Napoli - eurosport.it",
@@ -131,16 +131,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "CCNL Legno Arredo Industria: firmata l’ipotesi di accordo per il rinnovo - Confindustria Ancona",
-      "source": "Confindustria Ancona",
-      "published": "Tue, 08 Sep 2026 07:19:00 GMT"
+      "title": "Aree interne, delega all’assessore Ingala per firmare l’accordo di programma quadro - Il Moderatore",
+      "source": "Il Moderatore",
+      "published": "Sun, 13 Sep 2026 10:57:50 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "✔️[DIRETTA UFFICIALE] Lazio - AC Milan Diretta Streaming Gratis TV - Loughborough University",
-      "source": "Loughborough University",
-      "published": "Sat, 12 Sep 2026 15:53:59 GMT"
+      "title": "CCNL Legno Arredo Industria: firmata l’ipotesi di accordo per il rinnovo - Confindustria Ancona",
+      "source": "Confindustria Ancona",
+      "published": "Tue, 08 Sep 2026 07:19:00 GMT"
     },
     {
       "type": "news",
@@ -152,23 +152,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "La Juventus vola in finale di Serie A Women’s Cup! Inter ko 1-0, decisivo l’autogol di van Diemen - FIGC",
-      "source": "FIGC",
-      "published": "Sat, 12 Sep 2026 12:16:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A Enilive | Lazio-Milan, le formazioni ufficiali - S.S. Lazio",
-      "source": "S.S. Lazio",
-      "published": "Sat, 12 Sep 2026 15:03:10 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Pronostico Torino-Roma quote risultato IA 4ª giornata Serie A - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 13 Sep 2026 08:30:12 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A Women's Cup, Inter sconfitta in semifinale dalla Juventus - Inter.it",
+      "source": "Inter.it",
+      "published": "Sat, 12 Sep 2026 21:05:05 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A, le probabili formazioni di oggi: Lecce-Monza, Napoli-Bologna e Sassuolo-Juve - Diretta",
+      "source": "Diretta",
+      "published": "Sun, 13 Sep 2026 06:13:11 GMT"
     },
     {
       "type": "news",
@@ -180,30 +180,37 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "US Open, senza Sinner e Alcaraz crollano i prezzi: la semifinale a soli 19 dollari - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Fri, 11 Sep 2026 20:04:23 GMT"
+      "title": "Sinner, a rischio il posto da numero 1 al mondo: ecco quanti punti guadagna su Zverev se vince la finale degli US Open - Il Messaggero",
+      "source": "Il Messaggero",
+      "published": "Sun, 13 Sep 2026 13:09:59 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner insidiato da Zverev, Alcaraz resta lontanissimo: come cambia il Ranking ATP agli US Open - Fanpage",
-      "source": "Fanpage",
-      "published": "Wed, 09 Sep 2026 08:52:25 GMT"
+      "title": "Zverev-Shelton è una finale potentissima: c'è vita nel tennis oltre Sinner-Alcaraz - eurosport.it",
+      "source": "eurosport.it",
+      "published": "Sun, 13 Sep 2026 10:31:31 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sabalenka perde il controllo e spacca la racchetta dopo la sconfitta nella finale US Open: \"Volevo sfogare la delusione\" - Fanpage",
-      "source": "Fanpage",
+      "title": "Sabalenka perde il controllo e spacca la racchetta dopo la sconfitta nella finale US Open: \"Volevo sfogare la delusione\" - fanpage.it",
+      "source": "fanpage.it",
       "published": "Sun, 13 Sep 2026 06:51:05 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Galán e Chingotto di nuovo in finale a Parigi, un altro incontro con Tapia / Coello - padel-magazine.it",
+      "title": "Galán e Chingotto sono di nuovo in finale a Parigi, un altro scontro con Tapia/Coello - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sat, 12 Sep 2026 19:22:27 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Dardaine e Mansart si fermano a un passo dalla finale del FIP Silver Utrecht. - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sun, 13 Sep 2026 13:11:53 GMT"
     },
     {
       "type": "news",
@@ -215,16 +222,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "EA7 World Legends Padel Tour: trionfo argentino a Roma con Perotti e Saviola, Totti e Rakitic ko in semifinale - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Sat, 12 Sep 2026 19:31:50 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - FITP",
-      "source": "FITP",
-      "published": "Wed, 26 Aug 2026 07:00:00 GMT"
+      "title": "Paris Major Premier Padel 2026: Ottavi di finale, con Dal Pozzo e Orsi - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Thu, 10 Sep 2026 07:23:01 GMT"
     }
   ]
 }
