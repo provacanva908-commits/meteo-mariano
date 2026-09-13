@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-09-13T17:35:30.892019+00:00",
+  "updated_at": "2026-09-13T19:46:54.019214+00:00",
   "local_date": "2026-09-13",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Napoli",
-      "away": "Bologna",
-      "time": "18:00",
+      "competition": "Eredivisie",
+      "home": "PSV",
+      "away": "Sparta",
+      "time": "20:00",
       "status": "IN_PLAY",
       "status_label": "LIVE",
-      "home_score": 1,
-      "away_score": 0,
+      "home_score": 3,
+      "away_score": 1,
       "is_live": true,
       "local_date": "2026-09-13"
     },
@@ -20,11 +20,39 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "Primeira Liga",
-      "home": "SL Benfica",
-      "away": "Gil Vicente",
-      "time": "19:00",
+      "home": "Famalicão",
+      "away": "Sporting CP",
+      "time": "21:30",
       "status": "IN_PLAY",
       "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "is_live": true,
+      "local_date": "2026-09-13"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Sassuolo",
+      "away": "Juventus",
+      "time": "20:45",
+      "status": "PAUSED",
+      "status_label": "Intervallo",
+      "home_score": 0,
+      "away_score": 0,
+      "is_live": true,
+      "local_date": "2026-09-13"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Ligue 1",
+      "home": "Brest",
+      "away": "PSG",
+      "time": "20:45",
+      "status": "PAUSED",
+      "status_label": "Intervallo",
       "home_score": 0,
       "away_score": 1,
       "is_live": true,
@@ -62,27 +90,13 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Sassuolo",
-      "away": "Juventus",
-      "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-09-13"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Ligue 1",
-      "home": "Brest",
-      "away": "PSG",
-      "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "home": "Napoli",
+      "away": "Bologna",
+      "time": "18:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 0,
       "is_live": false,
       "local_date": "2026-09-13"
     },
@@ -90,27 +104,13 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "Primeira Liga",
-      "home": "Famalicão",
-      "away": "Sporting CP",
-      "time": "21:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-09-13"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "PSV",
-      "away": "Sparta",
-      "time": "20:00",
-      "status": "2026-09-13 18:00:00Z",
-      "status_label": "2026-09-13 18:00:00Z",
-      "home_score": null,
-      "away_score": null,
+      "home": "SL Benfica",
+      "away": "Gil Vicente",
+      "time": "19:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 3,
+      "away_score": 1,
       "is_live": false,
       "local_date": "2026-09-13"
     },
@@ -124,16 +124,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Inter, Dimarco la firma si avvicina. Via alla trattativa per il rinnovo fino al 2030 - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Inter, Dimarco la firma si avvicina. Via alla trattativa per il rinnovo fino al 2030 - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Sat, 12 Sep 2026 06:05:27 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Aree interne, delega all’assessore Ingala per firmare l’accordo di programma quadro - Il Moderatore",
-      "source": "Il Moderatore",
-      "published": "Sun, 13 Sep 2026 10:58:50 GMT"
+      "title": "Aree interne, delega all’assessore Ingala per firmare l’accordo di programma quadro - ilmoderatore.it",
+      "source": "ilmoderatore.it",
+      "published": "Sun, 13 Sep 2026 11:17:30 GMT"
     },
     {
       "type": "news",
@@ -145,22 +145,8 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "SERIE A ENILIVE | I CONVOCATI PER COMO-PARMA - parmacalcio1913.com",
-      "source": "parmacalcio1913.com",
-      "published": "Sun, 13 Sep 2026 16:00:10 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, risultati: Lecce-Monza finisce 3-2. Alle 18 Napoli-Bologna, poi Sassuolo-Juventus - Sky TG24",
-      "source": "Sky TG24",
-      "published": "Sun, 13 Sep 2026 15:08:05 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A Women's Cup | Juventus Women-Inter | La partita - juventus.com",
-      "source": "juventus.com",
+      "title": "Serie A Women's Cup | Juventus Women-Inter | La partita - Juventus.com",
+      "source": "Juventus.com",
       "published": "Sat, 12 Sep 2026 23:40:46 GMT"
     },
     {
@@ -172,6 +158,20 @@
     },
     {
       "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A, Napoli torna a vincere: Cagliari corsaro a Bergamo, Lecce batte il Monza. Tutti i risultati della 4ª giornata - Allora! Italian Australian News",
+      "source": "Allora! Italian Australian News",
+      "published": "Sun, 13 Sep 2026 18:27:47 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Coppa Italia 2026/27, il tabellone aggiornato sino alla finale del 19 maggio 2027 - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Sun, 13 Sep 2026 17:34:52 GMT"
+    },
+    {
+      "type": "news",
       "category": "TENNIS",
       "title": "Quanti punti guadagna Zverev su Sinner se vince la finale degli US Open: le proiezioni per ranking ATP e Race - OA Sport",
       "source": "OA Sport",
@@ -180,9 +180,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner, a rischio il posto da numero 1 al mondo: ecco quanti punti guadagna Zverev se vince la finale degli US Open - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "Sun, 13 Sep 2026 17:19:14 GMT"
+      "title": "Sinner, a rischio il posto da numero 1 al mondo: ecco quanti punti guadagna Zverev se vince la finale degli US Open - Il Gazzettino",
+      "source": "Il Gazzettino",
+      "published": "Sun, 13 Sep 2026 17:19:15 GMT"
     },
     {
       "type": "news",
@@ -194,16 +194,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Il ranking ATP degli italiani dopo gli US Open: Sinner resta n.1, Cobolli in top-10, scivolone di Musetti - OA Sport",
+      "title": "Quante posizioni guadagna Shelton nel ranking ATP se vince gli US Open: sorpasso su Alcaraz nella Race già effettuato - OA Sport",
       "source": "OA Sport",
-      "published": "Sun, 13 Sep 2026 15:52:00 GMT"
+      "published": "Sun, 13 Sep 2026 11:03:06 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - gazzetta.it",
-      "source": "gazzetta.it",
-      "published": "Sun, 13 Sep 2026 17:26:44 GMT"
+      "title": "Tapia/Coello, poker a Parigi: Chingalan ko in una finale memorabile! - padelmagazine.it",
+      "source": "padelmagazine.it",
+      "published": "Sun, 13 Sep 2026 18:17:26 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 13 Sep 2026 17:27:23 GMT"
     },
     {
       "type": "news",
@@ -218,13 +225,6 @@
       "title": "Paris Major Premier Padel 2026: Oggi finale con El Clasico e le terribili ragazze - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Sun, 13 Sep 2026 08:50:08 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Paris Major: Tapia/Coello e Chingalan non tradiscono. Calvo/Fernandez show! - padelmagazine.it",
-      "source": "padelmagazine.it",
-      "published": "Sat, 12 Sep 2026 20:30:09 GMT"
     }
   ]
 }
