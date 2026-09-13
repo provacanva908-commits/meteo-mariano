@@ -1,35 +1,7 @@
 {
-  "updated_at": "2026-09-13T14:25:34.979866+00:00",
+  "updated_at": "2026-09-13T17:35:30.892019+00:00",
   "local_date": "2026-09-13",
   "articles": [
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Lecce",
-      "away": "Monza",
-      "time": "15:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 3,
-      "away_score": 1,
-      "is_live": true,
-      "local_date": "2026-09-13"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "Zwolle",
-      "away": "Feyenoord",
-      "time": "16:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-09-13"
-    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -37,11 +9,11 @@
       "home": "Napoli",
       "away": "Bologna",
       "time": "18:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 1,
+      "away_score": 0,
+      "is_live": true,
       "local_date": "2026-09-13"
     },
     {
@@ -51,10 +23,24 @@
       "home": "SL Benfica",
       "away": "Gil Vicente",
       "time": "19:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 1,
+      "is_live": true,
+      "local_date": "2026-09-13"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Lecce",
+      "away": "Monza",
+      "time": "15:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 3,
+      "away_score": 2,
       "is_live": false,
       "local_date": "2026-09-13"
     },
@@ -62,13 +48,13 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "Eredivisie",
-      "home": "PSV",
-      "away": "Sparta",
-      "time": "20:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "home": "Zwolle",
+      "away": "Feyenoord",
+      "time": "16:45",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 0,
+      "away_score": 7,
       "is_live": false,
       "local_date": "2026-09-13"
     },
@@ -115,6 +101,20 @@
       "local_date": "2026-09-13"
     },
     {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Eredivisie",
+      "home": "PSV",
+      "away": "Sparta",
+      "time": "20:00",
+      "status": "2026-09-13 18:00:00Z",
+      "status_label": "2026-09-13 18:00:00Z",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-09-13"
+    },
+    {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "Pagellone calciomercato estivo Serie A 2026/2027: Inter e Roma regine, la Juventus si rinforza, dubbi sul Napoli - eurosport.it",
@@ -124,8 +124,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Inter, Dimarco la firma si avvicina. Via alla trattativa per il rinnovo fino al 2030 - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Inter, Dimarco la firma si avvicina. Via alla trattativa per il rinnovo fino al 2030 - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Sat, 12 Sep 2026 06:05:27 GMT"
     },
     {
@@ -133,7 +133,7 @@
       "category": "CALCIOMERCATO",
       "title": "Aree interne, delega all’assessore Ingala per firmare l’accordo di programma quadro - Il Moderatore",
       "source": "Il Moderatore",
-      "published": "Sun, 13 Sep 2026 10:57:50 GMT"
+      "published": "Sun, 13 Sep 2026 10:58:50 GMT"
     },
     {
       "type": "news",
@@ -145,30 +145,30 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Women's Cup | Juventus Women-Inter | La partita - Juventus.com",
-      "source": "Juventus.com",
+      "title": "SERIE A ENILIVE | I CONVOCATI PER COMO-PARMA - parmacalcio1913.com",
+      "source": "parmacalcio1913.com",
+      "published": "Sun, 13 Sep 2026 16:00:10 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A, risultati: Lecce-Monza finisce 3-2. Alle 18 Napoli-Bologna, poi Sassuolo-Juventus - Sky TG24",
+      "source": "Sky TG24",
+      "published": "Sun, 13 Sep 2026 15:08:05 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A Women's Cup | Juventus Women-Inter | La partita - juventus.com",
+      "source": "juventus.com",
       "published": "Sat, 12 Sep 2026 23:40:46 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Pronostico Torino-Roma quote risultato IA 4ª giornata Serie A - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 13 Sep 2026 08:30:12 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A Women's Cup, Inter sconfitta in semifinale dalla Juventus - Inter.it",
-      "source": "Inter.it",
-      "published": "Sat, 12 Sep 2026 21:05:05 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, le probabili formazioni di oggi: Lecce-Monza, Napoli-Bologna e Sassuolo-Juve - Diretta",
-      "source": "Diretta",
-      "published": "Sun, 13 Sep 2026 06:13:11 GMT"
+      "title": "Champions League. Finale a Belgrado, Brescia parte da Tbilisi - Federazione Italiana Nuoto",
+      "source": "Federazione Italiana Nuoto",
+      "published": "Fri, 11 Sep 2026 19:13:51 GMT"
     },
     {
       "type": "news",
@@ -180,9 +180,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner, a rischio il posto da numero 1 al mondo: ecco quanti punti guadagna su Zverev se vince la finale degli US Open - Il Messaggero",
+      "title": "Sinner, a rischio il posto da numero 1 al mondo: ecco quanti punti guadagna Zverev se vince la finale degli US Open - Il Messaggero",
       "source": "Il Messaggero",
-      "published": "Sun, 13 Sep 2026 13:09:59 GMT"
+      "published": "Sun, 13 Sep 2026 17:19:14 GMT"
     },
     {
       "type": "news",
@@ -194,9 +194,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sabalenka perde il controllo e spacca la racchetta dopo la sconfitta nella finale US Open: \"Volevo sfogare la delusione\" - fanpage.it",
-      "source": "fanpage.it",
-      "published": "Sun, 13 Sep 2026 06:51:05 GMT"
+      "title": "Il ranking ATP degli italiani dopo gli US Open: Sinner resta n.1, Cobolli in top-10, scivolone di Musetti - OA Sport",
+      "source": "OA Sport",
+      "published": "Sun, 13 Sep 2026 15:52:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - gazzetta.it",
+      "source": "gazzetta.it",
+      "published": "Sun, 13 Sep 2026 17:26:44 GMT"
     },
     {
       "type": "news",
@@ -208,9 +215,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Dardaine e Mansart si fermano a un passo dalla finale del FIP Silver Utrecht. - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sun, 13 Sep 2026 13:11:53 GMT"
+      "title": "Paris Major Premier Padel 2026: Oggi finale con El Clasico e le terribili ragazze - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Sun, 13 Sep 2026 08:50:08 GMT"
     },
     {
       "type": "news",
@@ -218,13 +225,6 @@
       "title": "Paris Major: Tapia/Coello e Chingalan non tradiscono. Calvo/Fernandez show! - padelmagazine.it",
       "source": "padelmagazine.it",
       "published": "Sat, 12 Sep 2026 20:30:09 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Paris Major Premier Padel 2026: Ottavi di finale, con Dal Pozzo e Orsi - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Thu, 10 Sep 2026 07:23:01 GMT"
     }
   ]
 }
