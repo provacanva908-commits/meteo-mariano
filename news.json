@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T00:16:19.179629+00:00",
+  "updated_at": "2026-09-13T04:59:13.302418+00:00",
   "local_date": "2026-09-13",
   "articles": [
     {
@@ -131,23 +131,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "✔️[DIRETTA UFFICIALE] Lazio - AC Milan Diretta Streaming Gratis TV - Loughborough University",
-      "source": "Loughborough University",
-      "published": "Sat, 12 Sep 2026 15:53:59 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "CCNL Legno Arredo Industria: firmata l’ipotesi di accordo per il rinnovo - Confindustria Ancona",
       "source": "Confindustria Ancona",
       "published": "Tue, 08 Sep 2026 07:19:00 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A Enilive | Lazio-Milan, le dichiarazioni post partita - S.S. Lazio",
-      "source": "S.S. Lazio",
-      "published": "Sat, 12 Sep 2026 19:37:03 GMT"
+      "category": "CALCIOMERCATO",
+      "title": "✔️[DIRETTA UFFICIALE] Lazio - AC Milan Diretta Streaming Gratis TV - Loughborough University",
+      "source": "Loughborough University",
+      "published": "Sat, 12 Sep 2026 15:53:59 GMT"
     },
     {
       "type": "news",
@@ -159,16 +152,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "La Juventus vola in finale di Serie A Women's Cup! Inter ko 1-0, decisivo l’autogol di van Diemen - FIGC",
-      "source": "FIGC",
-      "published": "Sat, 12 Sep 2026 12:16:00 GMT"
+      "title": "Serie A Enilive | Lazio-Milan, le dichiarazioni post partita - S.S. Lazio",
+      "source": "S.S. Lazio",
+      "published": "Sat, 12 Sep 2026 19:11:53 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "MOREIRA GUIDA LA RIMONTA ALL'OLIMPICO: 2-2 TRA LAZIO E MILAN - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Sat, 12 Sep 2026 18:00:00 GMT"
+      "title": "Champions League: Como da 9, Inter autolesionista, Napoli in crisi - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Fri, 11 Sep 2026 12:54:18 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "La Juventus vola in finale di Serie A Women’s Cup! Inter ko 1-0, decisivo l’autogol di van Diemen - FIGC",
+      "source": "FIGC",
+      "published": "Sat, 12 Sep 2026 12:16:00 GMT"
     },
     {
       "type": "news",
@@ -187,16 +187,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner insidiato da Zverev, Alcaraz resta lontanissimo: come cambia il Ranking ATP agli US Open - Fanpage",
-      "source": "Fanpage",
-      "published": "Wed, 09 Sep 2026 08:52:25 GMT"
+      "title": "Sinner leader, Zverev e Shelton volano, Djokovic fuori dalla top 10! Alcaraz-Cobolli...: classifica Atp live - Tuttosport",
+      "source": "Tuttosport",
+      "published": "Sat, 12 Sep 2026 11:42:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner leader, Zverev e Shelton volano, Djokovic fuori dalla top 10! Alcaraz-Cobolli...: classifica Atp live - Tuttosport",
-      "source": "Tuttosport",
-      "published": "Sat, 12 Sep 2026 11:42:00 GMT"
+      "title": "Sinner insidiato da Zverev, Alcaraz resta lontanissimo: come cambia il Ranking ATP agli US Open - Fanpage",
+      "source": "Fanpage",
+      "published": "Wed, 09 Sep 2026 08:52:25 GMT"
     },
     {
       "type": "news",
