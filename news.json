@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T22:31:19.873186+00:00",
+  "updated_at": "2026-09-13T00:16:19.179629+00:00",
   "local_date": "2026-09-13",
   "articles": [
     {
@@ -145,6 +145,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Serie A Enilive | Lazio-Milan, le dichiarazioni post partita - S.S. Lazio",
+      "source": "S.S. Lazio",
+      "published": "Sat, 12 Sep 2026 19:37:03 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Serie A Enilive | Lazio-Milan, le dichiarazioni di Provstgaard nel pre partita - S.S. Lazio",
       "source": "S.S. Lazio",
       "published": "Sat, 12 Sep 2026 15:36:44 GMT"
@@ -152,23 +159,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Enilive | Lazio-Milan, le dichiarazioni post partita - S.S. Lazio",
-      "source": "S.S. Lazio",
-      "published": "Sat, 12 Sep 2026 19:11:52 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League: Napoli-Arsenal in campo alle 21 DIRETTA - ANSA",
-      "source": "ANSA",
-      "published": "Wed, 09 Sep 2026 09:56:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "La Juventus vola in finale di Serie A Women's Cup! Inter ko 1-0, decisivo l’autogol di van Diemen - figc.it",
-      "source": "figc.it",
+      "title": "La Juventus vola in finale di Serie A Women's Cup! Inter ko 1-0, decisivo l’autogol di van Diemen - FIGC",
+      "source": "FIGC",
       "published": "Sat, 12 Sep 2026 12:16:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "MOREIRA GUIDA LA RIMONTA ALL'OLIMPICO: 2-2 TRA LAZIO E MILAN - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Sat, 12 Sep 2026 18:00:00 GMT"
     },
     {
       "type": "news",
@@ -180,8 +180,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "US Open, senza Sinner e Alcaraz crollano i prezzi: la semifinale a soli 19 dollari - sportmediaset.mediaset.it",
-      "source": "sportmediaset.mediaset.it",
+      "title": "US Open, senza Sinner e Alcaraz crollano i prezzi: la semifinale a soli 19 dollari - Sportmediaset",
+      "source": "Sportmediaset",
       "published": "Fri, 11 Sep 2026 20:04:23 GMT"
     },
     {
@@ -194,8 +194,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner leader, Zverev e Shelton volano, Djokovic fuori dalla top 10! Alcaraz-Cobolli...: classifica Atp live - tuttosport.com",
-      "source": "tuttosport.com",
+      "title": "Sinner leader, Zverev e Shelton volano, Djokovic fuori dalla top 10! Alcaraz-Cobolli...: classifica Atp live - Tuttosport",
+      "source": "Tuttosport",
       "published": "Sat, 12 Sep 2026 11:42:00 GMT"
     },
     {
@@ -222,8 +222,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - fitp.it",
-      "source": "fitp.it",
+      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - FITP",
+      "source": "FITP",
       "published": "Wed, 26 Aug 2026 07:00:00 GMT"
     }
   ]
