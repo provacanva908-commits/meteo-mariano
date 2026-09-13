@@ -1,63 +1,7 @@
 {
-  "updated_at": "2026-09-13T19:46:54.019214+00:00",
+  "updated_at": "2026-09-13T21:49:21.783738+00:00",
   "local_date": "2026-09-13",
   "articles": [
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "PSV",
-      "away": "Sparta",
-      "time": "20:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 3,
-      "away_score": 1,
-      "is_live": true,
-      "local_date": "2026-09-13"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Primeira Liga",
-      "home": "Famalicão",
-      "away": "Sporting CP",
-      "time": "21:30",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 0,
-      "away_score": 0,
-      "is_live": true,
-      "local_date": "2026-09-13"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Sassuolo",
-      "away": "Juventus",
-      "time": "20:45",
-      "status": "PAUSED",
-      "status_label": "Intervallo",
-      "home_score": 0,
-      "away_score": 0,
-      "is_live": true,
-      "local_date": "2026-09-13"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Ligue 1",
-      "home": "Brest",
-      "away": "PSG",
-      "time": "20:45",
-      "status": "PAUSED",
-      "status_label": "Intervallo",
-      "home_score": 0,
-      "away_score": 1,
-      "is_live": true,
-      "local_date": "2026-09-13"
-    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -115,39 +59,102 @@
       "local_date": "2026-09-13"
     },
     {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Pagellone calciomercato estivo Serie A 2026/2027: Inter e Roma regine, la Juventus si rinforza, dubbi sul Napoli - eurosport.it",
-      "source": "eurosport.it",
-      "published": "Wed, 02 Sep 2026 07:00:00 GMT"
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Eredivisie",
+      "home": "PSV",
+      "away": "Sparta",
+      "time": "20:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 4,
+      "away_score": 1,
+      "is_live": false,
+      "local_date": "2026-09-13"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Sassuolo",
+      "away": "Juventus",
+      "time": "20:45",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 3,
+      "away_score": 2,
+      "is_live": false,
+      "local_date": "2026-09-13"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Ligue 1",
+      "home": "Brest",
+      "away": "PSG",
+      "time": "20:45",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 0,
+      "away_score": 1,
+      "is_live": false,
+      "local_date": "2026-09-13"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Primeira Liga",
+      "home": "Famalicão",
+      "away": "Sporting CP",
+      "time": "21:30",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 1,
+      "is_live": false,
+      "local_date": "2026-09-13"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Inter, Dimarco la firma si avvicina. Via alla trattativa per il rinnovo fino al 2030 - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sat, 12 Sep 2026 06:05:27 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Aree interne, delega all’assessore Ingala per firmare l’accordo di programma quadro - ilmoderatore.it",
-      "source": "ilmoderatore.it",
+      "title": "Aree interne, delega all’assessore Ingala per firmare l’accordo di programma quadro - Il Moderatore",
+      "source": "Il Moderatore",
       "published": "Sun, 13 Sep 2026 11:17:30 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "CCNL Legno Arredo Industria: firmata l’ipotesi di accordo per il rinnovo - Confindustria Ancona",
-      "source": "Confindustria Ancona",
+      "title": "CCNL Legno Arredo Industria: firmata l’ipotesi di accordo per il rinnovo - confindustria.an.it",
+      "source": "confindustria.an.it",
       "published": "Tue, 08 Sep 2026 07:19:00 GMT"
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Roma, Salah-Eddine va al Panathinaikos: la formula e le news di calciomercato - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sat, 12 Sep 2026 14:01:51 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Inter, Baccin e gli intoccabili: autunno caldissimo. Ausilio da De Zerbi - Tuttosport",
+      "source": "Tuttosport",
+      "published": "Sun, 13 Sep 2026 09:24:48 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Women's Cup | Juventus Women-Inter | La partita - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Sat, 12 Sep 2026 23:40:46 GMT"
+      "title": "Serie A, il Sassuolo batte la Juventus nel finale. Vincono anche Lecce e Napoli - Radio RTL 102.5",
+      "source": "Radio RTL 102.5",
+      "published": "Sun, 13 Sep 2026 21:12:33 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "SERIE A ENILIVE | I CONVOCATI PER COMO-PARMA - parmacalcio1913.com",
+      "source": "parmacalcio1913.com",
+      "published": "Sun, 13 Sep 2026 16:00:10 GMT"
     },
     {
       "type": "news",
@@ -159,16 +166,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, Napoli torna a vincere: Cagliari corsaro a Bergamo, Lecce batte il Monza. Tutti i risultati della 4ª giornata - Allora! Italian Australian News",
+      "title": "Serie A, Sassuolo-Juventus 3-2: finale folle al Mapei, Adzic decide al 94’ - Allora! Italian Australian News",
       "source": "Allora! Italian Australian News",
-      "published": "Sun, 13 Sep 2026 18:27:47 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Coppa Italia 2026/27, il tabellone aggiornato sino alla finale del 19 maggio 2027 - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Sun, 13 Sep 2026 17:34:52 GMT"
+      "published": "Sun, 13 Sep 2026 21:20:10 GMT"
     },
     {
       "type": "news",
@@ -180,9 +180,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner, a rischio il posto da numero 1 al mondo: ecco quanti punti guadagna Zverev se vince la finale degli US Open - Il Gazzettino",
-      "source": "Il Gazzettino",
-      "published": "Sun, 13 Sep 2026 17:19:15 GMT"
+      "title": "Il ranking ATP degli italiani dopo gli US Open: Sinner resta n.1, Cobolli in top-10, scivolone di Musetti - OA Sport",
+      "source": "OA Sport",
+      "published": "Sun, 13 Sep 2026 15:52:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner, a rischio il posto da numero 1 al mondo: ecco quanti punti guadagna Zverev se vince la finale degli US Open - Il Messaggero",
+      "source": "Il Messaggero",
+      "published": "Sun, 13 Sep 2026 09:32:51 GMT"
     },
     {
       "type": "news",
@@ -190,13 +197,6 @@
       "title": "Zverev-Shelton è una finale potentissima: c'è vita nel tennis oltre Sinner-Alcaraz - eurosport.it",
       "source": "eurosport.it",
       "published": "Sun, 13 Sep 2026 10:31:31 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Quante posizioni guadagna Shelton nel ranking ATP se vince gli US Open: sorpasso su Alcaraz nella Race già effettuato - OA Sport",
-      "source": "OA Sport",
-      "published": "Sun, 13 Sep 2026 11:03:06 GMT"
     },
     {
       "type": "news",
