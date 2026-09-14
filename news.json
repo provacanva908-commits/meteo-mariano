@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T01:45:58.342547+00:00",
+  "updated_at": "2026-09-14T07:12:44.800056+00:00",
   "local_date": "2026-09-14",
   "articles": [
     {
@@ -54,6 +54,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Al Maschio Angioino la presentazione ufficiale del romanzo \"Prigione Inconscia\" - Napoli Village - - Napoli Village",
+      "source": "Napoli Village",
+      "published": "Mon, 14 Sep 2026 06:27:35 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Aree interne, delega all’assessore Ingala per firmare l’accordo di programma quadro - Il Moderatore",
       "source": "Il Moderatore",
       "published": "Sun, 13 Sep 2026 11:58:50 GMT"
@@ -67,38 +74,31 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Roma, Salah-Eddine va al Panathinaikos: la formula e le news di calciomercato - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sat, 12 Sep 2026 14:01:51 GMT"
+      "category": "CALCIO",
+      "title": "Calcio, i risultati della Serie A. Oggi Como, Roma e Inter - Askanews",
+      "source": "Askanews",
+      "published": "Mon, 14 Sep 2026 05:22:50 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
       "title": "Dove vedere tutte le partite della Juventus in Serie A, Europa League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
       "source": "Goal.com",
-      "published": "Sun, 13 Sep 2026 23:08:09 GMT"
+      "published": "Mon, 14 Sep 2026 02:08:10 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, il Sassuolo batte la Juventus nel finale. Vincono anche Lecce e Napoli - Radio RTL 102.5",
-      "source": "Radio RTL 102.5",
-      "published": "Sun, 13 Sep 2026 21:12:33 GMT"
+      "title": "Il calcio in TV oggi, lunedì 14 settembre: Roma, Como e Inter per la Serie A. Dove vedere le partite live - Libero",
+      "source": "Libero",
+      "published": "Mon, 14 Sep 2026 06:26:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "SERIE A ENILIVE | I CONVOCATI PER COMO-PARMA - parmacalcio1913.com",
-      "source": "parmacalcio1913.com",
-      "published": "Sun, 13 Sep 2026 16:00:10 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, la quarta giornata: rimonta Milan a Roma e impresa Sassuolo contro la Juventus - La Voce di New York",
-      "source": "La Voce di New York",
-      "published": "Sun, 13 Sep 2026 22:13:47 GMT"
+      "title": "Serie A: le probabili formazioni di Como-Parma, Torino-Roma e Inter Udinese - Diretta",
+      "source": "Diretta",
+      "published": "Sun, 13 Sep 2026 20:40:00 GMT"
     },
     {
       "type": "news",
