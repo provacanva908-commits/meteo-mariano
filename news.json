@@ -1,48 +1,48 @@
 {
-  "updated_at": "2026-09-14T19:26:47.141647+00:00",
-  "local_date": "2026-09-14",
+  "updated_at": "2026-09-14T22:42:39.494520+00:00",
+  "local_date": "2026-09-15",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Inter",
-      "away": "Udinese",
-      "time": "20:45",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 1,
-      "away_score": 2,
-      "is_live": true,
-      "local_date": "2026-09-14"
+      "competition": "Eredivisie",
+      "home": "Ajax",
+      "away": "Willem II",
+      "time": "20:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-09-15"
     },
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Como 1907",
-      "away": "Parma",
-      "time": "18:30",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 2,
-      "away_score": 1,
+      "competition": "Primera Division",
+      "home": "Elche",
+      "away": "Real Madrid",
+      "time": "21:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-09-14"
+      "local_date": "2026-09-15"
     },
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Torino",
-      "away": "Roma",
-      "time": "18:30",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 0,
-      "away_score": 2,
+      "competition": "Copa Libertadores",
+      "home": "Platense",
+      "away": "Fluminense",
+      "time": "00:00",
+      "status": "SCHEDULED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-09-14"
+      "local_date": "2026-09-16"
     },
     {
       "type": "news",
@@ -54,13 +54,6 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Oasis, arriva annuncio ufficiale del tour, a Roma il 29 e 30 luglio - ANSA",
-      "source": "ANSA",
-      "published": "Mon, 14 Sep 2026 15:22:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "Formedil Italia: Accordo di collaborazione per l’acquisto in convenzione di “SocurOca” ed “EdiLab”. - ANCE - Associazione Nazionale Costruttori Edili",
       "source": "ANCE - Associazione Nazionale Costruttori Edili",
       "published": "Mon, 14 Sep 2026 14:47:15 GMT"
@@ -68,16 +61,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Roma, Salah-Eddine al Panathinaikos: è ufficiale - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Mon, 14 Sep 2026 15:27:26 GMT"
+      "title": "Oasis, arriva annuncio ufficiale del tour, a Roma il 29 e 30 luglio - ANSA",
+      "source": "ANSA",
+      "published": "Mon, 14 Sep 2026 15:22:00 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, Torino-Roma 0-2 e Como-Parma 2-1. Ora Inter-Udinese 2-2. LIVE - Sky TG24",
-      "source": "Sky TG24",
-      "published": "Mon, 14 Sep 2026 19:21:47 GMT"
+      "category": "CALCIOMERCATO",
+      "title": "Lazio su Icardi, ripresi contatti con l'agente. Calciomercato news - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Mon, 14 Sep 2026 10:04:32 GMT"
     },
     {
       "type": "news",
@@ -96,9 +89,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Inizia la Champions League: tutto su Real Madrid-Inter - Inter.it",
-      "source": "Inter.it",
-      "published": "Mon, 14 Sep 2026 01:22:34 GMT"
+      "title": "Serie A, nuova rimonta per l’Inter. Vincono anche Roma e Como nei posticipi del lunedì - OA Sport",
+      "source": "OA Sport",
+      "published": "Mon, 14 Sep 2026 21:11:19 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Recap della 4ª giornata di Serie A: il salvataggio del Milan, le cinque dell’Inter, la Roma perfetta - Sofascore",
+      "source": "Sofascore",
+      "published": "Mon, 14 Sep 2026 21:14:33 GMT"
     },
     {
       "type": "news",
@@ -110,8 +110,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "John McEnroe fa un appello in diretta a Sinner e Alcaraz dopo il trionfo di Zverev agli US Open - Fanpage",
-      "source": "Fanpage",
+      "title": "John McEnroe fa un appello in diretta a Sinner e Alcaraz dopo il trionfo di Zverev agli US Open - fanpage.it",
+      "source": "fanpage.it",
       "published": "Mon, 14 Sep 2026 07:47:14 GMT"
     },
     {
@@ -124,9 +124,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis, ranking Atp: Zverev si avvicina a Sinner, Shelton insidia Alcaraz - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Mon, 14 Sep 2026 10:14:16 GMT"
+      "title": "Il ranking ATP degli italiani dopo gli US Open: Sinner resta n.1, Cobolli in top-10, scivolone di Musetti - OA Sport",
+      "source": "OA Sport",
+      "published": "Sun, 13 Sep 2026 15:52:00 GMT"
     },
     {
       "type": "news",
