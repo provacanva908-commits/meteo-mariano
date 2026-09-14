@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-09-14T14:12:21.001747+00:00",
+  "updated_at": "2026-09-14T19:26:47.141647+00:00",
   "local_date": "2026-09-14",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Torino",
-      "away": "Roma",
-      "time": "18:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "home": "Inter",
+      "away": "Udinese",
+      "time": "20:45",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 1,
+      "away_score": 2,
+      "is_live": true,
       "local_date": "2026-09-14"
     },
     {
@@ -23,10 +23,10 @@
       "home": "Como 1907",
       "away": "Parma",
       "time": "18:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
+      "away_score": 1,
       "is_live": false,
       "local_date": "2026-09-14"
     },
@@ -34,71 +34,71 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Inter",
-      "away": "Udinese",
-      "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "home": "Torino",
+      "away": "Roma",
+      "time": "18:30",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 0,
+      "away_score": 2,
       "is_live": false,
       "local_date": "2026-09-14"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Lazio su Icardi, ripresi contatti con l'agente. Calciomercato news - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Mon, 14 Sep 2026 10:04:32 GMT"
+      "title": "Mako firma una lettera d'intenti per un accordo di acquisto di oro con Sailfish - MarketScreener Italia",
+      "source": "MarketScreener Italia",
+      "published": "Mon, 14 Sep 2026 15:12:49 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Il Como 1907 lancia il suo album digitale ufficiale di figurine con Collectibol - Como 1907",
-      "source": "Como 1907",
-      "published": "Mon, 14 Sep 2026 10:24:59 GMT"
+      "title": "Oasis, arriva annuncio ufficiale del tour, a Roma il 29 e 30 luglio - ANSA",
+      "source": "ANSA",
+      "published": "Mon, 14 Sep 2026 15:22:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Modifica del Tasso Ufficiale di Riferimento della BCE e rideterminazione degli interessi e delle sanzioni civili INPS - Redazione Fiscale",
-      "source": "Redazione Fiscale",
-      "published": "Mon, 14 Sep 2026 05:52:35 GMT"
+      "title": "Formedil Italia: Accordo di collaborazione per l’acquisto in convenzione di “SocurOca” ed “EdiLab”. - ANCE - Associazione Nazionale Costruttori Edili",
+      "source": "ANCE - Associazione Nazionale Costruttori Edili",
+      "published": "Mon, 14 Sep 2026 14:47:15 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Mako Mining firma un accordo gold stream con Sailfish Royalty - Investing.com",
-      "source": "Investing.com",
-      "published": "Mon, 14 Sep 2026 13:21:00 GMT"
+      "title": "Roma, Salah-Eddine al Panathinaikos: è ufficiale - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Mon, 14 Sep 2026 15:27:26 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Dove vedere tutte le partite della Juventus in Serie A, Europa League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
-      "source": "Goal.com",
-      "published": "Mon, 14 Sep 2026 11:06:58 GMT"
+      "title": "Serie A, Torino-Roma 0-2 e Como-Parma 2-1. Ora Inter-Udinese 2-2. LIVE - Sky TG24",
+      "source": "Sky TG24",
+      "published": "Mon, 14 Sep 2026 19:21:47 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calcio, i risultati della Serie A. Oggi Como, Roma e Inter - Askanews",
-      "source": "Askanews",
-      "published": "Mon, 14 Sep 2026 05:22:50 GMT"
+      "title": "Serie A: oggi in campo Como, Roma e Inter - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Mon, 14 Sep 2026 07:59:22 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Variazione calendario gare di Coppa Italia di Serie A2, Coppa Italia e Campionato di Serie B 2026/27 di hockey su pista - Hockey Italia 21",
-      "source": "Hockey Italia 21",
-      "published": "Mon, 14 Sep 2026 13:54:10 GMT"
+      "title": "Manchester United nella Champions League 2026/27: calendario e rosa - UEFA.com",
+      "source": "UEFA.com",
+      "published": "Mon, 14 Sep 2026 19:08:28 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Dove vedere Torino-Roma, Como-Parma e Inter-Udinese, posticipi serie A, in tv e in streaming - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Mon, 14 Sep 2026 05:28:00 GMT"
+      "title": "Inizia la Champions League: tutto su Real Madrid-Inter - Inter.it",
+      "source": "Inter.it",
+      "published": "Mon, 14 Sep 2026 01:22:34 GMT"
     },
     {
       "type": "news",
@@ -119,21 +119,14 @@
       "category": "TENNIS",
       "title": "Shelton sale al terzo posto nella Live Race dopo la finale degli US Open - Nitto ATP Finals",
       "source": "Nitto ATP Finals",
-      "published": "Mon, 14 Sep 2026 09:20:49 GMT"
+      "published": "Mon, 14 Sep 2026 09:20:17 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis, ranking Atp: Zverev si avvicina a Sinner, Shelton insidia Alcaraz - sportmediaset.mediaset.it",
-      "source": "sportmediaset.mediaset.it",
+      "title": "Tennis, ranking Atp: Zverev si avvicina a Sinner, Shelton insidia Alcaraz - Sportmediaset",
+      "source": "Sportmediaset",
       "published": "Mon, 14 Sep 2026 10:14:16 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Tapia/Coello, poker a Parigi: Chingalan ko in una finale memorabile! - padelmagazine.it",
-      "source": "padelmagazine.it",
-      "published": "Sun, 13 Sep 2026 18:17:26 GMT"
     },
     {
       "type": "news",
@@ -155,6 +148,13 @@
       "title": "Paris Major Premier Padel 2026: Oggi finale con El Clasico e le terribili ragazze - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Sun, 13 Sep 2026 08:50:08 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Paris Major Premier Padel 2026: Coello e Tapia inarrestabili - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Sun, 13 Sep 2026 19:39:51 GMT"
     }
   ]
 }
