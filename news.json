@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-13T23:46:50.461670+00:00",
+  "updated_at": "2026-09-14T01:45:58.342547+00:00",
   "local_date": "2026-09-14",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Torino",
-      "away": "Roma",
+      "home": "Como 1907",
+      "away": "Parma",
       "time": "18:30",
       "status": "TIMED",
       "status_label": "In programma",
@@ -20,8 +20,8 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Como 1907",
-      "away": "Parma",
+      "home": "Torino",
+      "away": "Roma",
       "time": "18:30",
       "status": "TIMED",
       "status_label": "In programma",
@@ -47,6 +47,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Pagellone calciomercato estivo Serie A 2026/2027: Inter e Roma regine, la Juventus si rinforza, dubbi sul Napoli - eurosport.it",
+      "source": "eurosport.it",
+      "published": "Wed, 02 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Aree interne, delega all’assessore Ingala per firmare l’accordo di programma quadro - Il Moderatore",
       "source": "Il Moderatore",
       "published": "Sun, 13 Sep 2026 11:58:50 GMT"
@@ -67,16 +74,16 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Inter, Baccin e gli intoccabili: autunno caldissimo. Ausilio da De Zerbi - Tuttosport",
-      "source": "Tuttosport",
-      "published": "Sun, 13 Sep 2026 09:24:48 GMT"
+      "category": "CALCIO",
+      "title": "Dove vedere tutte le partite della Juventus in Serie A, Europa League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
+      "source": "Goal.com",
+      "published": "Sun, 13 Sep 2026 23:08:09 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, il Sassuolo batte la Juventus nel finale. Vincono anche Lecce e Napoli - rtl.it",
-      "source": "rtl.it",
+      "title": "Serie A, il Sassuolo batte la Juventus nel finale. Vincono anche Lecce e Napoli - Radio RTL 102.5",
+      "source": "Radio RTL 102.5",
       "published": "Sun, 13 Sep 2026 21:12:33 GMT"
     },
     {
@@ -95,13 +102,6 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League. Finale a Belgrado, Brescia parte da Tbilisi - Federazione Italiana Nuoto",
-      "source": "Federazione Italiana Nuoto",
-      "published": "Fri, 11 Sep 2026 19:13:51 GMT"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
       "title": "Quanti punti guadagna Zverev su Sinner se vince la finale degli US Open: le proiezioni per ranking ATP e Race - OA Sport",
       "source": "OA Sport",
@@ -117,16 +117,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner, a rischio il posto da numero 1 al mondo: ecco quanti punti guadagna Zverev se vince la finale degli US Open - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "Sun, 13 Sep 2026 09:32:51 GMT"
+      "title": "Zverev-Shelton è una finale potentissima: c'è vita nel tennis oltre Sinner-Alcaraz - eurosport.it",
+      "source": "eurosport.it",
+      "published": "Sun, 13 Sep 2026 10:31:31 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Zverev-Shelton è una finale potentissima: c'è vita nel tennis oltre Sinner-Alcaraz - eurosport.it",
-      "source": "eurosport.it",
-      "published": "Sun, 13 Sep 2026 10:31:31 GMT"
+      "title": "Quante posizioni guadagna Shelton nel ranking ATP se vince gli US Open: sorpasso su Alcaraz nella Race già effettuato - OA Sport",
+      "source": "OA Sport",
+      "published": "Sun, 13 Sep 2026 11:03:06 GMT"
     },
     {
       "type": "news",
