@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T00:58:24.128735+00:00",
+  "updated_at": "2026-09-15T06:05:50.191535+00:00",
   "local_date": "2026-09-15",
   "articles": [
     {
@@ -68,9 +68,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Lazio su Icardi, ripresi contatti con l'agente. Calciomercato news - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Mon, 14 Sep 2026 10:04:32 GMT"
+      "title": "È ufficiale: gli Oasis saranno live in Italia con due date a Roma - Il Sole 24 ORE",
+      "source": "Il Sole 24 ORE",
+      "published": "Mon, 14 Sep 2026 16:57:04 GMT"
     },
     {
       "type": "news",
@@ -82,9 +82,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, nuova rimonta per l’Inter. Vincono anche Roma e Como nei posticipi del lunedì - OA Sport",
-      "source": "OA Sport",
-      "published": "Mon, 14 Sep 2026 21:11:19 GMT"
+      "title": "Inizia la Champions League: tutto su Real Madrid-Inter - Inter.it",
+      "source": "Inter.it",
+      "published": "Mon, 14 Sep 2026 01:22:34 GMT"
     },
     {
       "type": "news",
@@ -96,15 +96,22 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Inizia la Champions League: tutto su Real Madrid-Inter - Inter.it",
-      "source": "Inter.it",
-      "published": "Mon, 14 Sep 2026 01:22:34 GMT"
+      "title": "Il Feyenoord nella Champions League 2026/27: calendario e rosa - UEFA.com",
+      "source": "UEFA.com",
+      "published": "Mon, 14 Sep 2026 19:08:28 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Gli Us Open dopo il Roland Garros: ora Zverev ha nel mirino il primo posto al mondo di Sinner – La nuova classifica Atp - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
+      "title": "Quanti punti guadagna Zverev su Sinner se vince la finale degli US Open: le proiezioni per ranking ATP e Race - OA Sport",
+      "source": "OA Sport",
+      "published": "Sun, 13 Sep 2026 06:38:01 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Gli Us Open dopo il Roland Garros: ora Zverev ha nel mirino il primo posto al mondo di Sinner – La nuova classifica Atp - ilfattoquotidiano.it",
+      "source": "ilfattoquotidiano.it",
       "published": "Mon, 14 Sep 2026 07:38:14 GMT"
     },
     {
@@ -123,13 +130,6 @@
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Shelton sale al terzo posto nella Live Race dopo la finale degli US Open - Nitto ATP Finals",
-      "source": "Nitto ATP Finals",
-      "published": "Mon, 14 Sep 2026 09:20:17 GMT"
-    },
-    {
-      "type": "news",
       "category": "PADEL",
       "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
@@ -145,15 +145,15 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Paris Major Premier Padel 2026: Oggi finale con El Clasico e le terribili ragazze - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
+      "title": "Paris Major Premier Padel 2026: Oggi finale con El Clasico e le terribili ragazze - mrpadelpaddle.com",
+      "source": "mrpadelpaddle.com",
       "published": "Sun, 13 Sep 2026 08:50:08 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Paris Major Premier Padel 2026: Coello e Tapia inarrestabili - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
+      "title": "Paris Major Premier Padel 2026: Coello e Tapia inarrestabili - mrpadelpaddle.com",
+      "source": "mrpadelpaddle.com",
       "published": "Sun, 13 Sep 2026 19:39:51 GMT"
     }
   ]
