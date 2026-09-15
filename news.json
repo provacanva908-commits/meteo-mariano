@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T22:42:39.494520+00:00",
+  "updated_at": "2026-09-15T00:58:24.128735+00:00",
   "local_date": "2026-09-15",
   "articles": [
     {
@@ -75,13 +75,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A: oggi in campo Como, Roma e Inter - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Mon, 14 Sep 2026 07:59:22 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Manchester United nella Champions League 2026/27: calendario e rosa - UEFA.com",
       "source": "UEFA.com",
       "published": "Mon, 14 Sep 2026 19:08:28 GMT"
@@ -102,6 +95,13 @@
     },
     {
       "type": "news",
+      "category": "CALCIO",
+      "title": "Inizia la Champions League: tutto su Real Madrid-Inter - Inter.it",
+      "source": "Inter.it",
+      "published": "Mon, 14 Sep 2026 01:22:34 GMT"
+    },
+    {
+      "type": "news",
       "category": "TENNIS",
       "title": "Gli Us Open dopo il Roland Garros: ora Zverev ha nel mirino il primo posto al mondo di Sinner – La nuova classifica Atp - Il Fatto Quotidiano",
       "source": "Il Fatto Quotidiano",
@@ -110,16 +110,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "John McEnroe fa un appello in diretta a Sinner e Alcaraz dopo il trionfo di Zverev agli US Open - fanpage.it",
-      "source": "fanpage.it",
+      "title": "John McEnroe fa un appello in diretta a Sinner e Alcaraz dopo il trionfo di Zverev agli US Open - Fanpage",
+      "source": "Fanpage",
       "published": "Mon, 14 Sep 2026 07:47:14 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Shelton sale al terzo posto nella Live Race dopo la finale degli US Open - Nitto ATP Finals",
-      "source": "Nitto ATP Finals",
-      "published": "Mon, 14 Sep 2026 09:20:17 GMT"
     },
     {
       "type": "news",
@@ -127,6 +120,13 @@
       "title": "Il ranking ATP degli italiani dopo gli US Open: Sinner resta n.1, Cobolli in top-10, scivolone di Musetti - OA Sport",
       "source": "OA Sport",
       "published": "Sun, 13 Sep 2026 15:52:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Shelton sale al terzo posto nella Live Race dopo la finale degli US Open - Nitto ATP Finals",
+      "source": "Nitto ATP Finals",
+      "published": "Mon, 14 Sep 2026 09:20:17 GMT"
     },
     {
       "type": "news",
