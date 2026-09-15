@@ -1,61 +1,33 @@
 {
-  "updated_at": "2026-09-15T19:16:32.677548+00:00",
-  "local_date": "2026-09-15",
+  "updated_at": "2026-09-15T22:20:25.916877+00:00",
+  "local_date": "2026-09-16",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "Ajax",
-      "away": "Willem II",
-      "time": "20:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 2,
-      "away_score": 0,
-      "is_live": true,
-      "local_date": "2026-09-15"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Primera Division",
-      "home": "Elche",
-      "away": "Real Madrid",
-      "time": "21:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-09-15"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
       "competition": "Copa Libertadores",
-      "home": "Platense",
-      "away": "Fluminense",
+      "home": "LDU de Quito",
+      "away": "Palmeiras",
       "time": "00:00",
       "status": "SCHEDULED",
       "status_label": "In programma",
       "home_score": null,
       "away_score": null,
       "is_live": false,
-      "local_date": "2026-09-16"
+      "local_date": "2026-09-17"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Tarczewski torna in Italia: ufficiale l'accordo con il Napoli Basket - corrieredellosport.it",
-      "source": "corrieredellosport.it",
-      "published": "Tue, 15 Sep 2026 11:27:35 GMT"
+      "title": "Diritto di sciopero Area “Istruzione e Ricerca”: avviata all’ARAN la trattativa per il rinnovo dell’accordo - FLC CGIL",
+      "source": "FLC CGIL",
+      "published": "Tue, 15 Sep 2026 15:01:32 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale | Amaiur Sarriegi è una nuova giocatrice bianconera - Juventus.com",
-      "source": "Juventus.com",
+      "title": "Ufficiale | Amaiur Sarriegi è una nuova giocatrice bianconera - juventus.com",
+      "source": "juventus.com",
       "published": "Tue, 15 Sep 2026 16:07:44 GMT"
     },
     {
@@ -75,9 +47,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Tabellone Coppa Italia 2026-2027: calendario e risultati dei sedicesimi di finale - sport.sky.it",
-      "source": "sport.sky.it",
+      "title": "Tabellone Coppa Italia 2026-2027: calendario e risultati dei sedicesimi di finale - Sky Sport",
+      "source": "Sky Sport",
       "published": "Tue, 15 Sep 2026 06:09:02 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Coppa Italia, Fiorentina e Genoa agli ottavi: sfideranno Napoli e Inter - la Repubblica",
+      "source": "la Repubblica",
+      "published": "Tue, 15 Sep 2026 18:00:07 GMT"
     },
     {
       "type": "news",
@@ -89,16 +68,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, la finale 2029 al nuovo Camp Nou di Barcellona, allo Stadium la finale di Conference 2028 - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Tue, 15 Sep 2026 10:14:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Chi è l'arbitro di Juventus-NEC: una sola partita diretta in Europa League - tuttosport.com",
-      "source": "tuttosport.com",
-      "published": "Tue, 15 Sep 2026 10:55:43 GMT"
+      "title": "Coppa Italia, c'è il nome dell'avversaria del Napoli agli ottavi di finale - NapoliToday",
+      "source": "NapoliToday",
+      "published": "Tue, 15 Sep 2026 21:30:13 GMT"
     },
     {
       "type": "news",
@@ -110,13 +82,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "McEnroe boccia Zverev, l'appello a Sinner e Alcaraz dopo la finale a New York: \"Per favore...\" - corrieredellosport.it",
-      "source": "corrieredellosport.it",
-      "published": "Tue, 15 Sep 2026 11:40:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Il ranking ATP degli italiani dopo gli US Open: Sinner resta n.1, Cobolli in top-10, scivolone di Musetti - OA Sport",
       "source": "OA Sport",
       "published": "Sun, 13 Sep 2026 15:52:00 GMT"
@@ -124,9 +89,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "John McEnroe fa un appello in diretta a Sinner e Alcaraz dopo il trionfo di Zverev agli US Open - Fanpage",
-      "source": "Fanpage",
-      "published": "Mon, 14 Sep 2026 07:47:14 GMT"
+      "title": "McEnroe boccia Zverev, l'appello a Sinner e Alcaraz dopo la finale a New York: \"Per favore...\" - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Tue, 15 Sep 2026 11:40:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner n.1 nel ranking ATP, ma non nella Race. Cinà e Guerrieri verso la Top 150 - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Mon, 14 Sep 2026 07:09:05 GMT"
     },
     {
       "type": "news",
