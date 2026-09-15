@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T11:40:25.389225+00:00",
+  "updated_at": "2026-09-15T15:42:56.204988+00:00",
   "local_date": "2026-09-15",
   "articles": [
     {
@@ -47,6 +47,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Tarczewski torna in Italia: ufficiale l'accordo con il Napoli Basket - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Tue, 15 Sep 2026 11:27:35 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Calciomercato Napoli, il futuro di Lobotka è sempre più lontano: la situazione sul rinnovo - Planetwin365 news",
       "source": "Planetwin365 news",
       "published": "Tue, 15 Sep 2026 09:51:08 GMT"
@@ -61,23 +68,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Colpo sotto le plance per Napoli: ufficiale il ritorno in Italia dell’ex Milano Kaleb Tarczewski - NBAPassion",
-      "source": "NBAPassion",
-      "published": "Tue, 15 Sep 2026 10:34:44 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Accordo di libero scambio UE-India: proposta inviata al Consiglio per firma e conclusione - Confindustria Ancona",
-      "source": "Confindustria Ancona",
-      "published": "Tue, 15 Sep 2026 06:47:00 GMT"
+      "title": "BM Mercato | Napoli Basketball, ufficiale l’ingaggio di Kaleb Tarczewski - Basket Magazine",
+      "source": "Basket Magazine",
+      "published": "Tue, 15 Sep 2026 09:53:30 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
       "title": "Dove vedere tutte le partite della Juventus in Serie A, Europa League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
       "source": "Goal.com",
-      "published": "Tue, 15 Sep 2026 05:07:01 GMT"
+      "published": "Tue, 15 Sep 2026 12:00:54 GMT"
     },
     {
       "type": "news",
@@ -96,9 +96,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Come acquistare i biglietti per Arsenal-Lille: prezzi della Champions League, informazioni sulla partita, vendite last minute e altro ancora - Goal.com",
-      "source": "Goal.com",
-      "published": "Tue, 15 Sep 2026 09:17:51 GMT"
+      "title": "Chi è l'arbitro di Juventus-NEC: una sola partita diretta in Europa League - Tuttosport",
+      "source": "Tuttosport",
+      "published": "Tue, 15 Sep 2026 10:55:43 GMT"
     },
     {
       "type": "news",
@@ -117,16 +117,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Il ranking ATP degli italiani dopo gli US Open: Sinner resta n.1, Cobolli in top-10, scivolone di Musetti - OA Sport",
-      "source": "OA Sport",
-      "published": "Sun, 13 Sep 2026 15:52:00 GMT"
+      "title": "McEnroe boccia Zverev, l'appello a Sinner e Alcaraz dopo la finale a New York: \"Per favore...\" - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Tue, 15 Sep 2026 11:40:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "John McEnroe fa un appello in diretta a Sinner e Alcaraz dopo il trionfo di Zverev agli US Open - Fanpage",
-      "source": "Fanpage",
-      "published": "Mon, 14 Sep 2026 07:47:14 GMT"
+      "title": "Il ranking ATP degli italiani dopo gli US Open: Sinner resta n.1, Cobolli in top-10, scivolone di Musetti - OA Sport",
+      "source": "OA Sport",
+      "published": "Sun, 13 Sep 2026 15:52:00 GMT"
     },
     {
       "type": "news",
@@ -138,23 +138,23 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "Finale domenica, un altro torneo pochi giorni dopo: come se la cavano i giocatori con il ritmo di Premier Padel - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Tue, 15 Sep 2026 11:39:05 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Platinum Lyon: Dove seguire il torneo in diretta per tutta la settimana? - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Tue, 15 Sep 2026 13:06:19 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "Paris Major Premier Padel 2026: Oggi finale con El Clasico e le terribili ragazze - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Sun, 13 Sep 2026 08:50:08 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Paris Major Premier Padel 2026: Coello e Tapia inarrestabili - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Sun, 13 Sep 2026 19:39:51 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Paris Major: Tapia/Coello e Chingalan non tradiscono. Calvo/Fernandez show! - padelmagazine.it",
-      "source": "padelmagazine.it",
-      "published": "Sat, 12 Sep 2026 20:30:09 GMT"
     }
   ]
 }
