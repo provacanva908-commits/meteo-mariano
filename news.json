@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T18:49:11.270838+00:00",
+  "updated_at": "2026-09-16T21:47:33.025269+00:00",
   "local_date": "2026-09-16",
   "articles": [
     {
@@ -15,13 +15,6 @@
       "away_score": null,
       "is_live": false,
       "local_date": "2026-09-17"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Termina l’accordo tra Netflix e Paramount sui i film di animazione - MIA | Mercato Internazionale Audiovisivo",
-      "source": "MIA | Mercato Internazionale Audiovisivo",
-      "published": "Wed, 16 Sep 2026 14:14:43 GMT"
     },
     {
       "type": "news",
@@ -46,10 +39,24 @@
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Cessione dei crediti bancari: la pubblicazione in Gazzetta Ufficiale non prova la titolarità del singolo credito - Diritto del Risparmio",
+      "source": "Diritto del Risparmio",
+      "published": "Wed, 16 Sep 2026 16:30:41 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
-      "title": "Tabellone Coppa Italia 2026-2027: calendario e risultati dei sedicesimi di finale - sport.sky.it",
-      "source": "sport.sky.it",
+      "title": "Tabellone Coppa Italia 2026-2027: calendario e risultati dei sedicesimi di finale - Sky Sport",
+      "source": "Sky Sport",
       "published": "Tue, 15 Sep 2026 20:55:42 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Europa League, in corso Milan-Benfica: il risultato è 0-1. LIVE - Sky TG24",
+      "source": "Sky TG24",
+      "published": "Wed, 16 Sep 2026 18:06:29 GMT"
     },
     {
       "type": "news",
@@ -61,22 +68,15 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Gli arbitri della quinta giornata di Serie A: Massa dirige Roma-Inter, scelto Doveri per Fiorentina-Napoli - Corriere dello Sport",
-      "source": "Corriere dello Sport",
+      "title": "Gli arbitri della quinta giornata di Serie A: Massa dirige Roma-Inter, scelto Doveri per Fiorentina-Napoli - corrieredellosport.it",
+      "source": "corrieredellosport.it",
       "published": "Wed, 16 Sep 2026 10:36:00 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Presentata la finale di Viareggio tra Juventus e Roma: si gioca sabato alle 18. Cappelletti: “Torniamo qui, dove si è scritta la storia del calcio femminile italiano” - FIGC",
-      "source": "FIGC",
-      "published": "Wed, 16 Sep 2026 03:49:00 GMT"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
-      "title": "McEnroe boccia Zverev, l'appello a Sinner e Alcaraz dopo la finale a New York: \"Per favore...\" - Corriere dello Sport",
-      "source": "Corriere dello Sport",
+      "title": "McEnroe boccia Zverev, l'appello a Sinner e Alcaraz dopo la finale a New York: \"Per favore...\" - corrieredellosport.it",
+      "source": "corrieredellosport.it",
       "published": "Tue, 15 Sep 2026 11:40:00 GMT"
     },
     {
@@ -96,9 +96,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Alcaraz stacca il pass per le Atp Finals di Torino: la nuova sfida con Sinner e Zverev - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Wed, 16 Sep 2026 14:09:00 GMT"
+      "title": "Alcaraz già qualificato alle Atp Finals con Sinner, la regola che porta Carlos a Torino e come cambia race per Cobolli - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Wed, 16 Sep 2026 18:42:00 GMT"
     },
     {
       "type": "news",
