@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T10:04:54.015183+00:00",
+  "updated_at": "2026-09-16T14:56:52.143957+00:00",
   "local_date": "2026-09-16",
   "articles": [
     {
@@ -19,6 +19,20 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Termina l’accordo tra Netflix e Paramount sui i film di animazione - MIA | Mercato Internazionale Audiovisivo",
+      "source": "MIA | Mercato Internazionale Audiovisivo",
+      "published": "Wed, 16 Sep 2026 14:14:43 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Ccnl farmacie comunali: firmata l’ipotesi di rinnovo. Aumenti di stipendio e nuove tutele nell'accordo - farmacista33.it",
+      "source": "farmacista33.it",
+      "published": "Wed, 16 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Diritto di sciopero Area “Istruzione e Ricerca”: avviata all’ARAN la trattativa per il rinnovo dell’accordo - FLC CGIL",
       "source": "FLC CGIL",
       "published": "Tue, 15 Sep 2026 15:01:32 GMT"
@@ -26,23 +40,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "UFFICIALE - Il Bologna ha esonerato Tedesco: c'è la firma di Palladino, i dettagli dell'accordo - SOS Fanta",
-      "source": "SOS Fanta",
-      "published": "Wed, 16 Sep 2026 08:30:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Mercato Eurolega, ufficiale: Nick Smith Jr firma al Real Madrid - Eurodevotion",
-      "source": "Eurodevotion",
-      "published": "Wed, 16 Sep 2026 09:49:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Bologna, ufficiale l'esonero di Tedesco: \"Sono dispiaciuto, questa città merita tanto\". Palladino firma un triennale - Il Resto del Carlino",
-      "source": "Il Resto del Carlino",
-      "published": "Wed, 16 Sep 2026 08:55:19 GMT"
+      "title": "Learning Time International Schools firma un accordo per la piattaforma di apprendimento del cinese - Investing.com",
+      "source": "Investing.com",
+      "published": "Wed, 16 Sep 2026 13:05:00 GMT"
     },
     {
       "type": "news",
@@ -54,23 +54,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia, Fiorentina e Genoa agli ottavi: sfideranno Napoli e Inter - repubblica.it",
-      "source": "repubblica.it",
-      "published": "Tue, 15 Sep 2026 18:00:07 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Europa League, la probabile formazione del Milan. Bologna, ufficiale Palladino - Corriere dello Sport",
+      "title": "Gli arbitri della quinta giornata di Serie A: Massa dirige Roma-Inter, scelto Doveri per Fiorentina-Napoli - Corriere dello Sport",
       "source": "Corriere dello Sport",
-      "published": "Wed, 16 Sep 2026 09:12:21 GMT"
+      "published": "Wed, 16 Sep 2026 10:36:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia: Genoa-Sudtirol 1-0. Vasquez nel finale decide il match. Il Grifone sfiderà l’Inter - Il Secolo XIX",
-      "source": "Il Secolo XIX",
-      "published": "Tue, 15 Sep 2026 15:23:00 GMT"
+      "title": "Serie A, gli arbitri della 5ª giornata: a Massa il big match Roma-Inter, La Penna per Milan-Lecce - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Wed, 16 Sep 2026 10:39:11 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Presentata la finale di Viareggio tra Juventus e Roma: si gioca sabato alle 18. Cappelletti: “Torniamo qui, dove si è scritta la storia del calcio femminile italiano” - FIGC",
+      "source": "FIGC",
+      "published": "Wed, 16 Sep 2026 03:49:00 GMT"
     },
     {
       "type": "news",
@@ -78,6 +78,13 @@
       "title": "Quanti punti guadagna Zverev su Sinner se vince la finale degli US Open: le proiezioni per ranking ATP e Race - OA Sport",
       "source": "OA Sport",
       "published": "Sun, 13 Sep 2026 06:38:01 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Gli Us Open dopo il Roland Garros: ora Zverev ha nel mirino il primo posto al mondo di Sinner – La nuova classifica Atp - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Mon, 14 Sep 2026 07:38:14 GMT"
     },
     {
       "type": "news",
@@ -95,16 +102,9 @@
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "John McEnroe fa un appello in diretta a Sinner e Alcaraz dopo il trionfo di Zverev agli US Open - Fanpage",
-      "source": "Fanpage",
-      "published": "Mon, 14 Sep 2026 07:47:14 GMT"
-    },
-    {
-      "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Sun, 13 Sep 2026 17:27:23 GMT"
     },
     {
@@ -117,16 +117,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Platinum Lyon: Dove seguire il torneo in diretta per tutta la settimana? - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Tue, 15 Sep 2026 13:06:19 GMT"
+      "title": "Paris Major Premier Padel 2026: Oggi finale con El Clasico e le terribili ragazze - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Sun, 13 Sep 2026 08:50:08 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Paris Major Premier Padel 2026: Oggi finale con El Clasico e le terribili ragazze - Mr Padel Paddle",
+      "title": "Paris Major Premier Padel 2026: Coello e Tapia inarrestabili - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
-      "published": "Sun, 13 Sep 2026 08:50:08 GMT"
+      "published": "Sun, 13 Sep 2026 19:39:51 GMT"
     }
   ]
 }
