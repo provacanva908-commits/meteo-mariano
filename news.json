@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T00:36:48.387819+00:00",
+  "updated_at": "2026-09-16T05:16:44.958521+00:00",
   "local_date": "2026-09-16",
   "articles": [
     {
@@ -82,13 +82,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Il ranking ATP degli italiani dopo gli US Open: Sinner resta n.1, Cobolli in top-10, scivolone di Musetti - OA Sport",
-      "source": "OA Sport",
-      "published": "Sun, 13 Sep 2026 15:52:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "McEnroe boccia Zverev, l'appello a Sinner e Alcaraz dopo la finale a New York: \"Per favore...\" - Corriere dello Sport",
       "source": "Corriere dello Sport",
       "published": "Tue, 15 Sep 2026 11:40:00 GMT"
@@ -96,9 +89,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner n.1 nel ranking ATP, ma non nella Race. Cinà e Guerrieri verso la Top 150 - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Mon, 14 Sep 2026 07:09:05 GMT"
+      "title": "Il ranking ATP degli italiani dopo gli US Open: Sinner resta n.1, Cobolli in top-10, scivolone di Musetti - OA Sport",
+      "source": "OA Sport",
+      "published": "Sun, 13 Sep 2026 15:52:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Quante posizioni guadagna Shelton nel ranking ATP se vince gli US Open: sorpasso su Alcaraz nella Race già effettuato - OA Sport",
+      "source": "OA Sport",
+      "published": "Sun, 13 Sep 2026 11:03:06 GMT"
     },
     {
       "type": "news",
