@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-16T21:47:33.025269+00:00",
-  "local_date": "2026-09-16",
+  "updated_at": "2026-09-16T23:55:11.955345+00:00",
+  "local_date": "2026-09-17",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Copa Libertadores",
-      "home": "LDU de Quito",
-      "away": "Palmeiras",
-      "time": "00:00",
+      "home": "Corinthians",
+      "away": "Estudiantes LP",
+      "time": "02:30",
       "status": "SCHEDULED",
       "status_label": "In programma",
       "home_score": null,
@@ -19,16 +19,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Diritto di sciopero Area “Istruzione e Ricerca”: avviata all’ARAN la trattativa per il rinnovo dell’accordo - FLC CGIL",
-      "source": "FLC CGIL",
-      "published": "Tue, 15 Sep 2026 15:01:32 GMT"
+      "title": "Termina l’accordo tra Netflix e Paramount sui i film di animazione - MIA | Mercato Internazionale Audiovisivo",
+      "source": "MIA | Mercato Internazionale Audiovisivo",
+      "published": "Wed, 16 Sep 2026 14:14:43 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ccnl farmacie comunali: firmata l’ipotesi di rinnovo. Aumenti di stipendio e nuove tutele nell'accordo - Farmacista33",
-      "source": "Farmacista33",
-      "published": "Wed, 16 Sep 2026 00:00:00 GMT"
+      "title": "Diritto di sciopero Area “Istruzione e Ricerca”: avviata all’ARAN la trattativa per il rinnovo dell’accordo - FLC CGIL",
+      "source": "FLC CGIL",
+      "published": "Tue, 15 Sep 2026 15:01:32 GMT"
     },
     {
       "type": "news",
@@ -54,29 +54,29 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Europa League, in corso Milan-Benfica: il risultato è 0-1. LIVE - Sky TG24",
-      "source": "Sky TG24",
-      "published": "Wed, 16 Sep 2026 18:06:29 GMT"
+      "title": "Dove vedere la prima giornata di Europa League e le sfide di Milan e Juventus: Sky, NOW, quale partita in chiaro su TV8 - Goal.com",
+      "source": "Goal.com",
+      "published": "Wed, 16 Sep 2026 20:29:49 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A: Massa arbitra Roma-Inter, a Doveri Fiorentina-Napoli - ANSA",
-      "source": "ANSA",
-      "published": "Wed, 16 Sep 2026 12:28:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Gli arbitri della quinta giornata di Serie A: Massa dirige Roma-Inter, scelto Doveri per Fiorentina-Napoli - corrieredellosport.it",
-      "source": "corrieredellosport.it",
+      "title": "Gli arbitri della quinta giornata di Serie A: Massa dirige Roma-Inter, scelto Doveri per Fiorentina-Napoli - Corriere dello Sport",
+      "source": "Corriere dello Sport",
       "published": "Wed, 16 Sep 2026 10:36:00 GMT"
     },
     {
       "type": "news",
+      "category": "CALCIO",
+      "title": "Coppa Italia 2026/27, sarà Inter-Genoa agli ottavi: il tabellone - Inter.it",
+      "source": "Inter.it",
+      "published": "Wed, 16 Sep 2026 13:56:48 GMT"
+    },
+    {
+      "type": "news",
       "category": "TENNIS",
-      "title": "McEnroe boccia Zverev, l'appello a Sinner e Alcaraz dopo la finale a New York: \"Per favore...\" - corrieredellosport.it",
-      "source": "corrieredellosport.it",
+      "title": "McEnroe boccia Zverev, l'appello a Sinner e Alcaraz dopo la finale a New York: \"Per favore...\" - Corriere dello Sport",
+      "source": "Corriere dello Sport",
       "published": "Tue, 15 Sep 2026 11:40:00 GMT"
     },
     {
@@ -110,13 +110,6 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Finale domenica, un altro torneo pochi giorni dopo: come se la cavano i giocatori con il ritmo di Premier Padel - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Tue, 15 Sep 2026 11:39:05 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
       "title": "Paris Major Premier Padel 2026: Oggi finale con El Clasico e le terribili ragazze - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Sun, 13 Sep 2026 08:50:08 GMT"
@@ -127,6 +120,13 @@
       "title": "Paris Major Premier Padel 2026: Coello e Tapia inarrestabili - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Sun, 13 Sep 2026 19:39:51 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Platinum Lyon: Dove seguire il torneo in diretta per tutta la settimana? - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Tue, 15 Sep 2026 13:06:19 GMT"
     }
   ]
 }
