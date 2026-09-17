@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T04:30:47.868156+00:00",
+  "updated_at": "2026-09-17T09:37:48.098266+00:00",
   "local_date": "2026-09-17",
   "articles": [
     {
@@ -15,6 +15,13 @@
       "away_score": null,
       "is_live": false,
       "local_date": "2026-09-17"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Mulino Caputo fornitore ufficiale dell'America's Cup: accordo firmato al Rycc Savoia - NapoliToday",
+      "source": "NapoliToday",
+      "published": "Thu, 17 Sep 2026 08:36:12 GMT"
     },
     {
       "type": "news",
@@ -39,13 +46,6 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Cessione dei crediti bancari: la pubblicazione in Gazzetta Ufficiale non prova la titolarità del singolo credito - Diritto del Risparmio",
-      "source": "Diritto del Risparmio",
-      "published": "Wed, 16 Sep 2026 16:30:41 GMT"
-    },
-    {
-      "type": "news",
       "category": "CALCIO",
       "title": "Tabellone Coppa Italia 2026-2027: calendario e risultati dei sedicesimi di finale - Sky Sport",
       "source": "Sky Sport",
@@ -54,9 +54,16 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Serie A Women's Cup | Juventus-Roma, i numeri verso la finale - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Thu, 17 Sep 2026 08:07:26 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Dove vedere la prima giornata di Europa League e le sfide di Milan e Juventus: Sky, NOW, quale partita in chiaro su TV8 - Goal.com",
       "source": "Goal.com",
-      "published": "Thu, 17 Sep 2026 00:59:49 GMT"
+      "published": "Thu, 17 Sep 2026 05:29:49 GMT"
     },
     {
       "type": "news",
@@ -64,20 +71,6 @@
       "title": "Serie A: Massa arbitra Roma-Inter, a Doveri Fiorentina-Napoli - ANSA",
       "source": "ANSA",
       "published": "Wed, 16 Sep 2026 12:28:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Gli arbitri della quinta giornata di Serie A: Massa dirige Roma-Inter, scelto Doveri per Fiorentina-Napoli - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Wed, 16 Sep 2026 10:36:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Quanti punti guadagna Zverev su Sinner se vince la finale degli US Open: le proiezioni per ranking ATP e Race - OA Sport",
-      "source": "OA Sport",
-      "published": "Sun, 13 Sep 2026 06:38:01 GMT"
     },
     {
       "type": "news",
@@ -99,6 +92,13 @@
       "title": "Alcaraz si unisce a Sinner e Zverev alle Nitto ATP Finals - Nitto ATP Finals",
       "source": "Nitto ATP Finals",
       "published": "Wed, 16 Sep 2026 11:41:50 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "ATP Finals 2026, Carlos Alcaraz aritmeticamente qualificato per il torneo di Torino - OA Sport",
+      "source": "OA Sport",
+      "published": "Thu, 17 Sep 2026 08:23:55 GMT"
     },
     {
       "type": "news",
