@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T14:27:37.557342+00:00",
+  "updated_at": "2026-09-17T18:29:49.594212+00:00",
   "local_date": "2026-09-17",
   "articles": [
     {
@@ -19,16 +19,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Mulino Caputo fornitore ufficiale dell'America's Cup: accordo firmato al Rycc Savoia - NapoliToday",
-      "source": "NapoliToday",
-      "published": "Thu, 17 Sep 2026 08:36:12 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "AS Roma | Info e | Como 1907 Sito Ufficiale - Como 1907",
       "source": "Como 1907",
-      "published": "Thu, 17 Sep 2026 13:56:21 GMT"
+      "published": "Thu, 17 Sep 2026 14:00:04 GMT"
     },
     {
       "type": "news",
@@ -36,6 +29,13 @@
       "title": "Il Como blinda Douvikas, accordo per il rinnovo - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Thu, 17 Sep 2026 10:42:27 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Ufficiale | Ornella Graziani è una nuova giocatrice della Juventus Women - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Thu, 17 Sep 2026 15:07:44 GMT"
     },
     {
       "type": "news",
@@ -54,23 +54,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Women’s Cup, -2 alla finale di Viareggio: online il Match Programme del ‘Clasico’ numero 33 tra Juventus e Roma - FIGC",
-      "source": "FIGC",
-      "published": "Thu, 17 Sep 2026 03:06:00 GMT"
+      "title": "Serie A Women's Cup | Juventus-Roma, i numeri verso la finale - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Thu, 17 Sep 2026 08:07:41 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
       "title": "Dove vedere la prima giornata di Europa League e le sfide di Milan e Juventus: Sky, NOW, quale partita in chiaro su TV8 - Goal.com",
       "source": "Goal.com",
-      "published": "Thu, 17 Sep 2026 11:30:03 GMT"
+      "published": "Thu, 17 Sep 2026 12:59:57 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Women Athora – Date e orari della seconda e della terza giornata: il derby di Roma si gioca sabato 3 ottobre alle 18, Milan-Juventus domenica 4 alle 15 - FIGC",
+      "title": "Serie A Women’s Cup, -2 alla finale di Viareggio: online il Match Programme del ‘Clasico’ numero 33 tra Juventus e Roma - FIGC",
       "source": "FIGC",
-      "published": "Thu, 17 Sep 2026 02:25:00 GMT"
+      "published": "Thu, 17 Sep 2026 03:06:00 GMT"
     },
     {
       "type": "news",
@@ -96,9 +96,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Finals 2026, Carlos Alcaraz aritmeticamente qualificato per il torneo di Torino - OA Sport",
-      "source": "OA Sport",
-      "published": "Thu, 17 Sep 2026 08:23:55 GMT"
+      "title": "Ranking Atp, cosa deve fare Sinner per restare numero 1? Zverev ora lo insidia ma... - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Mon, 14 Sep 2026 06:11:59 GMT"
     },
     {
       "type": "news",
@@ -117,15 +117,15 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Paris Major Premier Padel 2026: Oggi finale con El Clasico e le terribili ragazze - mrpadelpaddle.com",
-      "source": "mrpadelpaddle.com",
+      "title": "Paris Major Premier Padel 2026: Oggi finale con El Clasico e le terribili ragazze - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
       "published": "Sun, 13 Sep 2026 08:50:08 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Paris Major Premier Padel 2026: Coello e Tapia inarrestabili - mrpadelpaddle.com",
-      "source": "mrpadelpaddle.com",
+      "title": "Paris Major Premier Padel 2026: Coello e Tapia inarrestabili - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
       "published": "Sun, 13 Sep 2026 19:39:51 GMT"
     }
   ]
