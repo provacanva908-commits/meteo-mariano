@@ -1,27 +1,48 @@
 {
-  "updated_at": "2026-09-17T21:41:51.208533+00:00",
-  "local_date": "2026-09-17",
+  "updated_at": "2026-09-17T23:43:26.788663+00:00",
+  "local_date": "2026-09-18",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Monza",
+      "away": "Sassuolo",
+      "time": "20:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-09-18"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Premier League",
+      "home": "Brentford",
+      "away": "Chelsea",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-09-18"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
       "competition": "Copa Libertadores",
-      "home": "Corinthians",
-      "away": "Estudiantes LP",
+      "home": "Flamengo",
+      "away": "Independiente",
       "time": "02:30",
       "status": "SCHEDULED",
       "status_label": "In programma",
       "home_score": null,
       "away_score": null,
       "is_live": false,
-      "local_date": "2026-09-17"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Il Como blinda Douvikas, accordo per il rinnovo - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Thu, 17 Sep 2026 10:42:27 GMT"
+      "local_date": "2026-09-18"
     },
     {
       "type": "news",
@@ -29,6 +50,13 @@
       "title": "Diritto di sciopero Area “Istruzione e Ricerca”: avviata all’ARAN la trattativa per il rinnovo dell’accordo - FLC CGIL",
       "source": "FLC CGIL",
       "published": "Tue, 15 Sep 2026 14:58:46 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Il Como blinda Douvikas, accordo per il rinnovo - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Thu, 17 Sep 2026 10:42:27 GMT"
     },
     {
       "type": "news",
@@ -63,7 +91,7 @@
       "category": "CALCIO",
       "title": "Dove vedere la prima giornata di Europa League e le sfide di Milan e Juventus: Sky, NOW, quale partita in chiaro su TV8 - Goal.com",
       "source": "Goal.com",
-      "published": "Thu, 17 Sep 2026 17:30:03 GMT"
+      "published": "Thu, 17 Sep 2026 19:02:45 GMT"
     },
     {
       "type": "news",
