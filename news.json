@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T23:55:11.955345+00:00",
+  "updated_at": "2026-09-17T04:30:47.868156+00:00",
   "local_date": "2026-09-17",
   "articles": [
     {
@@ -19,16 +19,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Termina l’accordo tra Netflix e Paramount sui i film di animazione - MIA | Mercato Internazionale Audiovisivo",
-      "source": "MIA | Mercato Internazionale Audiovisivo",
-      "published": "Wed, 16 Sep 2026 14:14:43 GMT"
+      "title": "Diritto di sciopero Area “Istruzione e Ricerca”: avviata all’ARAN la trattativa per il rinnovo dell’accordo - FLC CGIL",
+      "source": "FLC CGIL",
+      "published": "Tue, 15 Sep 2026 15:01:32 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Diritto di sciopero Area “Istruzione e Ricerca”: avviata all’ARAN la trattativa per il rinnovo dell’accordo - FLC CGIL",
-      "source": "FLC CGIL",
-      "published": "Tue, 15 Sep 2026 15:01:32 GMT"
+      "title": "Termina l’accordo tra Netflix e Paramount sui i film di animazione - MIA | Mercato Internazionale Audiovisivo",
+      "source": "MIA | Mercato Internazionale Audiovisivo",
+      "published": "Wed, 16 Sep 2026 14:14:43 GMT"
     },
     {
       "type": "news",
@@ -56,7 +56,14 @@
       "category": "CALCIO",
       "title": "Dove vedere la prima giornata di Europa League e le sfide di Milan e Juventus: Sky, NOW, quale partita in chiaro su TV8 - Goal.com",
       "source": "Goal.com",
-      "published": "Wed, 16 Sep 2026 20:29:49 GMT"
+      "published": "Thu, 17 Sep 2026 00:59:49 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A: Massa arbitra Roma-Inter, a Doveri Fiorentina-Napoli - ANSA",
+      "source": "ANSA",
+      "published": "Wed, 16 Sep 2026 12:28:00 GMT"
     },
     {
       "type": "news",
@@ -67,10 +74,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Coppa Italia 2026/27, sarà Inter-Genoa agli ottavi: il tabellone - Inter.it",
-      "source": "Inter.it",
-      "published": "Wed, 16 Sep 2026 13:56:48 GMT"
+      "category": "TENNIS",
+      "title": "Quanti punti guadagna Zverev su Sinner se vince la finale degli US Open: le proiezioni per ranking ATP e Race - OA Sport",
+      "source": "OA Sport",
+      "published": "Sun, 13 Sep 2026 06:38:01 GMT"
     },
     {
       "type": "news",
@@ -95,17 +102,17 @@
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Alcaraz già qualificato alle Atp Finals con Sinner, la regola che porta Carlos a Torino e come cambia race per Cobolli - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Wed, 16 Sep 2026 18:42:00 GMT"
-    },
-    {
-      "type": "news",
       "category": "PADEL",
       "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 13 Sep 2026 17:27:23 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Finale domenica, un altro torneo pochi giorni dopo: come se la cavano i giocatori con il ritmo di Premier Padel - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Tue, 15 Sep 2026 11:39:05 GMT"
     },
     {
       "type": "news",
@@ -120,13 +127,6 @@
       "title": "Paris Major Premier Padel 2026: Coello e Tapia inarrestabili - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Sun, 13 Sep 2026 19:39:51 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Platinum Lyon: Dove seguire il torneo in diretta per tutta la settimana? - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Tue, 15 Sep 2026 13:06:19 GMT"
     }
   ]
 }
