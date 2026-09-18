@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T23:43:26.788663+00:00",
+  "updated_at": "2026-09-18T01:36:01.160715+00:00",
   "local_date": "2026-09-18",
   "articles": [
     {
@@ -89,16 +89,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Dove vedere la prima giornata di Europa League e le sfide di Milan e Juventus: Sky, NOW, quale partita in chiaro su TV8 - Goal.com",
-      "source": "Goal.com",
-      "published": "Thu, 17 Sep 2026 19:02:45 GMT"
+      "title": "Europa League, Juventus a valanga: 5-0 al NEC. Milan battuto dal Benfica - Allora! Italian Australian News",
+      "source": "Allora! Italian Australian News",
+      "published": "Thu, 17 Sep 2026 23:46:14 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Women’s Cup, -2 alla finale di Viareggio: online il Match Programme del ‘Clasico’ numero 33 tra Juventus e Roma - FIGC",
-      "source": "FIGC",
-      "published": "Thu, 17 Sep 2026 03:06:00 GMT"
+      "title": "Dove vedere la prima giornata di Europa League e le sfide di Milan e Juventus: Sky, NOW, quale partita in chiaro su TV8 - Goal.com",
+      "source": "Goal.com",
+      "published": "Thu, 17 Sep 2026 19:02:45 GMT"
     },
     {
       "type": "news",
@@ -138,13 +138,6 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Finale domenica, un altro torneo pochi giorni dopo: come se la cavano i giocatori con il ritmo di Premier Padel - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Tue, 15 Sep 2026 11:39:05 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
       "title": "Paris Major Premier Padel 2026: Oggi finale con El Clasico e le terribili ragazze - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Sun, 13 Sep 2026 08:50:08 GMT"
@@ -155,6 +148,13 @@
       "title": "Paris Major Premier Padel 2026: Coello e Tapia inarrestabili - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Sun, 13 Sep 2026 19:39:51 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Platinum Lyon: Dove seguire il torneo in diretta per tutta la settimana? - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Tue, 15 Sep 2026 13:06:19 GMT"
     }
   ]
 }
