@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T06:39:45.109716+00:00",
+  "updated_at": "2026-09-18T11:52:00.891095+00:00",
   "local_date": "2026-09-18",
   "articles": [
     {
@@ -47,6 +47,20 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Presentazione ufficiale a Napoli del 64° Giro di Campania - Abitare A Roma",
+      "source": "Abitare A Roma",
+      "published": "Fri, 18 Sep 2026 09:52:45 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Merkur firma l'accordo definitivo per l'acquisto del pacchetto di controllo di Société Française de Casinos - MarketScreener Italia",
+      "source": "MarketScreener Italia",
+      "published": "Fri, 18 Sep 2026 07:28:16 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Diritto di sciopero Area “Istruzione e Ricerca”: avviata all’ARAN la trattativa per il rinnovo dell’accordo - FLC CGIL",
       "source": "FLC CGIL",
       "published": "Tue, 15 Sep 2026 14:58:46 GMT"
@@ -54,23 +68,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "AS Roma | Info e | Como 1907 Sito Ufficiale - Como 1907",
-      "source": "Como 1907",
-      "published": "Thu, 17 Sep 2026 14:00:04 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Doppio prezzo del latte, l’accordo mantiene in equilibrio domanda e offerta - IZ Informatore Zootecnico",
-      "source": "IZ Informatore Zootecnico",
-      "published": "Thu, 17 Sep 2026 18:24:12 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Ufficiale | Ornella Graziani è una nuova giocatrice della Juventus Women - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Thu, 17 Sep 2026 15:07:44 GMT"
+      "title": "Fit-Cisl Lazio: prorogato l'accordo rider caldo Just Eat - CISL - Confederazione Italiana Sindacati Lavoratori",
+      "source": "CISL - Confederazione Italiana Sindacati Lavoratori",
+      "published": "Fri, 18 Sep 2026 09:27:29 GMT"
     },
     {
       "type": "news",
@@ -82,37 +82,30 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Dove vedere la prima giornata di Europa League e le sfide di Milan e Juventus: Sky, NOW, quale partita in chiaro su TV8 - goal.com",
-      "source": "goal.com",
-      "published": "Fri, 18 Sep 2026 04:04:35 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A Women's Cup | Juventus-Roma, i numeri verso la finale - Juventus.com",
+      "title": "Serie A Women's Cup | Juventus-Roma, una finale che vale una storia - Juventus.com",
       "source": "Juventus.com",
-      "published": "Thu, 17 Sep 2026 08:07:41 GMT"
+      "published": "Fri, 18 Sep 2026 08:20:19 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia 2026/27, il tabellone aggiornato sino alla finale del 19 maggio 2027 - Sportmediaset",
+      "title": "Serie A Women's Cup | La conferenza stampa prima della Finale Juve-Roma - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Fri, 18 Sep 2026 09:04:57 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Dove vedere la prima giornata di Europa League e le sfide di Milan e Juventus: Sky, NOW, quale partita in chiaro su TV8 - Goal.com",
+      "source": "Goal.com",
+      "published": "Fri, 18 Sep 2026 10:04:36 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Tennis: Wta Guadalajara, fuori Kostyuk, Jovic-Bucsa in semifinale - Sportmediaset",
       "source": "Sportmediaset",
-      "published": "Fri, 18 Sep 2026 05:01:51 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "McEnroe boccia Zverev, l'appello a Sinner e Alcaraz dopo la finale a New York: \"Per favore...\" - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Tue, 15 Sep 2026 11:40:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Il ranking ATP degli italiani dopo gli US Open: Sinner resta n.1, Cobolli in top-10, scivolone di Musetti - OA Sport",
-      "source": "OA Sport",
-      "published": "Sun, 13 Sep 2026 15:52:00 GMT"
+      "published": "Fri, 18 Sep 2026 08:17:00 GMT"
     },
     {
       "type": "news",
@@ -130,6 +123,13 @@
     },
     {
       "type": "news",
+      "category": "TENNIS",
+      "title": "Ranking Atp, cosa deve fare Sinner per restare numero 1? Zverev ora lo insidia ma... - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Mon, 14 Sep 2026 06:11:59 GMT"
+    },
+    {
+      "type": "news",
       "category": "PADEL",
       "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
@@ -138,9 +138,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Paris Major Premier Padel 2026: Oggi finale con El Clasico e le terribili ragazze - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Sun, 13 Sep 2026 08:50:08 GMT"
+      "title": "FIP Platinum Lyon: Dove seguire il torneo in diretta per tutta la settimana? - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Tue, 15 Sep 2026 13:06:19 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Paris Major: Tapia/Coello e Chingalan non tradiscono. Calvo/Fernandez show! - padelmagazine.it",
+      "source": "padelmagazine.it",
+      "published": "Sat, 12 Sep 2026 20:30:09 GMT"
     },
     {
       "type": "news",
@@ -148,13 +155,6 @@
       "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - FITP",
       "source": "FITP",
       "published": "Wed, 26 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Paris Major Premier Padel 2026: Coello e Tapia inarrestabili - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Sun, 13 Sep 2026 19:39:51 GMT"
     }
   ]
 }
