@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T11:52:00.891095+00:00",
+  "updated_at": "2026-09-18T15:49:26.921972+00:00",
   "local_date": "2026-09-18",
   "articles": [
     {
@@ -47,6 +47,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Diritto di sciopero Area “Istruzione e Ricerca”: avviata all’ARAN la trattativa per il rinnovo dell’accordo - FLC CGIL",
+      "source": "FLC CGIL",
+      "published": "Tue, 15 Sep 2026 14:58:46 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Presentazione ufficiale a Napoli del 64° Giro di Campania - Abitare A Roma",
       "source": "Abitare A Roma",
       "published": "Fri, 18 Sep 2026 09:52:45 GMT"
@@ -61,16 +68,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Diritto di sciopero Area “Istruzione e Ricerca”: avviata all’ARAN la trattativa per il rinnovo dell’accordo - FLC CGIL",
-      "source": "FLC CGIL",
-      "published": "Tue, 15 Sep 2026 14:58:46 GMT"
+      "title": "Fit-Cisl Lazio: prorogato l'accordo rider caldo Just Eat - CISL - Confederazione Italiana Sindacati Lavoratori",
+      "source": "CISL - Confederazione Italiana Sindacati Lavoratori",
+      "published": "Fri, 18 Sep 2026 09:30:27 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Fit-Cisl Lazio: prorogato l'accordo rider caldo Just Eat - CISL - Confederazione Italiana Sindacati Lavoratori",
-      "source": "CISL - Confederazione Italiana Sindacati Lavoratori",
-      "published": "Fri, 18 Sep 2026 09:27:29 GMT"
+      "category": "CALCIO",
+      "title": "Champions League 2026-27, prima giornata: le sentenze tattiche, in classifica per ciò che rivelano e non per il risultato — e il Como parla più forte di tutti - it.martincid.com",
+      "source": "it.martincid.com",
+      "published": "Fri, 18 Sep 2026 14:42:31 GMT"
     },
     {
       "type": "news",
@@ -92,13 +99,6 @@
       "title": "Serie A Women's Cup | La conferenza stampa prima della Finale Juve-Roma - Juventus.com",
       "source": "Juventus.com",
       "published": "Fri, 18 Sep 2026 09:04:57 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Dove vedere la prima giornata di Europa League e le sfide di Milan e Juventus: Sky, NOW, quale partita in chiaro su TV8 - Goal.com",
-      "source": "Goal.com",
-      "published": "Fri, 18 Sep 2026 10:04:36 GMT"
     },
     {
       "type": "news",
@@ -124,15 +124,15 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking Atp, cosa deve fare Sinner per restare numero 1? Zverev ora lo insidia ma... - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Ranking Atp, cosa deve fare Sinner per restare numero 1? Zverev ora lo insidia ma... - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Mon, 14 Sep 2026 06:11:59 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Sun, 13 Sep 2026 17:27:23 GMT"
     },
     {
@@ -145,16 +145,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Paris Major: Tapia/Coello e Chingalan non tradiscono. Calvo/Fernandez show! - padelmagazine.it",
-      "source": "padelmagazine.it",
-      "published": "Sat, 12 Sep 2026 20:30:09 GMT"
+      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - FITP",
+      "source": "FITP",
+      "published": "Wed, 26 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - FITP",
-      "source": "FITP",
-      "published": "Wed, 26 Aug 2026 07:00:00 GMT"
+      "title": "Paris Major Premier Padel 2026: Ottavi di finale, con Dal Pozzo e Orsi - mrpadelpaddle.com",
+      "source": "mrpadelpaddle.com",
+      "published": "Thu, 10 Sep 2026 07:23:01 GMT"
     }
   ]
 }
