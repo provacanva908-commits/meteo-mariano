@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T15:49:26.921972+00:00",
+  "updated_at": "2026-09-18T18:44:51.128512+00:00",
   "local_date": "2026-09-18",
   "articles": [
     {
@@ -47,8 +47,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Diritto di sciopero Area “Istruzione e Ricerca”: avviata all’ARAN la trattativa per il rinnovo dell’accordo - FLC CGIL",
-      "source": "FLC CGIL",
+      "title": "Diritto di sciopero Area “Istruzione e Ricerca”: avviata all’ARAN la trattativa per il rinnovo dell’accordo - flcgil.it",
+      "source": "flcgil.it",
       "published": "Tue, 15 Sep 2026 14:58:46 GMT"
     },
     {
@@ -61,23 +61,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Merkur firma l'accordo definitivo per l'acquisto del pacchetto di controllo di Société Française de Casinos - MarketScreener Italia",
-      "source": "MarketScreener Italia",
-      "published": "Fri, 18 Sep 2026 07:28:16 GMT"
+      "title": "Ufficiale, Bianchedi ha firmato e sarà capodelegazione azzurra - ANSA",
+      "source": "ANSA",
+      "published": "Fri, 18 Sep 2026 16:50:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Fit-Cisl Lazio: prorogato l'accordo rider caldo Just Eat - CISL - Confederazione Italiana Sindacati Lavoratori",
-      "source": "CISL - Confederazione Italiana Sindacati Lavoratori",
-      "published": "Fri, 18 Sep 2026 09:30:27 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League 2026-27, prima giornata: le sentenze tattiche, in classifica per ciò che rivelano e non per il risultato — e il Como parla più forte di tutti - it.martincid.com",
-      "source": "it.martincid.com",
-      "published": "Fri, 18 Sep 2026 14:42:31 GMT"
+      "title": "Altro rinnovo in casa Lecce: ufficiale il prolungamento contrattuale per Gallo - lecceprima.it",
+      "source": "lecceprima.it",
+      "published": "Fri, 18 Sep 2026 16:16:19 GMT"
     },
     {
       "type": "news",
@@ -89,9 +82,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Women's Cup | Juventus-Roma, una finale che vale una storia - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Fri, 18 Sep 2026 08:20:19 GMT"
+      "title": "Serie A: Roma-Inter sfida del gol, il Como sogna l'aggancio - ANSA",
+      "source": "ANSA",
+      "published": "Fri, 18 Sep 2026 15:47:00 GMT"
     },
     {
       "type": "news",
@@ -99,6 +92,13 @@
       "title": "Serie A Women's Cup | La conferenza stampa prima della Finale Juve-Roma - Juventus.com",
       "source": "Juventus.com",
       "published": "Fri, 18 Sep 2026 09:04:57 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A: Roma-Inter in campo alle 18 DIRETTA - ANSA",
+      "source": "ANSA",
+      "published": "Fri, 18 Sep 2026 15:14:42 GMT"
     },
     {
       "type": "news",
@@ -124,15 +124,15 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking Atp, cosa deve fare Sinner per restare numero 1? Zverev ora lo insidia ma... - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Ranking Atp, cosa deve fare Sinner per restare numero 1? Zverev ora lo insidia ma... - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Mon, 14 Sep 2026 06:11:59 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Sun, 13 Sep 2026 17:27:23 GMT"
     },
     {
@@ -152,9 +152,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Paris Major Premier Padel 2026: Ottavi di finale, con Dal Pozzo e Orsi - mrpadelpaddle.com",
-      "source": "mrpadelpaddle.com",
-      "published": "Thu, 10 Sep 2026 07:23:01 GMT"
+      "title": "FIP Platinum Lyon – Gonzalez / Campagnolo: finalmente il torneo che lancia la loro associazione? - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Fri, 18 Sep 2026 07:23:00 GMT"
     }
   ]
 }
