@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T01:36:01.160715+00:00",
+  "updated_at": "2026-09-18T06:39:45.109716+00:00",
   "local_date": "2026-09-18",
   "articles": [
     {
@@ -54,16 +54,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Il Como blinda Douvikas, accordo per il rinnovo - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Thu, 17 Sep 2026 10:42:27 GMT"
+      "title": "AS Roma | Info e | Como 1907 Sito Ufficiale - Como 1907",
+      "source": "Como 1907",
+      "published": "Thu, 17 Sep 2026 14:00:04 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "AS Roma | Info e | Como 1907 Sito Ufficiale - Como 1907",
-      "source": "Como 1907",
-      "published": "Thu, 17 Sep 2026 14:00:04 GMT"
+      "title": "Doppio prezzo del latte, l’accordo mantiene in equilibrio domanda e offerta - IZ Informatore Zootecnico",
+      "source": "IZ Informatore Zootecnico",
+      "published": "Thu, 17 Sep 2026 18:24:12 GMT"
     },
     {
       "type": "news",
@@ -82,6 +82,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Dove vedere la prima giornata di Europa League e le sfide di Milan e Juventus: Sky, NOW, quale partita in chiaro su TV8 - goal.com",
+      "source": "goal.com",
+      "published": "Fri, 18 Sep 2026 04:04:35 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Serie A Women's Cup | Juventus-Roma, i numeri verso la finale - Juventus.com",
       "source": "Juventus.com",
       "published": "Thu, 17 Sep 2026 08:07:41 GMT"
@@ -89,16 +96,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Europa League, Juventus a valanga: 5-0 al NEC. Milan battuto dal Benfica - Allora! Italian Australian News",
-      "source": "Allora! Italian Australian News",
-      "published": "Thu, 17 Sep 2026 23:46:14 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Dove vedere la prima giornata di Europa League e le sfide di Milan e Juventus: Sky, NOW, quale partita in chiaro su TV8 - Goal.com",
-      "source": "Goal.com",
-      "published": "Thu, 17 Sep 2026 19:02:45 GMT"
+      "title": "Coppa Italia 2026/27, il tabellone aggiornato sino alla finale del 19 maggio 2027 - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Fri, 18 Sep 2026 05:01:51 GMT"
     },
     {
       "type": "news",
@@ -106,6 +106,13 @@
       "title": "McEnroe boccia Zverev, l'appello a Sinner e Alcaraz dopo la finale a New York: \"Per favore...\" - Corriere dello Sport",
       "source": "Corriere dello Sport",
       "published": "Tue, 15 Sep 2026 11:40:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Il ranking ATP degli italiani dopo gli US Open: Sinner resta n.1, Cobolli in top-10, scivolone di Musetti - OA Sport",
+      "source": "OA Sport",
+      "published": "Sun, 13 Sep 2026 15:52:00 GMT"
     },
     {
       "type": "news",
@@ -120,13 +127,6 @@
       "title": "Sinner n.1 nel ranking ATP, ma non nella Race. Cinà e Guerrieri verso la Top 150 - SuperTennis",
       "source": "SuperTennis",
       "published": "Mon, 14 Sep 2026 07:09:05 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ranking Atp, cosa deve fare Sinner per restare numero 1? Zverev ora lo insidia ma... - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Mon, 14 Sep 2026 06:11:59 GMT"
     },
     {
       "type": "news",
@@ -145,16 +145,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Paris Major Premier Padel 2026: Coello e Tapia inarrestabili - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Sun, 13 Sep 2026 19:39:51 GMT"
+      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - FITP",
+      "source": "FITP",
+      "published": "Wed, 26 Aug 2026 07:00:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Platinum Lyon: Dove seguire il torneo in diretta per tutta la settimana? - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Tue, 15 Sep 2026 13:06:19 GMT"
+      "title": "Paris Major Premier Padel 2026: Coello e Tapia inarrestabili - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Sun, 13 Sep 2026 19:39:51 GMT"
     }
   ]
 }
