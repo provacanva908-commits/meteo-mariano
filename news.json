@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T06:29:28.868146+00:00",
+  "updated_at": "2026-09-19T11:27:51.921013+00:00",
   "local_date": "2026-09-19",
   "articles": [
     {
@@ -20,8 +20,8 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Udinese",
-      "away": "Cagliari",
+      "home": "Bologna",
+      "away": "Torino",
       "time": "15:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -34,8 +34,8 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Bologna",
-      "away": "Torino",
+      "home": "Udinese",
+      "away": "Cagliari",
       "time": "15:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -113,118 +113,6 @@
       "away_score": null,
       "is_live": false,
       "local_date": "2026-09-19"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Diritto di sciopero Area “Istruzione e Ricerca”: avviata all’ARAN la trattativa per il rinnovo dell’accordo - FLC CGIL",
-      "source": "FLC CGIL",
-      "published": "Tue, 15 Sep 2026 14:58:46 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Altro rinnovo in casa Lecce: ufficiale il prolungamento contrattuale per Gallo - LeccePrima",
-      "source": "LeccePrima",
-      "published": "Fri, 18 Sep 2026 16:16:19 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Ufficiale, Bianchedi ha firmato e sarà capodelegazione azzurra - ANSA",
-      "source": "ANSA",
-      "published": "Fri, 18 Sep 2026 16:50:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Alleanza lombarda per Ismea, firmato un accordo con Clal - Lombardia Notizie Online",
-      "source": "Lombardia Notizie Online",
-      "published": "Fri, 18 Sep 2026 09:37:31 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Anteprima prima giornata UEFA Women's Champions League: Bayern - Manchester City, Barcelona - Paris FC - it.uefa.com",
-      "source": "it.uefa.com",
-      "published": "Fri, 18 Sep 2026 19:18:12 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Roma-Inter risultato previsione IA sfida scudetto Serie A - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sat, 19 Sep 2026 00:25:07 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Tabellone Coppa Italia 2026-2027: calendario e risultati dei sedicesimi di finale - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Tue, 15 Sep 2026 20:55:42 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, oggi Roma-Inter: orario, probabili formazioni e dove vederla - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Sat, 19 Sep 2026 04:44:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "WTA Guadalajara, derby USA Jovic-Stearns in finale - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Sat, 19 Sep 2026 06:00:56 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Alcaraz si unisce a Sinner e Zverev alle Nitto ATP Finals - Nitto ATP Finals",
-      "source": "Nitto ATP Finals",
-      "published": "Wed, 16 Sep 2026 11:41:50 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner n.1 nel ranking ATP, ma non nella Race. Cinà e Guerrieri verso la Top 150 - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Mon, 14 Sep 2026 07:09:05 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ranking Atp, cosa deve fare Sinner per restare numero 1? Zverev ora lo insidia ma... - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Mon, 14 Sep 2026 06:11:59 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 13 Sep 2026 17:27:23 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Giochi del Mediterraneo: semifinale tricolore nel padel maschile - FITP",
-      "source": "FITP",
-      "published": "Wed, 26 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Platinum Lyon: Dove seguire il torneo in diretta per tutta la settimana? - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Tue, 15 Sep 2026 13:06:19 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel 2026: Comunidad de Madrid P1 | Live - Red Bull",
-      "source": "Red Bull",
-      "published": "Sat, 08 Aug 2026 00:31:53 GMT"
     }
   ]
 }
