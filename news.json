@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T01:25:48.679136+00:00",
+  "updated_at": "2026-09-19T06:29:28.868146+00:00",
   "local_date": "2026-09-19",
   "articles": [
     {
@@ -131,22 +131,22 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Alleanza lombarda per Ismea, firmato un accordo con Clal - lombardianotizie.online",
-      "source": "lombardianotizie.online",
-      "published": "Fri, 18 Sep 2026 09:37:31 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "Ufficiale, Bianchedi ha firmato e sarà capodelegazione azzurra - ANSA",
       "source": "ANSA",
       "published": "Fri, 18 Sep 2026 16:50:00 GMT"
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Alleanza lombarda per Ismea, firmato un accordo con Clal - Lombardia Notizie Online",
+      "source": "Lombardia Notizie Online",
+      "published": "Fri, 18 Sep 2026 09:37:31 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
-      "title": "Anteprima prima giornata UEFA Women's Champions League: Bayern - Manchester City, Barcelona - Paris FC - UEFA.com",
-      "source": "UEFA.com",
+      "title": "Anteprima prima giornata UEFA Women's Champions League: Bayern - Manchester City, Barcelona - Paris FC - it.uefa.com",
+      "source": "it.uefa.com",
       "published": "Fri, 18 Sep 2026 19:18:12 GMT"
     },
     {
@@ -166,16 +166,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A: Roma-Inter sfida del gol, il Como sogna l'aggancio - ANSA",
-      "source": "ANSA",
-      "published": "Fri, 18 Sep 2026 15:47:00 GMT"
+      "title": "Serie A, oggi Roma-Inter: orario, probabili formazioni e dove vederla - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Sat, 19 Sep 2026 04:44:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis: Wta Guadalajara, fuori Kostyuk, Jovic-Bucsa in semifinale - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Fri, 18 Sep 2026 08:17:00 GMT"
+      "title": "WTA Guadalajara, derby USA Jovic-Stearns in finale - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Sat, 19 Sep 2026 06:00:56 GMT"
     },
     {
       "type": "news",
@@ -222,9 +222,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Platinum Lyon – Gonzalez / Campagnolo: finalmente il torneo che lancia la loro associazione? - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Fri, 18 Sep 2026 07:23:00 GMT"
+      "title": "Premier Padel 2026: Comunidad de Madrid P1 | Live - Red Bull",
+      "source": "Red Bull",
+      "published": "Sat, 08 Aug 2026 00:31:53 GMT"
     }
   ]
 }
