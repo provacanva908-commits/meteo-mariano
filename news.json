@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T01:41:02.612282+00:00",
+  "updated_at": "2026-09-20T07:04:47.107724+00:00",
   "local_date": "2026-09-20",
   "articles": [
     {
@@ -131,22 +131,29 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale – juventus ennesima tegola per spalletti lesione del legamento crociato per garbara - napolicalcionews.it",
-      "source": "napolicalcionews.it",
-      "published": "Sat, 19 Sep 2026 19:56:03 GMT"
+      "title": "Calciomercato, la Serie A supera il miliardo: solo la Premier ha speso di più. Milan e Juventus regine degli investimenti - ilfattoquotidiano.it",
+      "source": "ilfattoquotidiano.it",
+      "published": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Trump si prende la Groenlandia: firmato l'accordo con la Danimarca - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "Sat, 19 Sep 2026 08:03:47 GMT"
+      "title": "TotalEnergies firma un accordo per il ritorno in Venezuela - Investing.com",
+      "source": "Investing.com",
+      "published": "Sun, 20 Sep 2026 03:02:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "I convocati per Juventus-Atalanta | Serie A Enilive 2026/27 MD5 - atalanta.it",
-      "source": "atalanta.it",
+      "title": "Dove vedere Fiorentina-Napoli, Juventus-Atalanta, Milan-Lecce e le altre partite di oggi in serie A - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Sun, 20 Sep 2026 04:37:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "I convocati per Juventus-Atalanta | Serie A Enilive 2026/27 MD5 - Atalanta",
+      "source": "Atalanta",
       "published": "Sat, 19 Sep 2026 15:01:14 GMT"
     },
     {
@@ -159,23 +166,30 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, Roma-Inter 2-2, Udinese-Cagliari 0-1, Bologna-Torino 1-1, Venezia-Lazio 0-2 - Radio RTL 102.5",
-      "source": "Radio RTL 102.5",
-      "published": "Sat, 19 Sep 2026 20:51:35 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A Women’s Cup | Juventus-Roma | La partita - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Sat, 19 Sep 2026 21:51:57 GMT"
+      "title": "Roma vs Inter | Serie A Enilive - Lega Serie A",
+      "source": "Lega Serie A",
+      "published": "Sat, 19 Sep 2026 17:27:09 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Alcaraz si unisce a Sinner e Zverev alle Nitto ATP Finals - Nitto ATP Finals",
-      "source": "Nitto ATP Finals",
+      "title": "Alcaraz si unisce a Sinner e Zverev alle Nitto ATP Finals - nittoatpfinals.com",
+      "source": "nittoatpfinals.com",
       "published": "Wed, 16 Sep 2026 11:41:50 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "WTA San Paolo, stasera in tv la finale Podoroska-Quevedo - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Sat, 19 Sep 2026 23:18:42 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "BT 400 Marina di Ravenna, Valentini/Gasparri unica coppia italiana in semifinale - FITP",
+      "source": "FITP",
+      "published": "Sun, 20 Sep 2026 04:52:48 GMT"
     },
     {
       "type": "news",
@@ -183,20 +197,6 @@
       "title": "WTA San Paolo 2026, la finale sarà tra Kaitlin Quevedo e Nadia Podoroska - OA Sport",
       "source": "OA Sport",
       "published": "Sat, 19 Sep 2026 20:43:56 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner n.1 nel ranking ATP, ma non nella Race. Cinà e Guerrieri verso la Top 150 - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Mon, 14 Sep 2026 07:09:05 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ranking Atp, cosa deve fare Sinner per restare numero 1? Zverev ora lo insidia ma... - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Mon, 14 Sep 2026 06:11:59 GMT"
     },
     {
       "type": "news",
