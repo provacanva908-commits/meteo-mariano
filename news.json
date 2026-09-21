@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T13:54:59.084169+00:00",
+  "updated_at": "2026-09-21T19:11:52.542580+00:00",
   "local_date": "2026-09-21",
   "articles": [
     {
@@ -18,30 +18,37 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "BM MERCATO | MAXIMA ROMA, UFFICIALE HUNTER TYSON: L’EX DENVER NUGGETS SBARCA NELLA CAPITALE - Basket Magazine",
-      "source": "Basket Magazine",
-      "published": "Mon, 21 Sep 2026 08:07:44 GMT"
+      "title": "UE vicina a un accordo sul rinnovo delle sanzioni alla Russia - Euronews.com",
+      "source": "Euronews.com",
+      "published": "Mon, 21 Sep 2026 15:26:19 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Rinnovo CCNL Farmacie Comunali: siglata l’ipotesi di accordo - Farmacia News",
-      "source": "Farmacia News",
-      "published": "Mon, 21 Sep 2026 07:55:14 GMT"
+      "title": "L’Ue verso un accordo per il rinnovo delle sanzioni - ItalyPost",
+      "source": "ItalyPost",
+      "published": "Mon, 21 Sep 2026 18:07:03 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Accordo Ue: Ursula von der Leyen presente alla firma del 19 ottobre - San Marino Rtv",
-      "source": "San Marino Rtv",
-      "published": "Mon, 21 Sep 2026 12:04:00 GMT"
+      "title": "Paramount vicina all’accordo per la fusione con Warner Bros. Discovery - Milano Finanza",
+      "source": "Milano Finanza",
+      "published": "Mon, 21 Sep 2026 15:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Dai sedici del Torino e i 15 del Milan agli otto di Monza e Lazio: tutti i convocati in nazionale - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Mon, 21 Sep 2026 18:42:02 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
       "title": "Serie A | Juventus-Atalanta | I numeri postpartita - Juventus.com",
       "source": "Juventus.com",
-      "published": "Mon, 21 Sep 2026 08:09:10 GMT"
+      "published": "Mon, 21 Sep 2026 13:49:10 GMT"
     },
     {
       "type": "news",
@@ -53,44 +60,37 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "WOMEN'S CHAMPIONS LEAGUE: L'INTER IN CAMPO AL BRIANTEO - acmonza.com",
-      "source": "acmonza.com",
-      "published": "Mon, 21 Sep 2026 13:38:28 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League al Brianteo: a Monza le gare europee dell’Inter Women - ilcittadinomb.it",
-      "source": "ilcittadinomb.it",
-      "published": "Mon, 21 Sep 2026 09:01:00 GMT"
+      "title": "WOMEN'S CHAMPIONS LEAGUE: L'INTER IN CAMPO AL BRIANTEO - Associazione Calcio Monza S.p.A. *",
+      "source": "Associazione Calcio Monza S.p.A. *",
+      "published": "Mon, 21 Sep 2026 14:06:23 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP/WTA: Sinner, 90 settimane da re. Sale Jovic - oktennis.it",
-      "source": "oktennis.it",
+      "title": "Ranking ATP/WTA: Sinner, 90 settimane da re. Sale Jovic - Ok Tennis",
+      "source": "Ok Tennis",
       "published": "Mon, 21 Sep 2026 08:35:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Djokovic: \"Sinner e Alcaraz giocano come me, è un orgoglio\" - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 20 Sep 2026 13:20:58 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner rischia la vetta del ranking Atp? Jannik scarterà 3.550 punti, ecco come Zverev può superarlo - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "Mon, 21 Sep 2026 09:42:15 GMT"
+      "title": "Sinner e Alcaraz, il Six Kings Slam è a rischio e il maxi-montepremi può saltare: i dubbi sul torneo di Riad - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Mon, 21 Sep 2026 16:03:47 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
       "title": "WTA San Paolo, stasera in tv la finale Podoroska-Quevedo - SuperTennis",
       "source": "SuperTennis",
-      "published": "Mon, 21 Sep 2026 13:36:37 GMT"
+      "published": "Mon, 21 Sep 2026 16:37:08 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "WTA San Paolo, imperversa la pioggia. La finale Quevedo-Podoroska rinviata a oggi - OA Sport",
+      "source": "OA Sport",
+      "published": "Mon, 21 Sep 2026 03:48:08 GMT"
     },
     {
       "type": "news",
@@ -102,6 +102,13 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "FIP Tour: Collombon e Sharifova vincono agevolmente, Bahurel li raggiunge nei quarti di finale, Martin in semifinale a Nairobi. - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 19 Sep 2026 10:09:11 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "Lamperti se ne andrà Premier Padel fine 2026 ma desidera comunque giocare nel FIP Tour negli anni successivi: \"Oggi, il mio corpo mi dice che voglio giocare\" - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Mon, 21 Sep 2026 09:23:27 GMT"
@@ -109,16 +116,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Clodia Wellness Week: attività gratuite fino al 27 settembre, torneo di Padel e grande festa finale per i 20 anni - ChioggiaTV",
-      "source": "ChioggiaTV",
-      "published": "Sun, 20 Sep 2026 18:09:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Paris Major Premier Padel 2026: Oggi finale con El Clasico e le terribili ragazze - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Sun, 13 Sep 2026 08:50:08 GMT"
+      "title": "FIP Silver Budapest: Grande sorpresa, Fonteny e Moragues eliminano Barahona/Sentes nei quarti di finale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sun, 20 Sep 2026 06:19:36 GMT"
     }
   ]
 }
