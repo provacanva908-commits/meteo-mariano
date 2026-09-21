@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T01:25:16.693988+00:00",
+  "updated_at": "2026-09-21T06:56:55.815373+00:00",
   "local_date": "2026-09-21",
   "articles": [
     {
@@ -11,6 +11,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Diritto di sciopero Area “Istruzione e Ricerca”: avviata all’ARAN la trattativa per il rinnovo dell’accordo - flcgil.it",
+      "source": "flcgil.it",
+      "published": "Tue, 15 Sep 2026 14:58:46 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Fiorentina Napoli, Manna: «In estate contatti per Mastantuono. Rinnovo Anguissa? Senza accordo nessun problema a separarci» - Il Mattino",
       "source": "Il Mattino",
       "published": "Sun, 20 Sep 2026 10:12:58 GMT"
@@ -18,23 +25,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Diritto di sciopero Area “Istruzione e Ricerca”: avviata all’ARAN la trattativa per il rinnovo dell’accordo - FLC CGIL",
-      "source": "FLC CGIL",
-      "published": "Tue, 15 Sep 2026 14:58:46 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato, la Serie A supera il miliardo: solo la Premier ha speso di più. Milan e Juventus regine degli investimenti - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
+      "title": "Calciomercato, la Serie A supera il miliardo: solo la Premier ha speso di più. Milan e Juventus regine degli investimenti - ilfattoquotidiano.it",
+      "source": "ilfattoquotidiano.it",
       "published": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Manna: \"Rinnovo Anguissa? Senza accordo siamo pronti a separarci. Volevamo Mastantuono\" - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Sun, 20 Sep 2026 13:38:00 GMT"
+      "title": "Silvia Sardone candidata sindaco di Milano: l'investitura ufficiale di Salvini. E lei lancia la campagna: «Pronta anche alle primarie» - Corriere Milano",
+      "source": "Corriere Milano",
+      "published": "Mon, 21 Sep 2026 05:00:06 GMT"
     },
     {
       "type": "news",
@@ -46,13 +46,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, si rilanciano Juve e Milan, frena il Napoli, crolla il Como - Radio RTL 102.5",
-      "source": "Radio RTL 102.5",
-      "published": "Sun, 20 Sep 2026 21:01:21 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Serie A | Juventus-Atalanta | Le interviste - Juventus.com",
       "source": "Juventus.com",
       "published": "Sun, 20 Sep 2026 19:09:05 GMT"
@@ -60,9 +53,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A | Juventus-Atalanta | La partita - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Sun, 20 Sep 2026 18:09:03 GMT"
+      "title": "Juventus vs Atalanta | Serie A Enilive - Lega Serie A",
+      "source": "Lega Serie A",
+      "published": "Sun, 20 Sep 2026 16:29:32 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A, si rilanciano Juve e Milan, frena il Napoli, crolla il Como - Radio RTL 102.5",
+      "source": "Radio RTL 102.5",
+      "published": "Sun, 20 Sep 2026 21:01:21 GMT"
     },
     {
       "type": "news",
@@ -81,8 +81,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Alcaraz si unisce a Sinner e Zverev alle Nitto ATP Finals - nittoatpfinals.com",
-      "source": "nittoatpfinals.com",
+      "title": "Alcaraz si unisce a Sinner e Zverev alle Nitto ATP Finals - Nitto ATP Finals",
+      "source": "Nitto ATP Finals",
       "published": "Wed, 16 Sep 2026 11:41:50 GMT"
     },
     {
@@ -102,16 +102,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Clodia Wellness Week: attività gratuite fino al 27 settembre, torneo di Padel e grande festa finale per i 20 anni - chioggiatv.it",
-      "source": "chioggiatv.it",
+      "title": "Clodia Wellness Week: attività gratuite fino al 27 settembre, torneo di Padel e grande festa finale per i 20 anni - ChioggiaTV",
+      "source": "ChioggiaTV",
       "published": "Sun, 20 Sep 2026 18:09:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Silver Budapest: Grande sorpresa, Fonteny e Moragues eliminano Barahona/Sentes nei quarti di finale - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sun, 20 Sep 2026 06:19:36 GMT"
     },
     {
       "type": "news",
@@ -119,6 +112,13 @@
       "title": "Paris Major Premier Padel 2026: Oggi finale con El Clasico e le terribili ragazze - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Sun, 13 Sep 2026 08:50:08 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Silver Budapest: Grande sorpresa, Fonteny e Moragues eliminano Barahona/Sentes nei quarti di finale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sun, 20 Sep 2026 06:19:36 GMT"
     }
   ]
 }
