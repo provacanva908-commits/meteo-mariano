@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T23:23:59.125113+00:00",
+  "updated_at": "2026-09-21T01:25:16.693988+00:00",
   "local_date": "2026-09-21",
   "articles": [
     {
@@ -11,15 +11,15 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Fiorentina Napoli, Manna: «In estate contatti per Mastantuono. Rinnovo Anguissa? Senza accordo nessun problema a separarci» - ilmattino.it",
-      "source": "ilmattino.it",
+      "title": "Fiorentina Napoli, Manna: «In estate contatti per Mastantuono. Rinnovo Anguissa? Senza accordo nessun problema a separarci» - Il Mattino",
+      "source": "Il Mattino",
       "published": "Sun, 20 Sep 2026 10:12:58 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Diritto di sciopero Area “Istruzione e Ricerca”: avviata all’ARAN la trattativa per il rinnovo dell’accordo - flcgil.it",
-      "source": "flcgil.it",
+      "title": "Diritto di sciopero Area “Istruzione e Ricerca”: avviata all’ARAN la trattativa per il rinnovo dell’accordo - FLC CGIL",
+      "source": "FLC CGIL",
       "published": "Tue, 15 Sep 2026 14:58:46 GMT"
     },
     {
@@ -32,9 +32,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Rinnovo Anguissa, Manna chiarissimo: \"Se troveremo un accordo bene, sennò ci separeremo\" - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Sun, 20 Sep 2026 11:27:46 GMT"
+      "title": "Manna: \"Rinnovo Anguissa? Senza accordo siamo pronti a separarci. Volevamo Mastantuono\" - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Sun, 20 Sep 2026 13:38:00 GMT"
     },
     {
       "type": "news",
@@ -60,9 +60,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Juventus vs Atalanta | Serie A Enilive - Lega Serie A",
-      "source": "Lega Serie A",
-      "published": "Sun, 20 Sep 2026 16:29:32 GMT"
+      "title": "Serie A | Juventus-Atalanta | La partita - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Sun, 20 Sep 2026 18:09:03 GMT"
     },
     {
       "type": "news",
@@ -81,16 +81,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "10 giorni all’ATP di Pechino: Sinner non ha ancora confermato la presenza. Come cambierebbe il ranking - OA Sport",
-      "source": "OA Sport",
-      "published": "Sun, 20 Sep 2026 10:41:05 GMT"
+      "title": "Alcaraz si unisce a Sinner e Zverev alle Nitto ATP Finals - nittoatpfinals.com",
+      "source": "nittoatpfinals.com",
+      "published": "Wed, 16 Sep 2026 11:41:50 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Alcaraz si unisce a Sinner e Zverev alle Nitto ATP Finals - Nitto ATP Finals",
-      "source": "Nitto ATP Finals",
-      "published": "Wed, 16 Sep 2026 11:41:50 GMT"
+      "title": "10 giorni all’ATP di Pechino: Sinner non ha ancora confermato la presenza. Come cambierebbe il ranking - OA Sport",
+      "source": "OA Sport",
+      "published": "Sun, 20 Sep 2026 10:41:05 GMT"
     },
     {
       "type": "news",
@@ -102,15 +102,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Tour: Collombon e Sharifova vincono agevolmente, Bahurel li raggiunge nei quarti di finale, Martin in semifinale a Nairobi. - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sat, 19 Sep 2026 10:09:11 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Clodia Wellness Week: attività gratuite fino al 27 settembre, torneo di Padel e grande festa finale per i 20 anni - ChioggiaTV",
-      "source": "ChioggiaTV",
+      "title": "Clodia Wellness Week: attività gratuite fino al 27 settembre, torneo di Padel e grande festa finale per i 20 anni - chioggiatv.it",
+      "source": "chioggiatv.it",
       "published": "Sun, 20 Sep 2026 18:09:00 GMT"
     },
     {
@@ -119,6 +112,13 @@
       "title": "FIP Silver Budapest: Grande sorpresa, Fonteny e Moragues eliminano Barahona/Sentes nei quarti di finale - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sun, 20 Sep 2026 06:19:36 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Paris Major Premier Padel 2026: Oggi finale con El Clasico e le terribili ragazze - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Sun, 13 Sep 2026 08:50:08 GMT"
     }
   ]
 }
