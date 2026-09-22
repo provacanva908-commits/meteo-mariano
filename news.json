@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T11:52:46.644553+00:00",
+  "updated_at": "2026-09-22T16:22:47.921294+00:00",
   "local_date": "2026-09-22",
   "articles": [
     {
@@ -11,37 +11,37 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Napoli accoglie l'America’s Cup: tra countdown ufficiale, agevolazioni doganali e la nuova Villa Comunale - Il Mattino",
-      "source": "Il Mattino",
-      "published": "Tue, 22 Sep 2026 08:54:52 GMT"
+      "title": "A Chieti firmati i contratti attuativi dell'accordo quadro per interventi di manutenzione straordinaria sulle strade provinciali - Abruzzo Popolare",
+      "source": "Abruzzo Popolare",
+      "published": "Tue, 22 Sep 2026 13:24:57 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Monica Vitti e l'EUR immagine ufficiale della Festa di Roma 2026 - Italy for Movies",
+      "title": "CCNI FMOF 2026/2027: firmata l’ipotesi di accordo al Ministero - FLC CGIL",
+      "source": "FLC CGIL",
+      "published": "Tue, 22 Sep 2026 14:17:53 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Monica Vitti e l'EUR nel manifesto ufficiale della Festa di Roma 2026 - Italy for Movies",
       "source": "Italy for Movies",
-      "published": "Tue, 22 Sep 2026 11:06:03 GMT"
+      "published": "Tue, 22 Sep 2026 12:33:19 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Paramount, accordo con gli Stati Usa per l’acquisto di Warner Bros Discovery - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
-      "published": "Mon, 21 Sep 2026 22:26:04 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "L’accordo sulla Groenlandia spiana la strada alle imprese Usa. E Trump apre altre due basi militari - Milano Finanza",
-      "source": "Milano Finanza",
-      "published": "Tue, 22 Sep 2026 08:12:00 GMT"
+      "title": "Monica Vitti è il volto ufficiale della 21esima Festa del Cinema di Roma - RomaToday",
+      "source": "RomaToday",
+      "published": "Tue, 22 Sep 2026 15:32:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Oltre 200 convocati in nazionale dalla Serie A: Como e Milan vedono partire 15 giocatori - Diretta",
-      "source": "Diretta",
-      "published": "Tue, 22 Sep 2026 09:33:49 GMT"
+      "title": "Napoli and Roma return to training, Inter, Milan, Como enjoy break: Serie A clubs' international schedule - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Tue, 22 Sep 2026 14:46:43 GMT"
     },
     {
       "type": "news",
@@ -53,16 +53,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Juventus-Benfica oggi in tv, Champions League calcio femminile: orario, canale, streaming - OA Sport",
-      "source": "OA Sport",
-      "published": "Tue, 22 Sep 2026 09:45:50 GMT"
+      "title": "Napoli e Roma al lavoro, settimana libera per Inter, Milan e Como: cosa fanno le 20 di A durante la sosta - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Tue, 22 Sep 2026 14:46:43 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A: meno di un gol su 4 è italiano, Inter e Juventus regine dei legni - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Tue, 22 Sep 2026 08:41:17 GMT"
+      "title": "Gara Juventus – Benfica 22.09.26 UEFA Women’s Champions League - Lega Nazionale Dilettanti Piemonte - Valle D'Aosta",
+      "source": "Lega Nazionale Dilettanti Piemonte - Valle D'Aosta",
+      "published": "Tue, 22 Sep 2026 08:13:15 GMT"
     },
     {
       "type": "news",
@@ -74,9 +74,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Djokovic: \"Sinner e Alcaraz giocano come me, è un orgoglio\" - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 20 Sep 2026 13:20:58 GMT"
+      "title": "Sinner rischia la vetta del ranking Atp? Jannik scarterà 3.550 punti, ecco come Zverev può superarlo - Il Messaggero",
+      "source": "Il Messaggero",
+      "published": "Tue, 22 Sep 2026 14:22:44 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Tennis: BJK Cup, Rep.Ceca batte Gran Bretagna e va in semifinale - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Tue, 22 Sep 2026 15:33:59 GMT"
     },
     {
       "type": "news",
@@ -84,13 +91,6 @@
       "title": "10 giorni all’ATP di Pechino: Sinner non ha ancora confermato la presenza. Come cambierebbe il ranking - OA Sport",
       "source": "OA Sport",
       "published": "Sun, 20 Sep 2026 10:41:05 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Una finale da Atp chiude l'Open di Meldola: la prima edizione va a Manuel Mazza - ForlìToday",
-      "source": "ForlìToday",
-      "published": "Tue, 22 Sep 2026 05:58:18 GMT"
     },
     {
       "type": "news",
@@ -102,9 +102,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Tour: Collombon e Sharifova vincono agevolmente, Bahurel li raggiunge nei quarti di finale, Martin in semifinale a Nairobi. - padel-magazine.it",
+      "title": "FIP Platinum Lione: è il momento del turno finale di qualificazioni, con i concorrenti francesi ancora in gara - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Sat, 19 Sep 2026 10:09:11 GMT"
+      "published": "Tue, 22 Sep 2026 12:39:53 GMT"
     },
     {
       "type": "news",
