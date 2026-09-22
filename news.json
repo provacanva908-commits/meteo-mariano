@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T06:17:51.764793+00:00",
+  "updated_at": "2026-09-22T11:52:46.644553+00:00",
   "local_date": "2026-09-22",
   "articles": [
     {
@@ -11,30 +11,37 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Napoli accoglie l'America’s Cup: tra countdown ufficiale, agevolazioni doganali e la nuova Villa Comunale - Il Mattino",
+      "source": "Il Mattino",
+      "published": "Tue, 22 Sep 2026 08:54:52 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Monica Vitti e l'EUR immagine ufficiale della Festa di Roma 2026 - Italy for Movies",
+      "source": "Italy for Movies",
+      "published": "Tue, 22 Sep 2026 11:06:03 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Paramount, accordo con gli Stati Usa per l’acquisto di Warner Bros Discovery - Il Sole 24 ORE",
       "source": "Il Sole 24 ORE",
-      "published": "Mon, 21 Sep 2026 18:29:57 GMT"
+      "published": "Mon, 21 Sep 2026 22:26:04 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Rinnovo CCNL Farmacie Comunali: siglata l’ipotesi di accordo - Farmacia News",
-      "source": "Farmacia News",
-      "published": "Mon, 21 Sep 2026 09:49:35 GMT"
+      "title": "L’accordo sulla Groenlandia spiana la strada alle imprese Usa. E Trump apre altre due basi militari - Milano Finanza",
+      "source": "Milano Finanza",
+      "published": "Tue, 22 Sep 2026 08:12:00 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Sicor, è stato raggiunto l’accordo: nessun licenziamento unilaterale. “Siamo soddisfatti per la trattativa” - Il Giorno",
-      "source": "Il Giorno",
-      "published": "Tue, 22 Sep 2026 00:20:19 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "L’Ue verso un accordo per il rinnovo delle sanzioni - ItalyPost",
-      "source": "ItalyPost",
-      "published": "Mon, 21 Sep 2026 18:07:00 GMT"
+      "category": "CALCIO",
+      "title": "Oltre 200 convocati in nazionale dalla Serie A: Como e Milan vedono partire 15 giocatori - Diretta",
+      "source": "Diretta",
+      "published": "Tue, 22 Sep 2026 09:33:49 GMT"
     },
     {
       "type": "news",
@@ -46,23 +53,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, oltre 200 convocati in nazionale: Como e Milan con 15 giocatori - Diretta",
-      "source": "Diretta",
-      "published": "Mon, 21 Sep 2026 20:51:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Tabellone Coppa Italia 2026-2027: calendario e risultati dei sedicesimi di finale - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Tue, 15 Sep 2026 20:55:42 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Juventus-Benfica oggi, Champions League calcio femminile: orario, tv, programma, streaming - OA Sport",
+      "title": "Juventus-Benfica oggi in tv, Champions League calcio femminile: orario, canale, streaming - OA Sport",
       "source": "OA Sport",
-      "published": "Tue, 22 Sep 2026 03:20:05 GMT"
+      "published": "Tue, 22 Sep 2026 09:45:50 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A: meno di un gol su 4 è italiano, Inter e Juventus regine dei legni - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Tue, 22 Sep 2026 08:41:17 GMT"
     },
     {
       "type": "news",
@@ -88,9 +88,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Alcaraz si unisce a Sinner e Zverev alle Nitto ATP Finals - Nitto ATP Finals",
-      "source": "Nitto ATP Finals",
-      "published": "Wed, 16 Sep 2026 11:41:50 GMT"
+      "title": "Una finale da Atp chiude l'Open di Meldola: la prima edizione va a Manuel Mazza - ForlìToday",
+      "source": "ForlìToday",
+      "published": "Tue, 22 Sep 2026 05:58:18 GMT"
     },
     {
       "type": "news",
@@ -109,16 +109,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Lamperti se ne andrà Premier Padel fine 2026 ma desidera comunque giocare nel FIP Tour negli anni successivi: \"Oggi, il mio corpo mi dice che voglio giocare\" - padel-magazine.it",
+      "title": "FIP Platinum Lione: una giornata finale di qualificazioni intensa, le teste di serie salgono sul palco - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Mon, 21 Sep 2026 09:23:27 GMT"
+      "published": "Tue, 22 Sep 2026 06:44:22 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Silver Budapest: Grande sorpresa, Fonteny e Moragues eliminano Barahona/Sentes nei quarti di finale - padel-magazine.it",
+      "title": "FIP Platinum Lyon: Boronad e Robert hanno la meglio su Perrot/Huard e si qualificano per il turno finale di qualificazione - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Sun, 20 Sep 2026 06:19:36 GMT"
+      "published": "Tue, 22 Sep 2026 11:02:53 GMT"
     }
   ]
 }
