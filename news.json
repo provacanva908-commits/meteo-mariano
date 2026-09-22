@@ -1,19 +1,12 @@
 {
-  "updated_at": "2026-09-22T19:49:02.567324+00:00",
-  "local_date": "2026-09-22",
+  "updated_at": "2026-09-22T22:30:33.035352+00:00",
+  "local_date": "2026-09-23",
   "articles": [
     {
       "type": "message",
       "category": "CALCIO",
       "title": "Nessuna partita rilevante in programma oggi tra Serie A, coppe europee e top club",
       "source": "football-data.org"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "CCNI FMOF 2026/2027: firmata l’ipotesi di accordo al Ministero - flcgil.it",
-      "source": "flcgil.it",
-      "published": "Tue, 22 Sep 2026 14:17:53 GMT"
     },
     {
       "type": "news",
@@ -25,16 +18,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Trump firma accordo su Groenlandia: Usa amplieranno presenza militare - Euronews.com",
-      "source": "Euronews.com",
-      "published": "Tue, 22 Sep 2026 16:55:25 GMT"
+      "title": "CCNI FMOF 2026/2027: firmata l’ipotesi di accordo al Ministero - FLC CGIL",
+      "source": "FLC CGIL",
+      "published": "Tue, 22 Sep 2026 14:17:53 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Racing, accordo per Valentín Carboni: l'Inter pagherà per farlo giocare - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Tue, 22 Sep 2026 11:58:55 GMT"
+      "title": "Monica Vitti è il volto ufficiale della 21esima Festa del Cinema di Roma - RomaToday",
+      "source": "RomaToday",
+      "published": "Tue, 22 Sep 2026 15:32:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Trump firma accordo di sicurezza sulla Groenlandia: gli Usa potranno ampliare la presenza militare - Euronews.com",
+      "source": "Euronews.com",
+      "published": "Tue, 22 Sep 2026 16:55:25 GMT"
     },
     {
       "type": "news",
@@ -42,13 +42,6 @@
       "title": "Napoli and Roma return to training, Inter, Milan, Como enjoy break: Serie A clubs' international schedule - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Tue, 22 Sep 2026 14:46:43 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Oltre 200 convocati in nazionale dalla Serie A: Como e Milan vedono partire 15 giocatori - Diretta",
-      "source": "Diretta",
-      "published": "Tue, 22 Sep 2026 05:54:08 GMT"
     },
     {
       "type": "news",
@@ -66,24 +59,24 @@
     },
     {
       "type": "news",
+      "category": "CALCIO",
+      "title": "Anteprima prima giornata UEFA Women's Champions League, mercoledì: Barcelona - Paris FC, Chelsea - Austria Wien - UEFA.com",
+      "source": "UEFA.com",
+      "published": "Tue, 22 Sep 2026 20:36:46 GMT"
+    },
+    {
+      "type": "news",
       "category": "TENNIS",
-      "title": "TREVISO | I ‘FINTI’ BORG, McENROE, SINNER E ALCARAZ INGAGGIATI DAL TORNEO ATP DI TOKYO - antennatre.medianordest.it",
-      "source": "antennatre.medianordest.it",
+      "title": "TREVISO | I ‘FINTI’ BORG, McENROE, SINNER E ALCARAZ INGAGGIATI DAL TORNEO ATP DI TOKYO - ANTENNA TRE",
+      "source": "ANTENNA TRE",
       "published": "Tue, 22 Sep 2026 16:51:06 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner e Alcaraz, il Six Kings Slam è a rischio e il maxi-montepremi può saltare: i dubbi sul torneo di Riad - ilfattoquotidiano.it",
-      "source": "ilfattoquotidiano.it",
+      "title": "Sinner e Alcaraz, il Six Kings Slam è a rischio e il maxi-montepremi può saltare: i dubbi sul torneo di Riad - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
       "published": "Mon, 21 Sep 2026 16:03:47 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner rischia la vetta del ranking Atp? Jannik scarterà 3.550 punti, ecco come Zverev può superarlo - ilmessaggero.it",
-      "source": "ilmessaggero.it",
-      "published": "Tue, 22 Sep 2026 14:22:44 GMT"
     },
     {
       "type": "news",
@@ -91,6 +84,13 @@
       "title": "Tennis in carrozzina, Mazzei in semifinale nel maschile - L'Unione Sarda.it - L'Unione Sarda.it",
       "source": "L'Unione Sarda.it",
       "published": "Tue, 22 Sep 2026 17:07:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner rischia la vetta del ranking Atp? Jannik scarterà 3.550 punti, ecco come Zverev può superarlo - Il Messaggero",
+      "source": "Il Messaggero",
+      "published": "Tue, 22 Sep 2026 14:22:44 GMT"
     },
     {
       "type": "news",
