@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T01:10:42.016949+00:00",
+  "updated_at": "2026-09-22T06:17:51.764793+00:00",
   "local_date": "2026-09-22",
   "articles": [
     {
@@ -18,9 +18,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "L’Ue verso un accordo per il rinnovo delle sanzioni - ItalyPost",
-      "source": "ItalyPost",
-      "published": "Mon, 21 Sep 2026 18:07:00 GMT"
+      "title": "Rinnovo CCNL Farmacie Comunali: siglata l’ipotesi di accordo - Farmacia News",
+      "source": "Farmacia News",
+      "published": "Mon, 21 Sep 2026 09:49:35 GMT"
     },
     {
       "type": "news",
@@ -32,9 +32,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "De la Fuente rinnova con la Spagna: ufficiale l'accordo fino al 2032 - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Mon, 21 Sep 2026 16:17:00 GMT"
+      "title": "L’Ue verso un accordo per il rinnovo delle sanzioni - ItalyPost",
+      "source": "ItalyPost",
+      "published": "Mon, 21 Sep 2026 18:07:00 GMT"
     },
     {
       "type": "news",
@@ -46,36 +46,29 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Tabellone Coppa Italia 2026-2027: calendario e risultati dei sedicesimi di finale - sport.sky.it",
-      "source": "sport.sky.it",
+      "title": "Serie A, oltre 200 convocati in nazionale: Como e Milan con 15 giocatori - Diretta",
+      "source": "Diretta",
+      "published": "Mon, 21 Sep 2026 20:51:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Tabellone Coppa Italia 2026-2027: calendario e risultati dei sedicesimi di finale - Sky Sport",
+      "source": "Sky Sport",
       "published": "Tue, 15 Sep 2026 20:55:42 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A | Juventus-Atalanta | I numeri postpartita - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Mon, 21 Sep 2026 13:49:10 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "WOMEN'S CHAMPIONS LEAGUE: L'INTER IN CAMPO AL BRIANTEO - Associazione Calcio Monza S.p.A. *",
-      "source": "Associazione Calcio Monza S.p.A. *",
-      "published": "Mon, 21 Sep 2026 14:36:32 GMT"
+      "title": "Juventus-Benfica oggi, Champions League calcio femminile: orario, tv, programma, streaming - OA Sport",
+      "source": "OA Sport",
+      "published": "Tue, 22 Sep 2026 03:20:05 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP/WTA: Sinner, 90 settimane da re. Sale Jovic - Ok Tennis",
-      "source": "Ok Tennis",
-      "published": "Mon, 21 Sep 2026 08:35:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner e Alcaraz, il Six Kings Slam è a rischio e il maxi-montepremi può saltare: i dubbi sul torneo di Riad - ilfattoquotidiano.it",
-      "source": "ilfattoquotidiano.it",
+      "title": "Sinner e Alcaraz, il Six Kings Slam è a rischio e il maxi-montepremi può saltare: i dubbi sul torneo di Riad - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
       "published": "Mon, 21 Sep 2026 16:03:47 GMT"
     },
     {
@@ -88,9 +81,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "WTA San Paolo, imperversa la pioggia. La finale Quevedo-Podoroska rinviata a oggi - OA Sport",
+      "title": "10 giorni all’ATP di Pechino: Sinner non ha ancora confermato la presenza. Come cambierebbe il ranking - OA Sport",
       "source": "OA Sport",
-      "published": "Mon, 21 Sep 2026 03:48:08 GMT"
+      "published": "Sun, 20 Sep 2026 10:41:05 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Alcaraz si unisce a Sinner e Zverev alle Nitto ATP Finals - Nitto ATP Finals",
+      "source": "Nitto ATP Finals",
+      "published": "Wed, 16 Sep 2026 11:41:50 GMT"
     },
     {
       "type": "news",
