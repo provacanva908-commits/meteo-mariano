@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T10:17:11.272343+00:00",
+  "updated_at": "2026-09-23T15:05:44.767498+00:00",
   "local_date": "2026-09-23",
   "articles": [
     {
@@ -11,6 +11,20 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Calciomercato Juventus, attesa oggi l’offerta per Neto: come stanno le cose - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Wed, 23 Sep 2026 09:28:28 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Sicurezza sul lavoro: accordo Regione Toscana-Inail, giovedì 24 la firma - Toscana Notizie",
+      "source": "Toscana Notizie",
+      "published": "Wed, 23 Sep 2026 13:02:17 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Municipi. Giovedì 24 settembre a Palazzo Marino la presentazione del nuovo Accordo Quadro con i Lions - Comune di Milano",
       "source": "Comune di Milano",
       "published": "Wed, 23 Sep 2026 09:34:01 GMT"
@@ -18,30 +32,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Firmato l'accordo sulla Groenlandia, ecco cosa prevede - tg24.sky.it",
-      "source": "tg24.sky.it",
-      "published": "Wed, 23 Sep 2026 04:19:03 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Bergamo e Seriate, firmato l'accordo per presidiare le stazioni - Lombardia Notizie Online",
-      "source": "Lombardia Notizie Online",
-      "published": "Tue, 22 Sep 2026 18:20:08 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Usa, Danimarca e Groenlandia firmano l'accordo sull'Artico: cosa prevede - tg24.sky.it",
-      "source": "tg24.sky.it",
-      "published": "Tue, 22 Sep 2026 21:51:27 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Maxi sosta, cosa fanno le squadre di Serie A: Inter e Milan a riposo, test per Roma e Como - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Wed, 23 Sep 2026 09:23:00 GMT"
+      "title": "SCUOLA - MOF 2026/27. Firmato accordo per liberare subito le stesse risorse 2025/26 ma con aumenti per facenti funzioni e Dsga che avranno maggiore indennità di direzione - ANIEF",
+      "source": "ANIEF",
+      "published": "Wed, 23 Sep 2026 13:10:04 GMT"
     },
     {
       "type": "news",
@@ -53,23 +46,30 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Napoli e Roma al lavoro, settimana libera per Inter, Milan e Como: cosa fanno le 20 di A durante la sosta - gazzetta.it",
-      "source": "gazzetta.it",
-      "published": "Tue, 22 Sep 2026 14:46:43 GMT"
+      "title": "Maxi sosta, cosa fanno le squadre di Serie A: Inter e Milan a riposo, test per Roma e Como - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Wed, 23 Sep 2026 09:23:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "TRIBUNA.COM * SERIE A: «LA PANCHINA, IL SOGNO DI RIAPRIRLA E POI L'INFORTUNIO, BISSECK E IL RICORDO DELLA FINALE CHAMPIONS CONTRO IL PSG: \"UN INCUBO\" - agenziagiornalisticaopinione.it",
-      "source": "agenziagiornalisticaopinione.it",
-      "published": "Wed, 23 Sep 2026 06:01:03 GMT"
+      "title": "UEFA Women's Champions League, classifica e calendario - Inter.it",
+      "source": "Inter.it",
+      "published": "Wed, 23 Sep 2026 08:53:22 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Calcio: al Brianteo Inter Women batte Hacken al debutto in Champions League - Il Cittadino di Monza e Brianza",
+      "source": "Il Cittadino di Monza e Brianza",
+      "published": "Wed, 23 Sep 2026 05:37:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "TREVISO | I ‘FINTI’ BORG, McENROE, SINNER E ALCARAZ INGAGGIATI DAL TORNEO ATP DI TOKYO - ANTENNA TRE",
-      "source": "ANTENNA TRE",
-      "published": "Tue, 22 Sep 2026 16:51:06 GMT"
+      "title": "WTA Singapore 2026: Andreeva e Fernandez verso una potenziale semifinale, avanti anche Chwalinska - OA Sport",
+      "source": "OA Sport",
+      "published": "Wed, 23 Sep 2026 14:43:18 GMT"
     },
     {
       "type": "news",
@@ -88,16 +88,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Djokovic: \"Sinner e Alcaraz giocano come me, è un orgoglio\" - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 20 Sep 2026 13:20:58 GMT"
+      "title": "ATP Chengdu 2026, Brooksby e Kopriva staccano il pass per gli ottavi di finale - OA Sport",
+      "source": "OA Sport",
+      "published": "Wed, 23 Sep 2026 08:59:37 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Sun, 13 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Mansart e Dardaine offrono un'ottima prestazione nel primo turno del FIP Platinum Lyon e si assicurano un prestigioso accesso agli ottavi di finale al Palais des Sports - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Wed, 23 Sep 2026 10:15:01 GMT"
     },
     {
       "type": "news",
@@ -112,13 +119,6 @@
       "title": "FIP Platinum Lione: una giornata finale di qualificazioni intensa, le teste di serie salgono sul palco - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Tue, 22 Sep 2026 06:44:22 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Platinum Lione: è il momento del turno finale di qualificazioni, con i concorrenti francesi ancora in gara - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Tue, 22 Sep 2026 12:39:53 GMT"
     }
   ]
 }
