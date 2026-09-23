@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T15:05:44.767498+00:00",
+  "updated_at": "2026-09-23T19:02:42.389178+00:00",
   "local_date": "2026-09-23",
   "articles": [
     {
@@ -11,16 +11,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Juventus, attesa oggi l’offerta per Neto: come stanno le cose - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 23 Sep 2026 09:28:28 GMT"
+      "title": "Cooperazione internazionale Lazio-Sassonia: firmato un nuovo accordo - Corriere di Viterbo",
+      "source": "Corriere di Viterbo",
+      "published": "Wed, 23 Sep 2026 14:31:01 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Juventus, accordo trovato con Neto: firma per un anno - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Wed, 23 Sep 2026 15:21:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "Sicurezza sul lavoro: accordo Regione Toscana-Inail, giovedì 24 la firma - Toscana Notizie",
       "source": "Toscana Notizie",
-      "published": "Wed, 23 Sep 2026 13:02:17 GMT"
+      "published": "Wed, 23 Sep 2026 13:02:18 GMT"
     },
     {
       "type": "news",
@@ -28,13 +35,6 @@
       "title": "Municipi. Giovedì 24 settembre a Palazzo Marino la presentazione del nuovo Accordo Quadro con i Lions - Comune di Milano",
       "source": "Comune di Milano",
       "published": "Wed, 23 Sep 2026 09:34:01 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "SCUOLA - MOF 2026/27. Firmato accordo per liberare subito le stesse risorse 2025/26 ma con aumenti per facenti funzioni e Dsga che avranno maggiore indennità di direzione - ANIEF",
-      "source": "ANIEF",
-      "published": "Wed, 23 Sep 2026 13:10:04 GMT"
     },
     {
       "type": "news",
@@ -60,9 +60,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calcio: al Brianteo Inter Women batte Hacken al debutto in Champions League - Il Cittadino di Monza e Brianza",
-      "source": "Il Cittadino di Monza e Brianza",
-      "published": "Wed, 23 Sep 2026 05:37:00 GMT"
+      "title": "LIVE Leuven-Roma 0-0, Champions League calcio femminile in DIRETTA: dominio delle giallorosse nel primo tempo in cerca del vantaggio - OA Sport",
+      "source": "OA Sport",
+      "published": "Wed, 23 Sep 2026 17:12:46 GMT"
     },
     {
       "type": "news",
@@ -81,16 +81,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner e Alcaraz, il Six Kings Slam è a rischio e il maxi-montepremi può saltare: i dubbi sul torneo di Riad - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "Mon, 21 Sep 2026 16:03:47 GMT"
+      "title": "B.J.King Cup Finals, la Spagna torna in semifinale dopo 18 anni - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Wed, 23 Sep 2026 17:21:55 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Chengdu 2026, Brooksby e Kopriva staccano il pass per gli ottavi di finale - OA Sport",
-      "source": "OA Sport",
-      "published": "Wed, 23 Sep 2026 08:59:37 GMT"
+      "title": "Sinner e Alcaraz, il Six Kings Slam è a rischio e il maxi-montepremi può saltare: i dubbi sul torneo di Riad - ilfattoquotidiano.it",
+      "source": "ilfattoquotidiano.it",
+      "published": "Mon, 21 Sep 2026 16:03:47 GMT"
     },
     {
       "type": "news",
@@ -98,6 +98,13 @@
       "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 13 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Platinum Lione: Collombon e Sharifova rischiano grosso ma accedono agli ottavi di finale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Wed, 23 Sep 2026 16:01:05 GMT"
     },
     {
       "type": "news",
@@ -112,13 +119,6 @@
       "title": "Lamperti se ne andrà Premier Padel fine 2026 ma desidera comunque giocare nel FIP Tour negli anni successivi: \"Oggi, il mio corpo mi dice che voglio giocare\" - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Mon, 21 Sep 2026 09:23:27 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Platinum Lione: una giornata finale di qualificazioni intensa, le teste di serie salgono sul palco - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Tue, 22 Sep 2026 06:44:22 GMT"
     }
   ]
 }
