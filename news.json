@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T00:53:42.505487+00:00",
+  "updated_at": "2026-09-23T05:36:52.997004+00:00",
   "local_date": "2026-09-23",
   "articles": [
     {
@@ -7,13 +7,6 @@
       "category": "CALCIO",
       "title": "Nessuna partita rilevante in programma oggi tra Serie A, coppe europee e top club",
       "source": "football-data.org"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "COMUNICATO UFFICIALE: EMANUELE BORSANI - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Tue, 22 Sep 2026 13:00:00 GMT"
     },
     {
       "type": "news",
@@ -32,9 +25,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Trump firma accordo di sicurezza sulla Groenlandia: gli Usa potranno ampliare la presenza militare - Euronews.com",
-      "source": "Euronews.com",
+      "title": "Trump firma accordo di sicurezza sulla Groenlandia: gli Usa potranno ampliare la presenza militare - it.euronews.com",
+      "source": "it.euronews.com",
       "published": "Tue, 22 Sep 2026 16:55:25 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Usa, Danimarca e Groenlandia firmano l'accordo sull'Artico: cosa prevede - Sky TG24",
+      "source": "Sky TG24",
+      "published": "Tue, 22 Sep 2026 21:51:27 GMT"
     },
     {
       "type": "news",
@@ -48,21 +48,21 @@
       "category": "CALCIO",
       "title": "UEFA Women's Champions League, classifica e calendario - Inter.it",
       "source": "Inter.it",
-      "published": "Tue, 22 Sep 2026 22:31:15 GMT"
+      "published": "Tue, 22 Sep 2026 23:47:56 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Anteprima prima giornata UEFA Women's Champions League, mercoledì: Barcelona - Paris FC, Chelsea - Austria Wien - UEFA.com",
-      "source": "UEFA.com",
-      "published": "Tue, 22 Sep 2026 20:36:46 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "LIVE Juventus-Benfica 1-2, Champions League calcio femminile 2027 in DIRETTA: non basta la rete di Alba Redondo, arriva la sconfitta in casa - OA Sport",
+      "title": "LIVE Leuven-Roma, Champions League calcio femminile in DIRETTA: si parte con una trasferta in Belgio - OA Sport",
       "source": "OA Sport",
-      "published": "Tue, 22 Sep 2026 21:40:58 GMT"
+      "published": "Wed, 23 Sep 2026 03:10:40 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Tabellone Coppa Italia 2026-2027: calendario e risultati dei sedicesimi di finale - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Tue, 15 Sep 2026 20:55:42 GMT"
     },
     {
       "type": "news",
@@ -88,9 +88,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner rischia la vetta del ranking Atp? Jannik scarterà 3.550 punti, ecco come Zverev può superarlo - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "Tue, 22 Sep 2026 14:22:44 GMT"
+      "title": "10 giorni all’ATP di Pechino: Sinner non ha ancora confermato la presenza. Come cambierebbe il ranking - OA Sport",
+      "source": "OA Sport",
+      "published": "Sun, 20 Sep 2026 10:41:05 GMT"
     },
     {
       "type": "news",
@@ -98,13 +98,6 @@
       "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 13 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Platinum Lione: una giornata finale di qualificazioni intensa, le teste di serie salgono sul palco - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Tue, 22 Sep 2026 06:44:22 GMT"
     },
     {
       "type": "news",
@@ -119,6 +112,13 @@
       "title": "FIP Platinum Lyon: Boronad e Robert hanno la meglio su Perrot/Huard de La Marre e si qualificano per il turno finale di qualificazione - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Tue, 22 Sep 2026 11:02:53 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Platinum Lione: una giornata finale di qualificazioni intensa, le teste di serie salgono sul palco - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Tue, 22 Sep 2026 06:44:22 GMT"
     }
   ]
 }
