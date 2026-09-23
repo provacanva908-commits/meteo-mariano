@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-23T19:02:42.389178+00:00",
-  "local_date": "2026-09-23",
+  "updated_at": "2026-09-23T22:15:18.145206+00:00",
+  "local_date": "2026-09-24",
   "articles": [
     {
       "type": "message",
@@ -13,7 +13,7 @@
       "category": "CALCIOMERCATO",
       "title": "Cooperazione internazionale Lazio-Sassonia: firmato un nuovo accordo - Corriere di Viterbo",
       "source": "Corriere di Viterbo",
-      "published": "Wed, 23 Sep 2026 14:31:01 GMT"
+      "published": "Wed, 23 Sep 2026 14:34:31 GMT"
     },
     {
       "type": "news",
@@ -25,16 +25,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Regione Lazio, l'accordo bipartisan sulla crioconservazione dei gameti fa infuriare i Pro Vita - romatoday.it",
+      "source": "romatoday.it",
+      "published": "Wed, 23 Sep 2026 21:55:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Sicurezza sul lavoro: accordo Regione Toscana-Inail, giovedì 24 la firma - Toscana Notizie",
       "source": "Toscana Notizie",
       "published": "Wed, 23 Sep 2026 13:02:18 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Municipi. Giovedì 24 settembre a Palazzo Marino la presentazione del nuovo Accordo Quadro con i Lions - Comune di Milano",
-      "source": "Comune di Milano",
-      "published": "Wed, 23 Sep 2026 09:34:01 GMT"
+      "category": "CALCIO",
+      "title": "Prima giornata Women's Champions League, mercoledì: pari per la Roma, vittorie per OL Lyonnes, Chelsea e Barcelona - UEFA.com",
+      "source": "UEFA.com",
+      "published": "Wed, 23 Sep 2026 21:54:23 GMT"
     },
     {
       "type": "news",
@@ -55,14 +62,7 @@
       "category": "CALCIO",
       "title": "UEFA Women's Champions League, classifica e calendario - Inter.it",
       "source": "Inter.it",
-      "published": "Wed, 23 Sep 2026 08:53:22 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "LIVE Leuven-Roma 0-0, Champions League calcio femminile in DIRETTA: dominio delle giallorosse nel primo tempo in cerca del vantaggio - OA Sport",
-      "source": "OA Sport",
-      "published": "Wed, 23 Sep 2026 17:12:46 GMT"
+      "published": "Wed, 23 Sep 2026 11:52:33 GMT"
     },
     {
       "type": "news",
@@ -81,15 +81,15 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "B.J.King Cup Finals, la Spagna torna in semifinale dopo 18 anni - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Wed, 23 Sep 2026 17:21:55 GMT"
+      "title": "Tennis oggi, il programma dei tornei Atp e Wta del 24 settembre - sport.sky.it",
+      "source": "sport.sky.it",
+      "published": "Wed, 23 Sep 2026 22:00:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner e Alcaraz, il Six Kings Slam è a rischio e il maxi-montepremi può saltare: i dubbi sul torneo di Riad - ilfattoquotidiano.it",
-      "source": "ilfattoquotidiano.it",
+      "title": "Sinner e Alcaraz, il Six Kings Slam è a rischio e il maxi-montepremi può saltare: i dubbi sul torneo di Riad - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
       "published": "Mon, 21 Sep 2026 16:03:47 GMT"
     },
     {
