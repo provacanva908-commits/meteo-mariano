@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T22:30:33.035352+00:00",
+  "updated_at": "2026-09-23T00:53:42.505487+00:00",
   "local_date": "2026-09-23",
   "articles": [
     {
@@ -11,8 +11,15 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Bergamo e Seriate, firmato l'accordo per presidiare le stazioni - lombardianotizie.online",
-      "source": "lombardianotizie.online",
+      "title": "COMUNICATO UFFICIALE: EMANUELE BORSANI - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Tue, 22 Sep 2026 13:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Bergamo e Seriate, firmato l'accordo per presidiare le stazioni - Lombardia Notizie Online",
+      "source": "Lombardia Notizie Online",
       "published": "Tue, 22 Sep 2026 18:20:08 GMT"
     },
     {
@@ -25,23 +32,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Monica Vitti è il volto ufficiale della 21esima Festa del Cinema di Roma - RomaToday",
-      "source": "RomaToday",
-      "published": "Tue, 22 Sep 2026 15:32:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "Trump firma accordo di sicurezza sulla Groenlandia: gli Usa potranno ampliare la presenza militare - Euronews.com",
       "source": "Euronews.com",
       "published": "Tue, 22 Sep 2026 16:55:25 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Napoli and Roma return to training, Inter, Milan, Como enjoy break: Serie A clubs' international schedule - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Tue, 22 Sep 2026 14:46:43 GMT"
     },
     {
       "type": "news",
@@ -55,7 +48,7 @@
       "category": "CALCIO",
       "title": "UEFA Women's Champions League, classifica e calendario - Inter.it",
       "source": "Inter.it",
-      "published": "Tue, 22 Sep 2026 19:26:13 GMT"
+      "published": "Tue, 22 Sep 2026 22:31:15 GMT"
     },
     {
       "type": "news",
@@ -63,6 +56,13 @@
       "title": "Anteprima prima giornata UEFA Women's Champions League, mercoledì: Barcelona - Paris FC, Chelsea - Austria Wien - UEFA.com",
       "source": "UEFA.com",
       "published": "Tue, 22 Sep 2026 20:36:46 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "LIVE Juventus-Benfica 1-2, Champions League calcio femminile 2027 in DIRETTA: non basta la rete di Alba Redondo, arriva la sconfitta in casa - OA Sport",
+      "source": "OA Sport",
+      "published": "Tue, 22 Sep 2026 21:40:58 GMT"
     },
     {
       "type": "news",
@@ -81,9 +81,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis in carrozzina, Mazzei in semifinale nel maschile - L'Unione Sarda.it - L'Unione Sarda.it",
-      "source": "L'Unione Sarda.it",
-      "published": "Tue, 22 Sep 2026 17:07:00 GMT"
+      "title": "Djokovic: \"Sinner e Alcaraz giocano come me, è un orgoglio\" - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 20 Sep 2026 13:20:58 GMT"
     },
     {
       "type": "news",
