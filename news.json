@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T22:15:18.145206+00:00",
+  "updated_at": "2026-09-24T00:35:37.252301+00:00",
   "local_date": "2026-09-24",
   "articles": [
     {
@@ -25,16 +25,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Regione Lazio, l'accordo bipartisan sulla crioconservazione dei gameti fa infuriare i Pro Vita - romatoday.it",
-      "source": "romatoday.it",
+      "title": "Regione Lazio, l'accordo bipartisan sulla crioconservazione dei gameti fa infuriare i Pro Vita - RomaToday",
+      "source": "RomaToday",
       "published": "Wed, 23 Sep 2026 21:55:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Sicurezza sul lavoro: accordo Regione Toscana-Inail, giovedì 24 la firma - Toscana Notizie",
-      "source": "Toscana Notizie",
-      "published": "Wed, 23 Sep 2026 13:02:18 GMT"
+      "title": "Trump e la Groenlandia, l'accordo è firmato: due basi Usa e il veto a Russia e Cina - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Wed, 23 Sep 2026 22:38:00 GMT"
     },
     {
       "type": "news",
@@ -62,7 +62,7 @@
       "category": "CALCIO",
       "title": "UEFA Women's Champions League, classifica e calendario - Inter.it",
       "source": "Inter.it",
-      "published": "Wed, 23 Sep 2026 11:52:33 GMT"
+      "published": "Wed, 23 Sep 2026 14:57:14 GMT"
     },
     {
       "type": "news",
@@ -81,8 +81,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis oggi, il programma dei tornei Atp e Wta del 24 settembre - sport.sky.it",
-      "source": "sport.sky.it",
+      "title": "Tennis oggi, il programma dei tornei Atp e Wta del 24 settembre - Sky Sport",
+      "source": "Sky Sport",
       "published": "Wed, 23 Sep 2026 22:00:00 GMT"
     },
     {
@@ -102,6 +102,13 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "FIP Platinum Lione: Leygue e Moya annullano un match point e ribaltano il risultato contro Lamperti/Álvarez, accedendo agli ottavi di finale dove affronteranno Alonso/Goñi - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Wed, 23 Sep 2026 22:07:53 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "FIP Platinum Lione: Collombon e Sharifova rischiano grosso ma accedono agli ottavi di finale - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Wed, 23 Sep 2026 16:01:05 GMT"
@@ -112,13 +119,6 @@
       "title": "Mansart e Dardaine offrono un'ottima prestazione nel primo turno del FIP Platinum Lyon e si assicurano un prestigioso accesso agli ottavi di finale al Palais des Sports - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Wed, 23 Sep 2026 10:15:01 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Lamperti se ne andrà Premier Padel fine 2026 ma desidera comunque giocare nel FIP Tour negli anni successivi: \"Oggi, il mio corpo mi dice che voglio giocare\" - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Mon, 21 Sep 2026 09:23:27 GMT"
     }
   ]
 }
