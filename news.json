@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-24T19:27:31.851640+00:00",
-  "local_date": "2026-09-24",
+  "updated_at": "2026-09-24T22:41:57.705560+00:00",
+  "local_date": "2026-09-25",
   "articles": [
     {
       "type": "message",
@@ -18,9 +18,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "COMUNICATO UFFICIALE: ABIGAIL CROSBY BRIGHTON - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Thu, 24 Sep 2026 15:00:00 GMT"
+      "title": "Municipi. Accordo fra il Comune e i Lions Distretto Milano Città Metropolitana - comune.milano.it",
+      "source": "comune.milano.it",
+      "published": "Thu, 24 Sep 2026 10:53:42 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Accordo di facciata - Internazionale",
+      "source": "Internazionale",
+      "published": "Thu, 24 Sep 2026 21:54:28 GMT"
     },
     {
       "type": "news",
@@ -28,27 +35,6 @@
       "title": "Il Mugello resta la casa della MotoGP: ufficiale il rinnovo del Gran Premio d'Italia fino al 2031 - intoscana",
       "source": "intoscana",
       "published": "Thu, 24 Sep 2026 15:30:55 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "CNR e Forum Terzo Settore: firmato primo Accordo Quadro - Forum Nazionale del Terzo Settore",
-      "source": "Forum Nazionale del Terzo Settore",
-      "published": "Thu, 24 Sep 2026 11:04:08 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Prima giornata Women's Champions League, mercoledì: pari per la Roma, vittorie per OL Lyonnes, Chelsea e Barcelona - UEFA.com",
-      "source": "UEFA.com",
-      "published": "Wed, 23 Sep 2026 21:54:23 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "TRIBUNA.COM * CHAMPIONS LEAGUE: «UFFICIALE| L'INTER APPROVA IL BILANCIO 2026: UTILE DI OLTRE 22 MILIONI, NUOVO RECORD DI RICAVI - agenziagiornalisticaopinione.it",
-      "source": "agenziagiornalisticaopinione.it",
-      "published": "Thu, 24 Sep 2026 17:00:33 GMT"
     },
     {
       "type": "news",
@@ -66,10 +52,17 @@
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Italia in semifinale di Billie Jean King Cup 2026 contro l'Ucraina: programma, orario e dove vedere in diretta · Tennis - olympics.com",
-      "source": "olympics.com",
-      "published": "Thu, 24 Sep 2026 17:15:00 GMT"
+      "category": "CALCIO",
+      "title": "Serie A | Juventus-Atalanta | Le interviste - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Sun, 20 Sep 2026 19:09:05 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "UEFA Women's Champions League, classifica e calendario - Inter.it",
+      "source": "Inter.it",
+      "published": "Tue, 22 Sep 2026 19:19:18 GMT"
     },
     {
       "type": "news",
@@ -81,6 +74,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Italia in semifinale di Billie Jean King Cup 2026 contro l'Ucraina: programma, orario e dove vedere in diretta · Tennis - olympics.com",
+      "source": "olympics.com",
+      "published": "Thu, 24 Sep 2026 17:15:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Tennis, Billie Jean King Cup: l’Italia elimina la Cina in rimonta e vola in semifinale - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Thu, 24 Sep 2026 16:58:00 GMT"
@@ -88,9 +88,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis oggi, il programma dei tornei Atp e Wta del 24 settembre - Sky Sport",
+      "title": "Tennis oggi, il programma dei tornei Atp e Wta del 25 settembre - Sky Sport",
       "source": "Sky Sport",
-      "published": "Wed, 23 Sep 2026 22:00:00 GMT"
+      "published": "Thu, 24 Sep 2026 22:35:00 GMT"
     },
     {
       "type": "news",
