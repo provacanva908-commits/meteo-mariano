@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T05:25:25.101288+00:00",
+  "updated_at": "2026-09-24T10:25:25.170572+00:00",
   "local_date": "2026-09-24",
   "articles": [
     {
@@ -18,6 +18,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Firmato l’accordo tra Asso e Provincia per mettere in sicurezza tre incroci della SP41 - Prima Como",
+      "source": "Prima Como",
+      "published": "Thu, 24 Sep 2026 09:55:43 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Regione Lazio, l'accordo bipartisan sulla crioconservazione dei gameti fa infuriare i Pro Vita - RomaToday",
       "source": "RomaToday",
       "published": "Wed, 23 Sep 2026 21:55:00 GMT"
@@ -25,16 +32,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Trump e la Groenlandia, l'accordo è firmato: due basi Usa e il veto a Russia e Cina - adnkronos.com",
-      "source": "adnkronos.com",
-      "published": "Wed, 23 Sep 2026 22:38:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Sicurezza sul lavoro: accordo Regione Toscana-Inail, giovedì 24 la firma - Toscana Notizie",
-      "source": "Toscana Notizie",
-      "published": "Wed, 23 Sep 2026 13:02:18 GMT"
+      "title": "Calciomercato femminile, estate da record: nel mondo più di 1.400 trasferimenti internazionali per oltre 25 milioni di euro - corriere.it",
+      "source": "corriere.it",
+      "published": "Thu, 24 Sep 2026 07:46:07 GMT"
     },
     {
       "type": "news",
@@ -46,37 +46,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, i pronostici del Supercomputer: Inter favorita, Juve in Champions, Milan e Napoli fuori - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Wed, 23 Sep 2026 07:33:00 GMT"
+      "title": "TRIBUNA.COM * SERIE A: «LE BIG DI SERIE A SULLE TRACCE DI ALESSANDRO ROMANO: INTER E MILAN SFIDANO LA JUVENTUS - agenziagiornalisticaopinione.it",
+      "source": "agenziagiornalisticaopinione.it",
+      "published": "Thu, 24 Sep 2026 09:30:29 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Maxi sosta, cosa fanno le squadre di Serie A: Inter e Milan a riposo, test per Roma e Como - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Wed, 23 Sep 2026 09:23:00 GMT"
+      "title": "Tabellone Coppa Italia 2026-2027: calendario e risultati dei sedicesimi di finale - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Tue, 15 Sep 2026 07:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "UEFA Women's Champions League, classifica e calendario - Inter.it",
-      "source": "Inter.it",
-      "published": "Wed, 23 Sep 2026 14:57:14 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "WTA Singapore 2026: Andreeva e Fernandez verso una potenziale semifinale, avanti anche Chwalinska - OA Sport",
-      "source": "OA Sport",
-      "published": "Wed, 23 Sep 2026 14:43:18 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ranking ATP: cosa deve fare Sinner per restare n.1 dopo Shanghai - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Wed, 23 Sep 2026 07:56:48 GMT"
+      "title": "Serie A | Juventus-Atalanta | I numeri postpartita - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Mon, 21 Sep 2026 08:04:59 GMT"
     },
     {
       "type": "news",
@@ -88,9 +74,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner e Alcaraz, il Six Kings Slam è a rischio e il maxi-montepremi può saltare: i dubbi sul torneo di Riad - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
+      "title": "Ranking ATP: cosa deve fare Sinner per restare n.1 dopo Shanghai - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Wed, 23 Sep 2026 07:56:48 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner e Alcaraz, il Six Kings Slam è a rischio e il maxi-montepremi può saltare: i dubbi sul torneo di Riad - ilfattoquotidiano.it",
+      "source": "ilfattoquotidiano.it",
       "published": "Mon, 21 Sep 2026 16:03:47 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "LIVE! Italia-Cina: si parte con Cocciaretto-Shang, in palio la semifinale - eurosport.it",
+      "source": "eurosport.it",
+      "published": "Thu, 24 Sep 2026 08:37:30 GMT"
     },
     {
       "type": "news",
@@ -102,9 +102,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Platinum Lione: Bahurel e Val López si assicurano un posto agli ottavi di finale contro Collombon/Sharifova - padel-magazine.it",
+      "title": "FIP Platinum Lyon: un programma regale per gli ottavi di finale, le teste di serie scendono in campo - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Wed, 23 Sep 2026 17:40:37 GMT"
+      "published": "Thu, 24 Sep 2026 06:47:09 GMT"
     },
     {
       "type": "news",
@@ -116,9 +116,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Platinum Lione: Collombon e Sharifova rischiano grosso ma accedono agli ottavi di finale - padel-magazine.it",
+      "title": "FIP Platinum Lione: Bahurel e Val López si assicurano un posto agli ottavi di finale contro Collombon/Sharifova - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Wed, 23 Sep 2026 16:01:05 GMT"
+      "published": "Wed, 23 Sep 2026 17:40:37 GMT"
     }
   ]
 }
