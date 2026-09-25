@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T22:41:57.705560+00:00",
+  "updated_at": "2026-09-25T00:54:43.444195+00:00",
   "local_date": "2026-09-25",
   "articles": [
     {
@@ -11,6 +11,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Diritto allo studio e mondo agricolo, firmato l’accordo tra DiSCo Lazio e Coldiretti Lazio - tusciaup.com",
+      "source": "tusciaup.com",
+      "published": "Thu, 24 Sep 2026 18:41:56 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Circolo Canottieri Napoli: firmato l'accordo con Gb1 per l'America's Cup - Il Mattino",
       "source": "Il Mattino",
       "published": "Thu, 24 Sep 2026 14:48:41 GMT"
@@ -18,23 +25,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Municipi. Accordo fra il Comune e i Lions Distretto Milano Città Metropolitana - comune.milano.it",
-      "source": "comune.milano.it",
+      "title": "COMUNICATO UFFICIALE: ABIGAIL CROSBY BRIGHTON - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Thu, 24 Sep 2026 15:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Municipi. Accordo fra il Comune e i Lions Distretto Milano Città Metropolitana - Comune di Milano",
+      "source": "Comune di Milano",
       "published": "Thu, 24 Sep 2026 10:53:42 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Accordo di facciata - Internazionale",
-      "source": "Internazionale",
-      "published": "Thu, 24 Sep 2026 21:54:28 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Il Mugello resta la casa della MotoGP: ufficiale il rinnovo del Gran Premio d'Italia fino al 2031 - intoscana",
-      "source": "intoscana",
-      "published": "Thu, 24 Sep 2026 15:30:55 GMT"
     },
     {
       "type": "news",
@@ -46,15 +46,15 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A | Juventus-Atalanta | I numeri postpartita - Juventus.com",
-      "source": "Juventus.com",
+      "title": "Serie A | Juventus-Atalanta | I numeri postpartita - juventus.com",
+      "source": "juventus.com",
       "published": "Mon, 21 Sep 2026 08:04:59 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A | Juventus-Atalanta | Le interviste - Juventus.com",
-      "source": "Juventus.com",
+      "title": "Serie A | Juventus-Atalanta | Le interviste - juventus.com",
+      "source": "juventus.com",
       "published": "Sun, 20 Sep 2026 19:09:05 GMT"
     },
     {
