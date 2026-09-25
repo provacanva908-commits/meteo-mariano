@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T11:43:31.562383+00:00",
+  "updated_at": "2026-09-25T15:56:21.739416+00:00",
   "local_date": "2026-09-25",
   "articles": [
     {
@@ -11,92 +11,92 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Malpensa è l’aeroporto Silvio Berlusconi: intitolazione ufficiale - Il Cittadino di Monza e Brianza",
+      "source": "Il Cittadino di Monza e Brianza",
+      "published": "Fri, 25 Sep 2026 12:31:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Gruppo Bnl: firmato accordo \"One Connect\" - UILCA",
+      "source": "UILCA",
+      "published": "Fri, 25 Sep 2026 15:08:33 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Monitoraggio dei monumenti di piazza dei Signori, firmato un accordo tra Comune di Vicenza e Università di Padova - Città di Vicenza",
+      "source": "Città di Vicenza",
+      "published": "Thu, 24 Sep 2026 22:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "PEUGEOT AUTO UFFICIALE DELLA FESTA DEL CINEMA DI ROMA 2026 - Media Stellantis",
       "source": "Media Stellantis",
       "published": "Fri, 25 Sep 2026 10:30:00 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Icop cresce ancora: firmato un accordo per il 51% di Ediltunnel - il Nord Est",
-      "source": "il Nord Est",
-      "published": "Fri, 25 Sep 2026 07:23:48 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Erg, accordo quinquennale con Glencore: 820 GWh di energia eolica dalla Polonia - Milano Finanza",
-      "source": "Milano Finanza",
-      "published": "Fri, 25 Sep 2026 06:20:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Juventus, da Bakola ai talenti brasiliani: tutti i nomi nel mirino - Sisal",
-      "source": "Sisal",
-      "published": "Fri, 25 Sep 2026 09:34:18 GMT"
+      "category": "CALCIO",
+      "title": "Anticipi e posticipi Serie A dalla 13ª alla 19ª giornata: quando si giocano Inter-Juventus, Lazio-Roma, Roma-Juventus e Napoli-Milan, calendario, date e orari - Goal.com",
+      "source": "Goal.com",
+      "published": "Fri, 25 Sep 2026 15:55:23 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Tabellone Coppa Italia 2026-2027: calendario e risultati dei sedicesimi di finale - sport.sky.it",
-      "source": "sport.sky.it",
-      "published": "Tue, 15 Sep 2026 07:00:00 GMT"
+      "title": "SERIE A WOMEN, LA PREVIEW DI COMO 1907-MILAN - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Fri, 25 Sep 2026 15:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "TRIBUNA.COM * CHAMPIONS LEAGUE: «FRATTESI E GLI ANNI ALL'INTER: \"NON È CONTEMPLATO IL SECONDO POSTO O IL PAREGGIO! DOPO IL BARCELLONA ANDAI A DORMIRE ALLE 10\" - agenziagiornalisticaopinione.it",
-      "source": "agenziagiornalisticaopinione.it",
-      "published": "Fri, 25 Sep 2026 09:01:04 GMT"
+      "title": "Serie A Women Athora, si comincia! Juventus e Napoli Women le prime a scendere in campo, le campionesse d’Italia della Roma iniziano da Sassuolo - FIGC",
+      "source": "FIGC",
+      "published": "Fri, 25 Sep 2026 06:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "TRIBUNA.COM * CHAMPIONS LEAGUE: «RAPHINHA NON DIMENTICA: \"LA SEMIFINALE CON L'INTER NON MI VA ANCORA GIÙ: CHE DOLORE!\" - agenziagiornalisticaopinione.it",
-      "source": "agenziagiornalisticaopinione.it",
-      "published": "Fri, 25 Sep 2026 08:01:20 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Tifosi allo stadio, chi ne ha di più in Europa? Italia al top con Milan, Inter e Roma - eurosport.it",
-      "source": "eurosport.it",
-      "published": "Thu, 24 Sep 2026 22:01:01 GMT"
+      "title": "SERIE A E COPPA ITALIA: LE SFIDE DEL MONZA FINO AL 13 GENNAIO - Associazione Calcio Monza S.p.A. *",
+      "source": "Associazione Calcio Monza S.p.A. *",
+      "published": "Fri, 25 Sep 2026 15:46:52 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis oggi, il programma dei tornei Atp e Wta del 25 settembre - sport.sky.it",
-      "source": "sport.sky.it",
+      "title": "Sinner ancora out, tutte le tappe del calvario del re: da Wimbledon ad oggi, cos'è successo - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Fri, 25 Sep 2026 13:24:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Tennis oggi, il programma dei tornei Atp e Wta del 25 settembre - Sky Sport",
+      "source": "Sky Sport",
       "published": "Thu, 24 Sep 2026 22:35:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "L’Italia è in semifinale alla Billie Jean King Cup di tennis - Il Post",
-      "source": "Il Post",
-      "published": "Thu, 24 Sep 2026 17:20:39 GMT"
+      "title": "Sinner salta Pechino, Zverev diventa numero uno? Come cambia ranking Atp con infortunio Jannik - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Fri, 25 Sep 2026 13:55:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP: cosa deve fare Sinner per restare n.1 dopo Shanghai - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Wed, 23 Sep 2026 07:56:48 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Italia-Ucraina, la semifinale della Billie Jean King Cup 2026: a che ora e dove vederla in diretta - today.it",
-      "source": "today.it",
-      "published": "Fri, 25 Sep 2026 09:17:40 GMT"
+      "title": "Tennis, BJK Cup: domani Italia affronta Ucraina in semifinale - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Fri, 25 Sep 2026 10:05:49 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Sun, 13 Sep 2026 07:00:00 GMT"
     },
     {
@@ -116,9 +116,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Platinum Lione – Collombon e Sharifova si impongono in tre set contro Bahurel/Val López e accedono ai quarti di finale - padel-magazine.it",
+      "title": "FIP Platinum Lyon: un programma regale per gli ottavi di finale, le teste di serie scendono in campo - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Thu, 24 Sep 2026 17:28:22 GMT"
+      "published": "Thu, 24 Sep 2026 06:47:09 GMT"
     }
   ]
 }
