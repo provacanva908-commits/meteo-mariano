@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T15:56:21.739416+00:00",
+  "updated_at": "2026-09-25T19:58:18.484132+00:00",
   "local_date": "2026-09-25",
   "articles": [
     {
@@ -11,6 +11,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Ufficiale: Inter e Lazio si giocheranno la Supercoppa italiana a Milano - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Fri, 25 Sep 2026 18:00:35 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Malpensa è l’aeroporto Silvio Berlusconi: intitolazione ufficiale - Il Cittadino di Monza e Brianza",
       "source": "Il Cittadino di Monza e Brianza",
       "published": "Fri, 25 Sep 2026 12:31:00 GMT"
@@ -18,30 +25,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Gruppo Bnl: firmato accordo \"One Connect\" - UILCA",
-      "source": "UILCA",
-      "published": "Fri, 25 Sep 2026 15:08:33 GMT"
+      "title": "UFFICIALE. Supercoppa italiana, Inter-Lazio si giocherà a San Siro: la data - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 25 Sep 2026 16:05:54 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Monitoraggio dei monumenti di piazza dei Signori, firmato un accordo tra Comune di Vicenza e Università di Padova - Città di Vicenza",
-      "source": "Città di Vicenza",
-      "published": "Thu, 24 Sep 2026 22:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "PEUGEOT AUTO UFFICIALE DELLA FESTA DEL CINEMA DI ROMA 2026 - Media Stellantis",
-      "source": "Media Stellantis",
-      "published": "Fri, 25 Sep 2026 10:30:00 GMT"
+      "title": "Calciomercato Milan, Inacio resta nel mirino: contatti in corso, pronto un nuovo assalto - Tuttosport",
+      "source": "Tuttosport",
+      "published": "Fri, 25 Sep 2026 11:24:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Anticipi e posticipi Serie A dalla 13ª alla 19ª giornata: quando si giocano Inter-Juventus, Lazio-Roma, Roma-Juventus e Napoli-Milan, calendario, date e orari - Goal.com",
-      "source": "Goal.com",
-      "published": "Fri, 25 Sep 2026 15:55:23 GMT"
+      "title": "UFFICIALE. Supercoppa italiana, Inter-Lazio si giocherà a San Siro: la data - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 25 Sep 2026 16:05:54 GMT"
     },
     {
       "type": "news",
@@ -53,22 +53,29 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Calendario Juve, anticipi e posticipi Serie A e Coppa Italia: data e orario della sfida all’Inter - Tuttosport",
+      "source": "Tuttosport",
+      "published": "Fri, 25 Sep 2026 17:14:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Serie A Women Athora, si comincia! Juventus e Napoli Women le prime a scendere in campo, le campionesse d’Italia della Roma iniziano da Sassuolo - FIGC",
       "source": "FIGC",
       "published": "Fri, 25 Sep 2026 06:00:00 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "SERIE A E COPPA ITALIA: LE SFIDE DEL MONZA FINO AL 13 GENNAIO - Associazione Calcio Monza S.p.A. *",
-      "source": "Associazione Calcio Monza S.p.A. *",
-      "published": "Fri, 25 Sep 2026 15:46:52 GMT"
+      "category": "TENNIS",
+      "title": "Sinner: sì, adesso il suo n. 1 del ranking Atp è a rischio. Ecco come Zverev potrebbe scavalcarlo - gazzetta.it",
+      "source": "gazzetta.it",
+      "published": "Fri, 25 Sep 2026 15:45:13 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner ancora out, tutte le tappe del calvario del re: da Wimbledon ad oggi, cos'è successo - Sportmediaset",
-      "source": "Sportmediaset",
+      "title": "Sinner ancora out, tutte le tappe del calvario del re: da Wimbledon ad oggi, cos'è successo - sportmediaset.mediaset.it",
+      "source": "sportmediaset.mediaset.it",
       "published": "Fri, 25 Sep 2026 13:24:00 GMT"
     },
     {
@@ -81,22 +88,15 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner salta Pechino, Zverev diventa numero uno? Come cambia ranking Atp con infortunio Jannik - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Fri, 25 Sep 2026 13:55:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Tennis, BJK Cup: domani Italia affronta Ucraina in semifinale - Sportmediaset",
-      "source": "Sportmediaset",
+      "title": "Tennis, BJK Cup: domani Italia affronta Ucraina in semifinale - sportmediaset.mediaset.it",
+      "source": "sportmediaset.mediaset.it",
       "published": "Fri, 25 Sep 2026 10:05:49 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Sun, 13 Sep 2026 07:00:00 GMT"
     },
     {
