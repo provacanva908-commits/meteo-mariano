@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T00:54:43.444195+00:00",
+  "updated_at": "2026-09-25T05:59:38.553427+00:00",
   "local_date": "2026-09-25",
   "articles": [
     {
@@ -11,30 +11,37 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Diritto allo studio e mondo agricolo, firmato l’accordo tra DiSCo Lazio e Coldiretti Lazio - tusciaup.com",
-      "source": "tusciaup.com",
+      "title": "Diritto allo studio e mondo agricolo, firmato l’accordo tra DiSCo Lazio e Coldiretti Lazio - TusciaUp",
+      "source": "TusciaUp",
       "published": "Thu, 24 Sep 2026 18:41:56 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Circolo Canottieri Napoli: firmato l'accordo con Gb1 per l'America's Cup - Il Mattino",
-      "source": "Il Mattino",
-      "published": "Thu, 24 Sep 2026 14:48:41 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "COMUNICATO UFFICIALE: ABIGAIL CROSBY BRIGHTON - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
+      "title": "COMUNICATO UFFICIALE: ABIGAIL CROSBY BRIGHTON - acmilan.com",
+      "source": "acmilan.com",
       "published": "Thu, 24 Sep 2026 15:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Municipi. Accordo fra il Comune e i Lions Distretto Milano Città Metropolitana - Comune di Milano",
-      "source": "Comune di Milano",
-      "published": "Thu, 24 Sep 2026 10:53:42 GMT"
+      "title": "Nuovo accordo interconfederale per individuare i contratti leader - Eutekne.info",
+      "source": "Eutekne.info",
+      "published": "Thu, 24 Sep 2026 22:05:28 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Accordo di facciata - Internazionale",
+      "source": "Internazionale",
+      "published": "Thu, 24 Sep 2026 21:54:28 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Prima giornata Women's Champions League, mercoledì: pari per la Roma, vittorie per OL Lyonnes, Chelsea e Barcelona - UEFA.com",
+      "source": "UEFA.com",
+      "published": "Wed, 23 Sep 2026 21:54:23 GMT"
     },
     {
       "type": "news",
@@ -46,23 +53,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A | Juventus-Atalanta | I numeri postpartita - juventus.com",
-      "source": "juventus.com",
+      "title": "Serie A | Juventus-Atalanta | I numeri postpartita - Juventus.com",
+      "source": "Juventus.com",
       "published": "Mon, 21 Sep 2026 08:04:59 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A | Juventus-Atalanta | Le interviste - juventus.com",
-      "source": "juventus.com",
+      "title": "Serie A | Juventus-Atalanta | Le interviste - Juventus.com",
+      "source": "Juventus.com",
       "published": "Sun, 20 Sep 2026 19:09:05 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "UEFA Women's Champions League, classifica e calendario - Inter.it",
-      "source": "Inter.it",
-      "published": "Tue, 22 Sep 2026 19:19:18 GMT"
     },
     {
       "type": "news",
@@ -102,7 +102,7 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Platinum Lione – Guichard e Axelsson non ripetono il successo e vengono eliminati agli ottavi di finale da Montiel / Santigosa - padel-magazine.it",
+      "title": "FIP Platinum Lione – Guichard e Axelsson non riescono a ripetere il successo e vengono eliminati agli ottavi di finale da Montiel / Santigosa - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Thu, 24 Sep 2026 18:45:45 GMT"
     },
