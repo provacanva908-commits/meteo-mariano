@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T01:41:08.886508+00:00",
+  "updated_at": "2026-09-26T06:39:58.371512+00:00",
   "local_date": "2026-09-26",
   "articles": [
     {
@@ -18,6 +18,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Aree interne, delega all’assessore Ingala per la firma dell’Accordo di programma quadro - Sicilia Agricoltura",
+      "source": "Sicilia Agricoltura",
+      "published": "Sat, 26 Sep 2026 06:26:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "UFFICIALE. Supercoppa italiana, Inter-Lazio si giocherà a San Siro: la data - Sky Sport",
       "source": "Sky Sport",
       "published": "Fri, 25 Sep 2026 16:05:54 GMT"
@@ -28,13 +35,6 @@
       "title": "Malpensa è l’aeroporto Silvio Berlusconi: intitolazione ufficiale - Il Cittadino di Monza e Brianza",
       "source": "Il Cittadino di Monza e Brianza",
       "published": "Fri, 25 Sep 2026 12:31:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan, Inacio resta nel mirino: contatti in corso, pronto un nuovo assalto - Tuttosport",
-      "source": "Tuttosport",
-      "published": "Fri, 25 Sep 2026 11:24:00 GMT"
     },
     {
       "type": "news",
@@ -53,16 +53,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Women Athora, si comincia! Juventus e Napoli Women le prime a scendere in campo, le campionesse d’Italia della Roma iniziano da Sassuolo - FIGC",
-      "source": "FIGC",
-      "published": "Fri, 25 Sep 2026 06:00:00 GMT"
+      "title": "Come acquistare i biglietti per Roma-Real Madrid: prezzi della Champions League, informazioni sulla partita, vendite last minute e altro ancora - Goal.com",
+      "source": "Goal.com",
+      "published": "Fri, 25 Sep 2026 17:38:17 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Come acquistare i biglietti per LASK-Liverpool: prezzi della Champions League, informazioni sulla partita, vendite last minute e altro ancora - Goal.com",
-      "source": "Goal.com",
-      "published": "Fri, 25 Sep 2026 17:27:29 GMT"
+      "title": "Serie A Women Athora, si comincia! Juventus e Napoli Women le prime a scendere in campo, le campionesse d’Italia della Roma iniziano da Sassuolo - figc.it",
+      "source": "figc.it",
+      "published": "Fri, 25 Sep 2026 06:00:00 GMT"
     },
     {
       "type": "news",
@@ -88,8 +88,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner salta Pechino, Zverev diventa numero uno? Come cambia ranking Atp con infortunio Jannik - Adnkronos",
-      "source": "Adnkronos",
+      "title": "Sinner salta Pechino, Zverev diventa numero uno? Come cambia ranking Atp con infortunio Jannik - adnkronos.com",
+      "source": "adnkronos.com",
       "published": "Fri, 25 Sep 2026 13:55:00 GMT"
     },
     {
@@ -109,16 +109,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Platinum Lione: due giocatori francesi ancora in gara, il programma completo dei quarti di finale - padel-magazine.it",
+      "title": "FIP Platinum Lione – Guichard e Axelsson non riescono a ripetere il successo e vengono eliminati agli ottavi di finale da Montiel / Santigosa - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Fri, 25 Sep 2026 06:56:18 GMT"
+      "published": "Thu, 24 Sep 2026 18:45:45 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Platinum Lione – Guichard e Axelsson non riescono a ripetere il successo e vengono eliminati agli ottavi di finale da Montiel / Santigosa - padel-magazine.it",
+      "title": "FIP Platinum Lyon: un programma regale per gli ottavi di finale, le teste di serie scendono in campo - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Thu, 24 Sep 2026 18:45:45 GMT"
+      "published": "Thu, 24 Sep 2026 06:47:09 GMT"
     }
   ]
 }
