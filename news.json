@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T23:14:59.044412+00:00",
+  "updated_at": "2026-09-26T01:41:08.886508+00:00",
   "local_date": "2026-09-26",
   "articles": [
     {
@@ -46,16 +46,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Women Athora, si comincia! Juventus e Napoli Women le prime a scendere in campo, le campionesse d’Italia della Roma iniziano da Sassuolo - FIGC",
-      "source": "FIGC",
-      "published": "Fri, 25 Sep 2026 06:00:00 GMT"
+      "title": "Calendario Juve, anticipi e posticipi Serie A e Coppa Italia: data e orario della sfida all’Inter - Tuttosport",
+      "source": "Tuttosport",
+      "published": "Fri, 25 Sep 2026 17:14:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calendario Juve, anticipi e posticipi Serie A e Coppa Italia: data e orario della sfida all’Inter - Tuttosport",
-      "source": "Tuttosport",
-      "published": "Fri, 25 Sep 2026 17:14:00 GMT"
+      "title": "Serie A Women Athora, si comincia! Juventus e Napoli Women le prime a scendere in campo, le campionesse d’Italia della Roma iniziano da Sassuolo - FIGC",
+      "source": "FIGC",
+      "published": "Fri, 25 Sep 2026 06:00:00 GMT"
     },
     {
       "type": "news",
@@ -67,8 +67,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner: sì, adesso il suo n. 1 del ranking Atp è a rischio. Ecco come Zverev potrebbe scavalcarlo - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Sinner: sì, adesso il suo n. 1 del ranking Atp è a rischio. Ecco come Zverev potrebbe scavalcarlo - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Fri, 25 Sep 2026 15:45:13 GMT"
     },
     {
@@ -81,23 +81,30 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "L'intervista a Elena Pero dopo la prima vittoria di Sinner a Wimbledon: «Dall'agitazione scrivevo tutta storta. Ma io cosa c'entro?» - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Fri, 25 Sep 2026 14:03:38 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Sinner salta Pechino, Zverev diventa numero uno? Come cambia ranking Atp con infortunio Jannik - Adnkronos",
       "source": "Adnkronos",
       "published": "Fri, 25 Sep 2026 13:55:00 GMT"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner, come cambia il ranking? Jannik perde altri 500 punti e presto ne scarta 3000. Zverev e Alcaraz alla finestra - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "Fri, 25 Sep 2026 11:21:56 GMT"
+      "category": "PADEL",
+      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 13 Sep 2026 07:00:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - gazzetta.it",
-      "source": "gazzetta.it",
-      "published": "Sun, 13 Sep 2026 07:00:00 GMT"
+      "title": "FIP Platinum Lione – Dopo un finale al cardiopalma, Collombon e Sharifova si sono assicurati una prestigiosa vittoria contro TS1 Salazar/Osoro - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Fri, 25 Sep 2026 19:05:24 GMT"
     },
     {
       "type": "news",
@@ -112,13 +119,6 @@
       "title": "FIP Platinum Lione – Guichard e Axelsson non riescono a ripetere il successo e vengono eliminati agli ottavi di finale da Montiel / Santigosa - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Thu, 24 Sep 2026 18:45:45 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Platinum Lyon: un programma regale per gli ottavi di finale, le teste di serie scendono in campo - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Thu, 24 Sep 2026 06:47:09 GMT"
     }
   ]
 }
