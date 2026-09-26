@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T18:41:47.238422+00:00",
+  "updated_at": "2026-09-26T21:36:39.218235+00:00",
   "local_date": "2026-09-26",
   "articles": [
     {
@@ -32,9 +32,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Accordo di cinque anni tra la Provincia di Trento e Cambridge International - L'Avisio Blog",
-      "source": "L'Avisio Blog",
-      "published": "Sat, 26 Sep 2026 17:26:00 GMT"
+      "title": "Calciomercato Milan, Inacio resta nel mirino: contatti in corso, pronto un nuovo assalto - Tuttosport",
+      "source": "Tuttosport",
+      "published": "Fri, 25 Sep 2026 11:24:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "FIGC * FEDERAZIONE ITALIANA GIUOCO CALCIO: «SERIE A WOMEN, JUVENTUS RIMONTA IL NAPOLI 3-1, COMO BATTE MILAN 4-1 - agenziagiornalisticaopinione.it",
+      "source": "agenziagiornalisticaopinione.it",
+      "published": "Sat, 26 Sep 2026 18:41:09 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "AL COMO 1907 IL DEBUTTO ROSSONERO IN SERIE A - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Sat, 26 Sep 2026 17:00:00 GMT"
     },
     {
       "type": "news",
@@ -52,31 +66,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Coppa Italia Frecciarossa | Data e orario di Juventus-Sassuolo, ottavi di finale - U.S. Sassuolo Calcio",
-      "source": "U.S. Sassuolo Calcio",
-      "published": "Sat, 26 Sep 2026 08:42:54 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Coppa Italia 2026/27 | Data e orario dell'ottavo di finale della Juventus - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Fri, 25 Sep 2026 16:05:57 GMT"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
       "title": "L’Italia ha perso la semifinale della Billie Jean King Cup di tennis - Il Post",
       "source": "Il Post",
       "published": "Sat, 26 Sep 2026 12:12:50 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Billie Jean King Cup, Italia fuori in semifinale: l'Ucraina vince 2-0 - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sat, 26 Sep 2026 09:34:26 GMT"
     },
     {
       "type": "news",
@@ -88,8 +81,15 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis oggi, il programma dei tornei Atp e Wta del 25 settembre - Sky Sport",
-      "source": "Sky Sport",
+      "title": "Billie Jean King Cup, Italia fuori in semifinale: l'Ucraina vince 2-0 - sport.sky.it",
+      "source": "sport.sky.it",
+      "published": "Sat, 26 Sep 2026 09:34:26 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Tennis oggi, il programma dei tornei Atp e Wta del 25 settembre - sport.sky.it",
+      "source": "sport.sky.it",
       "published": "Thu, 24 Sep 2026 22:35:00 GMT"
     },
     {
