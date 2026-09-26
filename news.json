@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-26T21:36:39.218235+00:00",
-  "local_date": "2026-09-26",
+  "updated_at": "2026-09-26T23:54:29.714602+00:00",
+  "local_date": "2026-09-27",
   "articles": [
     {
       "type": "message",
@@ -74,30 +74,37 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner: sì, adesso il suo n. 1 del ranking Atp è a rischio. Ecco come Zverev potrebbe scavalcarlo - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Sinner: sì, adesso il suo n. 1 del ranking Atp è a rischio. Ecco come Zverev potrebbe scavalcarlo - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Fri, 25 Sep 2026 15:45:13 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Billie Jean King Cup, Italia fuori in semifinale: l'Ucraina vince 2-0 - sport.sky.it",
-      "source": "sport.sky.it",
+      "title": "Billie Jean King Cup, Italia fuori in semifinale: l'Ucraina vince 2-0 - Sky Sport",
+      "source": "Sky Sport",
       "published": "Sat, 26 Sep 2026 09:34:26 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis oggi, il programma dei tornei Atp e Wta del 25 settembre - sport.sky.it",
-      "source": "sport.sky.it",
+      "title": "Tennis oggi, il programma dei tornei Atp e Wta del 25 settembre - Sky Sport",
+      "source": "Sky Sport",
       "published": "Thu, 24 Sep 2026 22:35:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Sun, 13 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Paris Major Premier Padel 2026: Orsi ai quarti di finale, Lebron che paura! - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Fri, 11 Sep 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -112,13 +119,6 @@
       "title": "FIP Silver Houten: Camille Sireix esce di misura al primo turno e sfiderà TS3 agli ottavi di finale - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sat, 26 Sep 2026 07:12:50 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Platinum Lione – Dopo un finale al cardiopalma, Collombon e Sharifova si sono assicurati una prestigiosa vittoria contro TS1 Salazar/Osoro - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Fri, 25 Sep 2026 19:05:24 GMT"
     }
   ]
 }
