@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T11:50:02.501833+00:00",
+  "updated_at": "2026-09-26T15:28:50.606157+00:00",
   "local_date": "2026-09-26",
   "articles": [
     {
@@ -18,30 +18,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Aree interne, delega all’assessore Ingala per la firma dell’Accordo di programma quadro - Sicilia Agricoltura",
-      "source": "Sicilia Agricoltura",
-      "published": "Sat, 26 Sep 2026 06:26:00 GMT"
+      "title": "TRIBUNA.COM * SERIE A: «UFFICIALE - CALCIOMERCATO, ANTICIPATA L'APERTURA DELLA SESSIONE INVERNALE: LE NUOVE DATE - agenziagiornalisticaopinione.it",
+      "source": "agenziagiornalisticaopinione.it",
+      "published": "Sat, 26 Sep 2026 12:25:10 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "UFFICIALE. Supercoppa italiana, Inter-Lazio si giocherà a San Siro: la data - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 25 Sep 2026 16:05:54 GMT"
+      "title": "Rosaterapia Romagna, a Cervia la solidarietà diventa una rete di comunità. Approvato dalla Giunta l’accordo tra Comune e AUSL della Romagna per il progetto promosso da Mosaico Cooperativa ETS - Comune di Cervia",
+      "source": "Comune di Cervia",
+      "published": "Sat, 26 Sep 2026 13:53:19 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Lazio, Patric ai saluti: vicino l'accordo con l'Al-Ittifaq - fantacalcio.it",
-      "source": "fantacalcio.it",
-      "published": "Sat, 26 Sep 2026 06:12:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "SERIE A WOMEN, LA PREVIEW DI COMO 1907-MILAN - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Fri, 25 Sep 2026 15:00:00 GMT"
+      "title": "Zohran Mamdani pianta un ulivo insieme a famiglie palestinesi nella residenza ufficiale del sindaco di New York - Pressenza - International Press Agency",
+      "source": "Pressenza - International Press Agency",
+      "published": "Sat, 26 Sep 2026 13:42:42 GMT"
     },
     {
       "type": "news",
@@ -53,6 +46,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "SERIE A WOMEN, LA PREVIEW DI COMO 1907-MILAN - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Fri, 25 Sep 2026 15:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Calendario Juve, anticipi e posticipi Serie A e Coppa Italia: data e orario della sfida all’Inter - Tuttosport",
       "source": "Tuttosport",
       "published": "Fri, 25 Sep 2026 17:14:00 GMT"
@@ -60,9 +60,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A e Coppa Italia: il programma delle partite dal 29 novembre al 12 gennaio - AS Roma",
-      "source": "AS Roma",
-      "published": "Fri, 25 Sep 2026 17:56:20 GMT"
+      "title": "Coppa Italia Frecciarossa | Data e orario di Juventus-Sassuolo, ottavi di finale - U.S. Sassuolo Calcio",
+      "source": "U.S. Sassuolo Calcio",
+      "published": "Sat, 26 Sep 2026 08:42:54 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "L’Italia ha perso nella semifinale di Billie Jean King cup di tennis - Il Post",
+      "source": "Il Post",
+      "published": "Sat, 26 Sep 2026 12:12:50 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Billie Jean King Cup, Italia fuori in semifinale: l'Ucraina vince 2-0 - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sat, 26 Sep 2026 12:42:17 GMT"
     },
     {
       "type": "news",
@@ -74,23 +88,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Italia Ucraina di Billie Jean King Cup 2026, la diretta live della semifinale - Sky Sport",
+      "title": "Tennis oggi, il programma dei tornei Atp e Wta del 25 settembre - Sky Sport",
       "source": "Sky Sport",
-      "published": "Sat, 26 Sep 2026 09:34:26 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "L'intervista a Elena Pero dopo la prima vittoria di Sinner a Wimbledon: «Dall'agitazione scrivevo tutta storta. Ma io cosa c'entro?» - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Fri, 25 Sep 2026 14:03:38 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner salta Pechino, Zverev diventa numero uno? Come cambia ranking Atp con infortunio Jannik - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Fri, 25 Sep 2026 13:55:00 GMT"
+      "published": "Thu, 24 Sep 2026 22:35:00 GMT"
     },
     {
       "type": "news",
@@ -102,7 +102,7 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Platinum Lione: il programma delle semifinali, con Collombon e Sharifova in lizza per un posto in finale - padel-magazine.it",
+      "title": "FIP Platinum Lione: il programma delle semifinali, con Collombon/Sharifova in lizza per un posto in finale. - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sat, 26 Sep 2026 07:00:00 GMT"
     },
