@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T06:39:58.371512+00:00",
+  "updated_at": "2026-09-26T11:50:02.501833+00:00",
   "local_date": "2026-09-26",
   "articles": [
     {
@@ -32,9 +32,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Malpensa è l’aeroporto Silvio Berlusconi: intitolazione ufficiale - Il Cittadino di Monza e Brianza",
-      "source": "Il Cittadino di Monza e Brianza",
-      "published": "Fri, 25 Sep 2026 12:31:00 GMT"
+      "title": "Lazio, Patric ai saluti: vicino l'accordo con l'Al-Ittifaq - fantacalcio.it",
+      "source": "fantacalcio.it",
+      "published": "Sat, 26 Sep 2026 06:12:00 GMT"
     },
     {
       "type": "news",
@@ -46,6 +46,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Serie A Women Athora, si comincia! Juventus e Napoli Women le prime a scendere in campo, le campionesse d’Italia della Roma iniziano da Sassuolo - FIGC",
+      "source": "FIGC",
+      "published": "Fri, 25 Sep 2026 06:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Calendario Juve, anticipi e posticipi Serie A e Coppa Italia: data e orario della sfida all’Inter - Tuttosport",
       "source": "Tuttosport",
       "published": "Fri, 25 Sep 2026 17:14:00 GMT"
@@ -53,16 +60,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Come acquistare i biglietti per Roma-Real Madrid: prezzi della Champions League, informazioni sulla partita, vendite last minute e altro ancora - Goal.com",
-      "source": "Goal.com",
-      "published": "Fri, 25 Sep 2026 17:38:17 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A Women Athora, si comincia! Juventus e Napoli Women le prime a scendere in campo, le campionesse d’Italia della Roma iniziano da Sassuolo - figc.it",
-      "source": "figc.it",
-      "published": "Fri, 25 Sep 2026 06:00:00 GMT"
+      "title": "Serie A e Coppa Italia: il programma delle partite dal 29 novembre al 12 gennaio - AS Roma",
+      "source": "AS Roma",
+      "published": "Fri, 25 Sep 2026 17:56:20 GMT"
     },
     {
       "type": "news",
@@ -74,9 +74,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner ancora out, tutte le tappe del calvario del re: da Wimbledon ad oggi, cos'è successo - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Fri, 25 Sep 2026 13:24:00 GMT"
+      "title": "Italia Ucraina di Billie Jean King Cup 2026, la diretta live della semifinale - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sat, 26 Sep 2026 09:34:26 GMT"
     },
     {
       "type": "news",
@@ -88,8 +88,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner salta Pechino, Zverev diventa numero uno? Come cambia ranking Atp con infortunio Jannik - adnkronos.com",
-      "source": "adnkronos.com",
+      "title": "Sinner salta Pechino, Zverev diventa numero uno? Come cambia ranking Atp con infortunio Jannik - Adnkronos",
+      "source": "Adnkronos",
       "published": "Fri, 25 Sep 2026 13:55:00 GMT"
     },
     {
@@ -102,23 +102,23 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "FIP Platinum Lione: il programma delle semifinali, con Collombon e Sharifova in lizza per un posto in finale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 26 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Silver Houten: Camille Sireix esce di misura al primo turno e sfiderà TS3 agli ottavi di finale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 26 Sep 2026 07:12:50 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "FIP Platinum Lione – Dopo un finale al cardiopalma, Collombon e Sharifova si sono assicurati una prestigiosa vittoria contro TS1 Salazar/Osoro - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Fri, 25 Sep 2026 19:05:24 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Platinum Lione – Guichard e Axelsson non riescono a ripetere il successo e vengono eliminati agli ottavi di finale da Montiel / Santigosa - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Thu, 24 Sep 2026 18:45:45 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Platinum Lyon: un programma regale per gli ottavi di finale, le teste di serie scendono in campo - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Thu, 24 Sep 2026 06:47:09 GMT"
     }
   ]
 }
