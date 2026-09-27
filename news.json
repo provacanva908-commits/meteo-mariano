@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T10:13:19.042015+00:00",
+  "updated_at": "2026-09-27T15:11:28.417605+00:00",
   "local_date": "2026-09-27",
   "articles": [
     {
@@ -18,6 +18,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Scalvini e l'Atalanta avanti insieme, ufficiale il rinnovo: \"Riparto dai miei due ricordi più belli\" - corrieredellosport.it",
+      "source": "corrieredellosport.it",
+      "published": "Sun, 27 Sep 2026 12:08:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Fabrizio Romano: «Il calciomercato è tossico, voglio cambiare. Ho rifiutato Sky, con i soldi ho comprato casa a Milano, ma non riesco a... - Leggo.it",
       "source": "Leggo.it",
       "published": "Sun, 27 Sep 2026 08:04:51 GMT"
@@ -25,16 +32,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Fabrizio Romano: «Il calciomercato? È tossico, ora voglio qualcosa di diverso. Da tre anni non ho la fidanzata (e per me è una ferita aperta)» - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Sun, 27 Sep 2026 04:47:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "La Roma ha fretta con Lulli: trattativa in ritardo per il rinnovo, cifre diverse da agosto - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Sun, 27 Sep 2026 06:29:00 GMT"
+      "title": "La Figc saluta Eni: ufficiale l'accordo fino al 2030 con l'azera Socar - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 27 Sep 2026 12:49:20 GMT"
     },
     {
       "type": "news",
@@ -42,6 +42,13 @@
       "title": "AL COMO 1907 IL DEBUTTO ROSSONERO IN SERIE A - AC Milan | Sito Ufficiale",
       "source": "AC Milan | Sito Ufficiale",
       "published": "Sat, 26 Sep 2026 17:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Calendario Lazio Serie A Enilive 2026/27: tutte le partite | DAZN News Italia - DAZN",
+      "source": "DAZN",
+      "published": "Fri, 25 Sep 2026 17:15:17 GMT"
     },
     {
       "type": "news",
@@ -59,10 +66,24 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A e Coppa Italia: il programma delle partite dal 29 novembre al 12 gennaio - AS Roma",
-      "source": "AS Roma",
-      "published": "Fri, 25 Sep 2026 17:56:20 GMT"
+      "category": "TENNIS",
+      "title": "Sorpresa Jacquet, prima semifinale ATP a Hangzhou - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Sun, 27 Sep 2026 11:47:36 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Tennis, Atp Chengdu: Davidovich Fokina in semifinale - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Sun, 27 Sep 2026 11:38:13 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "ATP Chengdu: Shapovalov-Mannarino, scintille di tennis. Denis vince e in semifinale trova Hurkacz - Ubitennis",
+      "source": "Ubitennis",
+      "published": "Sun, 27 Sep 2026 14:50:13 GMT"
     },
     {
       "type": "news",
@@ -70,27 +91,6 @@
       "title": "Sinner: sì, adesso il suo n. 1 del ranking Atp è a rischio. Ecco come Zverev potrebbe scavalcarlo - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Fri, 25 Sep 2026 15:45:13 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "L’Italia ha perso la semifinale della Billie Jean King Cup di tennis - Il Post",
-      "source": "Il Post",
-      "published": "Sat, 26 Sep 2026 12:12:50 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Tennis oggi, il programma dei tornei Atp e Wta del 25 settembre - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Thu, 24 Sep 2026 22:35:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "L'intervista a Elena Pero dopo la prima vittoria di Sinner a Wimbledon: «Dall'agitazione scrivevo tutta storta. Ma io cosa c'entro?» - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Fri, 25 Sep 2026 14:03:38 GMT"
     },
     {
       "type": "news",
@@ -109,16 +109,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Platinum Lione: dove e a che ora guardare la finale? - padel-magazine.it",
+      "title": "Caldera e Goenaga dominano la finale di Lione e si aggiudicano il loro primo titolo FIP Platinum - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Sun, 27 Sep 2026 07:33:38 GMT"
+      "published": "Sun, 27 Sep 2026 13:58:36 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Platinum Lione: il programma delle semifinali, con Collombon/Sharifova in lizza per un posto in finale. - padel-magazine.it",
+      "title": "FIP Platinum Lione: dove e a che ora guardare la finale? - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Sat, 26 Sep 2026 07:00:00 GMT"
+      "published": "Sun, 27 Sep 2026 07:33:38 GMT"
     }
   ]
 }
