@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T23:54:29.714602+00:00",
+  "updated_at": "2026-09-27T04:38:10.919158+00:00",
   "local_date": "2026-09-27",
   "articles": [
     {
@@ -18,13 +18,6 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "TRIBUNA.COM * SERIE A: «UFFICIALE - CALCIOMERCATO, ANTICIPATA L'APERTURA DELLA SESSIONE INVERNALE: LE NUOVE DATE - agenziagiornalisticaopinione.it",
-      "source": "agenziagiornalisticaopinione.it",
-      "published": "Sat, 26 Sep 2026 12:25:10 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "Rosaterapia Romagna, a Cervia la solidarietà diventa una rete di comunità. Approvato dalla Giunta l’accordo tra Comune e AUSL della Romagna per il progetto promosso da Mosaico Cooperativa ETS - Comune di Cervia",
       "source": "Comune di Cervia",
       "published": "Sat, 26 Sep 2026 13:53:19 GMT"
@@ -32,16 +25,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan, Inacio resta nel mirino: contatti in corso, pronto un nuovo assalto - Tuttosport",
-      "source": "Tuttosport",
+      "title": "Calciomercato Milan, Inacio resta nel mirino: contatti in corso, pronto un nuovo assalto - tuttosport.com",
+      "source": "tuttosport.com",
       "published": "Fri, 25 Sep 2026 11:24:00 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "FIGC * FEDERAZIONE ITALIANA GIUOCO CALCIO: «SERIE A WOMEN, JUVENTUS RIMONTA IL NAPOLI 3-1, COMO BATTE MILAN 4-1 - agenziagiornalisticaopinione.it",
-      "source": "agenziagiornalisticaopinione.it",
-      "published": "Sat, 26 Sep 2026 18:41:09 GMT"
+      "category": "CALCIOMERCATO",
+      "title": "COMUNICATO UFFICIALE: ABIGAIL CROSBY BRIGHTON - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Thu, 24 Sep 2026 15:00:00 GMT"
     },
     {
       "type": "news",
@@ -66,6 +59,13 @@
     },
     {
       "type": "news",
+      "category": "CALCIO",
+      "title": "Coppa Italia 2026/27 | Data e orario dell'ottavo di finale della Juventus - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Fri, 25 Sep 2026 16:05:57 GMT"
+    },
+    {
+      "type": "news",
       "category": "TENNIS",
       "title": "L’Italia ha perso la semifinale della Billie Jean King Cup di tennis - Il Post",
       "source": "Il Post",
@@ -74,16 +74,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner: sì, adesso il suo n. 1 del ranking Atp è a rischio. Ecco come Zverev potrebbe scavalcarlo - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Sinner: sì, adesso il suo n. 1 del ranking Atp è a rischio. Ecco come Zverev potrebbe scavalcarlo - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Fri, 25 Sep 2026 15:45:13 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Billie Jean King Cup, Italia fuori in semifinale: l'Ucraina vince 2-0 - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sat, 26 Sep 2026 09:34:26 GMT"
     },
     {
       "type": "news",
@@ -94,9 +87,16 @@
     },
     {
       "type": "news",
+      "category": "TENNIS",
+      "title": "Billie Jean King Cup, Italia fuori in semifinale: l'Ucraina vince 2-0 - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sat, 26 Sep 2026 09:34:26 GMT"
+    },
+    {
+      "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Sun, 13 Sep 2026 07:00:00 GMT"
     },
     {
@@ -116,9 +116,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Silver Houten: Camille Sireix esce di misura al primo turno e sfiderà TS3 agli ottavi di finale - padel-magazine.it",
+      "title": "FIP Platinum Lione – Dopo un finale al cardiopalma, Collombon e Sharifova si sono assicurati una prestigiosa vittoria contro TS1 Salazar/Osoro - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Sat, 26 Sep 2026 07:12:50 GMT"
+      "published": "Fri, 25 Sep 2026 19:05:24 GMT"
     }
   ]
 }
