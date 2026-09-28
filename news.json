@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T00:39:46.099463+00:00",
+  "updated_at": "2026-09-28T05:55:18.952609+00:00",
   "local_date": "2026-09-28",
   "articles": [
     {
@@ -32,9 +32,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Fabrizio Romano: «Il calciomercato? È tossico, ora voglio qualcosa di diverso. Da tre anni non ho la fidanzata (e per me è una ferita aperta)» - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Sun, 27 Sep 2026 04:47:00 GMT"
+      "title": "Cina in rosso, accordo da 60 miliardi con gli Usa. Petrolio e Treasury al galoppo, ora il decennale rende il 5,21% - Milano Finanza",
+      "source": "Milano Finanza",
+      "published": "Mon, 28 Sep 2026 05:30:00 GMT"
     },
     {
       "type": "news",
@@ -60,16 +60,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "FIGC * FEDERAZIONE ITALIANA GIUOCO CALCIO: «SERIE A WOMEN: INTER, ROMA E COMO VINCONO AL DEBUTTO, CINQUE SQUADRE IN TESTA DOPO LA 1ª GIORNATA - agenziagiornalisticaopinione.it",
-      "source": "agenziagiornalisticaopinione.it",
-      "published": "Sun, 27 Sep 2026 16:05:18 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Tennis, Atp Hangzhou: prima semifinale in carriera per Jacquet - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Sun, 27 Sep 2026 13:14:40 GMT"
+      "title": "Coppa Italia 2026/27 | Data e orario dell'ottavo di finale della Juventus - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Fri, 25 Sep 2026 16:05:57 GMT"
     },
     {
       "type": "news",
@@ -81,6 +74,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Tennis oggi, il programma dei tornei Atp e Wta del 25 settembre - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Thu, 24 Sep 2026 22:35:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "L'intervista a Elena Pero dopo la prima vittoria di Sinner a Wimbledon: «Dall'agitazione scrivevo tutta storta. Ma io cosa c'entro?» - Corriere della Sera",
       "source": "Corriere della Sera",
       "published": "Fri, 25 Sep 2026 14:03:38 GMT"
@@ -88,9 +88,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis oggi, il programma dei tornei Atp e Wta del 25 settembre - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Thu, 24 Sep 2026 22:35:00 GMT"
+      "title": "Sinner salta Pechino, Zverev diventa numero uno? Come cambia ranking Atp con infortunio Jannik - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Fri, 25 Sep 2026 13:55:00 GMT"
     },
     {
       "type": "news",
