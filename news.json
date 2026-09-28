@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T13:32:01.513047+00:00",
+  "updated_at": "2026-09-28T20:13:19.917891+00:00",
   "local_date": "2026-09-28",
   "articles": [
     {
@@ -18,6 +18,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Patric saluta la Lazio, ufficiale la cessione all'Al-Ittifaq: il comunicato del club e il messaggio ai tifosi - corrieredellosport.it",
+      "source": "corrieredellosport.it",
+      "published": "Mon, 28 Sep 2026 09:33:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Calciomercato, l'Inter pensa a un doppio colpo a parametro zero dal Napoli? - NapoliToday",
       "source": "NapoliToday",
       "published": "Mon, 28 Sep 2026 11:30:00 GMT"
@@ -25,23 +32,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Patric saluta la Lazio, ufficiale la cessione all'Al-Ittifaq: il comunicato del club e il messaggio ai tifosi - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Mon, 28 Sep 2026 09:33:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Patric saluta la Lazio e vola negli Emirati... con Balotelli: ufficiale la cessione - Tuttosport",
-      "source": "Tuttosport",
-      "published": "Mon, 28 Sep 2026 09:41:09 GMT"
+      "title": "Ufficiale | Neto è un giocatore della Juventus - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Mon, 28 Sep 2026 13:52:22 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
       "title": "Anteprima seconda giornata UEFA Women's Champions League: OL Lyonnes - Chelsea, Roma - Barcelona, Man City - Real Madrid - UEFA.com",
       "source": "UEFA.com",
-      "published": "Mon, 28 Sep 2026 10:52:30 GMT"
+      "published": "Mon, 28 Sep 2026 11:31:13 GMT"
     },
     {
       "type": "news",
@@ -53,44 +53,44 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "La Serie A in Nazionale: nessuno conta più convocati del Como, Frosinone davanti all'Inter - Fantacalcio",
+      "source": "Fantacalcio",
+      "published": "Mon, 28 Sep 2026 19:16:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Calendario Lazio Serie A Enilive 2026/27: tutte le partite | DAZN News Italia - dazn.com",
       "source": "dazn.com",
       "published": "Fri, 25 Sep 2026 17:15:17 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "AL COMO 1907 IL DEBUTTO ROSSONERO IN SERIE A - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Sat, 26 Sep 2026 17:00:00 GMT"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
-      "title": "ATP Pechino 2026, il tabellone: Cobolli evita Zverev e Djokovic fino alla finale - oasport.it",
-      "source": "oasport.it",
+      "title": "ATP Pechino 2026, il tabellone: Cobolli evita Zverev e Djokovic fino alla finale - OA Sport",
+      "source": "OA Sport",
       "published": "Mon, 28 Sep 2026 08:27:37 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Atp Hangzhou 2026, i risultati di oggi: Rublev in finale, ora Medvedev-Safiullin - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Mon, 28 Sep 2026 11:04:09 GMT"
+      "title": "Sinner e Alcaraz fuori dal Consiglio degli Slam, ci sono Musetti e Djokovic: cos'è successo, la novità - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Mon, 28 Sep 2026 17:18:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner: sì, adesso il suo n. 1 del ranking Atp è a rischio. Ecco come Zverev potrebbe scavalcarlo - gazzetta.it",
+      "title": "Sinner e Alcaraz fuori dal nuovo consiglio degli Slam: Djokovic e Musetti presenti tra i 12 - gazzetta.it",
       "source": "gazzetta.it",
-      "published": "Fri, 25 Sep 2026 15:45:13 GMT"
+      "published": "Mon, 28 Sep 2026 16:24:38 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking Atp, Sinner resta numero 1 al mondo ma Zverev accorcia in classifica - lapresse.it",
-      "source": "lapresse.it",
-      "published": "Mon, 28 Sep 2026 12:04:17 GMT"
+      "title": "Svelati i membri del nuovo consiglio degli Slam: fuori Alcaraz e a sorpresa anche Sinner. C'è Djokovic - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Mon, 28 Sep 2026 17:35:08 GMT"
     },
     {
       "type": "news",
