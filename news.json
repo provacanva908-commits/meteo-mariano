@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T22:03:09.476386+00:00",
+  "updated_at": "2026-09-28T00:39:46.099463+00:00",
   "local_date": "2026-09-28",
   "articles": [
     {
@@ -32,9 +32,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Fabrizio Romano: «Il calciomercato è tossico, voglio cambiare. Ho rifiutato Sky, con i soldi ho comprato casa a Milano, ma non riesco a... - Leggo.it",
-      "source": "Leggo.it",
-      "published": "Sun, 27 Sep 2026 08:04:51 GMT"
+      "title": "Fabrizio Romano: «Il calciomercato? È tossico, ora voglio qualcosa di diverso. Da tre anni non ho la fidanzata (e per me è una ferita aperta)» - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Sun, 27 Sep 2026 04:47:00 GMT"
     },
     {
       "type": "news",
@@ -74,23 +74,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Hangzhou 2026, tre russi in semifinale. Con loro anche Jacquet - OA Sport",
-      "source": "OA Sport",
-      "published": "Sun, 27 Sep 2026 15:24:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "ATP Chengdu: Shapovalov-Mannarino, scintille di tennis. Denis vince e in semifinale trova Hurkacz - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Sun, 27 Sep 2026 14:50:13 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Sinner: sì, adesso il suo n. 1 del ranking Atp è a rischio. Ecco come Zverev potrebbe scavalcarlo - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Fri, 25 Sep 2026 15:45:13 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "L'intervista a Elena Pero dopo la prima vittoria di Sinner a Wimbledon: «Dall'agitazione scrivevo tutta storta. Ma io cosa c'entro?» - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Fri, 25 Sep 2026 14:03:38 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Tennis oggi, il programma dei tornei Atp e Wta del 25 settembre - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Thu, 24 Sep 2026 22:35:00 GMT"
     },
     {
       "type": "news",
