@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T12:44:26.857310+00:00",
+  "updated_at": "2026-09-29T18:19:30.666331+00:00",
   "local_date": "2026-09-29",
   "articles": [
     {
@@ -11,6 +11,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "In provincia di Como arriva una nuova pista ciclopedonale: firmato maxi accordo da 700mila euro - ComoZero",
+      "source": "ComoZero",
+      "published": "Tue, 29 Sep 2026 07:58:36 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Roma, Napoli, Juve e calciomercato: le ultimissime - Corriere dello Sport",
       "source": "Corriere dello Sport",
       "published": "Tue, 29 Sep 2026 11:32:16 GMT"
@@ -18,30 +25,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale | Neto è un giocatore della Juventus - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Mon, 28 Sep 2026 13:52:22 GMT"
+      "title": "Il grande colpo del ciclomercato in rosa ora è ufficiale: Kasia Niewiadoma firma un biennale con la Lidl-Trek - MTBI.IT",
+      "source": "MTBI.IT",
+      "published": "Tue, 29 Sep 2026 14:25:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Il titolo CBOE sale del 5% grazie al rinnovo dell’accordo con S&P 500 - Investing.com",
-      "source": "Investing.com",
-      "published": "Tue, 29 Sep 2026 12:31:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma: per l'attacco Gasp studia van Bommel jr - RomaToday",
-      "source": "RomaToday",
-      "published": "Tue, 29 Sep 2026 08:06:00 GMT"
+      "title": "Cultura della pace e cooperazione internazionale: a Pistoia la visita ufficiale del Sindaco di Gerico Salem Ghrouf - comune.pistoia.it",
+      "source": "comune.pistoia.it",
+      "published": "Tue, 29 Sep 2026 16:56:06 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Seconda giornata Women's Champions League, Roma - Barcelona: storia della partita - UEFA.com",
-      "source": "UEFA.com",
-      "published": "Mon, 28 Sep 2026 10:35:45 GMT"
+      "title": "Dove vedere Roma Femminile-Barcellona: orario e diretta streaming della Champions League - lfootball.it",
+      "source": "lfootball.it",
+      "published": "Tue, 29 Sep 2026 17:39:14 GMT"
     },
     {
       "type": "news",
@@ -53,23 +53,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "TRIBUNA.COM * SERIE A: «UFFICIALE| IL MILAN APPROVA IL BILANCIO 2026: ROSSO DI OLTRE 20 MILIONI, PESA L'ASSENZA IN CHAMPIONS - agenziagiornalisticaopinione.it",
-      "source": "agenziagiornalisticaopinione.it",
-      "published": "Tue, 29 Sep 2026 06:00:32 GMT"
+      "title": "Calcio femminile, Roma attesa dalla corazzata Barcellona in Champions League - OA Sport",
+      "source": "OA Sport",
+      "published": "Tue, 29 Sep 2026 16:00:01 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Women Athora, si comincia! Juventus e Napoli Women le prime a scendere in campo, le campionesse d’Italia della Roma iniziano da Sassuolo - FIGC",
+      "title": "Seconda giornata, si parte con Roma-Barcellona e Häcken-Juventus. Giovedì l’Inter sul campo dell’Austria Vienna - FIGC",
       "source": "FIGC",
-      "published": "Fri, 25 Sep 2026 06:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Svelati i membri del nuovo consiglio degli Slam: fuori Alcaraz e a sorpresa anche Sinner. C'è Djokovic - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "Mon, 28 Sep 2026 17:35:08 GMT"
+      "published": "Tue, 29 Sep 2026 08:19:00 GMT"
     },
     {
       "type": "news",
@@ -81,6 +74,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Svelati i membri del nuovo consiglio degli Slam: fuori Alcaraz e a sorpresa anche Sinner. C'è Djokovic - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Mon, 28 Sep 2026 17:35:08 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Sinner e Alcaraz fuori dal Consiglio degli Slam, ci sono Musetti e Djokovic: cos'è successo, la novità - Adnkronos",
       "source": "Adnkronos",
       "published": "Mon, 28 Sep 2026 17:18:00 GMT"
@@ -88,9 +88,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Consiglio degli Slam senza Sinner e Alcaraz: cos’è la novità, la presenza di Djokovic e Musetti - OA Sport",
-      "source": "OA Sport",
-      "published": "Tue, 29 Sep 2026 08:55:58 GMT"
+      "title": "Sinner: sì, adesso il suo n. 1 del ranking Atp è a rischio. Ecco come Zverev potrebbe scavalcarlo - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Fri, 25 Sep 2026 15:45:13 GMT"
     },
     {
       "type": "news",
@@ -98,6 +98,13 @@
       "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 13 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Circuito FIP: Parmigiani centra un’altra finale. A Lione succede di tutto! - padelmagazine.it",
+      "source": "padelmagazine.it",
+      "published": "Tue, 29 Sep 2026 16:51:14 GMT"
     },
     {
       "type": "news",
@@ -112,13 +119,6 @@
       "title": "FIP Platinum Lione: dove e a che ora guardare la finale? - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sun, 27 Sep 2026 07:33:38 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Platinum Lione: il programma delle semifinali, con Collombon/Sharifova in lizza per un posto in finale. - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sat, 26 Sep 2026 07:00:00 GMT"
     }
   ]
 }
