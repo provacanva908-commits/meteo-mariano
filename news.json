@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T06:02:18.008714+00:00",
+  "updated_at": "2026-09-29T12:44:26.857310+00:00",
   "local_date": "2026-09-29",
   "articles": [
     {
@@ -11,16 +11,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato, l'Inter pensa a un doppio colpo a parametro zero dal Napoli? - NapoliToday",
-      "source": "NapoliToday",
-      "published": "Mon, 28 Sep 2026 11:30:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Patric saluta la Lazio, ufficiale la cessione all'Al-Ittifaq: il comunicato del club e il messaggio ai tifosi - Corriere dello Sport",
+      "title": "Roma, Napoli, Juve e calciomercato: le ultimissime - Corriere dello Sport",
       "source": "Corriere dello Sport",
-      "published": "Mon, 28 Sep 2026 09:33:00 GMT"
+      "published": "Tue, 29 Sep 2026 11:32:16 GMT"
     },
     {
       "type": "news",
@@ -32,16 +25,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "La destra ora litiga su Milano: no accordo - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "Mon, 28 Sep 2026 22:01:00 GMT"
+      "title": "Il titolo CBOE sale del 5% grazie al rinnovo dell’accordo con S&P 500 - Investing.com",
+      "source": "Investing.com",
+      "published": "Tue, 29 Sep 2026 12:31:00 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Anteprima seconda giornata UEFA Women's Champions League: OL Lyonnes - Chelsea, Roma - Barcelona, Man City - Real Madrid - UEFA.com",
-      "source": "UEFA.com",
-      "published": "Mon, 28 Sep 2026 11:31:13 GMT"
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Roma: per l'attacco Gasp studia van Bommel jr - RomaToday",
+      "source": "RomaToday",
+      "published": "Tue, 29 Sep 2026 08:06:00 GMT"
     },
     {
       "type": "news",
@@ -53,23 +46,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calendario Lazio Serie A Enilive 2026/27: tutte le partite | DAZN News Italia - DAZN",
-      "source": "DAZN",
-      "published": "Fri, 25 Sep 2026 17:15:17 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "AL COMO 1907 IL DEBUTTO ROSSONERO IN SERIE A - AC Milan | Sito Ufficiale",
       "source": "AC Milan | Sito Ufficiale",
       "published": "Sat, 26 Sep 2026 17:00:00 GMT"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "ATP Pechino 2026, il tabellone: Cobolli evita Zverev e Djokovic fino alla finale - OA Sport",
-      "source": "OA Sport",
-      "published": "Mon, 28 Sep 2026 08:27:37 GMT"
+      "category": "CALCIO",
+      "title": "TRIBUNA.COM * SERIE A: «UFFICIALE| IL MILAN APPROVA IL BILANCIO 2026: ROSSO DI OLTRE 20 MILIONI, PESA L'ASSENZA IN CHAMPIONS - agenziagiornalisticaopinione.it",
+      "source": "agenziagiornalisticaopinione.it",
+      "published": "Tue, 29 Sep 2026 06:00:32 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A Women Athora, si comincia! Juventus e Napoli Women le prime a scendere in campo, le campionesse d’Italia della Roma iniziano da Sassuolo - FIGC",
+      "source": "FIGC",
+      "published": "Fri, 25 Sep 2026 06:00:00 GMT"
     },
     {
       "type": "news",
@@ -94,6 +87,13 @@
     },
     {
       "type": "news",
+      "category": "TENNIS",
+      "title": "Consiglio degli Slam senza Sinner e Alcaraz: cos’è la novità, la presenza di Djokovic e Musetti - OA Sport",
+      "source": "OA Sport",
+      "published": "Tue, 29 Sep 2026 08:55:58 GMT"
+    },
+    {
+      "type": "news",
       "category": "PADEL",
       "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
@@ -102,9 +102,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Paris Major Premier Padel 2026: Orsi ai quarti di finale, Lebron che paura! - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Fri, 11 Sep 2026 07:00:00 GMT"
+      "title": "FIP Platinum Lione: i favoriti raggiungono la finale nella competizione maschile, le outsider trionfano in quella femminile - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sun, 27 Sep 2026 06:59:16 GMT"
     },
     {
       "type": "news",
@@ -116,9 +116,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Platinum Lione: i favoriti raggiungono la finale nella competizione maschile, le outsider trionfano in quella femminile - padel-magazine.it",
+      "title": "FIP Platinum Lione: il programma delle semifinali, con Collombon/Sharifova in lizza per un posto in finale. - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Sun, 27 Sep 2026 06:59:16 GMT"
+      "published": "Sat, 26 Sep 2026 07:00:00 GMT"
     }
   ]
 }
