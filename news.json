@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-29T18:19:30.666331+00:00",
-  "local_date": "2026-09-29",
+  "updated_at": "2026-09-29T22:27:21.275827+00:00",
+  "local_date": "2026-09-30",
   "articles": [
     {
       "type": "message",
@@ -18,13 +18,6 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Roma, Napoli, Juve e calciomercato: le ultimissime - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Tue, 29 Sep 2026 11:32:16 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "Il grande colpo del ciclomercato in rosa ora è ufficiale: Kasia Niewiadoma firma un biennale con la Lidl-Trek - MTBI.IT",
       "source": "MTBI.IT",
       "published": "Tue, 29 Sep 2026 14:25:00 GMT"
@@ -32,23 +25,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Cultura della pace e cooperazione internazionale: a Pistoia la visita ufficiale del Sindaco di Gerico Salem Ghrouf - comune.pistoia.it",
-      "source": "comune.pistoia.it",
-      "published": "Tue, 29 Sep 2026 16:56:06 GMT"
+      "title": "Meloni a Praga: Con Babis d'accordo su migranti. Ue deve avere ruolo in crisi internazionali - Il Sole 24 ORE",
+      "source": "Il Sole 24 ORE",
+      "published": "Tue, 29 Sep 2026 20:06:08 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Firmato in Prefettura un accordo di collaborazione - Il portale delle Prefetture",
+      "source": "Il portale delle Prefetture",
+      "published": "Tue, 29 Sep 2026 18:20:24 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Dove vedere Roma Femminile-Barcellona: orario e diretta streaming della Champions League - lfootball.it",
-      "source": "lfootball.it",
+      "title": "Dove vedere Roma Femminile-Barcellona: orario e diretta streaming della Champions League - L Football",
+      "source": "L Football",
       "published": "Tue, 29 Sep 2026 17:39:14 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "AL COMO 1907 IL DEBUTTO ROSSONERO IN SERIE A - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Sat, 26 Sep 2026 17:00:00 GMT"
     },
     {
       "type": "news",
@@ -66,10 +59,10 @@
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner e Alcaraz fuori dal nuovo consiglio degli Slam: Djokovic e Musetti presenti tra i 12 - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Mon, 28 Sep 2026 16:24:38 GMT"
+      "category": "CALCIO",
+      "title": "Coppa Italia maschile di Serie A Elite di Rugby: Petrarca Rugby vs Rangers Vicenza il 3 ottobre 2026 - PadovaOggi",
+      "source": "PadovaOggi",
+      "published": "Tue, 29 Sep 2026 08:31:59 GMT"
     },
     {
       "type": "news",
@@ -77,6 +70,13 @@
       "title": "Svelati i membri del nuovo consiglio degli Slam: fuori Alcaraz e a sorpresa anche Sinner. C'è Djokovic - Il Fatto Quotidiano",
       "source": "Il Fatto Quotidiano",
       "published": "Mon, 28 Sep 2026 17:35:08 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner e Alcaraz fuori dal nuovo consiglio degli Slam: Djokovic e Musetti presenti tra i 12 - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Mon, 28 Sep 2026 16:24:38 GMT"
     },
     {
       "type": "news",
