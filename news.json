@@ -1,26 +1,12 @@
 {
-  "updated_at": "2026-09-28T20:13:19.917891+00:00",
-  "local_date": "2026-09-28",
+  "updated_at": "2026-09-29T00:24:48.300160+00:00",
+  "local_date": "2026-09-29",
   "articles": [
     {
       "type": "message",
       "category": "CALCIO",
       "title": "Nessuna partita rilevante in programma oggi tra Serie A, coppe europee e top club",
       "source": "football-data.org"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Gilardino allenatore Parma, accordo in chiusura. Calciomercato news - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Mon, 28 Sep 2026 09:24:06 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Patric saluta la Lazio, ufficiale la cessione all'Al-Ittifaq: il comunicato del club e il messaggio ai tifosi - corrieredellosport.it",
-      "source": "corrieredellosport.it",
-      "published": "Mon, 28 Sep 2026 09:33:00 GMT"
     },
     {
       "type": "news",
@@ -32,9 +18,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Patric saluta la Lazio, ufficiale la cessione all'Al-Ittifaq: il comunicato del club e il messaggio ai tifosi - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Mon, 28 Sep 2026 09:33:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Ufficiale | Neto è un giocatore della Juventus - Juventus.com",
       "source": "Juventus.com",
       "published": "Mon, 28 Sep 2026 13:52:22 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "La destra ora litiga su Milano: no accordo - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Mon, 28 Sep 2026 22:01:00 GMT"
     },
     {
       "type": "news",
@@ -60,8 +60,8 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calendario Lazio Serie A Enilive 2026/27: tutte le partite | DAZN News Italia - dazn.com",
-      "source": "dazn.com",
+      "title": "Calendario Lazio Serie A Enilive 2026/27: tutte le partite | DAZN News Italia - DAZN",
+      "source": "DAZN",
       "published": "Fri, 25 Sep 2026 17:15:17 GMT"
     },
     {
@@ -74,29 +74,29 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner e Alcaraz fuori dal Consiglio degli Slam, ci sono Musetti e Djokovic: cos'è successo, la novità - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Mon, 28 Sep 2026 17:18:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner e Alcaraz fuori dal nuovo consiglio degli Slam: Djokovic e Musetti presenti tra i 12 - gazzetta.it",
-      "source": "gazzetta.it",
-      "published": "Mon, 28 Sep 2026 16:24:38 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Svelati i membri del nuovo consiglio degli Slam: fuori Alcaraz e a sorpresa anche Sinner. C'è Djokovic - Il Fatto Quotidiano",
       "source": "Il Fatto Quotidiano",
       "published": "Mon, 28 Sep 2026 17:35:08 GMT"
     },
     {
       "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner e Alcaraz fuori dal nuovo consiglio degli Slam: Djokovic e Musetti presenti tra i 12 - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Mon, 28 Sep 2026 16:24:38 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner e Alcaraz fuori dal Consiglio degli Slam, ci sono Musetti e Djokovic: cos'è successo, la novità - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Mon, 28 Sep 2026 17:18:00 GMT"
+    },
+    {
+      "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Sun, 13 Sep 2026 07:00:00 GMT"
     },
     {
