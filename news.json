@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T00:24:48.300160+00:00",
+  "updated_at": "2026-09-29T06:02:18.008714+00:00",
   "local_date": "2026-09-29",
   "articles": [
     {
@@ -53,16 +53,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "La Serie A in Nazionale: nessuno conta più convocati del Como, Frosinone davanti all'Inter - Fantacalcio",
-      "source": "Fantacalcio",
-      "published": "Mon, 28 Sep 2026 19:16:00 GMT"
+      "title": "Calendario Lazio Serie A Enilive 2026/27: tutte le partite | DAZN News Italia - DAZN",
+      "source": "DAZN",
+      "published": "Fri, 25 Sep 2026 17:15:17 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calendario Lazio Serie A Enilive 2026/27: tutte le partite | DAZN News Italia - DAZN",
-      "source": "DAZN",
-      "published": "Fri, 25 Sep 2026 17:15:17 GMT"
+      "title": "AL COMO 1907 IL DEBUTTO ROSSONERO IN SERIE A - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Sat, 26 Sep 2026 17:00:00 GMT"
     },
     {
       "type": "news",
@@ -102,6 +102,13 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "Paris Major Premier Padel 2026: Orsi ai quarti di finale, Lebron che paura! - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Fri, 11 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "FIP Platinum Lione: dove e a che ora guardare la finale? - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sun, 27 Sep 2026 07:33:38 GMT"
@@ -112,13 +119,6 @@
       "title": "FIP Platinum Lione: i favoriti raggiungono la finale nella competizione maschile, le outsider trionfano in quella femminile - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sun, 27 Sep 2026 06:59:16 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Platinum Lione: il programma delle semifinali, con Collombon/Sharifova in lizza per un posto in finale. - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sat, 26 Sep 2026 07:00:00 GMT"
     }
   ]
 }
