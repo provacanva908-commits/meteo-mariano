@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T01:28:51.498144+00:00",
+  "updated_at": "2026-09-30T07:19:58.090330+00:00",
   "local_date": "2026-09-30",
   "articles": [
     {
@@ -11,30 +11,51 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato, l'Inter pensa a un doppio colpo a parametro zero dal Napoli? - napolitoday.it",
-      "source": "napolitoday.it",
+      "title": "È già mercato: De Laurentiis e Allegri d’accordo, i tre obiettivi del Napoli a gennaio - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Wed, 30 Sep 2026 06:07:58 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Juventus, il Barcellona prepara l’assalto a Cambiaso: possibile offerta a gennaio? - - Web Lombardia",
+      "source": "- Web Lombardia",
+      "published": "Wed, 30 Sep 2026 06:54:13 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato, l'Inter pensa a un doppio colpo a parametro zero dal Napoli? - NapoliToday",
+      "source": "NapoliToday",
       "published": "Mon, 28 Sep 2026 11:30:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Meloni a Praga: Con Babis d'accordo su migranti. Ue deve avere ruolo in crisi internazionali - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
-      "published": "Tue, 29 Sep 2026 20:06:08 GMT"
+      "title": "Accordo tra Tarros e Nurminen per nuovo corridoio intermodale Italia-Svezia - ilsole24ore.com",
+      "source": "ilsole24ore.com",
+      "published": "Wed, 30 Sep 2026 05:40:36 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Firmato in Prefettura un accordo di collaborazione - Il portale delle Prefetture",
-      "source": "Il portale delle Prefetture",
-      "published": "Tue, 29 Sep 2026 18:20:24 GMT"
+      "category": "CALCIO",
+      "title": "LIVE Roma-Barcellona, Champions League calcio femminile 2027 in DIRETTA: sfida alle grandi favorite - OA Sport",
+      "source": "OA Sport",
+      "published": "Wed, 30 Sep 2026 03:10:20 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Trump firma accordo su linee guida con aziende Ai - Sky TG24",
-      "source": "Sky TG24",
-      "published": "Tue, 29 Sep 2026 21:54:06 GMT"
+      "category": "CALCIO",
+      "title": "Barcellona-Roma oggi, Champions League calcio femminile: orario, programma, streaming - OA Sport",
+      "source": "OA Sport",
+      "published": "Wed, 30 Sep 2026 03:10:38 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Calendario Lazio Serie A Enilive 2026/27: tutte le partite | DAZN News Italia - DAZN",
+      "source": "DAZN",
+      "published": "Fri, 25 Sep 2026 17:15:17 GMT"
     },
     {
       "type": "news",
@@ -42,27 +63,6 @@
       "title": "Dove vedere Roma Femminile-Barcellona: orario e diretta streaming della Champions League - L Football",
       "source": "L Football",
       "published": "Tue, 29 Sep 2026 17:39:14 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "AL COMO 1907 IL DEBUTTO ROSSONERO IN SERIE A - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Sat, 26 Sep 2026 17:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Calcio femminile, Roma attesa dalla corazzata Barcellona in Champions League - oasport.it",
-      "source": "oasport.it",
-      "published": "Tue, 29 Sep 2026 16:00:01 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Seconda giornata, si parte con Roma-Barcellona e Häcken-Juventus. Giovedì l’Inter sul campo dell’Austria Vienna - FIGC",
-      "source": "FIGC",
-      "published": "Tue, 29 Sep 2026 08:19:00 GMT"
     },
     {
       "type": "news",
@@ -74,8 +74,15 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner e Alcaraz fuori dal nuovo consiglio degli Slam: Djokovic e Musetti presenti tra i 12 - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "China Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Wed, 30 Sep 2026 06:07:34 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner e Alcaraz fuori dal nuovo consiglio degli Slam: Djokovic e Musetti presenti tra i 12 - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Mon, 28 Sep 2026 16:24:38 GMT"
     },
     {
@@ -87,16 +94,9 @@
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner: sì, adesso il suo n. 1 del ranking Atp è a rischio. Ecco come Zverev potrebbe scavalcarlo - gazzetta.it",
-      "source": "gazzetta.it",
-      "published": "Fri, 25 Sep 2026 15:45:13 GMT"
-    },
-    {
-      "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Sun, 13 Sep 2026 07:00:00 GMT"
     },
     {
@@ -109,16 +109,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Platinum Lione: i favoriti raggiungono la finale nella competizione maschile, le outsider trionfano in quella femminile - padel-magazine.it",
+      "title": "FIP Platinum Lione: dove e a che ora guardare la finale? - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Sun, 27 Sep 2026 06:59:16 GMT"
+      "published": "Sun, 27 Sep 2026 07:33:38 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Platinum Lione: dove e a che ora guardare la finale? - padel-magazine.it",
+      "title": "FIP Platinum Lione: i favoriti raggiungono la finale nella competizione maschile, le outsider trionfano in quella femminile - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Sun, 27 Sep 2026 07:33:38 GMT"
+      "published": "Sun, 27 Sep 2026 06:59:16 GMT"
     }
   ]
 }
