@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T22:27:21.275827+00:00",
+  "updated_at": "2026-09-30T01:28:51.498144+00:00",
   "local_date": "2026-09-30",
   "articles": [
     {
@@ -11,16 +11,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "In provincia di Como arriva una nuova pista ciclopedonale: firmato maxi accordo da 700mila euro - ComoZero",
-      "source": "ComoZero",
-      "published": "Tue, 29 Sep 2026 07:58:36 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Il grande colpo del ciclomercato in rosa ora è ufficiale: Kasia Niewiadoma firma un biennale con la Lidl-Trek - MTBI.IT",
-      "source": "MTBI.IT",
-      "published": "Tue, 29 Sep 2026 14:25:00 GMT"
+      "title": "Calciomercato, l'Inter pensa a un doppio colpo a parametro zero dal Napoli? - napolitoday.it",
+      "source": "napolitoday.it",
+      "published": "Mon, 28 Sep 2026 11:30:00 GMT"
     },
     {
       "type": "news",
@@ -38,6 +31,13 @@
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Trump firma accordo su linee guida con aziende Ai - Sky TG24",
+      "source": "Sky TG24",
+      "published": "Tue, 29 Sep 2026 21:54:06 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
       "title": "Dove vedere Roma Femminile-Barcellona: orario e diretta streaming della Champions League - L Football",
       "source": "L Football",
@@ -46,8 +46,15 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calcio femminile, Roma attesa dalla corazzata Barcellona in Champions League - OA Sport",
-      "source": "OA Sport",
+      "title": "AL COMO 1907 IL DEBUTTO ROSSONERO IN SERIE A - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Sat, 26 Sep 2026 17:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Calcio femminile, Roma attesa dalla corazzata Barcellona in Champions League - oasport.it",
+      "source": "oasport.it",
       "published": "Tue, 29 Sep 2026 16:00:01 GMT"
     },
     {
@@ -59,13 +66,6 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Coppa Italia maschile di Serie A Elite di Rugby: Petrarca Rugby vs Rangers Vicenza il 3 ottobre 2026 - PadovaOggi",
-      "source": "PadovaOggi",
-      "published": "Tue, 29 Sep 2026 08:31:59 GMT"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
       "title": "Svelati i membri del nuovo consiglio degli Slam: fuori Alcaraz e a sorpresa anche Sinner. C'è Djokovic - Il Fatto Quotidiano",
       "source": "Il Fatto Quotidiano",
@@ -74,8 +74,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner e Alcaraz fuori dal nuovo consiglio degli Slam: Djokovic e Musetti presenti tra i 12 - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Sinner e Alcaraz fuori dal nuovo consiglio degli Slam: Djokovic e Musetti presenti tra i 12 - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Mon, 28 Sep 2026 16:24:38 GMT"
     },
     {
@@ -88,15 +88,15 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner: sì, adesso il suo n. 1 del ranking Atp è a rischio. Ecco come Zverev potrebbe scavalcarlo - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Sinner: sì, adesso il suo n. 1 del ranking Atp è a rischio. Ecco come Zverev potrebbe scavalcarlo - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Fri, 25 Sep 2026 15:45:13 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Sun, 13 Sep 2026 07:00:00 GMT"
     },
     {
