@@ -1,12 +1,124 @@
 {
-  "updated_at": "2026-09-30T19:10:24.443741+00:00",
-  "local_date": "2026-09-30",
+  "updated_at": "2026-09-30T23:02:15.675439+00:00",
+  "local_date": "2026-10-01",
   "articles": [
     {
       "type": "message",
       "category": "CALCIO",
       "title": "Nessuna partita rilevante in programma oggi tra Serie A, coppe europee e top club",
       "source": "football-data.org"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "È già mercato: De Laurentiis e Allegri d’accordo, i tre obiettivi del Napoli a gennaio - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Wed, 30 Sep 2026 06:08:03 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Ufficiale, i tifosi della Roma tornano in trasferta: la decisione per la partita di Como - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Wed, 30 Sep 2026 17:13:07 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Acqua, ARERA ospita a Roma i Regolatori europei. Firmato accordo Wareg-Inbo per la resilienza idrica - AGEEI",
+      "source": "AGEEI",
+      "published": "Wed, 30 Sep 2026 14:12:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "BFF, accordo con fondo per cessione di crediti per 127 milioni di euro in Italia e Spagna - Borsa Italiana",
+      "source": "Borsa Italiana",
+      "published": "Wed, 30 Sep 2026 14:25:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "LIVE Roma-Barcellona 0-6, Champions League calcio femminile 2027 in DIRETTA: dominio blaugrana, giallorosse irretite al Tre Fontane - OA Sport",
+      "source": "OA Sport",
+      "published": "Wed, 30 Sep 2026 19:23:44 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Roma-Barcellona oggi in tv, Champions League calcio femminile: orario, canale, streaming - OA Sport",
+      "source": "OA Sport",
+      "published": "Wed, 30 Sep 2026 13:29:38 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Il calendario 2026-27: la Roma inizia da Sassuolo, poi è subito derby. L’Inter ospita la Fiorentina, la Juventus debutta con la Napoli Women - FIGC",
+      "source": "FIGC",
+      "published": "Sun, 27 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Calendario Lazio Serie A Enilive 2026/27: tutte le partite | DAZN News Italia - DAZN",
+      "source": "DAZN",
+      "published": "Fri, 25 Sep 2026 17:15:17 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "China Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Wed, 30 Sep 2026 16:06:48 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "ATP Pechino 2026, subito fuori Aliassime. Ritorno con vittoria per Djokovic - OA Sport",
+      "source": "OA Sport",
+      "published": "Wed, 30 Sep 2026 13:08:55 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner e Alcaraz fuori dal nuovo consiglio degli Slam: Djokovic e Musetti presenti tra i 12 - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Mon, 28 Sep 2026 16:24:38 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Svelati i membri del nuovo consiglio degli Slam: fuori Alcaraz e a sorpresa anche Sinner. C'è Djokovic - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Mon, 28 Sep 2026 17:35:08 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 13 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Circuito FIP: Parmigiani centra un’altra finale. A Lione succede di tutto! - padelmagazine.it",
+      "source": "padelmagazine.it",
+      "published": "Tue, 29 Sep 2026 16:51:14 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Platinum Lione: dove e a che ora guardare la finale? - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sun, 27 Sep 2026 07:33:38 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Paris Major Premier Padel 2026: Oggi finale con El Clasico e le terribili ragazze - mrpadelpaddle.com",
+      "source": "mrpadelpaddle.com",
+      "published": "Sun, 13 Sep 2026 07:00:00 GMT"
     }
   ]
 }
