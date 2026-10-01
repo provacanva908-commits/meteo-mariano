@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T15:53:42.763458+00:00",
+  "updated_at": "2026-10-01T20:52:14.126237+00:00",
   "local_date": "2026-10-01",
   "articles": [
     {
@@ -18,8 +18,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Accordo tra Viminale e Mecenati Roman Heritage per valorizzare il patrimonio del Fondo edifici di culto - Ministero dell‘Interno",
-      "source": "Ministero dell‘Interno",
+      "title": "Accordo tra Viminale e Mecenati Roman Heritage per valorizzare il patrimonio del Fondo edifici di culto - interno.gov.it",
+      "source": "interno.gov.it",
       "published": "Thu, 01 Oct 2026 06:44:47 GMT"
     },
     {
@@ -39,30 +39,30 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "TRIBUNA.COM * SERIE A: «UFFICIALE | SVELATE DATA E ORARIO DELLA FINALE DI SUPERCOPPA ITALIANA INTER-LAZIO - agenziagiornalisticaopinione.it",
-      "source": "agenziagiornalisticaopinione.it",
-      "published": "Thu, 01 Oct 2026 14:45:35 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "LEGA SERIE A: «SUPERCOPPA ITALIANA 2026/27, INTER-LAZIO IL 22 DICEMBRE A SAN SIRO - agenziagiornalisticaopinione.it",
-      "source": "agenziagiornalisticaopinione.it",
-      "published": "Thu, 01 Oct 2026 14:00:49 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League femminile, vincono Juventus e Bayern, crolla la Roma - L Football",
-      "source": "L Football",
-      "published": "Thu, 01 Oct 2026 07:15:43 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Super Champions League di Horse-Ball: cinque squadre azzurre in campo nella finale 2026 - Federazione Italiana Sport Equestri",
       "source": "Federazione Italiana Sport Equestri",
       "published": "Thu, 01 Oct 2026 08:41:13 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "LIVE Austria Vienna-Inter 1-1, Champions League calcio femminile in DIRETTA: le nerazzurre agguantano il pareggio nel recupero - OA Sport",
+      "source": "OA Sport",
+      "published": "Thu, 01 Oct 2026 19:52:30 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "UEFA Women's Champions League, classifica e calendario - Inter.it",
+      "source": "Inter.it",
+      "published": "Thu, 01 Oct 2026 03:33:35 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Come acquistare i biglietti per Roma-Slovan Bratislava: prezzi della Champions League, informazioni sulla partita, vendite last minute e altro ancora - Goal.com",
+      "source": "Goal.com",
+      "published": "Thu, 01 Oct 2026 10:53:01 GMT"
     },
     {
       "type": "news",
@@ -74,8 +74,8 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "LIVE Cobolli-Safiullin 3-6, 2-6, ATP Pechino 2026 in DIRETTA: russo in stato di grazia, l’azzurro subito fuori dal torneo cinese - oasport.it",
-      "source": "oasport.it",
+      "title": "LIVE Cobolli-Safiullin 3-6, 2-6, ATP Pechino 2026 in DIRETTA: russo in stato di grazia, l’azzurro subito fuori dal torneo cinese - OA Sport",
+      "source": "OA Sport",
       "published": "Thu, 01 Oct 2026 07:41:06 GMT"
     },
     {
@@ -88,9 +88,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Svelati i membri del nuovo consiglio degli Slam: fuori Alcaraz e a sorpresa anche Sinner. C'è Djokovic - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "Mon, 28 Sep 2026 17:35:08 GMT"
+      "title": "Ranking ATP: cosa deve fare Sinner per restare n.1 dopo Shanghai - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Mon, 28 Sep 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -116,9 +116,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "PADEL FEMMINILE / Storico risultato in Coppa Italia Tpra per il Bra, sconfitto solo in finale - targatocn.it",
-      "source": "targatocn.it",
-      "published": "Thu, 01 Oct 2026 12:09:18 GMT"
+      "title": "Rotterdam P2 – Ottavi di finale: Godallier e Collombon affrontano due grandi sfide - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Thu, 01 Oct 2026 06:30:00 GMT"
     }
   ]
 }
