@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T02:03:59.027639+00:00",
+  "updated_at": "2026-10-01T08:50:37.158020+00:00",
   "local_date": "2026-10-01",
   "articles": [
     {
@@ -18,16 +18,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Acqua, ARERA ospita a Roma i Regolatori europei. Firmato accordo Wareg-Inbo per la resilienza idrica - AGEEI",
-      "source": "AGEEI",
-      "published": "Wed, 30 Sep 2026 14:12:00 GMT"
+      "title": "Ufficiale, i tifosi della Roma tornano in trasferta: la decisione per la partita di Como - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Wed, 30 Sep 2026 17:13:07 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale, i tifosi della Roma tornano in trasferta: la decisione per la partita di Como - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Wed, 30 Sep 2026 17:13:07 GMT"
+      "title": "Calciomercato Juventus: parte la caccia agli svincolati - fantacalcio.it",
+      "source": "fantacalcio.it",
+      "published": "Thu, 01 Oct 2026 05:10:00 GMT"
     },
     {
       "type": "news",
@@ -39,6 +39,20 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Prima vittoria per la Juventus: tris elle bianconere all’Häcken. Roma ko, il Barcellona ne fa sei al Tre Fontane. Oggi l’Inter - FIGC",
+      "source": "FIGC",
+      "published": "Wed, 30 Sep 2026 20:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Champions League femminile, vincono Juventus e Bayern, crolla la Roma - L Football",
+      "source": "L Football",
+      "published": "Thu, 01 Oct 2026 07:15:43 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "LIVE Roma-Barcellona 0-6, Champions League calcio femminile 2027 in DIRETTA: dominio blaugrana, giallorosse irretite al Tre Fontane - OA Sport",
       "source": "OA Sport",
       "published": "Wed, 30 Sep 2026 19:23:44 GMT"
@@ -46,37 +60,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Roma-Barcellona oggi in tv, Champions League calcio femminile: orario, canale, streaming - OA Sport",
-      "source": "OA Sport",
-      "published": "Wed, 30 Sep 2026 13:29:38 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Il calendario 2026-27: la Roma inizia da Sassuolo, poi è subito derby. L’Inter ospita la Fiorentina, la Juventus debutta con la Napoli Women - FIGC",
-      "source": "FIGC",
-      "published": "Sun, 27 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Calendario Lazio Serie A Enilive 2026/27: tutte le partite | DAZN News Italia - DAZN",
-      "source": "DAZN",
-      "published": "Fri, 25 Sep 2026 17:15:17 GMT"
+      "title": "TRIBUNA.COM * SERIE A: «INTER REGINA DEI CONTI, JUVENTUS E MILAN IN ROSSO (ANCHE) PER L'ASSENZA DALLA CHAMPIONS: ANALISI E CONFRONTO - agenziagiornalisticaopinione.it",
+      "source": "agenziagiornalisticaopinione.it",
+      "published": "Thu, 01 Oct 2026 06:35:29 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Pechino 2026, subito fuori Aliassime. Ritorno con vittoria per Djokovic - OA Sport",
+      "title": "LIVE Cobolli-Safiullin 3-6, 2-6, ATP Pechino 2026 in DIRETTA: russo in stato di grazia, l’azzurro subito fuori dal torneo cinese - OA Sport",
       "source": "OA Sport",
-      "published": "Wed, 30 Sep 2026 13:08:55 GMT"
+      "published": "Thu, 01 Oct 2026 07:41:06 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "China Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Wed, 30 Sep 2026 16:06:48 GMT"
+      "title": "Alcaraz-Michelsen all'Atp Tokyo, il risultato in diretta live della partita - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Thu, 01 Oct 2026 06:33:08 GMT"
     },
     {
       "type": "news",
