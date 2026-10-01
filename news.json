@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T08:50:37.158020+00:00",
+  "updated_at": "2026-10-01T15:53:42.763458+00:00",
   "local_date": "2026-10-01",
   "articles": [
     {
@@ -11,6 +11,20 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Calciomercato, gli occhi dell'Inter su Romano: il piano nerazzurro per il regista - Sisal",
+      "source": "Sisal",
+      "published": "Thu, 01 Oct 2026 10:24:13 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Accordo tra Viminale e Mecenati Roman Heritage per valorizzare il patrimonio del Fondo edifici di culto - Ministero dell‘Interno",
+      "source": "Ministero dell‘Interno",
+      "published": "Thu, 01 Oct 2026 06:44:47 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "È già mercato: De Laurentiis e Allegri d’accordo, i tre obiettivi del Napoli a gennaio - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Wed, 30 Sep 2026 06:08:03 GMT"
@@ -18,30 +32,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale, i tifosi della Roma tornano in trasferta: la decisione per la partita di Como - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Wed, 30 Sep 2026 17:13:07 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Juventus: parte la caccia agli svincolati - fantacalcio.it",
-      "source": "fantacalcio.it",
-      "published": "Thu, 01 Oct 2026 05:10:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "BFF, accordo con fondo per cessione di crediti per 127 milioni di euro in Italia e Spagna - Borsa Italiana",
-      "source": "Borsa Italiana",
-      "published": "Wed, 30 Sep 2026 14:25:00 GMT"
+      "title": "Supercoppa italiana, adesso è ufficiale: Inter-Lazio il 22 dicembre alle 21 - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Thu, 01 Oct 2026 13:38:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Prima vittoria per la Juventus: tris elle bianconere all’Häcken. Roma ko, il Barcellona ne fa sei al Tre Fontane. Oggi l’Inter - FIGC",
-      "source": "FIGC",
-      "published": "Wed, 30 Sep 2026 20:00:00 GMT"
+      "title": "TRIBUNA.COM * SERIE A: «UFFICIALE | SVELATE DATA E ORARIO DELLA FINALE DI SUPERCOPPA ITALIANA INTER-LAZIO - agenziagiornalisticaopinione.it",
+      "source": "agenziagiornalisticaopinione.it",
+      "published": "Thu, 01 Oct 2026 14:45:35 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "LEGA SERIE A: «SUPERCOPPA ITALIANA 2026/27, INTER-LAZIO IL 22 DICEMBRE A SAN SIRO - agenziagiornalisticaopinione.it",
+      "source": "agenziagiornalisticaopinione.it",
+      "published": "Thu, 01 Oct 2026 14:00:49 GMT"
     },
     {
       "type": "news",
@@ -53,30 +60,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "LIVE Roma-Barcellona 0-6, Champions League calcio femminile 2027 in DIRETTA: dominio blaugrana, giallorosse irretite al Tre Fontane - OA Sport",
-      "source": "OA Sport",
-      "published": "Wed, 30 Sep 2026 19:23:44 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "TRIBUNA.COM * SERIE A: «INTER REGINA DEI CONTI, JUVENTUS E MILAN IN ROSSO (ANCHE) PER L'ASSENZA DALLA CHAMPIONS: ANALISI E CONFRONTO - agenziagiornalisticaopinione.it",
-      "source": "agenziagiornalisticaopinione.it",
-      "published": "Thu, 01 Oct 2026 06:35:29 GMT"
+      "title": "Super Champions League di Horse-Ball: cinque squadre azzurre in campo nella finale 2026 - Federazione Italiana Sport Equestri",
+      "source": "Federazione Italiana Sport Equestri",
+      "published": "Thu, 01 Oct 2026 08:41:13 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "LIVE Cobolli-Safiullin 3-6, 2-6, ATP Pechino 2026 in DIRETTA: russo in stato di grazia, l’azzurro subito fuori dal torneo cinese - OA Sport",
-      "source": "OA Sport",
+      "title": "Tennis ATP e WTA, gli appuntamenti di ottobre 2026: il programma, i tornei e dove vedere in diretta tv - olympics.com",
+      "source": "olympics.com",
+      "published": "Thu, 01 Oct 2026 09:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "LIVE Cobolli-Safiullin 3-6, 2-6, ATP Pechino 2026 in DIRETTA: russo in stato di grazia, l’azzurro subito fuori dal torneo cinese - oasport.it",
+      "source": "oasport.it",
       "published": "Thu, 01 Oct 2026 07:41:06 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Alcaraz-Michelsen all'Atp Tokyo, il risultato in diretta live della partita - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Thu, 01 Oct 2026 06:33:08 GMT"
     },
     {
       "type": "news",
@@ -116,9 +116,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Paris Major Premier Padel 2026: Coello e Tapia inarrestabili - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Sun, 13 Sep 2026 07:00:00 GMT"
+      "title": "PADEL FEMMINILE / Storico risultato in Coppa Italia Tpra per il Bra, sconfitto solo in finale - targatocn.it",
+      "source": "targatocn.it",
+      "published": "Thu, 01 Oct 2026 12:09:18 GMT"
     }
   ]
 }
