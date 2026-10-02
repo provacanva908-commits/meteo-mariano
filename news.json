@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T12:34:52.215385+00:00",
+  "updated_at": "2026-10-02T18:01:40.846381+00:00",
   "local_date": "2026-10-02",
   "articles": [
     {
@@ -25,16 +25,30 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Vinci firma un accordo per l'acquisto di azioni valido fino a dicembre - MarketScreener Italia",
-      "source": "MarketScreener Italia",
-      "published": "Fri, 02 Oct 2026 06:20:13 GMT"
+      "title": "Pallavolo Mercato – Efe Bayram torna in Turchia: ufficiale l’accordo con lo Ziraat Bankkart - iVolley Magazine",
+      "source": "iVolley Magazine",
+      "published": "Fri, 02 Oct 2026 16:49:23 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Accordo tra Viminale e Mecenati Roman Heritage per valorizzare il patrimonio del Fondo edifici di culto - Ministero dell‘Interno",
-      "source": "Ministero dell‘Interno",
-      "published": "Thu, 01 Oct 2026 06:44:47 GMT"
+      "title": "BM MERCATO | BC ROMA, UFFICIALE IL TESSERAMENTO DI RICCARDO TAVERNELLI - Basket Magazine",
+      "source": "Basket Magazine",
+      "published": "Fri, 02 Oct 2026 13:43:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Amichevoli Serie A, risultati e marcatori di oggi: Juventus e Napoli ko, pari del Milan - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 02 Oct 2026 12:34:10 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A Women Athora – Sarà un super-weekend: sabato alle 18 il derby di Roma al Tre Fontane, domenica Milan-Juventus. Poi la sosta per gli impegni della Nazionale - FIGC",
+      "source": "FIGC",
+      "published": "Fri, 02 Oct 2026 05:24:00 GMT"
     },
     {
       "type": "news",
@@ -52,20 +66,6 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "LIVE Austria Vienna-Inter 1-1, Champions League calcio femminile in DIRETTA: le nerazzurre agguantano il pareggio nel recupero - OA Sport",
-      "source": "OA Sport",
-      "published": "Thu, 01 Oct 2026 20:02:11 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "UEFA Women's Champions League, classifica e calendario - Inter.it",
-      "source": "Inter.it",
-      "published": "Thu, 01 Oct 2026 08:01:44 GMT"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
       "title": "Six Kings Slam: Sinner ancora \"svantaggiato\", Alcaraz e Djokovic già in semifinale - eurosport.it",
       "source": "eurosport.it",
@@ -74,9 +74,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Six Kings Slam 2026: svelato il tabellone, Sinner penalizzato rispetto ad Alcaraz e Djokovic. Montepremi faraonico - OA Sport",
-      "source": "OA Sport",
-      "published": "Fri, 02 Oct 2026 08:17:20 GMT"
+      "title": "Six Kings Slam, Sinner ancora dai quarti: sfida a De Minaur, Alcaraz e Djokovic già in semifinale - La Nuova Sardegna",
+      "source": "La Nuova Sardegna",
+      "published": "Fri, 02 Oct 2026 14:15:00 GMT"
     },
     {
       "type": "news",
@@ -88,9 +88,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Atp Pechino 2026, i risultati di oggi: Medvedev al 2° turno. Ora Djokovic Bu - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 02 Oct 2026 12:21:03 GMT"
+      "title": "Six Kings Slam 2026: svelato il tabellone, Sinner penalizzato rispetto ad Alcaraz e Djokovic. Montepremi faraonico - OA Sport",
+      "source": "OA Sport",
+      "published": "Fri, 02 Oct 2026 08:17:20 GMT"
     },
     {
       "type": "news",
@@ -109,8 +109,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Paris Major Premier Padel 2026: Oggi finale con El Clasico e le terribili ragazze - mrpadelpaddle.com",
-      "source": "mrpadelpaddle.com",
+      "title": "Paris Major Premier Padel 2026: Oggi finale con El Clasico e le terribili ragazze - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
       "published": "Sun, 13 Sep 2026 07:00:00 GMT"
     },
     {
