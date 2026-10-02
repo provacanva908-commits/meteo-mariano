@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T06:07:38.396764+00:00",
+  "updated_at": "2026-10-02T12:34:52.215385+00:00",
   "local_date": "2026-10-02",
   "articles": [
     {
@@ -11,9 +11,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato, gli occhi dell'Inter su Romano: il piano nerazzurro per il regista - Sisal",
-      "source": "Sisal",
-      "published": "Thu, 01 Oct 2026 10:24:13 GMT"
+      "title": "Italgas avanza sul mercato estero: firmato accordo per il 22,5% della portoghese Floene - Il Sole 24 ORE",
+      "source": "Il Sole 24 ORE",
+      "published": "Fri, 02 Oct 2026 06:47:51 GMT"
     },
     {
       "type": "news",
@@ -25,16 +25,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Accordo tra Viminale e Mecenati Roman Heritage per valorizzare il patrimonio del Fondo edifici di culto - Ministero dell‘Interno",
-      "source": "Ministero dell‘Interno",
-      "published": "Thu, 01 Oct 2026 06:44:47 GMT"
+      "title": "Vinci firma un accordo per l'acquisto di azioni valido fino a dicembre - MarketScreener Italia",
+      "source": "MarketScreener Italia",
+      "published": "Fri, 02 Oct 2026 06:20:13 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Italgas firma accordo vincolante con Marubeni e Toho Gas per acquisire il 22,5% della partecipazione in Floene - AGEEI",
-      "source": "AGEEI",
-      "published": "Fri, 02 Oct 2026 05:56:00 GMT"
+      "title": "Accordo tra Viminale e Mecenati Roman Heritage per valorizzare il patrimonio del Fondo edifici di culto - Ministero dell‘Interno",
+      "source": "Ministero dell‘Interno",
+      "published": "Thu, 01 Oct 2026 06:44:47 GMT"
     },
     {
       "type": "news",
@@ -42,6 +42,13 @@
       "title": "Seconda giornata Women's Champions League, giovedì: pari per l'Inter, il Man City ferma il Madrid, vittorie per PSG e HB Køge - UEFA.com",
       "source": "UEFA.com",
       "published": "Thu, 01 Oct 2026 22:10:36 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Calendario Serie A ottobre 2026, il primo derby è tra Milan ed Inter - Idealista",
+      "source": "Idealista",
+      "published": "Fri, 02 Oct 2026 06:30:03 GMT"
     },
     {
       "type": "news",
@@ -59,10 +66,17 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Atletica Paralimpica, il 3 e 4 ottobre a Jesolo la Finale Nazionale dei Campionati Italiani di Società e della Coppa Italia lanci 2026 - fispes.it",
-      "source": "fispes.it",
-      "published": "Thu, 01 Oct 2026 11:31:03 GMT"
+      "category": "TENNIS",
+      "title": "Six Kings Slam: Sinner ancora \"svantaggiato\", Alcaraz e Djokovic già in semifinale - eurosport.it",
+      "source": "eurosport.it",
+      "published": "Fri, 02 Oct 2026 07:51:56 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Six Kings Slam 2026: svelato il tabellone, Sinner penalizzato rispetto ad Alcaraz e Djokovic. Montepremi faraonico - OA Sport",
+      "source": "OA Sport",
+      "published": "Fri, 02 Oct 2026 08:17:20 GMT"
     },
     {
       "type": "news",
@@ -74,23 +88,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "China Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
-      "source": "olympics.com",
-      "published": "Wed, 30 Sep 2026 16:06:48 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner e Alcaraz fuori dal nuovo consiglio degli Slam: Djokovic e Musetti presenti tra i 12 - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Mon, 28 Sep 2026 16:24:38 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ranking ATP: cosa deve fare Sinner per restare n.1 dopo Shanghai - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Mon, 28 Sep 2026 07:00:00 GMT"
+      "title": "Atp Pechino 2026, i risultati di oggi: Medvedev al 2° turno. Ora Djokovic Bu - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 02 Oct 2026 12:21:03 GMT"
     },
     {
       "type": "news",
@@ -109,16 +109,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Paris Major Premier Padel 2026: Oggi finale con El Clasico e le terribili ragazze - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
+      "title": "Paris Major Premier Padel 2026: Oggi finale con El Clasico e le terribili ragazze - mrpadelpaddle.com",
+      "source": "mrpadelpaddle.com",
       "published": "Sun, 13 Sep 2026 07:00:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel, al Fip Gold di Perugia brillano i big del ranking mondiale - Askanews",
-      "source": "Askanews",
-      "published": "Thu, 01 Oct 2026 21:35:38 GMT"
+      "title": "AIL Roma Padel Cup 2026, sabato la finale al Due Ponti - lacapitale.it",
+      "source": "lacapitale.it",
+      "published": "Fri, 02 Oct 2026 10:26:29 GMT"
     }
   ]
 }
