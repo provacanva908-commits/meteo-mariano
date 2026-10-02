@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T00:30:53.347617+00:00",
+  "updated_at": "2026-10-02T06:07:38.396764+00:00",
   "local_date": "2026-10-02",
   "articles": [
     {
@@ -7,6 +7,13 @@
       "category": "CALCIO",
       "title": "Nessuna partita rilevante in programma oggi tra Serie A, coppe europee e top club",
       "source": "football-data.org"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato, gli occhi dell'Inter su Romano: il piano nerazzurro per il regista - Sisal",
+      "source": "Sisal",
+      "published": "Thu, 01 Oct 2026 10:24:13 GMT"
     },
     {
       "type": "news",
@@ -25,30 +32,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Caccia, Umbria e Lazio firmano l'accordo. Meloni: \"Vogliamo replicarlo anche con la Toscana\" - PerugiaToday",
-      "source": "PerugiaToday",
-      "published": "Thu, 01 Oct 2026 10:34:35 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Supercoppa italiana, adesso è ufficiale: Inter-Lazio il 22 dicembre alle 21 - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Thu, 01 Oct 2026 13:38:00 GMT"
+      "title": "Italgas firma accordo vincolante con Marubeni e Toho Gas per acquisire il 22,5% della partecipazione in Floene - AGEEI",
+      "source": "AGEEI",
+      "published": "Fri, 02 Oct 2026 05:56:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
       "title": "Seconda giornata Women's Champions League, giovedì: pari per l'Inter, il Man City ferma il Madrid, vittorie per PSG e HB Køge - UEFA.com",
       "source": "UEFA.com",
-      "published": "Thu, 01 Oct 2026 22:09:02 GMT"
+      "published": "Thu, 01 Oct 2026 22:10:36 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Super Champions League di Horse-Ball: cinque squadre azzurre in campo nella finale 2026 - Federazione Italiana Sport Equestri",
-      "source": "Federazione Italiana Sport Equestri",
-      "published": "Thu, 01 Oct 2026 08:41:13 GMT"
+      "title": "LIVE Austria Vienna-Inter 1-1, Champions League calcio femminile in DIRETTA: le nerazzurre agguantano il pareggio nel recupero - OA Sport",
+      "source": "OA Sport",
+      "published": "Thu, 01 Oct 2026 20:02:11 GMT"
     },
     {
       "type": "news",
@@ -60,9 +60,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "LIVE Austria Vienna-Inter 1-1, Champions League calcio femminile in DIRETTA: le nerazzurre agguantano il pareggio nel recupero - OA Sport",
-      "source": "OA Sport",
-      "published": "Thu, 01 Oct 2026 20:02:11 GMT"
+      "title": "Atletica Paralimpica, il 3 e 4 ottobre a Jesolo la Finale Nazionale dei Campionati Italiani di Società e della Coppa Italia lanci 2026 - fispes.it",
+      "source": "fispes.it",
+      "published": "Thu, 01 Oct 2026 11:31:03 GMT"
     },
     {
       "type": "news",
@@ -74,9 +74,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "LIVE Cobolli-Safiullin 3-6, 2-6, ATP Pechino 2026 in DIRETTA: russo in stato di grazia, l’azzurro subito fuori dal torneo cinese - OA Sport",
-      "source": "OA Sport",
-      "published": "Thu, 01 Oct 2026 07:41:06 GMT"
+      "title": "China Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Wed, 30 Sep 2026 16:06:48 GMT"
     },
     {
       "type": "news",
@@ -116,9 +116,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel, al Fip Gold di Perugia brillano i big del ranking mondiale - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Thu, 01 Oct 2026 21:41:44 GMT"
+      "title": "Padel, al Fip Gold di Perugia brillano i big del ranking mondiale - Askanews",
+      "source": "Askanews",
+      "published": "Thu, 01 Oct 2026 21:35:38 GMT"
     }
   ]
 }
