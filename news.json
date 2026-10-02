@@ -1,26 +1,12 @@
 {
-  "updated_at": "2026-10-01T20:52:14.126237+00:00",
-  "local_date": "2026-10-01",
+  "updated_at": "2026-10-02T00:30:53.347617+00:00",
+  "local_date": "2026-10-02",
   "articles": [
     {
       "type": "message",
       "category": "CALCIO",
       "title": "Nessuna partita rilevante in programma oggi tra Serie A, coppe europee e top club",
       "source": "football-data.org"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato, gli occhi dell'Inter su Romano: il piano nerazzurro per il regista - Sisal",
-      "source": "Sisal",
-      "published": "Thu, 01 Oct 2026 10:24:13 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Accordo tra Viminale e Mecenati Roman Heritage per valorizzare il patrimonio del Fondo edifici di culto - interno.gov.it",
-      "source": "interno.gov.it",
-      "published": "Thu, 01 Oct 2026 06:44:47 GMT"
     },
     {
       "type": "news",
@@ -32,9 +18,30 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Accordo tra Viminale e Mecenati Roman Heritage per valorizzare il patrimonio del Fondo edifici di culto - Ministero dell‘Interno",
+      "source": "Ministero dell‘Interno",
+      "published": "Thu, 01 Oct 2026 06:44:47 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Caccia, Umbria e Lazio firmano l'accordo. Meloni: \"Vogliamo replicarlo anche con la Toscana\" - PerugiaToday",
+      "source": "PerugiaToday",
+      "published": "Thu, 01 Oct 2026 10:34:35 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Supercoppa italiana, adesso è ufficiale: Inter-Lazio il 22 dicembre alle 21 - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Thu, 01 Oct 2026 13:38:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Seconda giornata Women's Champions League, giovedì: pari per l'Inter, il Man City ferma il Madrid, vittorie per PSG e HB Køge - UEFA.com",
+      "source": "UEFA.com",
+      "published": "Thu, 01 Oct 2026 22:09:02 GMT"
     },
     {
       "type": "news",
@@ -46,23 +53,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "LIVE Austria Vienna-Inter 1-1, Champions League calcio femminile in DIRETTA: le nerazzurre agguantano il pareggio nel recupero - OA Sport",
-      "source": "OA Sport",
-      "published": "Thu, 01 Oct 2026 19:52:30 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "UEFA Women's Champions League, classifica e calendario - Inter.it",
       "source": "Inter.it",
-      "published": "Thu, 01 Oct 2026 03:33:35 GMT"
+      "published": "Thu, 01 Oct 2026 08:01:44 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Come acquistare i biglietti per Roma-Slovan Bratislava: prezzi della Champions League, informazioni sulla partita, vendite last minute e altro ancora - Goal.com",
-      "source": "Goal.com",
-      "published": "Thu, 01 Oct 2026 10:53:01 GMT"
+      "title": "LIVE Austria Vienna-Inter 1-1, Champions League calcio femminile in DIRETTA: le nerazzurre agguantano il pareggio nel recupero - OA Sport",
+      "source": "OA Sport",
+      "published": "Thu, 01 Oct 2026 20:02:11 GMT"
     },
     {
       "type": "news",
@@ -116,9 +116,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Rotterdam P2 – Ottavi di finale: Godallier e Collombon affrontano due grandi sfide - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Thu, 01 Oct 2026 06:30:00 GMT"
+      "title": "Padel, al Fip Gold di Perugia brillano i big del ranking mondiale - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Thu, 01 Oct 2026 21:41:44 GMT"
     }
   ]
 }
