@@ -1,19 +1,12 @@
 {
-  "updated_at": "2026-10-02T18:01:40.846381+00:00",
-  "local_date": "2026-10-02",
+  "updated_at": "2026-10-02T22:08:27.834678+00:00",
+  "local_date": "2026-10-03",
   "articles": [
     {
       "type": "message",
       "category": "CALCIO",
       "title": "Nessuna partita rilevante in programma oggi tra Serie A, coppe europee e top club",
       "source": "football-data.org"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Italgas avanza sul mercato estero: firmato accordo per il 22,5% della portoghese Floene - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
-      "published": "Fri, 02 Oct 2026 06:47:51 GMT"
     },
     {
       "type": "news",
@@ -25,6 +18,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Italgas avanza sul mercato estero: firmato accordo per il 22,5% della portoghese Floene - ilsole24ore.com",
+      "source": "ilsole24ore.com",
+      "published": "Fri, 02 Oct 2026 06:47:51 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Pallavolo Mercato – Efe Bayram torna in Turchia: ufficiale l’accordo con lo Ziraat Bankkart - iVolley Magazine",
       "source": "iVolley Magazine",
       "published": "Fri, 02 Oct 2026 16:49:23 GMT"
@@ -32,9 +32,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "BM MERCATO | BC ROMA, UFFICIALE IL TESSERAMENTO DI RICCARDO TAVERNELLI - Basket Magazine",
-      "source": "Basket Magazine",
-      "published": "Fri, 02 Oct 2026 13:43:00 GMT"
+      "title": "Accordo tra Viminale e Mecenati Roman Heritage per valorizzare il patrimonio del Fondo edifici di culto - Ministero dell‘Interno",
+      "source": "Ministero dell‘Interno",
+      "published": "Thu, 01 Oct 2026 06:44:47 GMT"
     },
     {
       "type": "news",
@@ -46,23 +46,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Women Athora – Sarà un super-weekend: sabato alle 18 il derby di Roma al Tre Fontane, domenica Milan-Juventus. Poi la sosta per gli impegni della Nazionale - FIGC",
+      "title": "Calendario Serie A ottobre 2026, il primo derby è tra Milan ed Inter - Idealista",
+      "source": "Idealista",
+      "published": "Fri, 02 Oct 2026 06:30:03 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Sarà un super-weekend: sabato alle 18 il derby di Roma al Tre Fontane, domenica Milan-Juventus. Poi la sosta per gli impegni della Nazionale - FIGC",
       "source": "FIGC",
       "published": "Fri, 02 Oct 2026 05:24:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Seconda giornata Women's Champions League, giovedì: pari per l'Inter, il Man City ferma il Madrid, vittorie per PSG e HB Køge - UEFA.com",
-      "source": "UEFA.com",
-      "published": "Thu, 01 Oct 2026 22:10:36 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Calendario Serie A ottobre 2026, il primo derby è tra Milan ed Inter - Idealista",
-      "source": "Idealista",
-      "published": "Fri, 02 Oct 2026 06:30:03 GMT"
+      "title": "Roma-Lazio, dove vederla: orario e diretta tv del derby di Serie A Women - L Football",
+      "source": "L Football",
+      "published": "Fri, 02 Oct 2026 14:52:27 GMT"
     },
     {
       "type": "news",
@@ -116,9 +116,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "AIL Roma Padel Cup 2026, sabato la finale al Due Ponti - lacapitale.it",
-      "source": "lacapitale.it",
-      "published": "Fri, 02 Oct 2026 10:26:29 GMT"
+      "title": "Premier Padel 2026: Kuwait Major | Live - Red Bull",
+      "source": "Red Bull",
+      "published": "Fri, 02 Oct 2026 09:02:48 GMT"
     }
   ]
 }
