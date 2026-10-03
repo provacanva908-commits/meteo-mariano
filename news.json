@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T22:08:27.834678+00:00",
+  "updated_at": "2026-10-03T01:12:20.269811+00:00",
   "local_date": "2026-10-03",
   "articles": [
     {
@@ -18,8 +18,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Italgas avanza sul mercato estero: firmato accordo per il 22,5% della portoghese Floene - ilsole24ore.com",
-      "source": "ilsole24ore.com",
+      "title": "Italgas avanza sul mercato estero: firmato accordo per il 22,5% della portoghese Floene - Il Sole 24 ORE",
+      "source": "Il Sole 24 ORE",
       "published": "Fri, 02 Oct 2026 06:47:51 GMT"
     },
     {
@@ -60,9 +60,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Roma-Lazio, dove vederla: orario e diretta tv del derby di Serie A Women - L Football",
-      "source": "L Football",
-      "published": "Fri, 02 Oct 2026 14:52:27 GMT"
+      "title": "UEFA Women's Champions League, classifica e calendario - inter.it",
+      "source": "inter.it",
+      "published": "Thu, 01 Oct 2026 08:01:44 GMT"
     },
     {
       "type": "news",
@@ -70,13 +70,6 @@
       "title": "Six Kings Slam: Sinner ancora \"svantaggiato\", Alcaraz e Djokovic già in semifinale - eurosport.it",
       "source": "eurosport.it",
       "published": "Fri, 02 Oct 2026 07:51:56 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Six Kings Slam, Sinner ancora dai quarti: sfida a De Minaur, Alcaraz e Djokovic già in semifinale - La Nuova Sardegna",
-      "source": "La Nuova Sardegna",
-      "published": "Fri, 02 Oct 2026 14:15:00 GMT"
     },
     {
       "type": "news",
@@ -91,6 +84,13 @@
       "title": "Six Kings Slam 2026: svelato il tabellone, Sinner penalizzato rispetto ad Alcaraz e Djokovic. Montepremi faraonico - OA Sport",
       "source": "OA Sport",
       "published": "Fri, 02 Oct 2026 08:17:20 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner e Alcaraz fuori dal nuovo consiglio degli Slam: Djokovic e Musetti presenti tra i 12 - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Mon, 28 Sep 2026 16:24:38 GMT"
     },
     {
       "type": "news",
