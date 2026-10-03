@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T01:12:20.269811+00:00",
+  "updated_at": "2026-10-03T06:36:40.704011+00:00",
   "local_date": "2026-10-03",
   "articles": [
     {
@@ -11,16 +11,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "È già mercato: De Laurentiis e Allegri d’accordo, i tre obiettivi del Napoli a gennaio - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "È già mercato: De Laurentiis e Allegri d’accordo, i tre obiettivi del Napoli a gennaio - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Wed, 30 Sep 2026 06:08:03 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Italgas avanza sul mercato estero: firmato accordo per il 22,5% della portoghese Floene - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
-      "published": "Fri, 02 Oct 2026 06:47:51 GMT"
     },
     {
       "type": "news",
@@ -32,8 +25,15 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Accordo tra Viminale e Mecenati Roman Heritage per valorizzare il patrimonio del Fondo edifici di culto - Ministero dell‘Interno",
-      "source": "Ministero dell‘Interno",
+      "title": "Italgas avanza sul mercato estero: firmato accordo per il 22,5% della portoghese Floene - Il Sole 24 ORE",
+      "source": "Il Sole 24 ORE",
+      "published": "Fri, 02 Oct 2026 06:47:51 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Accordo tra Viminale e Mecenati Roman Heritage per valorizzare il patrimonio del Fondo edifici di culto - interno.gov.it",
+      "source": "interno.gov.it",
       "published": "Thu, 01 Oct 2026 06:44:47 GMT"
     },
     {
@@ -42,6 +42,13 @@
       "title": "Amichevoli Serie A, risultati e marcatori di oggi: Juventus e Napoli ko, pari del Milan - Sky Sport",
       "source": "Sky Sport",
       "published": "Fri, 02 Oct 2026 12:34:10 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Seconda giornata Women's Champions League, giovedì: pari per l'Inter, il Man City ferma il Madrid, vittorie per PSG e HB Køge - UEFA.com",
+      "source": "UEFA.com",
+      "published": "Thu, 01 Oct 2026 22:10:36 GMT"
     },
     {
       "type": "news",
@@ -59,17 +66,17 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "UEFA Women's Champions League, classifica e calendario - inter.it",
-      "source": "inter.it",
-      "published": "Thu, 01 Oct 2026 08:01:44 GMT"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
       "title": "Six Kings Slam: Sinner ancora \"svantaggiato\", Alcaraz e Djokovic già in semifinale - eurosport.it",
       "source": "eurosport.it",
       "published": "Fri, 02 Oct 2026 07:51:56 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Matteo Arnaldi - Carlos Alcaraz al Tokyo Open 2026 LIVE: risultato e aggiornamenti in diretta · Tennis ATP - olympics.com",
+      "source": "olympics.com",
+      "published": "Sat, 03 Oct 2026 03:00:00 GMT"
     },
     {
       "type": "news",
@@ -81,22 +88,15 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Six Kings Slam 2026: svelato il tabellone, Sinner penalizzato rispetto ad Alcaraz e Djokovic. Montepremi faraonico - OA Sport",
-      "source": "OA Sport",
-      "published": "Fri, 02 Oct 2026 08:17:20 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner e Alcaraz fuori dal nuovo consiglio degli Slam: Djokovic e Musetti presenti tra i 12 - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Mon, 28 Sep 2026 16:24:38 GMT"
+      "title": "China Open 2026: tutte le partite e i risultati in diretta · Tennis ATP e WTA - olympics.com",
+      "source": "olympics.com",
+      "published": "Wed, 30 Sep 2026 16:06:48 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
+      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - gazzetta.it",
+      "source": "gazzetta.it",
       "published": "Sun, 13 Sep 2026 07:00:00 GMT"
     },
     {
