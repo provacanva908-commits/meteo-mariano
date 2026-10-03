@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T19:16:44.267550+00:00",
-  "local_date": "2026-10-03",
+  "updated_at": "2026-10-03T22:13:35.982133+00:00",
+  "local_date": "2026-10-04",
   "articles": [
     {
       "type": "message",
@@ -18,16 +18,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Italgas avanza sul mercato estero: firmato accordo per il 22,5% della portoghese Floene - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
-      "published": "Fri, 02 Oct 2026 06:47:51 GMT"
+      "title": "Accordo tra Viminale e Mecenati Roman Heritage per valorizzare il patrimonio del Fondo edifici di culto - Ministero dell‘Interno",
+      "source": "Ministero dell‘Interno",
+      "published": "Thu, 01 Oct 2026 06:44:47 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Accordo tra Viminale e Mecenati Roman Heritage per valorizzare il patrimonio del Fondo edifici di culto - Ministero dell‘Interno",
-      "source": "Ministero dell‘Interno",
-      "published": "Thu, 01 Oct 2026 06:44:47 GMT"
+      "title": "Italgas avanza sul mercato estero: firmato accordo per il 22,5% della portoghese Floene - Il Sole 24 ORE",
+      "source": "Il Sole 24 ORE",
+      "published": "Fri, 02 Oct 2026 06:47:51 GMT"
     },
     {
       "type": "news",
@@ -46,23 +46,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Gila: \"Tifo per Milan-Juve in finale di Europa League. Mi ha cercato anche l'Inter ma... \" - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Sat, 03 Oct 2026 17:03:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Atletica paralimpica, sette record italiani nella prima giornata della Finale Nazionale CDS e Coppa Italia Lanci a Jesolo - FISPES",
-      "source": "FISPES",
-      "published": "Sat, 03 Oct 2026 16:58:23 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Amichevoli Serie A, risultati e marcatori di oggi: l'Inter batte il Lumezzane, pari Lazio - Sky Sport",
       "source": "Sky Sport",
       "published": "Sat, 03 Oct 2026 14:48:58 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Gila: \"Tifo per Milan-Juve in finale di Europa League. Mi ha cercato anche l'Inter ma... \" - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Sat, 03 Oct 2026 17:08:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A Women Athora | Roma-Lazio, le parole di Grassadonia nel post partita - S.S. Lazio",
+      "source": "S.S. Lazio",
+      "published": "Sat, 03 Oct 2026 20:08:05 GMT"
     },
     {
       "type": "news",
@@ -81,16 +81,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner ai box da 3 mesi: Zverev ad un passo dal sorpasso per il n.1 del ranking ATP - OA Sport",
-      "source": "OA Sport",
-      "published": "Sat, 03 Oct 2026 10:25:11 GMT"
+      "title": "Tennis ATP e WTA, gli appuntamenti di ottobre 2026: il programma, i tornei e dove vedere in diretta tv - olympics.com",
+      "source": "olympics.com",
+      "published": "Thu, 01 Oct 2026 09:00:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Matteo Arnaldi - Carlos Alcaraz al Tokyo Open 2026 LIVE: risultato e aggiornamenti in diretta · Tennis ATP - olympics.com",
-      "source": "olympics.com",
-      "published": "Sat, 03 Oct 2026 03:24:04 GMT"
+      "title": "Sinner ai box da 3 mesi: Zverev ad un passo dal sorpasso per il n.1 del ranking ATP - OA Sport",
+      "source": "OA Sport",
+      "published": "Sat, 03 Oct 2026 10:25:11 GMT"
     },
     {
       "type": "news",
