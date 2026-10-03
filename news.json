@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T16:12:10.265724+00:00",
+  "updated_at": "2026-10-03T19:16:44.267550+00:00",
   "local_date": "2026-10-03",
   "articles": [
     {
@@ -32,9 +32,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Pallavolo Mercato – Efe Bayram torna in Turchia: ufficiale l’accordo con lo Ziraat Bankkart - iVolley Magazine",
-      "source": "iVolley Magazine",
-      "published": "Fri, 02 Oct 2026 16:49:23 GMT"
+      "title": "BC Roma, ufficiale il colpo Kelly Olynyk - Lega Basket Serie A",
+      "source": "Lega Basket Serie A",
+      "published": "Sat, 03 Oct 2026 13:30:00 GMT"
     },
     {
       "type": "news",
@@ -46,23 +46,30 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Gila: \"Tifo per Milan-Juve in finale di Europa League. Mi ha cercato anche l'Inter ma... \" - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Sat, 03 Oct 2026 17:03:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Atletica paralimpica, sette record italiani nella prima giornata della Finale Nazionale CDS e Coppa Italia Lanci a Jesolo - FISPES",
+      "source": "FISPES",
+      "published": "Sat, 03 Oct 2026 16:58:23 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Amichevoli Serie A, risultati e marcatori di oggi: l'Inter batte il Lumezzane, pari Lazio - Sky Sport",
       "source": "Sky Sport",
       "published": "Sat, 03 Oct 2026 14:48:58 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "TRIBUNA.COM * CHAMPIONS LEAGUE: «CONDÒ SULLA JUVE: \"LA VITTORIA È UN DETTAGLIO, LE DUE FINALI CHAMPIONS NEGLI ULTIMI 10 ANNI SONO UN GRANDE RISULTATO\" - agenziagiornalisticaopinione.it",
-      "source": "agenziagiornalisticaopinione.it",
-      "published": "Sat, 03 Oct 2026 15:00:23 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Calendario Serie A ottobre 2026, il primo derby è tra Milan ed Inter - Idealista",
-      "source": "Idealista",
-      "published": "Fri, 02 Oct 2026 06:30:03 GMT"
+      "category": "TENNIS",
+      "title": "ATP Tokyo: Bolelli e Vavassori non deludono, è semifinale - Ubitennis",
+      "source": "Ubitennis",
+      "published": "Sat, 03 Oct 2026 12:24:21 GMT"
     },
     {
       "type": "news",
@@ -81,16 +88,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis ATP e WTA, gli appuntamenti di ottobre 2026: il programma, i tornei e dove vedere in diretta tv - olympics.com",
+      "title": "Matteo Arnaldi - Carlos Alcaraz al Tokyo Open 2026 LIVE: risultato e aggiornamenti in diretta · Tennis ATP - olympics.com",
       "source": "olympics.com",
-      "published": "Thu, 01 Oct 2026 09:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Bolelli e Vavassori in semifinale a Tokyo - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Sat, 03 Oct 2026 09:44:09 GMT"
+      "published": "Sat, 03 Oct 2026 03:24:04 GMT"
     },
     {
       "type": "news",
