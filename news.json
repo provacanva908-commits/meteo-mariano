@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T12:02:36.342950+00:00",
+  "updated_at": "2026-10-03T16:12:10.265724+00:00",
   "local_date": "2026-10-03",
   "articles": [
     {
@@ -18,8 +18,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Italgas avanza sul mercato estero: firmato accordo per il 22,5% della portoghese Floene - ilsole24ore.com",
-      "source": "ilsole24ore.com",
+      "title": "Italgas avanza sul mercato estero: firmato accordo per il 22,5% della portoghese Floene - Il Sole 24 ORE",
+      "source": "Il Sole 24 ORE",
       "published": "Fri, 02 Oct 2026 06:47:51 GMT"
     },
     {
@@ -46,9 +46,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "TRIBUNA.COM * SERIE A: «DALLA CHAMPIONS LEAGUE A PIO ESPOSITO, CHIVU RIVELA I PRINCIPI CON CUI GUIDA L'INTER: \"VOGLIO LASCIARE QUALCOSA DI IMPORTANTE\" - agenziagiornalisticaopinione.it",
+      "title": "Amichevoli Serie A, risultati e marcatori di oggi: l'Inter batte il Lumezzane, pari Lazio - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sat, 03 Oct 2026 14:48:58 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "TRIBUNA.COM * CHAMPIONS LEAGUE: «CONDÒ SULLA JUVE: \"LA VITTORIA È UN DETTAGLIO, LE DUE FINALI CHAMPIONS NEGLI ULTIMI 10 ANNI SONO UN GRANDE RISULTATO\" - agenziagiornalisticaopinione.it",
       "source": "agenziagiornalisticaopinione.it",
-      "published": "Sat, 03 Oct 2026 11:15:23 GMT"
+      "published": "Sat, 03 Oct 2026 15:00:23 GMT"
     },
     {
       "type": "news",
@@ -56,13 +63,6 @@
       "title": "Calendario Serie A ottobre 2026, il primo derby è tra Milan ed Inter - Idealista",
       "source": "Idealista",
       "published": "Fri, 02 Oct 2026 06:30:03 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "TRIBUNA.COM * SERIE A: «LICINA OPERATO: INTERVENTO LAMPO PER L'ATTACCANTE TEDESCO DOPO L'INFORTUNIO NELL'AMICHEVOLE CONTRO LA JUVENTUS - agenziagiornalisticaopinione.it",
-      "source": "agenziagiornalisticaopinione.it",
-      "published": "Sat, 03 Oct 2026 07:45:31 GMT"
     },
     {
       "type": "news",
@@ -74,6 +74,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Sinner ai box da 3 mesi: Zverev ad un passo dal sorpasso per il n.1 del ranking ATP - OA Sport",
+      "source": "OA Sport",
+      "published": "Sat, 03 Oct 2026 10:25:11 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Tennis ATP e WTA, gli appuntamenti di ottobre 2026: il programma, i tornei e dove vedere in diretta tv - olympics.com",
       "source": "olympics.com",
       "published": "Thu, 01 Oct 2026 09:00:00 GMT"
@@ -81,16 +88,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Matteo Arnaldi - Carlos Alcaraz al Tokyo Open 2026 LIVE: risultato e aggiornamenti in diretta · Tennis ATP - olympics.com",
-      "source": "olympics.com",
-      "published": "Fri, 02 Oct 2026 19:40:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner ai box da 3 mesi: Zverev ad un passo dal sorpasso per il n.1 del ranking ATP - OA Sport",
-      "source": "OA Sport",
-      "published": "Sat, 03 Oct 2026 10:25:11 GMT"
+      "title": "Bolelli e Vavassori in semifinale a Tokyo - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Sat, 03 Oct 2026 09:44:09 GMT"
     },
     {
       "type": "news",
@@ -116,8 +116,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel 2026: Kuwait Major | Live - redbull.com",
-      "source": "redbull.com",
+      "title": "Premier Padel 2026: Kuwait Major | Live - Red Bull",
+      "source": "Red Bull",
       "published": "Fri, 02 Oct 2026 09:02:48 GMT"
     }
   ]
