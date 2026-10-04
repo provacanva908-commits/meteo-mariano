@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T17:09:13.055750+00:00",
+  "updated_at": "2026-10-04T20:11:18.751561+00:00",
   "local_date": "2026-10-04",
   "articles": [
     {
@@ -18,6 +18,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "BM MERCATO | Pesaro, ufficiale Giovanni Pini: accordo bimestrale per il lungo ex Avellino - Basket Magazine",
+      "source": "Basket Magazine",
+      "published": "Sun, 04 Oct 2026 18:01:55 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "È già mercato: De Laurentiis e Allegri d’accordo, i tre obiettivi del Napoli a gennaio - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Wed, 30 Sep 2026 06:08:03 GMT"
@@ -25,16 +32,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "BM MERCATO | Pesaro, ufficiale Giovanni Pini: accordo bimestrale per il lungo ex Avellino - Basket Magazine",
-      "source": "Basket Magazine",
-      "published": "Sun, 04 Oct 2026 12:21:27 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "Accordo tra Viminale e Mecenati Roman Heritage per valorizzare il patrimonio del Fondo edifici di culto - Ministero dell‘Interno",
       "source": "Ministero dell‘Interno",
       "published": "Thu, 01 Oct 2026 06:44:47 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Il Milan vince in rimonta il big match con la Juventus, successi per Inter e Como 1907, in testa con la Roma - FIGC",
+      "source": "FIGC",
+      "published": "Sun, 04 Oct 2026 09:30:00 GMT"
     },
     {
       "type": "news",
@@ -53,16 +60,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Virtus Bologna-Maxima Roma di Serie A basket: il risultato in diretta live - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sun, 04 Oct 2026 15:11:57 GMT"
+      "title": "Como 1907 da sogno: vittoria a Napoli e vetta della serie A. Il Como Women cade con l’Inter - EspansioneTv",
+      "source": "EspansioneTv",
+      "published": "Sun, 04 Oct 2026 16:55:00 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Seconda variazione calendario gare di Coppa Italia di Serie A2, Coppa Italia e Campionato di Serie B 2026/27 di hockey su pista - Hockey Italia 21",
-      "source": "Hockey Italia 21",
-      "published": "Sun, 04 Oct 2026 11:23:34 GMT"
+      "category": "TENNIS",
+      "title": "ATP, Pechino: Djokovic sugli scudi, batte Zverev ed è in semifinale - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Sun, 04 Oct 2026 16:39:09 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Tennis, Atp Pechino: Djokovic elimina Zverev e vola in semifinale - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Sun, 04 Oct 2026 13:59:00 GMT"
     },
     {
       "type": "news",
@@ -76,21 +90,14 @@
       "category": "TENNIS",
       "title": "Tennis Tracker: Djokovic supera Zverev, Alcaraz è in semifinale a Tokyo - Diretta",
       "source": "Diretta",
-      "published": "Sun, 04 Oct 2026 15:29:45 GMT"
+      "published": "Sun, 04 Oct 2026 18:26:52 GMT"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "ATP, Pechino: Djokovic sugli scudi, batte Zverev ed è in semifinale - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Sun, 04 Oct 2026 14:11:43 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Djokovic highlander a Pechino, favore a Sinner: batte Zverev in rimonta e va in semifinale - Tuttosport",
-      "source": "Tuttosport",
-      "published": "Sun, 04 Oct 2026 14:32:21 GMT"
+      "category": "PADEL",
+      "title": "Padel, Fip Gold di Perugia: finale show, trionfano Jofre ed Esbri - Askanews",
+      "source": "Askanews",
+      "published": "Sun, 04 Oct 2026 20:02:21 GMT"
     },
     {
       "type": "news",
@@ -112,13 +119,6 @@
       "title": "Paris Major Premier Padel 2026: Oggi finale con El Clasico e le terribili ragazze - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Sun, 13 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Rotterdam P2: Dove guardare la finale? - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sun, 04 Oct 2026 07:38:16 GMT"
     }
   ]
 }
