@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T12:48:22.058819+00:00",
+  "updated_at": "2026-10-04T17:09:13.055750+00:00",
   "local_date": "2026-10-04",
   "articles": [
     {
@@ -11,9 +11,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "BM MERCATO | Pesaro, ufficiale Giovanni Pini: accordo bimestrale per il lungo ex Avellino - Basket Magazine",
-      "source": "Basket Magazine",
-      "published": "Sun, 04 Oct 2026 12:21:27 GMT"
+      "title": "Ferrandina, l’interporto guarda a Taranto: firmato l’accordo - La Nuova del Sud",
+      "source": "La Nuova del Sud",
+      "published": "Sun, 04 Oct 2026 14:06:00 GMT"
     },
     {
       "type": "news",
@@ -25,30 +25,37 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "BM MERCATO | Pesaro, ufficiale Giovanni Pini: accordo bimestrale per il lungo ex Avellino - Basket Magazine",
+      "source": "Basket Magazine",
+      "published": "Sun, 04 Oct 2026 12:21:27 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Accordo tra Viminale e Mecenati Roman Heritage per valorizzare il patrimonio del Fondo edifici di culto - Ministero dell‘Interno",
       "source": "Ministero dell‘Interno",
       "published": "Thu, 01 Oct 2026 06:44:47 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Italgas avanza sul mercato estero: firmato accordo per il 22,5% della portoghese Floene - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
-      "published": "Fri, 02 Oct 2026 06:47:51 GMT"
-    },
-    {
-      "type": "news",
       "category": "CALCIO",
-      "title": "TRIBUNA.COM * SERIE A: «ROMA, NAPOLI, INTER, JUVE E LA NAZIONALE: SPALLETTI SPIEGA LE DIFFERENZE TRA LE SQUADRE ALLENATE IN CARRIERA - agenziagiornalisticaopinione.it",
+      "title": "TRIBUNA.COM * SERIE A: «\"IL NUOVO STADIO SI FARÀ\", ARRIVA LA CONFERMA UFFICIALE SULLA NUOVA CASA DI INTER E MILAN: ECCO QUANDO INIZIERANNO I LAVORI - agenziagiornalisticaopinione.it",
       "source": "agenziagiornalisticaopinione.it",
-      "published": "Sun, 04 Oct 2026 08:20:36 GMT"
+      "published": "Sun, 04 Oct 2026 15:20:10 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Amichevoli Serie A, risultati e marcatori di oggi: Juventus e Napoli ko, pari del Milan - Sky Sport",
+      "title": "Gila: \"Tifo per Milan-Juve in finale di Europa League. Mi ha cercato anche l'Inter ma... \" - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Sun, 04 Oct 2026 12:01:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Virtus Bologna-Maxima Roma di Serie A basket: il risultato in diretta live - Sky Sport",
       "source": "Sky Sport",
-      "published": "Fri, 02 Oct 2026 12:34:10 GMT"
+      "published": "Sun, 04 Oct 2026 15:11:57 GMT"
     },
     {
       "type": "news",
@@ -56,13 +63,6 @@
       "title": "Seconda variazione calendario gare di Coppa Italia di Serie A2, Coppa Italia e Campionato di Serie B 2026/27 di hockey su pista - Hockey Italia 21",
       "source": "Hockey Italia 21",
       "published": "Sun, 04 Oct 2026 11:23:34 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Gila: \"Tifo per Milan-Juve in finale di Europa League. Mi ha cercato anche l'Inter ma... \" - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Sat, 03 Oct 2026 20:56:00 GMT"
     },
     {
       "type": "news",
@@ -74,23 +74,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis Tracker: attesa per Zverev-Djokovic, Alcaraz è in semifinale a Tokyo - Diretta",
+      "title": "Tennis Tracker: Djokovic supera Zverev, Alcaraz è in semifinale a Tokyo - Diretta",
       "source": "Diretta",
-      "published": "Sun, 04 Oct 2026 11:54:26 GMT"
+      "published": "Sun, 04 Oct 2026 15:29:45 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Atp Pechino, i risultati di oggi: Medvedev e De Minaur in semifinale - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sun, 04 Oct 2026 10:30:23 GMT"
+      "title": "ATP, Pechino: Djokovic sugli scudi, batte Zverev ed è in semifinale - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Sun, 04 Oct 2026 14:11:43 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Alcaraz salva un set point con Shapovalov e vola in semifinale a Tokyo - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 04 Oct 2026 08:23:40 GMT"
+      "title": "Djokovic highlander a Pechino, favore a Sinner: batte Zverev in rimonta e va in semifinale - Tuttosport",
+      "source": "Tuttosport",
+      "published": "Sun, 04 Oct 2026 14:32:21 GMT"
     },
     {
       "type": "news",
@@ -116,9 +116,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel 2026: Kuwait Major | Live - Red Bull",
-      "source": "Red Bull",
-      "published": "Fri, 02 Oct 2026 09:02:48 GMT"
+      "title": "Rotterdam P2: Dove guardare la finale? - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sun, 04 Oct 2026 07:38:16 GMT"
     }
   ]
 }
