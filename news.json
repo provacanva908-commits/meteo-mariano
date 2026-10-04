@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T06:28:00.691540+00:00",
+  "updated_at": "2026-10-04T12:48:22.058819+00:00",
   "local_date": "2026-10-04",
   "articles": [
     {
@@ -7,6 +7,13 @@
       "category": "CALCIO",
       "title": "Nessuna partita rilevante in programma oggi tra Serie A, coppe europee e top club",
       "source": "football-data.org"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "BM MERCATO | Pesaro, ufficiale Giovanni Pini: accordo bimestrale per il lungo ex Avellino - Basket Magazine",
+      "source": "Basket Magazine",
+      "published": "Sun, 04 Oct 2026 12:21:27 GMT"
     },
     {
       "type": "news",
@@ -31,10 +38,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Pallavolo Mercato – Efe Bayram torna in Turchia: ufficiale l’accordo con lo Ziraat Bankkart - iVolley Magazine",
-      "source": "iVolley Magazine",
-      "published": "Fri, 02 Oct 2026 16:49:23 GMT"
+      "category": "CALCIO",
+      "title": "TRIBUNA.COM * SERIE A: «ROMA, NAPOLI, INTER, JUVE E LA NAZIONALE: SPALLETTI SPIEGA LE DIFFERENZE TRA LE SQUADRE ALLENATE IN CARRIERA - agenziagiornalisticaopinione.it",
+      "source": "agenziagiornalisticaopinione.it",
+      "published": "Sun, 04 Oct 2026 08:20:36 GMT"
     },
     {
       "type": "news",
@@ -46,9 +53,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Atletica paralimpica, 4 record italiani e 3 migliori prestazioni italiane nella prima giornata della Finale Nazionale CDS e Coppa Italia Lanci a Jesolo - FISPES",
-      "source": "FISPES",
-      "published": "Sun, 04 Oct 2026 04:41:22 GMT"
+      "title": "Seconda variazione calendario gare di Coppa Italia di Serie A2, Coppa Italia e Campionato di Serie B 2026/27 di hockey su pista - Hockey Italia 21",
+      "source": "Hockey Italia 21",
+      "published": "Sun, 04 Oct 2026 11:23:34 GMT"
     },
     {
       "type": "news",
@@ -56,13 +63,6 @@
       "title": "Gila: \"Tifo per Milan-Juve in finale di Europa League. Mi ha cercato anche l'Inter ma... \" - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Sat, 03 Oct 2026 20:56:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Amichevoli Serie A, risultati e marcatori di oggi: l'Inter batte il Lumezzane, pari Lazio - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sat, 03 Oct 2026 14:48:58 GMT"
     },
     {
       "type": "news",
@@ -74,30 +74,30 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis ATP e WTA, gli appuntamenti di ottobre 2026: il programma, i tornei e dove vedere in diretta tv - olympics.com",
-      "source": "olympics.com",
-      "published": "Thu, 01 Oct 2026 09:00:00 GMT"
+      "title": "Tennis Tracker: attesa per Zverev-Djokovic, Alcaraz è in semifinale a Tokyo - Diretta",
+      "source": "Diretta",
+      "published": "Sun, 04 Oct 2026 11:54:26 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner, come cambia il ranking Atp dopo il forfait di Shanghai? Zverev sempre più vicino, ecco la (probabile) data del sorpasso in vetta - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "Sat, 03 Oct 2026 09:09:11 GMT"
+      "title": "Atp Pechino, i risultati di oggi: Medvedev e De Minaur in semifinale - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sun, 04 Oct 2026 10:30:23 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner ai box da 3 mesi: Zverev ad un passo dal sorpasso per il n.1 del ranking ATP - OA Sport",
-      "source": "OA Sport",
-      "published": "Sat, 03 Oct 2026 10:25:11 GMT"
+      "title": "Alcaraz salva un set point con Shapovalov e vola in semifinale a Tokyo - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 04 Oct 2026 08:23:40 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Parigi, rimonta di Coello-Tapia: Chingalan beffati - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 13 Sep 2026 07:00:00 GMT"
+      "title": "Rotterdam P2: Prima finale Premier Padel Stupaczuk/Sanz si presenta con fiducia contro i numeri 1 del mondo - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sun, 04 Oct 2026 07:25:28 GMT"
     },
     {
       "type": "news",
@@ -109,8 +109,8 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Paris Major Premier Padel 2026: Oggi finale con El Clasico e le terribili ragazze - mrpadelpaddle.com",
-      "source": "mrpadelpaddle.com",
+      "title": "Paris Major Premier Padel 2026: Oggi finale con El Clasico e le terribili ragazze - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
       "published": "Sun, 13 Sep 2026 07:00:00 GMT"
     },
     {
