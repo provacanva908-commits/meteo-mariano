@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-04T20:11:18.751561+00:00",
-  "local_date": "2026-10-04",
+  "updated_at": "2026-10-04T23:14:19.708517+00:00",
+  "local_date": "2026-10-05",
   "articles": [
     {
       "type": "message",
@@ -46,13 +46,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "TRIBUNA.COM * SERIE A: «\"IL NUOVO STADIO SI FARÀ\", ARRIVA LA CONFERMA UFFICIALE SULLA NUOVA CASA DI INTER E MILAN: ECCO QUANDO INIZIERANNO I LAVORI - agenziagiornalisticaopinione.it",
-      "source": "agenziagiornalisticaopinione.it",
-      "published": "Sun, 04 Oct 2026 15:20:10 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Gila: \"Tifo per Milan-Juve in finale di Europa League. Mi ha cercato anche l'Inter ma... \" - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Sun, 04 Oct 2026 12:01:00 GMT"
@@ -66,10 +59,17 @@
     },
     {
       "type": "news",
+      "category": "CALCIO",
+      "title": "Calendario Serie A ottobre 2026, il primo derby è tra Milan ed Inter - Idealista",
+      "source": "Idealista",
+      "published": "Fri, 02 Oct 2026 06:30:03 GMT"
+    },
+    {
+      "type": "news",
       "category": "TENNIS",
       "title": "ATP, Pechino: Djokovic sugli scudi, batte Zverev ed è in semifinale - SuperTennis",
       "source": "SuperTennis",
-      "published": "Sun, 04 Oct 2026 16:39:09 GMT"
+      "published": "Sun, 04 Oct 2026 19:59:09 GMT"
     },
     {
       "type": "news",
@@ -88,16 +88,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis Tracker: Djokovic supera Zverev, Alcaraz è in semifinale a Tokyo - Diretta",
-      "source": "Diretta",
-      "published": "Sun, 04 Oct 2026 18:26:52 GMT"
+      "title": "Djokovic highlander a Pechino, favore a Sinner: batte Zverev in rimonta e va in semifinale - Tuttosport",
+      "source": "Tuttosport",
+      "published": "Sun, 04 Oct 2026 14:32:21 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
       "title": "Padel, Fip Gold di Perugia: finale show, trionfano Jofre ed Esbri - Askanews",
       "source": "Askanews",
-      "published": "Sun, 04 Oct 2026 20:02:21 GMT"
+      "published": "Sun, 04 Oct 2026 22:17:37 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel a Rotterdam: bis di Coello-Tapia e Ustero-Sanchez - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 04 Oct 2026 20:09:21 GMT"
     },
     {
       "type": "news",
@@ -112,13 +119,6 @@
       "title": "Circuito FIP: Parmigiani centra un’altra finale. A Lione succede di tutto! - padelmagazine.it",
       "source": "padelmagazine.it",
       "published": "Tue, 29 Sep 2026 16:51:14 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Paris Major Premier Padel 2026: Oggi finale con El Clasico e le terribili ragazze - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Sun, 13 Sep 2026 07:00:00 GMT"
     }
   ]
 }
