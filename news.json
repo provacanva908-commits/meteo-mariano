@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T22:13:35.982133+00:00",
+  "updated_at": "2026-10-04T00:44:51.163733+00:00",
   "local_date": "2026-10-04",
   "articles": [
     {
@@ -25,8 +25,8 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Italgas avanza sul mercato estero: firmato accordo per il 22,5% della portoghese Floene - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
+      "title": "Italgas avanza sul mercato estero: firmato accordo per il 22,5% della portoghese Floene - ilsole24ore.com",
+      "source": "ilsole24ore.com",
       "published": "Fri, 02 Oct 2026 06:47:51 GMT"
     },
     {
@@ -46,30 +46,23 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Gila: \"Tifo per Milan-Juve in finale di Europa League. Mi ha cercato anche l'Inter ma... \" - sportmediaset.mediaset.it",
+      "source": "sportmediaset.mediaset.it",
+      "published": "Sat, 03 Oct 2026 20:56:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Atletica paralimpica, 4 record italiani e 3 migliori prestazioni italiane nella prima giornata della Finale Nazionale CDS e Coppa Italia Lanci a Jesolo - FISPES",
+      "source": "FISPES",
+      "published": "Sat, 03 Oct 2026 22:52:30 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Amichevoli Serie A, risultati e marcatori di oggi: l'Inter batte il Lumezzane, pari Lazio - Sky Sport",
       "source": "Sky Sport",
       "published": "Sat, 03 Oct 2026 14:48:58 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Gila: \"Tifo per Milan-Juve in finale di Europa League. Mi ha cercato anche l'Inter ma... \" - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Sat, 03 Oct 2026 17:08:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A Women Athora | Roma-Lazio, le parole di Grassadonia nel post partita - S.S. Lazio",
-      "source": "S.S. Lazio",
-      "published": "Sat, 03 Oct 2026 20:08:05 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "ATP Tokyo: Bolelli e Vavassori non deludono, è semifinale - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Sat, 03 Oct 2026 12:24:21 GMT"
     },
     {
       "type": "news",
@@ -91,6 +84,13 @@
       "title": "Sinner ai box da 3 mesi: Zverev ad un passo dal sorpasso per il n.1 del ranking ATP - OA Sport",
       "source": "OA Sport",
       "published": "Sat, 03 Oct 2026 10:25:11 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Bolelli e Vavassori in semifinale a Tokyo - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Sat, 03 Oct 2026 09:44:09 GMT"
     },
     {
       "type": "news",
