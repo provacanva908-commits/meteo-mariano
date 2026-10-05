@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T08:59:57.382651+00:00",
+  "updated_at": "2026-10-05T18:20:33.490523+00:00",
   "local_date": "2026-10-05",
   "articles": [
     {
@@ -11,6 +11,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Synopsys firma un accordo accelerato di riacquisto di azioni per 1 Mrd USD - MarketScreener Italia",
+      "source": "MarketScreener Italia",
+      "published": "Mon, 05 Oct 2026 13:45:21 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "È già mercato: De Laurentiis e Allegri d’accordo, i tre obiettivi del Napoli a gennaio - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Wed, 30 Sep 2026 06:08:03 GMT"
@@ -18,79 +25,72 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "BM MERCATO | Pesaro, ufficiale Giovanni Pini: accordo bimestrale per il lungo ex Avellino - Basket Magazine",
-      "source": "Basket Magazine",
-      "published": "Sun, 04 Oct 2026 22:57:02 GMT"
+      "title": "Il resoconto della Serata Biancoverde, con la presentazione della prima squadra. Ufficiale il rinnovo dell'accordo con Unicusano, title sponsor per altre tre stagioni. - Rugby Livorno 1931",
+      "source": "Rugby Livorno 1931",
+      "published": "Mon, 05 Oct 2026 10:36:26 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ferrandina, l’interporto guarda a Taranto: firmato l’accordo - La Nuova del Sud",
-      "source": "La Nuova del Sud",
-      "published": "Sun, 04 Oct 2026 14:06:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Accordo tra Viminale e Mecenati Roman Heritage per valorizzare il patrimonio del Fondo edifici di culto - Ministero dell‘Interno",
-      "source": "Ministero dell‘Interno",
-      "published": "Thu, 01 Oct 2026 06:44:47 GMT"
+      "title": "Architettura, patrimonio e rigenerazione: accordo tra OAR e Kamra tal-Periti di Malta – OAR - Ordine degli Architetti di Roma",
+      "source": "Ordine degli Architetti di Roma",
+      "published": "Mon, 05 Oct 2026 12:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Il Milan vince in rimonta il big match con la Juventus, successi per Inter e Como 1907, in testa con la Roma - FIGC",
-      "source": "FIGC",
-      "published": "Sun, 04 Oct 2026 09:30:00 GMT"
+      "title": "Come acquistare i biglietti per Como-Manchester United: prezzi della Champions League, informazioni sulla partita, vendite last minute e altro ancora - Goal.com",
+      "source": "Goal.com",
+      "published": "Mon, 05 Oct 2026 17:05:55 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Gila: \"Tifo per Milan-Juve in finale di Europa League. Mi ha cercato anche l'Inter ma... \" - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Sun, 04 Oct 2026 12:01:00 GMT"
+      "title": "Come acquistare i biglietti per Bayern Monaco-Arsenal: prezzi della Champions League, informazioni sulla partita, vendite last minute e altro ancora - Goal.com",
+      "source": "Goal.com",
+      "published": "Mon, 05 Oct 2026 17:54:06 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "TRIBUNA.COM * SERIE A: «CHE FINE HANNO FATTO CAMARDA E COMOTTO? IL PIANO DI AMORIM E DEL MILAN TRA CALENDARIO E FIDUCIA NEI GIOVANI - agenziagiornalisticaopinione.it",
-      "source": "agenziagiornalisticaopinione.it",
-      "published": "Mon, 05 Oct 2026 07:10:15 GMT"
+      "title": "Come acquistare i biglietti per Liverpool-Villarreal: prezzi della Champions League, informazioni sulla partita, vendite last minute e altro ancora - Goal.com",
+      "source": "Goal.com",
+      "published": "Mon, 05 Oct 2026 17:27:26 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Como 1907 da sogno: vittoria a Napoli e vetta della serie A. Il Como Women cade con l’Inter - EspansioneTv",
-      "source": "EspansioneTv",
-      "published": "Sun, 04 Oct 2026 16:55:00 GMT"
+      "title": "Come acquistare i biglietti per Inter-Shakhtar Donetsk: prezzi della Champions League, informazioni sulla partita, vendite last minute e altro ancora - Goal.com",
+      "source": "Goal.com",
+      "published": "Mon, 05 Oct 2026 17:54:06 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP, Pechino: Djokovic sugli scudi, batte Zverev ed è in semifinale - SuperTennis",
+      "title": "Atp Pechino 2026, Djokovic-Medvedev oggi in semifinale: orario e dove vederla in tv - lapresse.it",
+      "source": "lapresse.it",
+      "published": "Mon, 05 Oct 2026 08:35:16 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Djokovic-Medvedev, semifinale Atp 500 Pechino: orario, quando si gioca e dove vederla in tv - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Mon, 05 Oct 2026 07:34:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "ATP Pechino: Medvedev squalificato, Djokovic in finale - SuperTennis",
       "source": "SuperTennis",
-      "published": "Mon, 05 Oct 2026 08:19:09 GMT"
+      "published": "Mon, 05 Oct 2026 16:30:04 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Atp Tokyo, i risultati di oggi: Shapovalov si ritira, Alcaraz avanza in semifinale - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Mon, 05 Oct 2026 06:44:25 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Tennis, Atp Pechino: Djokovic elimina Zverev e vola in semifinale - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Sun, 04 Oct 2026 13:59:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Djokovic highlander a Pechino, favore a Sinner: batte Zverev in rimonta e va in semifinale - Tuttosport",
-      "source": "Tuttosport",
-      "published": "Sun, 04 Oct 2026 14:32:21 GMT"
+      "title": "Atp Tokyo, i risultati di oggi: Alcaraz in finale, Munar battuto in tre set - sport.sky.it",
+      "source": "sport.sky.it",
+      "published": "Mon, 05 Oct 2026 06:32:20 GMT"
     },
     {
       "type": "news",
@@ -102,13 +102,6 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel a Rotterdam: bis di Coello-Tapia e Ustero-Sanchez - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 04 Oct 2026 20:09:21 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
       "title": "Rotterdam P2: Prima finale Premier Padel Stupaczuk/Sanz si presenta con fiducia contro i numeri 1 del mondo - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sun, 04 Oct 2026 07:25:28 GMT"
@@ -116,9 +109,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Circuito FIP: Parmigiani centra un’altra finale. A Lione succede di tutto! - padelmagazine.it",
-      "source": "padelmagazine.it",
-      "published": "Tue, 29 Sep 2026 16:51:14 GMT"
+      "title": "Premier Padel a Rotterdam: bis di Coello-Tapia e Ustero-Sanchez - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 04 Oct 2026 20:09:21 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Paris Major Premier Padel 2026: Oggi finale con El Clasico e le terribili ragazze - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Sun, 13 Sep 2026 07:00:00 GMT"
     }
   ]
 }
