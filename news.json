@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T02:05:36.929268+00:00",
+  "updated_at": "2026-10-05T08:59:57.382651+00:00",
   "local_date": "2026-10-05",
   "articles": [
     {
@@ -7,6 +7,13 @@
       "category": "CALCIO",
       "title": "Nessuna partita rilevante in programma oggi tra Serie A, coppe europee e top club",
       "source": "football-data.org"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "È già mercato: De Laurentiis e Allegri d’accordo, i tre obiettivi del Napoli a gennaio - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Wed, 30 Sep 2026 06:08:03 GMT"
     },
     {
       "type": "news",
@@ -21,13 +28,6 @@
       "title": "Ferrandina, l’interporto guarda a Taranto: firmato l’accordo - La Nuova del Sud",
       "source": "La Nuova del Sud",
       "published": "Sun, 04 Oct 2026 14:06:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "È già mercato: De Laurentiis e Allegri d’accordo, i tre obiettivi del Napoli a gennaio - gazzetta.it",
-      "source": "gazzetta.it",
-      "published": "Wed, 30 Sep 2026 06:08:03 GMT"
     },
     {
       "type": "news",
@@ -53,23 +53,30 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "TRIBUNA.COM * SERIE A: «CHE FINE HANNO FATTO CAMARDA E COMOTTO? IL PIANO DI AMORIM E DEL MILAN TRA CALENDARIO E FIDUCIA NEI GIOVANI - agenziagiornalisticaopinione.it",
+      "source": "agenziagiornalisticaopinione.it",
+      "published": "Mon, 05 Oct 2026 07:10:15 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Como 1907 da sogno: vittoria a Napoli e vetta della serie A. Il Como Women cade con l’Inter - EspansioneTv",
       "source": "EspansioneTv",
       "published": "Sun, 04 Oct 2026 16:55:00 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Calendario Serie A ottobre 2026, il primo derby è tra Milan ed Inter - Idealista",
-      "source": "Idealista",
-      "published": "Fri, 02 Oct 2026 06:30:03 GMT"
+      "category": "TENNIS",
+      "title": "ATP, Pechino: Djokovic sugli scudi, batte Zverev ed è in semifinale - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Mon, 05 Oct 2026 08:19:09 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP, Pechino: Djokovic sugli scudi, batte Zverev ed è in semifinale - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Sun, 04 Oct 2026 22:14:09 GMT"
+      "title": "Atp Tokyo, i risultati di oggi: Shapovalov si ritira, Alcaraz avanza in semifinale - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Mon, 05 Oct 2026 06:44:25 GMT"
     },
     {
       "type": "news",
@@ -77,13 +84,6 @@
       "title": "Tennis, Atp Pechino: Djokovic elimina Zverev e vola in semifinale - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Sun, 04 Oct 2026 13:59:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Atp Tokyo, i risultati di oggi: Shapovalov si ritira, Alcaraz avanza in semifinale - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sun, 04 Oct 2026 05:43:27 GMT"
     },
     {
       "type": "news",
@@ -97,13 +97,13 @@
       "category": "PADEL",
       "title": "Padel, Fip Gold di Perugia: finale show, trionfano Jofre ed Esbri - Askanews",
       "source": "Askanews",
-      "published": "Mon, 05 Oct 2026 01:18:04 GMT"
+      "published": "Mon, 05 Oct 2026 07:05:58 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel a Rotterdam: bis di Coello-Tapia e Ustero-Sanchez - gazzetta.it",
-      "source": "gazzetta.it",
+      "title": "Premier Padel a Rotterdam: bis di Coello-Tapia e Ustero-Sanchez - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
       "published": "Sun, 04 Oct 2026 20:09:21 GMT"
     },
     {
