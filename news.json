@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T00:13:22.518091+00:00",
+  "updated_at": "2026-10-06T06:31:00.204026+00:00",
   "local_date": "2026-10-06",
   "articles": [
     {
@@ -25,37 +25,37 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Il resoconto della Serata Biancoverde, con la presentazione della prima squadra. Ufficiale il rinnovo dell'accordo con Unicusano, title sponsor per altre tre stagioni. - Rugby Livorno 1931",
-      "source": "Rugby Livorno 1931",
-      "published": "Mon, 05 Oct 2026 10:36:26 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "COMUNICATO UFFICIALE: ALEXIS SAELEMAEKERS - AC Milan",
       "source": "AC Milan",
       "published": "Mon, 05 Oct 2026 16:00:00 GMT"
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "LG firma un accordo di fornitura da 5 GW per i data center di intelligenza artificiale nordamericani - MarketScreener Italia",
+      "source": "MarketScreener Italia",
+      "published": "Tue, 06 Oct 2026 01:38:15 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
       "title": "Come acquistare i biglietti per Bayern Monaco-Arsenal: prezzi della Champions League, informazioni sulla partita, vendite last minute e altro ancora - Goal.com",
       "source": "Goal.com",
-      "published": "Mon, 05 Oct 2026 22:41:15 GMT"
+      "published": "Mon, 05 Oct 2026 17:54:06 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
       "title": "Come acquistare i biglietti per Liverpool-Villarreal: prezzi della Champions League, informazioni sulla partita, vendite last minute e altro ancora - Goal.com",
       "source": "Goal.com",
-      "published": "Mon, 05 Oct 2026 21:08:22 GMT"
+      "published": "Mon, 05 Oct 2026 16:27:19 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
       "title": "Come acquistare i biglietti per Como-Manchester United: prezzi della Champions League, informazioni sulla partita, vendite last minute e altro ancora - Goal.com",
       "source": "Goal.com",
-      "published": "Mon, 05 Oct 2026 17:05:55 GMT"
+      "published": "Mon, 05 Oct 2026 16:29:06 GMT"
     },
     {
       "type": "news",
@@ -67,30 +67,30 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Atp Pechino 2026, Djokovic-Medvedev oggi in semifinale: orario e dove vederla in tv - lapresse.it",
-      "source": "lapresse.it",
-      "published": "Mon, 05 Oct 2026 08:35:16 GMT"
+      "title": "ATP, Pechino: Djokovic sugli scudi, batte Zverev ed è in semifinale - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Sun, 04 Oct 2026 14:11:43 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Pechino: Medvedev squalificato, Djokovic in finale - supertennis.tv",
-      "source": "supertennis.tv",
+      "title": "ATP Pechino: Medvedev squalificato, Djokovic in finale - SuperTennis",
+      "source": "SuperTennis",
       "published": "Mon, 05 Oct 2026 22:14:09 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Tokyo: Bolelli e Vavassori si fermano in semifinale - supertennis.tv",
-      "source": "supertennis.tv",
-      "published": "Mon, 05 Oct 2026 19:30:00 GMT"
+      "title": "Medvedev squalificato, Djokovic in finale all'Atp Pechino 2026 - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Mon, 05 Oct 2026 10:48:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Atp Tokyo, i risultati di oggi: Alcaraz in finale, Munar battuto in tre set - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Mon, 05 Oct 2026 06:32:20 GMT"
+      "title": "Djokovic-De Minaur, la finale dell'Atp di Pechino: dove vederla (tv e streaming), orario e precedenti - Il Messaggero",
+      "source": "Il Messaggero",
+      "published": "Mon, 05 Oct 2026 20:15:41 GMT"
     },
     {
       "type": "news",
@@ -116,9 +116,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Rotterdam P2: Dove guardare la finale? - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sun, 04 Oct 2026 07:38:16 GMT"
+      "title": "Paris Major Premier Padel 2026: Oggi finale con El Clasico e le terribili ragazze - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Sun, 13 Sep 2026 07:00:00 GMT"
     }
   ]
 }
