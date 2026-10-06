@@ -1,19 +1,12 @@
 {
-  "updated_at": "2026-10-05T18:20:33.490523+00:00",
-  "local_date": "2026-10-05",
+  "updated_at": "2026-10-06T00:13:22.518091+00:00",
+  "local_date": "2026-10-06",
   "articles": [
     {
       "type": "message",
       "category": "CALCIO",
       "title": "Nessuna partita rilevante in programma oggi tra Serie A, coppe europee e top club",
       "source": "football-data.org"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Synopsys firma un accordo accelerato di riacquisto di azioni per 1 Mrd USD - MarketScreener Italia",
-      "source": "MarketScreener Italia",
-      "published": "Mon, 05 Oct 2026 13:45:21 GMT"
     },
     {
       "type": "news",
@@ -25,6 +18,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Synopsys firma un accordo accelerato di riacquisto di azioni per 1 Mrd USD - MarketScreener Italia",
+      "source": "MarketScreener Italia",
+      "published": "Mon, 05 Oct 2026 13:45:21 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Il resoconto della Serata Biancoverde, con la presentazione della prima squadra. Ufficiale il rinnovo dell'accordo con Unicusano, title sponsor per altre tre stagioni. - Rugby Livorno 1931",
       "source": "Rugby Livorno 1931",
       "published": "Mon, 05 Oct 2026 10:36:26 GMT"
@@ -32,9 +32,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Architettura, patrimonio e rigenerazione: accordo tra OAR e Kamra tal-Periti di Malta – OAR - Ordine degli Architetti di Roma",
-      "source": "Ordine degli Architetti di Roma",
-      "published": "Mon, 05 Oct 2026 12:00:00 GMT"
+      "title": "COMUNICATO UFFICIALE: ALEXIS SAELEMAEKERS - AC Milan",
+      "source": "AC Milan",
+      "published": "Mon, 05 Oct 2026 16:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Come acquistare i biglietti per Bayern Monaco-Arsenal: prezzi della Champions League, informazioni sulla partita, vendite last minute e altro ancora - Goal.com",
+      "source": "Goal.com",
+      "published": "Mon, 05 Oct 2026 22:41:15 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Come acquistare i biglietti per Liverpool-Villarreal: prezzi della Champions League, informazioni sulla partita, vendite last minute e altro ancora - Goal.com",
+      "source": "Goal.com",
+      "published": "Mon, 05 Oct 2026 21:08:22 GMT"
     },
     {
       "type": "news",
@@ -46,23 +60,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Come acquistare i biglietti per Bayern Monaco-Arsenal: prezzi della Champions League, informazioni sulla partita, vendite last minute e altro ancora - Goal.com",
-      "source": "Goal.com",
-      "published": "Mon, 05 Oct 2026 17:54:06 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Come acquistare i biglietti per Liverpool-Villarreal: prezzi della Champions League, informazioni sulla partita, vendite last minute e altro ancora - Goal.com",
-      "source": "Goal.com",
-      "published": "Mon, 05 Oct 2026 17:27:26 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Come acquistare i biglietti per Inter-Shakhtar Donetsk: prezzi della Champions League, informazioni sulla partita, vendite last minute e altro ancora - Goal.com",
-      "source": "Goal.com",
-      "published": "Mon, 05 Oct 2026 17:54:06 GMT"
+      "title": "Amichevoli Serie A, risultati e marcatori di oggi: Juventus e Napoli ko, pari del Milan - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 02 Oct 2026 12:34:10 GMT"
     },
     {
       "type": "news",
@@ -74,22 +74,22 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Djokovic-Medvedev, semifinale Atp 500 Pechino: orario, quando si gioca e dove vederla in tv - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Mon, 05 Oct 2026 07:34:00 GMT"
+      "title": "ATP Pechino: Medvedev squalificato, Djokovic in finale - supertennis.tv",
+      "source": "supertennis.tv",
+      "published": "Mon, 05 Oct 2026 22:14:09 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Pechino: Medvedev squalificato, Djokovic in finale - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Mon, 05 Oct 2026 16:30:04 GMT"
+      "title": "ATP Tokyo: Bolelli e Vavassori si fermano in semifinale - supertennis.tv",
+      "source": "supertennis.tv",
+      "published": "Mon, 05 Oct 2026 19:30:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Atp Tokyo, i risultati di oggi: Alcaraz in finale, Munar battuto in tre set - sport.sky.it",
-      "source": "sport.sky.it",
+      "title": "Atp Tokyo, i risultati di oggi: Alcaraz in finale, Munar battuto in tre set - Sky Sport",
+      "source": "Sky Sport",
       "published": "Mon, 05 Oct 2026 06:32:20 GMT"
     },
     {
@@ -116,9 +116,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Paris Major Premier Padel 2026: Oggi finale con El Clasico e le terribili ragazze - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Sun, 13 Sep 2026 07:00:00 GMT"
+      "title": "Rotterdam P2: Dove guardare la finale? - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sun, 04 Oct 2026 07:38:16 GMT"
     }
   ]
 }
