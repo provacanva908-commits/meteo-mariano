@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T16:15:20.460173+00:00",
+  "updated_at": "2026-10-07T21:22:54.504317+00:00",
   "local_date": "2026-10-07",
   "articles": [
     {
@@ -18,37 +18,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "La Marca (Pd) sollecita la Delegazione del Québec a Roma sull'accordo - Aise.it - Agenzia Internazionale Stampa Estero",
-      "source": "Aise.it - Agenzia Internazionale Stampa Estero",
-      "published": "Wed, 07 Oct 2026 12:20:00 GMT"
+      "title": "IILA e Teatro dell’Opera di Roma firmano un accordo di collaborazione - Gazzetta diplomatica",
+      "source": "Gazzetta diplomatica",
+      "published": "Wed, 07 Oct 2026 20:14:16 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Politecnico e Città metropolitana di Torino firmano un accordo quadro per ricerca, innovazione e formazione - Politecnico di Torino",
+      "title": "Firmato un accordo quadro tra Politecnico e Città metropolitana di Torino - Politecnico di Torino",
       "source": "Politecnico di Torino",
-      "published": "Wed, 07 Oct 2026 16:09:11 GMT"
+      "published": "Wed, 07 Oct 2026 16:14:44 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "RTL 102.5 è la radio ufficiale di Milano Premier Padel P1 2026 - Radio RTL 102.5",
-      "source": "Radio RTL 102.5",
-      "published": "Wed, 07 Oct 2026 15:07:20 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Inter, per Akanji obiettivo Champions League: \"Non firmo per Scudetto e Coppa Italia, voglio tutto\" - Calciomercato",
-      "source": "Calciomercato",
-      "published": "Wed, 07 Oct 2026 14:03:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, 6ª giornata: da Inter-Parma a Como-Roma e Sassuolo-Milan. Probabili formazioni, orari e dove vederle (tv e streaming) - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "Wed, 07 Oct 2026 10:23:37 GMT"
+      "title": "COMUNICATO UFFICIALE: ALEXIS SAELEMAEKERS - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Mon, 05 Oct 2026 16:00:00 GMT"
     },
     {
       "type": "news",
@@ -60,16 +46,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A: c'è Fabbri per Como-Roma, Bonacina arbitrerà Inter-Parma - ANSA",
-      "source": "ANSA",
-      "published": "Wed, 07 Oct 2026 13:57:00 GMT"
+      "title": "Serie A, 6ª giornata: da Inter-Parma a Como-Roma e Sassuolo-Milan. Probabili formazioni, orari e dove vederle (tv e streaming) - Il Messaggero",
+      "source": "Il Messaggero",
+      "published": "Wed, 07 Oct 2026 10:23:37 GMT"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner, Zverev e Alcaraz: gli scenari nel ranking ATP. Cinà sale ancora - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Tue, 06 Oct 2026 19:46:34 GMT"
+      "category": "CALCIO",
+      "title": "Gli arbitri della sesta giornata di Serie A: Fabbri per Como-Roma, a Feliciani Napoli-Frosinone - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Wed, 07 Oct 2026 13:14:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A: c'è Fabbri per Como-Roma, Bonacina arbitrerà Inter-Parma - ANSA",
+      "source": "ANSA",
+      "published": "Wed, 07 Oct 2026 13:57:00 GMT"
     },
     {
       "type": "news",
@@ -81,6 +74,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Sinner, Zverev e Alcaraz: gli scenari nel ranking ATP. Cinà sale ancora - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Tue, 06 Oct 2026 19:46:34 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Sinner, ranking Atp: gli scenari da qui al rientro in campo - Adnkronos",
       "source": "Adnkronos",
       "published": "Wed, 07 Oct 2026 11:14:00 GMT"
@@ -88,9 +88,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "djokovic-pif-atp-live-race-to-turin-7-october-2026 | Nitto ATP Finals | Tennis - Nitto ATP Finals",
-      "source": "Nitto ATP Finals",
-      "published": "Wed, 07 Oct 2026 13:20:21 GMT"
+      "title": "Ranking Atp, Zverev prepara il sorpasso su Sinner: appuntamento a Vienna - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Tue, 06 Oct 2026 09:29:57 GMT"
     },
     {
       "type": "news",
@@ -118,7 +118,7 @@
       "category": "PADEL",
       "title": "RTL 102.5 è la radio ufficiale di Milano Premier Padel P1 2026 - Radio RTL 102.5",
       "source": "Radio RTL 102.5",
-      "published": "Wed, 07 Oct 2026 15:07:20 GMT"
+      "published": "Wed, 07 Oct 2026 18:08:29 GMT"
     }
   ]
 }
