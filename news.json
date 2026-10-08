@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T01:11:23.315912+00:00",
+  "updated_at": "2026-10-08T07:28:41.946857+00:00",
   "local_date": "2026-10-08",
   "articles": [
     {
@@ -32,23 +32,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Firmato un accordo quadro tra Politecnico e Città metropolitana di Torino - Politecnico di Torino",
-      "source": "Politecnico di Torino",
-      "published": "Wed, 07 Oct 2026 15:02:04 GMT"
+      "title": "COMUNICATO UFFICIALE: ALEXIS SAELEMAEKERS - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Mon, 05 Oct 2026 16:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, 6ª giornata: da Inter-Parma a Como-Roma e Sassuolo-Milan. Probabili formazioni, orari e dove vederle (tv e streaming) - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "Wed, 07 Oct 2026 10:23:37 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, le designazioni della 6ª giornata: a Fabbri Como-Roma, Bonacina arbitrerà l'Inter - Diretta",
-      "source": "Diretta",
-      "published": "Wed, 07 Oct 2026 15:05:57 GMT"
+      "title": "L'Inter prova a scappare, Como e Roma alla prova Champions League: cosa può succedere fino alla prossima sosta - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Thu, 08 Oct 2026 06:03:00 GMT"
     },
     {
       "type": "news",
@@ -63,6 +56,13 @@
       "title": "Serie A: c'è Fabbri per Como-Roma, Bonacina arbitrerà Inter-Parma - ANSA",
       "source": "ANSA",
       "published": "Wed, 07 Oct 2026 13:57:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "TRIBUNA.COM * CHAMPIONS LEAGUE: «L'INFORTUNIO, IL RECORD CON L'INTER, LA SCELTA TRA SCUDETTO E CHAMPIONS, DIMARCO: \"ORA PENSO A NUOVI OBIETTIVI\" - agenzia giornalistica opinione",
+      "source": "agenzia giornalistica opinione",
+      "published": "Thu, 08 Oct 2026 07:00:40 GMT"
     },
     {
       "type": "news",
@@ -88,9 +88,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner, ranking Atp: gli scenari da qui al rientro in campo - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Wed, 07 Oct 2026 11:14:00 GMT"
+      "title": "Ranking Atp, Zverev prepara il sorpasso su Sinner: appuntamento a Vienna - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Tue, 06 Oct 2026 09:29:57 GMT"
     },
     {
       "type": "news",
@@ -102,16 +102,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel a Rotterdam: bis di Coello-Tapia e Ustero-Sanchez - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 04 Oct 2026 20:10:25 GMT"
+      "title": "Padel, Fip Gold di Perugia: finale show, trionfano Jofre ed Esbri - Askanews",
+      "source": "Askanews",
+      "published": "Mon, 05 Oct 2026 07:05:58 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel, Fip Gold di Perugia: finale show, trionfano Jofre ed Esbri - Askanews",
-      "source": "Askanews",
-      "published": "Mon, 05 Oct 2026 07:05:58 GMT"
+      "title": "Premier Padel a Rotterdam: bis di Coello-Tapia e Ustero-Sanchez - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 04 Oct 2026 20:09:21 GMT"
     },
     {
       "type": "news",
