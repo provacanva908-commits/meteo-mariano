@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07T21:22:54.504317+00:00",
-  "local_date": "2026-10-07",
+  "updated_at": "2026-10-08T01:11:23.315912+00:00",
+  "local_date": "2026-10-08",
   "articles": [
     {
       "type": "message",
@@ -25,23 +25,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Firmato un accordo quadro tra Politecnico e Città metropolitana di Torino - Politecnico di Torino",
-      "source": "Politecnico di Torino",
-      "published": "Wed, 07 Oct 2026 16:14:44 GMT"
+      "title": "Comunicato ufficiale: la Numia Vero Volley Milano ritorna sul mercato - Vero Volley",
+      "source": "Vero Volley",
+      "published": "Tue, 06 Oct 2026 10:10:46 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "COMUNICATO UFFICIALE: ALEXIS SAELEMAEKERS - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Mon, 05 Oct 2026 16:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, le designazioni della 6ª giornata: a Fabbri Como-Roma, Bonacina arbitrerà l'Inter - Diretta",
-      "source": "Diretta",
-      "published": "Wed, 07 Oct 2026 15:05:57 GMT"
+      "title": "Firmato un accordo quadro tra Politecnico e Città metropolitana di Torino - Politecnico di Torino",
+      "source": "Politecnico di Torino",
+      "published": "Wed, 07 Oct 2026 15:02:04 GMT"
     },
     {
       "type": "news",
@@ -49,6 +42,13 @@
       "title": "Serie A, 6ª giornata: da Inter-Parma a Como-Roma e Sassuolo-Milan. Probabili formazioni, orari e dove vederle (tv e streaming) - Il Messaggero",
       "source": "Il Messaggero",
       "published": "Wed, 07 Oct 2026 10:23:37 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A, le designazioni della 6ª giornata: a Fabbri Como-Roma, Bonacina arbitrerà l'Inter - Diretta",
+      "source": "Diretta",
+      "published": "Wed, 07 Oct 2026 15:05:57 GMT"
     },
     {
       "type": "news",
@@ -67,13 +67,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis Tracker: Alcaraz vince il titolo a Tokyo, Djokovic trionfa a Pechino, Sinner chiude il 2026 - Diretta",
-      "source": "Diretta",
-      "published": "Wed, 07 Oct 2026 10:56:58 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Sinner, Zverev e Alcaraz: gli scenari nel ranking ATP. Cinà sale ancora - SuperTennis",
       "source": "SuperTennis",
       "published": "Tue, 06 Oct 2026 19:46:34 GMT"
@@ -81,16 +74,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner, ranking Atp: gli scenari da qui al rientro in campo - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Wed, 07 Oct 2026 11:14:00 GMT"
+      "title": "Tennis Tracker: Alcaraz vince il titolo a Tokyo, Djokovic trionfa a Pechino, Sinner chiude il 2026 - Diretta",
+      "source": "Diretta",
+      "published": "Wed, 07 Oct 2026 10:56:58 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking Atp, Zverev prepara il sorpasso su Sinner: appuntamento a Vienna - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Tue, 06 Oct 2026 09:29:57 GMT"
+      "title": "Sinner, Alcaraz, Djokovic: quando anche il corpo dei campioni dice basta - Mondosanità",
+      "source": "Mondosanità",
+      "published": "Wed, 07 Oct 2026 21:30:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner, ranking Atp: gli scenari da qui al rientro in campo - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Wed, 07 Oct 2026 11:14:00 GMT"
     },
     {
       "type": "news",
