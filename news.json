@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T14:52:20.771758+00:00",
+  "updated_at": "2026-10-08T20:29:39.573926+00:00",
   "local_date": "2026-10-08",
   "articles": [
     {
@@ -20,14 +20,14 @@
       "category": "CALCIOMERCATO",
       "title": "Ufficiale la fusione Warner Bros. e Paramount, nasce Skydance - MIA | Mercato Internazionale Audiovisivo",
       "source": "MIA | Mercato Internazionale Audiovisivo",
-      "published": "Thu, 08 Oct 2026 12:12:00 GMT"
+      "published": "Thu, 08 Oct 2026 12:15:46 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Firmata l'ipotesi di accordo per il Rinnovo del CCNL Dirigenza Sanitaria 2025-2027 - lentepubblica.it",
-      "source": "lentepubblica.it",
-      "published": "Thu, 08 Oct 2026 07:50:15 GMT"
+      "title": "Visita ufficiale del Console Generale d'Ucraina a Napoli - Il portale delle Prefetture",
+      "source": "Il portale delle Prefetture",
+      "published": "Thu, 08 Oct 2026 15:49:18 GMT"
     },
     {
       "type": "news",
@@ -39,6 +39,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Coppa Italia Primavera Women, sorteggiata la fase a gironi: i derby Roma-Lazio e Milan-Inter sulla strada verso le semifinali - FIGC",
+      "source": "FIGC",
+      "published": "Thu, 08 Oct 2026 06:12:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "L'Inter prova a scappare, Como e Roma alla prova Champions League: cosa può succedere fino alla prossima sosta - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Thu, 08 Oct 2026 06:03:00 GMT"
@@ -46,23 +53,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Quanto costa il pacchetto vip Champions League a Como - Virgilio InItalia",
-      "source": "Virgilio InItalia",
-      "published": "Thu, 08 Oct 2026 11:02:00 GMT"
+      "title": "Milan 'spremuto', Roma più 'riposata' del Como: come arrivano le big alla ripartenza della Serie A - DAZN",
+      "source": "DAZN",
+      "published": "Thu, 08 Oct 2026 15:23:48 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, chi ha giocato più minuti in questa sosta nazionali? Inter e Milan in testa, Roma riposata - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Thu, 08 Oct 2026 09:50:04 GMT"
+      "title": "Il Manchester City nella Champions League 2026/27: calendario e rosa - UEFA.com",
+      "source": "UEFA.com",
+      "published": "Thu, 08 Oct 2026 17:27:09 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A Enilive | Lazio-Monza, accrediti Coni e FIGC - S.S. Lazio",
-      "source": "S.S. Lazio",
-      "published": "Thu, 08 Oct 2026 11:44:18 GMT"
+      "category": "TENNIS",
+      "title": "WTA Pechino, Andreeva in semifinale: sfiderà Bartunkova - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Thu, 08 Oct 2026 05:00:13 GMT"
     },
     {
       "type": "news",
@@ -74,23 +81,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Shanghai, Djokovic: “Sinner pensa a lungo termine. Il tennis sente la sua mancanza” - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Thu, 08 Oct 2026 11:25:13 GMT"
+      "title": "TENNIS: Errani-Paolini, sfuma la semifinale al Wta 1000 di Pechino - Teleromagna",
+      "source": "Teleromagna",
+      "published": "Thu, 08 Oct 2026 15:45:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner, Alcaraz, Djokovic: quando anche il corpo dei campioni dice basta - Mondosanità",
-      "source": "Mondosanità",
-      "published": "Wed, 07 Oct 2026 21:30:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Quale ranking avrà Sinner se giocherà gli Australian Open 2027: i punti persi e chi potrebbe sorpassarlo - OA Sport",
+      "title": "LIVE Errani/Paolini-Dabrowski/Stefani 5-7 6-7, WTA Pechino 2026 in DIRETTA: finisce il dominio delle azzurre nel torneo cinese - OA Sport",
       "source": "OA Sport",
-      "published": "Thu, 08 Oct 2026 07:30:51 GMT"
+      "published": "Thu, 08 Oct 2026 18:18:07 GMT"
     },
     {
       "type": "news",
@@ -116,9 +116,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Cédric Lavoye: \"Il duro lavoro ripaga\" e punta a un primo torneo FIP in Guadalupa. - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Thu, 08 Oct 2026 06:31:00 GMT"
+      "title": "RTL 102.5 è la radio ufficiale di Milano Premier Padel P1 2026 - Radio RTL 102.5",
+      "source": "Radio RTL 102.5",
+      "published": "Wed, 07 Oct 2026 18:08:29 GMT"
     }
   ]
 }
