@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T00:36:23.714617+00:00",
+  "updated_at": "2026-10-09T06:43:42.087662+00:00",
   "local_date": "2026-10-09",
   "articles": [
     {
@@ -47,6 +47,20 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "TSMC e GlobalFoundries firmano un accordo da 2 Mrd USD per la fornitura di interposer in silicio - MarketScreener Italia",
+      "source": "MarketScreener Italia",
+      "published": "Fri, 09 Oct 2026 01:11:15 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Dissesto idrogeologico, Regione Puglia, Commissario di Governo e Autorità di Bacino firmano l'accordo per accelerare gli interventi di messa in sicurezza del territorio - Regione Puglia",
+      "source": "Regione Puglia",
+      "published": "Thu, 08 Oct 2026 14:56:17 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Ghedjemis da uomo mercato al rinnovo col Frosinone: i dettagli dell'accordo - Corriere dello Sport",
       "source": "Corriere dello Sport",
       "published": "Thu, 08 Oct 2026 20:49:31 GMT"
@@ -60,38 +74,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Visita ufficiale del Console Generale d'Ucraina a Napoli - Il portale delle Prefetture",
-      "source": "Il portale delle Prefetture",
-      "published": "Thu, 08 Oct 2026 15:49:18 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "COMUNICATO UFFICIALE: ALEXIS SAELEMAEKERS - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Mon, 05 Oct 2026 16:00:00 GMT"
-    },
-    {
-      "type": "news",
       "category": "CALCIO",
       "title": "Coppa Italia Primavera Women, sorteggiata la fase a gironi: i derby Roma-Lazio e Milan-Inter sulla strada verso le semifinali - FIGC",
       "source": "FIGC",
       "published": "Thu, 08 Oct 2026 06:12:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "L'Inter prova a scappare, Como e Roma alla prova Champions League: cosa può succedere fino alla prossima sosta - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Thu, 08 Oct 2026 06:03:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Coppa Italia Regionale Trenitalia: Spezia-Livorno anticipata alle ore 18:00 - Spezia Calcio - Sito ufficiale",
-      "source": "Spezia Calcio - Sito ufficiale",
-      "published": "Thu, 08 Oct 2026 13:08:00 GMT"
     },
     {
       "type": "news",
@@ -102,10 +88,24 @@
     },
     {
       "type": "news",
+      "category": "CALCIO",
+      "title": "Milan 'spremuto', Roma più 'riposata' del Como: come arrivano le big alla ripartenza della Serie A - DAZN",
+      "source": "DAZN",
+      "published": "Thu, 08 Oct 2026 15:23:48 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Coppa Italia Regionale Trenitalia: Spezia-Livorno anticipata alle ore 18:00 - Spezia Calcio - Sito ufficiale",
+      "source": "Spezia Calcio - Sito ufficiale",
+      "published": "Thu, 08 Oct 2026 13:08:00 GMT"
+    },
+    {
+      "type": "news",
       "category": "TENNIS",
       "title": "WTA Pechino, Andreeva in semifinale: sfiderà Bartunkova - SuperTennis",
       "source": "SuperTennis",
-      "published": "Thu, 08 Oct 2026 05:00:13 GMT"
+      "published": "Thu, 08 Oct 2026 13:29:28 GMT"
     },
     {
       "type": "news",
@@ -117,16 +117,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "TENNIS: Errani-Paolini, sfuma la semifinale al Wta 1000 di Pechino - Teleromagna",
-      "source": "Teleromagna",
-      "published": "Thu, 08 Oct 2026 15:45:00 GMT"
+      "title": "LIVE Errani/Paolini-Dabrowski/Stefani 5-7 6-7, WTA Pechino 2026 in DIRETTA: finisce il dominio delle azzurre nel torneo cinese - OA Sport",
+      "source": "OA Sport",
+      "published": "Thu, 08 Oct 2026 18:18:07 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "LIVE Errani/Paolini-Dabrowski/Stefani 5-7 6-7, WTA Pechino 2026 in DIRETTA: finisce il dominio delle azzurre nel torneo cinese - OA Sport",
-      "source": "OA Sport",
-      "published": "Thu, 08 Oct 2026 18:18:07 GMT"
+      "title": "Ranking Atp, Zverev prepara il sorpasso su Sinner: appuntamento a Vienna - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Tue, 06 Oct 2026 09:29:57 GMT"
     },
     {
       "type": "news",
