@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T13:50:46.653449+00:00",
+  "updated_at": "2026-10-09T19:11:55.279499+00:00",
   "local_date": "2026-10-09",
   "articles": [
     {
@@ -9,11 +9,11 @@
       "home": "PSV",
       "away": "Heerenveen",
       "time": "20:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 1,
+      "away_score": 0,
+      "is_live": true,
       "local_date": "2026-10-09"
     },
     {
@@ -23,11 +23,11 @@
       "home": "RC Lens",
       "away": "Olympique Lyon",
       "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "is_live": true,
       "local_date": "2026-10-09"
     },
     {
@@ -47,9 +47,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Juventus, ufficiale il rinnovo di Nico Gonzalez: ha firmato fino al 2030. Ingaggio e dettagli del nuovo contratto - Eurosport.it",
+      "source": "Eurosport.it",
+      "published": "Fri, 09 Oct 2026 16:20:29 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Accordo tra Comune di Monza e Città Metropolitana di Milano in merito ai corrispettivi del trasporto pubblico locale - Comune di Monza",
       "source": "Comune di Monza",
-      "published": "Fri, 09 Oct 2026 12:25:28 GMT"
+      "published": "Fri, 09 Oct 2026 12:27:10 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Juventus, ufficiale il rinnovo di Nico Gonzalez: prolungamento fino al 2030 - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 09 Oct 2026 15:28:59 GMT"
     },
     {
       "type": "news",
@@ -57,20 +71,6 @@
       "title": "Calciomercato Milan, per Endrick formula alla Brahim Diaz: prestito e controriscatto - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Fri, 09 Oct 2026 11:20:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Lecce, ufficiale il rinnovo di Paco Esteban: firma fino al 2030 - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Fri, 09 Oct 2026 11:27:45 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "COMUNICATO UFFICIALE: ALEXIS SAELEMAEKERS - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Mon, 05 Oct 2026 16:00:00 GMT"
     },
     {
       "type": "news",
@@ -82,30 +82,30 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia Primavera, le Viola con Juventus, Napoli e Arezzo - - ACF Fiorentina",
-      "source": "ACF Fiorentina",
-      "published": "Fri, 09 Oct 2026 03:15:19 GMT"
+      "title": "Serie A: riflettori su Como-Roma, Inter e Lazio favorite - ANSA",
+      "source": "ANSA",
+      "published": "Fri, 09 Oct 2026 14:52:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Come acquistare i biglietti per Atletico Madrid-Manchester United: prezzi della Champions League, informazioni sulla partita, vendite last minute e altro ancora - Goal.com",
-      "source": "Goal.com",
-      "published": "Fri, 09 Oct 2026 13:34:21 GMT"
+      "title": "Como-Roma, le probabili formazioni della partita di Serie A - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 09 Oct 2026 15:19:20 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "La Serie A riparte dopo la lunga sosta per le Nazionali. Domani in campo Fiorentina, Inter e Napoli - Radio Norba",
-      "source": "Radio Norba",
-      "published": "Fri, 09 Oct 2026 07:18:53 GMT"
+      "title": "Serie A: domenica alle 12,30 in campo Como-Roma DIRETTA - ANSA",
+      "source": "ANSA",
+      "published": "Fri, 09 Oct 2026 15:11:18 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "WTA Pechino live in tv: Zheng batte anche Svitolina e va in semifinale - SuperTennis",
+      "title": "WTA Pechino, Mertens sorprende Swiatek, semifinale contro Zheng - SuperTennis",
       "source": "SuperTennis",
-      "published": "Fri, 09 Oct 2026 10:09:28 GMT"
+      "published": "Fri, 09 Oct 2026 13:44:28 GMT"
     },
     {
       "type": "news",
@@ -124,9 +124,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "TENNIS: Errani-Paolini, sfuma la semifinale al Wta 1000 di Pechino - Teleromagna",
-      "source": "Teleromagna",
-      "published": "Fri, 09 Oct 2026 06:45:00 GMT"
+      "title": "WTA Pechino 2026, la seconda semifinale sarà Zheng-Mertens - OA Sport",
+      "source": "OA Sport",
+      "published": "Fri, 09 Oct 2026 15:05:19 GMT"
     },
     {
       "type": "news",
@@ -134,6 +134,13 @@
       "title": "Premier Padel a Rotterdam: bis di Coello-Tapia e Ustero-Sanchez - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 04 Oct 2026 20:10:25 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Düsseldorf P2 – Gli Imperial sono i favoriti, si prospetta una semifinale esplosiva - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Fri, 09 Oct 2026 11:27:20 GMT"
     },
     {
       "type": "news",
@@ -148,13 +155,6 @@
       "title": "Padel, Fip Gold di Perugia: finale show, trionfano Jofre ed Esbri - Askanews",
       "source": "Askanews",
       "published": "Mon, 05 Oct 2026 07:05:58 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "RTL 102.5 è la radio ufficiale di Milano Premier Padel P1 2026 - Radio RTL 102.5",
-      "source": "Radio RTL 102.5",
-      "published": "Wed, 07 Oct 2026 18:08:29 GMT"
     }
   ]
 }
