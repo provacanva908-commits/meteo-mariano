@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T02:28:52.228110+00:00",
+  "updated_at": "2026-10-10T08:54:45.983413+00:00",
   "local_date": "2026-10-10",
   "articles": [
     {
@@ -138,9 +138,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan, per Endrick formula alla Brahim Diaz: prestito e controriscatto - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Fri, 09 Oct 2026 11:20:00 GMT"
+      "title": "COMUNICATO UFFICIALE: ALEXIS SAELEMAEKERS - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Mon, 05 Oct 2026 16:00:00 GMT"
     },
     {
       "type": "news",
@@ -159,16 +159,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A: domenica alle 12,30 in campo Como-Roma DIRETTA - ANSA",
-      "source": "ANSA",
-      "published": "Fri, 09 Oct 2026 15:11:18 GMT"
+      "title": "​Torna la Serie A dopo la lunga pausa nazionali: in campo Inter e Napoli, impegno ostico per il Milan. Il programma e dove guardarle - Leggo.it",
+      "source": "Leggo.it",
+      "published": "Sat, 10 Oct 2026 05:44:05 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Como-Roma, le probabili formazioni della partita di Serie A - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 09 Oct 2026 15:19:19 GMT"
+      "title": "Pronostico Sassuolo-Milan quote risultato IA 6ª giornata Serie A - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sat, 10 Oct 2026 08:43:35 GMT"
     },
     {
       "type": "news",
@@ -187,23 +187,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "WTA Pechino, Andreeva in semifinale: sfiderà Bartunkova - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Thu, 08 Oct 2026 05:00:13 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Sinner, Zverev e Alcaraz: gli scenari nel ranking ATP. Cinà sale ancora - SuperTennis",
       "source": "SuperTennis",
       "published": "Tue, 06 Oct 2026 19:46:34 GMT"
     },
     {
       "type": "news",
-      "category": "PADEL",
-      "title": "Düsseldorf P2 – Gli Imperial sono i favoriti, si prospetta una semifinale esplosiva - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Fri, 09 Oct 2026 11:27:20 GMT"
+      "category": "TENNIS",
+      "title": "WTA Pechino, Andreeva in semifinale: sfiderà Bartunkova - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Thu, 08 Oct 2026 05:00:13 GMT"
     },
     {
       "type": "news",
@@ -215,6 +208,13 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "Padel, Fip Gold di Perugia: finale show, trionfano Jofre ed Esbri - Askanews",
+      "source": "Askanews",
+      "published": "Mon, 05 Oct 2026 07:05:58 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "Rotterdam P2: Prima finale Premier Padel Stupaczuk/Sanz si presenta con fiducia contro i numeri 1 del mondo - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sun, 04 Oct 2026 07:25:28 GMT"
@@ -222,9 +222,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel, Fip Gold di Perugia: finale show, trionfano Jofre ed Esbri - Askanews",
-      "source": "Askanews",
-      "published": "Mon, 05 Oct 2026 07:05:58 GMT"
+      "title": "Düsseldorf P2 – Gli Imperial sono i favoriti, si prospetta una semifinale esplosiva - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Fri, 09 Oct 2026 11:27:20 GMT"
     }
   ]
 }
