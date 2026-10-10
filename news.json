@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-10-10T08:54:45.983413+00:00",
+  "updated_at": "2026-10-10T15:08:57.202269+00:00",
   "local_date": "2026-10-10",
   "articles": [
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Premier League",
+      "home": "Chelsea",
+      "away": "Bournemouth",
+      "time": "16:00",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 2,
+      "away_score": 0,
+      "is_live": true,
+      "local_date": "2026-10-10"
+    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -9,10 +23,10 @@
       "home": "Arsenal",
       "away": "Leeds United",
       "time": "13:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
+      "away_score": 1,
       "is_live": false,
       "local_date": "2026-10-10"
     },
@@ -23,24 +37,10 @@
       "home": "Genoa",
       "away": "Fiorentina",
       "time": "15:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-10"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Premier League",
-      "home": "Chelsea",
-      "away": "Bournemouth",
-      "time": "16:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
+      "away_score": 1,
       "is_live": false,
       "local_date": "2026-10-10"
     },
@@ -117,30 +117,30 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Juventus, ufficiale il rinnovo di Nico Gonzalez: ha firmato fino al 2030. Ingaggio e dettagli del nuovo contratto - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "Fri, 09 Oct 2026 16:20:29 GMT"
+      "title": "Calciomercato Milan, per Endrick formula alla Brahim Diaz: prestito e controriscatto - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Fri, 09 Oct 2026 11:20:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Accordo tra Comune di Monza e Città Metropolitana di Milano in merito ai corrispettivi del trasporto pubblico locale - Comune di Monza",
-      "source": "Comune di Monza",
-      "published": "Fri, 09 Oct 2026 12:27:10 GMT"
+      "title": "Alan Redmond, la mente dietro Roc Nation: \"Nel calciomercato di oggi vince il realismo. Italia? Il talento c'è...\" - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Sat, 10 Oct 2026 09:12:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Juventus, ufficiale il rinnovo di Nico Gonzalez: prolungamento fino al 2030 - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 09 Oct 2026 15:28:59 GMT"
+      "title": "RaiNews. . L'accordo bilaterale sul gasolio tra il presidente degli Stati Uniti Donald Trump e il capo del Cremlino Vladimir Putin, prevede l’immissione sui mercati internazionali di 300mila tonnellate nel breve periodo. Obiettivo: far scendere i prezzi. Marco Vale - Facebook",
+      "source": "Facebook",
+      "published": "Sat, 10 Oct 2026 12:48:41 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "COMUNICATO UFFICIALE: ALEXIS SAELEMAEKERS - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Mon, 05 Oct 2026 16:00:00 GMT"
+      "title": "Milano, Salvini: se non c’è accordo centrodestra faccia primarie subito - Askanews",
+      "source": "Askanews",
+      "published": "Sat, 10 Oct 2026 10:31:52 GMT"
     },
     {
       "type": "news",
@@ -152,6 +152,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Serie A Enilive | Lazio-Monza, la conferenza stampa pre partita di mister Gattuso - S.S. Lazio",
+      "source": "S.S. Lazio",
+      "published": "Sat, 10 Oct 2026 13:01:48 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Serie A: riflettori su Como-Roma, Inter e Lazio favorite - ANSA",
       "source": "ANSA",
       "published": "Fri, 09 Oct 2026 14:52:00 GMT"
@@ -159,16 +166,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "​Torna la Serie A dopo la lunga pausa nazionali: in campo Inter e Napoli, impegno ostico per il Milan. Il programma e dove guardarle - Leggo.it",
-      "source": "Leggo.it",
-      "published": "Sat, 10 Oct 2026 05:44:05 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Pronostico Sassuolo-Milan quote risultato IA 6ª giornata Serie A - La Gazzetta dello Sport",
+      "title": "Como-Roma pronostico risultato IA Serie A 6ª giornata - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
-      "published": "Sat, 10 Oct 2026 08:43:35 GMT"
+      "published": "Sat, 10 Oct 2026 10:24:08 GMT"
     },
     {
       "type": "news",
@@ -176,13 +176,6 @@
       "title": "WTA Pechino, Mertens sorprende Swiatek, semifinale contro Zheng - SuperTennis",
       "source": "SuperTennis",
       "published": "Fri, 09 Oct 2026 13:44:28 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "WTA Pechino 2026, la seconda semifinale sarà Zheng-Mertens - OA Sport",
-      "source": "OA Sport",
-      "published": "Fri, 09 Oct 2026 15:05:19 GMT"
     },
     {
       "type": "news",
@@ -200,6 +193,27 @@
     },
     {
       "type": "news",
+      "category": "TENNIS",
+      "title": "WTA 125 Samsun, Stefanini in finale contro Aksu - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Sat, 10 Oct 2026 13:47:59 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Tour: Bahurel in semifinale, Mansart e Guy de Chamisso continuano la loro corsa - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Sat, 10 Oct 2026 13:33:34 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Germania P2: I quarti di finale più veloci della storia Premier Padel - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Sat, 10 Oct 2026 07:56:08 GMT"
+    },
+    {
+      "type": "news",
       "category": "PADEL",
       "title": "Premier Padel a Rotterdam: bis di Coello-Tapia e Ustero-Sanchez - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
@@ -208,23 +222,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Padel, Fip Gold di Perugia: finale show, trionfano Jofre ed Esbri - Askanews",
-      "source": "Askanews",
-      "published": "Mon, 05 Oct 2026 07:05:58 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
       "title": "Rotterdam P2: Prima finale Premier Padel Stupaczuk/Sanz si presenta con fiducia contro i numeri 1 del mondo - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sun, 04 Oct 2026 07:25:28 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Düsseldorf P2 – Gli Imperial sono i favoriti, si prospetta una semifinale esplosiva - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Fri, 09 Oct 2026 11:27:20 GMT"
     }
   ]
 }
