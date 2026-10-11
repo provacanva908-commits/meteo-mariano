@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T01:19:43.559144+00:00",
+  "updated_at": "2026-10-11T07:28:35.008340+00:00",
   "local_date": "2026-10-11",
   "articles": [
     {
@@ -117,6 +117,20 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Calciomercato | Con Antonio Russo rinnovo fino al 2029 con opzione - Ascoli Calcio 1898 FC - Sito ufficiale",
+      "source": "Ascoli Calcio 1898 FC - Sito ufficiale",
+      "published": "Fri, 09 Oct 2026 09:02:16 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Juventus, ufficiale il rinnovo di Nico Gonzalez: ha firmato fino al 2030. Ingaggio e dettagli del nuovo contratto - Eurosport.it",
+      "source": "Eurosport.it",
+      "published": "Fri, 09 Oct 2026 16:20:29 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Calciomercato Milan, per Endrick formula alla Brahim Diaz: prestito e controriscatto - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Fri, 09 Oct 2026 11:20:00 GMT"
@@ -124,23 +138,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Alan Redmond, la mente dietro Roc Nation: \"Nel calciomercato di oggi vince il realismo. Italia? Il talento c'è...\" - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Sat, 10 Oct 2026 09:12:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "COMUNICATO UFFICIALE: ALEXIS SAELEMAEKERS - AC Milan",
-      "source": "AC Milan",
-      "published": "Mon, 05 Oct 2026 16:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "RaiNews. . L'accordo bilaterale sul gasolio tra il presidente degli Stati Uniti Donald Trump e il capo del Cremlino Vladimir Putin, prevede l’immissione sui mercati internazionali di 300mila tonnellate nel breve periodo. Obiettivo: far scendere i prezzi. Marco Vale - Facebook",
+      "title": "L'accordo bilaterale sul gasolio tra il presidente degli Stati Uniti Donald Trump e il capo del Cremlino Vladimir Putin, prevede l’immissione sui mercati internazionali di 300mila tonnellate nel breve periodo. Obiettivo: far scendere i prezzi. Marco Valerio Lo Pret - Facebook",
       "source": "Facebook",
-      "published": "Sat, 10 Oct 2026 12:48:41 GMT"
+      "published": "Sat, 10 Oct 2026 12:49:52 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Como-Roma, Lazio, Milan e Juventus oggi in Serie A: orario, probabili formazioni e dove vederle in tv - LaPresse",
+      "source": "LaPresse",
+      "published": "Sun, 11 Oct 2026 06:39:10 GMT"
     },
     {
       "type": "news",
@@ -152,13 +159,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Enilive | Lazio-Monza, la conferenza stampa pre partita di mister Gattuso - S.S. Lazio",
-      "source": "S.S. Lazio",
-      "published": "Sat, 10 Oct 2026 13:01:49 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Serie A: riflettori su Como-Roma, Inter e Lazio favorite - ANSA",
       "source": "ANSA",
       "published": "Fri, 09 Oct 2026 14:52:00 GMT"
@@ -166,9 +166,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Ufficiale: Vis Novafeltria-Rimini di Coppa Italia Eccellenza si gioca al Mazzola - Newsrimini",
-      "source": "Newsrimini",
-      "published": "Sat, 10 Oct 2026 09:04:00 GMT"
+      "title": "Serie A Enilive | Segui Lazio-Monza su sslazio.it e Lazio Style Radio - S.S. Lazio",
+      "source": "S.S. Lazio",
+      "published": "Sun, 11 Oct 2026 06:26:58 GMT"
     },
     {
       "type": "news",
@@ -194,9 +194,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "WTA Pechino: la finale sarà Zheng-Andreeva (live tv domenica alle 13.30) - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Sat, 10 Oct 2026 16:12:59 GMT"
+      "title": "WTA Pechino 2026, la seconda semifinale sarà Zheng-Mertens - OA Sport",
+      "source": "OA Sport",
+      "published": "Fri, 09 Oct 2026 15:05:19 GMT"
     },
     {
       "type": "news",
