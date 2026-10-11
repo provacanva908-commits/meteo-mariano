@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T22:42:46.836382+00:00",
+  "updated_at": "2026-10-11T01:19:43.559144+00:00",
   "local_date": "2026-10-11",
   "articles": [
     {
@@ -131,16 +131,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "RaiNews. . L'accordo bilaterale sul gasolio tra il presidente degli Stati Uniti Donald Trump e il capo del Cremlino Vladimir Putin, prevede l’immissione sui mercati internazionali di 300mila tonnellate nel breve periodo. Obiettivo: far scendere i prezzi. Marco Vale - Facebook",
-      "source": "Facebook",
-      "published": "Sat, 10 Oct 2026 12:48:41 GMT"
+      "title": "COMUNICATO UFFICIALE: ALEXIS SAELEMAEKERS - AC Milan",
+      "source": "AC Milan",
+      "published": "Mon, 05 Oct 2026 16:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "COMUNICATO UFFICIALE: ALEXIS SAELEMAEKERS - AC Milan",
-      "source": "AC Milan",
-      "published": "Mon, 05 Oct 2026 16:00:00 GMT"
+      "title": "RaiNews. . L'accordo bilaterale sul gasolio tra il presidente degli Stati Uniti Donald Trump e il capo del Cremlino Vladimir Putin, prevede l’immissione sui mercati internazionali di 300mila tonnellate nel breve periodo. Obiettivo: far scendere i prezzi. Marco Vale - Facebook",
+      "source": "Facebook",
+      "published": "Sat, 10 Oct 2026 12:48:41 GMT"
     },
     {
       "type": "news",
@@ -154,7 +154,7 @@
       "category": "CALCIO",
       "title": "Serie A Enilive | Lazio-Monza, la conferenza stampa pre partita di mister Gattuso - S.S. Lazio",
       "source": "S.S. Lazio",
-      "published": "Sat, 10 Oct 2026 17:07:38 GMT"
+      "published": "Sat, 10 Oct 2026 13:01:49 GMT"
     },
     {
       "type": "news",
@@ -201,6 +201,13 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "Germania P2: Coello e Tapia superano Lebrón / Augsburger e accedono alla finale - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Sat, 10 Oct 2026 17:42:15 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "FIP Tour: Bahurel in semifinale, Mansart e Guy de Chamisso continuano la loro corsa - Padel Magazine",
       "source": "Padel Magazine",
       "published": "Sat, 10 Oct 2026 13:33:34 GMT"
@@ -218,13 +225,6 @@
       "title": "Germania P2: I quarti di finale più veloci della storia Premier Padel - Padel Magazine",
       "source": "Padel Magazine",
       "published": "Sat, 10 Oct 2026 07:56:08 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel a Rotterdam: bis di Coello-Tapia e Ustero-Sanchez - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 04 Oct 2026 20:10:25 GMT"
     }
   ]
 }
