@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-10-11T07:28:35.008340+00:00",
+  "updated_at": "2026-10-11T14:20:09.979359+00:00",
   "local_date": "2026-10-11",
   "articles": [
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Como 1907",
-      "away": "Roma",
-      "time": "12:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-11"
-    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -23,11 +9,11 @@
       "home": "Lazio",
       "away": "Monza",
       "time": "15:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 2,
+      "away_score": 1,
+      "is_live": true,
       "local_date": "2026-10-11"
     },
     {
@@ -37,10 +23,24 @@
       "home": "Lecce",
       "away": "Bologna",
       "time": "15:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 1,
+      "is_live": true,
+      "local_date": "2026-10-11"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Como 1907",
+      "away": "Roma",
+      "time": "12:30",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 0,
+      "away_score": 0,
       "is_live": false,
       "local_date": "2026-10-11"
     },
@@ -117,23 +117,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato | Con Antonio Russo rinnovo fino al 2029 con opzione - Ascoli Calcio 1898 FC - Sito ufficiale",
-      "source": "Ascoli Calcio 1898 FC - Sito ufficiale",
-      "published": "Fri, 09 Oct 2026 09:02:16 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Juventus, ufficiale il rinnovo di Nico Gonzalez: ha firmato fino al 2030. Ingaggio e dettagli del nuovo contratto - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "Fri, 09 Oct 2026 16:20:29 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "Calciomercato Milan, per Endrick formula alla Brahim Diaz: prestito e controriscatto - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Fri, 09 Oct 2026 11:20:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "«Eravamo seduti lì, come idioti, in trappola. Ci hanno usati come copertura»: le drammatiche ore in cui gli ucraini hanno saputo dell'accordo (già firmato) tra Trump e Putin - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Sun, 11 Oct 2026 08:51:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "COMUNICATO UFFICIALE: ALEXIS SAELEMAEKERS - AC Milan",
+      "source": "AC Milan",
+      "published": "Mon, 05 Oct 2026 16:00:00 GMT"
     },
     {
       "type": "news",
@@ -145,13 +145,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Como-Roma, Lazio, Milan e Juventus oggi in Serie A: orario, probabili formazioni e dove vederle in tv - LaPresse",
-      "source": "LaPresse",
-      "published": "Sun, 11 Oct 2026 06:39:10 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Coppa Italia Primavera Women, sorteggiata la fase a gironi: i derby Roma-Lazio e Milan-Inter sulla strada verso le semifinali - FIGC",
       "source": "FIGC",
       "published": "Thu, 08 Oct 2026 06:12:00 GMT"
@@ -159,16 +152,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A: riflettori su Como-Roma, Inter e Lazio favorite - ANSA",
-      "source": "ANSA",
-      "published": "Fri, 09 Oct 2026 14:52:00 GMT"
+      "title": "Serie A, Como-Roma finisce 0-0. Ora in campo Lazio-Monza e Lecce-Bologna - Sky TG24",
+      "source": "Sky TG24",
+      "published": "Sun, 11 Oct 2026 12:56:29 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Enilive | Segui Lazio-Monza su sslazio.it e Lazio Style Radio - S.S. Lazio",
+      "title": "Serie A Enilive | Lazio-Monza, i convocati biancocelesti - S.S. Lazio",
       "source": "S.S. Lazio",
-      "published": "Sun, 11 Oct 2026 06:26:58 GMT"
+      "published": "Sun, 11 Oct 2026 09:02:19 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A Enilive | Lazio-Monza, le parole di Isaksen nel pre partita - S.S. Lazio",
+      "source": "S.S. Lazio",
+      "published": "Sun, 11 Oct 2026 12:08:58 GMT"
     },
     {
       "type": "news",
@@ -194,9 +194,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "WTA Pechino 2026, la seconda semifinale sarà Zheng-Mertens - OA Sport",
-      "source": "OA Sport",
-      "published": "Fri, 09 Oct 2026 15:05:19 GMT"
+      "title": "WTA Pechino: la finale sarà Zheng-Andreeva (ora live in tv) - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Sat, 10 Oct 2026 06:03:33 GMT"
     },
     {
       "type": "news",
@@ -222,9 +222,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Germania P2: I quarti di finale più veloci della storia Premier Padel - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Sat, 10 Oct 2026 07:56:08 GMT"
+      "title": "P1000 Signore Il mio Padel Langon – Denecheau / Majdoubi e Vandaele / Dautriat eliminati in semifinale - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sun, 11 Oct 2026 09:55:15 GMT"
     }
   ]
 }
