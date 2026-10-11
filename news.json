@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-10-11T14:20:09.979359+00:00",
+  "updated_at": "2026-10-11T19:04:31.677524+00:00",
   "local_date": "2026-10-11",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Lazio",
-      "away": "Monza",
-      "time": "15:00",
+      "home": "Cagliari",
+      "away": "Juventus",
+      "time": "20:45",
       "status": "IN_PLAY",
       "status_label": "LIVE",
-      "home_score": 2,
-      "away_score": 1,
+      "home_score": 0,
+      "away_score": 0,
       "is_live": true,
       "local_date": "2026-10-11"
     },
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Lecce",
-      "away": "Bologna",
-      "time": "15:00",
+      "competition": "Ligue 1",
+      "home": "Troyes",
+      "away": "Marseille",
+      "time": "20:45",
       "status": "IN_PLAY",
       "status_label": "LIVE",
       "home_score": 0,
-      "away_score": 1,
+      "away_score": 0,
       "is_live": true,
       "local_date": "2026-10-11"
     },
@@ -47,14 +47,42 @@
     {
       "type": "match",
       "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Lazio",
+      "away": "Monza",
+      "time": "15:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 3,
+      "away_score": 1,
+      "is_live": false,
+      "local_date": "2026-10-11"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Lecce",
+      "away": "Bologna",
+      "time": "15:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 2,
+      "is_live": false,
+      "local_date": "2026-10-11"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
       "competition": "Premier League",
       "home": "Liverpool",
       "away": "Man City",
       "time": "17:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 0,
+      "away_score": 3,
       "is_live": false,
       "local_date": "2026-10-11"
     },
@@ -65,10 +93,10 @@
       "home": "Sassuolo",
       "away": "Milan",
       "time": "18:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 1,
       "is_live": false,
       "local_date": "2026-10-11"
     },
@@ -79,40 +107,26 @@
       "home": "SL Benfica",
       "away": "Vitória SC",
       "time": "19:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
+      "away_score": 0,
       "is_live": false,
       "local_date": "2026-10-11"
     },
     {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Cagliari",
-      "away": "Juventus",
-      "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-11"
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "L'ex leggenda del Milan torna ad allenare dopo 7 anni: ufficiale l'accordo fino a fine stagione - Sprint e Sport",
+      "source": "Sprint e Sport",
+      "published": "Sun, 11 Oct 2026 15:25:42 GMT"
     },
     {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Ligue 1",
-      "home": "Troyes",
-      "away": "Marseille",
-      "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-11"
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Mattinata e Napoli unite da olio EVO e pizza: firmato l’accordo di partenariato - Mattinata.it",
+      "source": "Mattinata.it",
+      "published": "Sun, 11 Oct 2026 11:10:47 GMT"
     },
     {
       "type": "news",
@@ -124,37 +138,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "«Eravamo seduti lì, come idioti, in trappola. Ci hanno usati come copertura»: le drammatiche ore in cui gli ucraini hanno saputo dell'accordo (già firmato) tra Trump e Putin - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Sun, 11 Oct 2026 08:51:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "COMUNICATO UFFICIALE: ALEXIS SAELEMAEKERS - AC Milan",
-      "source": "AC Milan",
-      "published": "Mon, 05 Oct 2026 16:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "L'accordo bilaterale sul gasolio tra il presidente degli Stati Uniti Donald Trump e il capo del Cremlino Vladimir Putin, prevede l’immissione sui mercati internazionali di 300mila tonnellate nel breve periodo. Obiettivo: far scendere i prezzi. Marco Valerio Lo Pret - Facebook",
-      "source": "Facebook",
-      "published": "Sat, 10 Oct 2026 12:49:52 GMT"
+      "title": "Le strisce pedonali sbiadiscono subito? Nel municipio I sono tutti d'accordo: \"Servono vernici speciali e rifrangenti\" - RomaToday",
+      "source": "RomaToday",
+      "published": "Sun, 11 Oct 2026 15:25:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia Primavera Women, sorteggiata la fase a gironi: i derby Roma-Lazio e Milan-Inter sulla strada verso le semifinali - FIGC",
-      "source": "FIGC",
-      "published": "Thu, 08 Oct 2026 06:12:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, Como-Roma finisce 0-0. Ora in campo Lazio-Monza e Lecce-Bologna - Sky TG24",
-      "source": "Sky TG24",
-      "published": "Sun, 11 Oct 2026 12:56:29 GMT"
+      "title": "⁠Gli arbitri delle italiane in Champions League: Inter-Bruges a Saggi, Siebert per Villarreal-Napoli - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Sun, 11 Oct 2026 15:22:00 GMT"
     },
     {
       "type": "news",
@@ -166,9 +159,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Enilive | Lazio-Monza, le parole di Isaksen nel pre partita - S.S. Lazio",
+      "title": "Serie A Enilive | Lazio-Monza, le conferenze stampa post partita di Pinamonti e mister Gattuso - S.S. Lazio",
       "source": "S.S. Lazio",
-      "published": "Sun, 11 Oct 2026 12:08:58 GMT"
+      "published": "Sun, 11 Oct 2026 18:09:25 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A Enilive | Lazio-Monza, le dichiarazioni post partita - S.S. Lazio",
+      "source": "S.S. Lazio",
+      "published": "Sun, 11 Oct 2026 16:23:55 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "WTA Pechino, Andreeva in semifinale: sfiderà Bartunkova - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Sat, 10 Oct 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -180,13 +187,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "WTA Pechino, Andreeva in semifinale: sfiderà Bartunkova - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Thu, 08 Oct 2026 05:00:13 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Sinner, Zverev e Alcaraz: gli scenari nel ranking ATP. Cinà sale ancora - SuperTennis",
       "source": "SuperTennis",
       "published": "Tue, 06 Oct 2026 19:46:34 GMT"
@@ -194,9 +194,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "WTA Pechino: la finale sarà Zheng-Andreeva (ora live in tv) - SuperTennis",
+      "title": "WTA 125 Samsun, Stefanini in finale contro Aksu - SuperTennis",
       "source": "SuperTennis",
-      "published": "Sat, 10 Oct 2026 06:03:33 GMT"
+      "published": "Sat, 10 Oct 2026 13:47:59 GMT"
     },
     {
       "type": "news",
@@ -208,13 +208,6 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Tour: Bahurel in semifinale, Mansart e Guy de Chamisso continuano la loro corsa - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Sat, 10 Oct 2026 13:33:34 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
       "title": "Seurin/Joris, Dumoulin/Pillon, Bahurel, Guy de Chamisso, Mansart… i francesi puntano alla semifinale del FIP Tour - Padel Magazine",
       "source": "Padel Magazine",
       "published": "Sat, 10 Oct 2026 06:50:54 GMT"
@@ -222,9 +215,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "P1000 Signore Il mio Padel Langon – Denecheau / Majdoubi e Vandaele / Dautriat eliminati in semifinale - padel-magazine.it",
-      "source": "padel-magazine.it",
+      "title": "P1000 Signore Il mio Padel Langon – Denecheau / Majdoubi e Vandaele / Dautriat eliminati rapidamente in semifinale - Padel Magazine",
+      "source": "Padel Magazine",
       "published": "Sun, 11 Oct 2026 09:55:15 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Germania P2: I quarti di finale più veloci della storia Premier Padel - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Sat, 10 Oct 2026 07:56:08 GMT"
     }
   ]
 }
