@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-10-12T09:04:56.903982+00:00",
+  "updated_at": "2026-10-12T18:59:14.351511+00:00",
   "local_date": "2026-10-12",
   "articles": [
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Atalanta",
-      "away": "Venezia FC",
-      "time": "18:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-12"
-    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -23,96 +9,110 @@
       "home": "Torino",
       "away": "Udinese",
       "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "is_live": true,
+      "local_date": "2026-10-12"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Atalanta",
+      "away": "Venezia FC",
+      "time": "18:30",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 3,
+      "away_score": 1,
       "is_live": false,
       "local_date": "2026-10-12"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Svolta Ue sulle auto cinesi: c’è l’accordo per blindare il mercato. Ecco quante ne entreranno - Energia Oltre",
-      "source": "Energia Oltre",
-      "published": "Mon, 12 Oct 2026 05:44:25 GMT"
+      "title": "Il Gruppo Nicolaus smentisce l'accordo per la cessione. Interlocuzioni in corso, ma nessuna vendita - advtraining.it",
+      "source": "advtraining.it",
+      "published": "Mon, 12 Oct 2026 13:00:34 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Renault, l'ad Provost promuove l’accordo Ue-Cina sulle ibride: una svolta. E conferma 10 miliardi in Francia - Milano Finanza",
-      "source": "Milano Finanza",
-      "published": "Mon, 12 Oct 2026 05:00:00 GMT"
+      "title": "Accordo UE-Mercosur: cosa cambia per le imprese italiane - Ministero degli Affari Esteri e della Cooperazione Internazionale",
+      "source": "Ministero degli Affari Esteri e della Cooperazione Internazionale",
+      "published": "Mon, 12 Oct 2026 13:21:51 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Inwit torna a correre sull’ipotesi opa, ma gli analisti non sono d’accordo sul valore - Milano Finanza",
-      "source": "Milano Finanza",
-      "published": "Mon, 12 Oct 2026 07:50:00 GMT"
+      "title": "Space Economy, accordo quadro tra Regione Lazio e Agenzia Spaziale Italiana - Regione Lazio",
+      "source": "Regione Lazio",
+      "published": "Mon, 12 Oct 2026 15:44:45 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "ALTEC e ispace firmano un accordo per i test dei rover lunari a Torino - AstroSpace",
-      "source": "AstroSpace",
-      "published": "Mon, 12 Oct 2026 08:03:46 GMT"
+      "title": "Notizie tematiche - Arpal e Arpa Puglia firmano l'accordo sul One Health - Arpal Liguria",
+      "source": "Arpal Liguria",
+      "published": "Mon, 12 Oct 2026 12:28:16 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Su che canale vedere in tv Inter, Roma, Napoli e Como in Champions League questa settimana: orari 13-14 ottobre e streaming - OA Sport",
-      "source": "OA Sport",
-      "published": "Mon, 12 Oct 2026 02:30:42 GMT"
+      "title": "Champions League show con Manchester City-Psg, Mourinho torna all'Olimpico - ANSA",
+      "source": "ANSA",
+      "published": "Mon, 12 Oct 2026 10:09:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, il commento della 6ª giornata: Inter e Lazio in vetta, frenano Roma, Milan e Juventus - WilliamHillNews",
-      "source": "WilliamHillNews",
-      "published": "Mon, 12 Oct 2026 08:43:45 GMT"
+      "title": "Champions League: Inter-Club Brugges in campo martedì alle 21 LIVE - ANSA",
+      "source": "ANSA",
+      "published": "Mon, 12 Oct 2026 12:56:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League in TV, le partite della 2ª giornata da Inter-Club Brugge a Roma-Real Madrid: programma e orari - Fanpage",
-      "source": "Fanpage",
-      "published": "Mon, 12 Oct 2026 04:31:04 GMT"
+      "title": "Champions League, il duello \"Spagna-Italia\" inizia con Villarreal-Napoli - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Mon, 12 Oct 2026 13:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Intervista a Harry Kane: il suo nuovo ruolo al Bayern e le ambizioni in Champions League - UEFA.com",
-      "source": "UEFA.com",
-      "published": "Mon, 12 Oct 2026 08:48:06 GMT"
+      "title": "Roma-Real Madrid: pronostico, consigli sulle scommesse e quote | Champions League - Eurosport.it",
+      "source": "Eurosport.it",
+      "published": "Mon, 12 Oct 2026 18:31:14 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "WTA Pechino, Andreeva in semifinale: sfiderà Bartunkova - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Sat, 10 Oct 2026 07:00:00 GMT"
+      "title": "Zverev chiuderà 2026 da numero uno del ranking Atp, come cambia classifica per Sinner e Alcaraz - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Mon, 12 Oct 2026 13:12:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "WTA Pechino, Mertens sorprende Swiatek, semifinale contro Zheng - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Fri, 09 Oct 2026 13:44:28 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "WTA 125 Samsun, Stefanini in finale contro Aksu - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Sat, 10 Oct 2026 13:47:59 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Wta 1000 Pechino, Qinwen Zheng vince il torneo - Sky Sport",
+      "title": "Alcaraz fuori al 3° turno all'Atp Shanghai 2026: Bergs vince in due set - Sky Sport",
       "source": "Sky Sport",
-      "published": "Mon, 12 Oct 2026 06:05:16 GMT"
+      "published": "Mon, 12 Oct 2026 09:35:24 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Alcaraz beffato, il nuovo numero 1 ATP sarà Zverev: quando potrebbe avvenire il sorpasso - DAZN",
+      "source": "DAZN",
+      "published": "Mon, 12 Oct 2026 15:46:28 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "\"Non gliene frega niente\", Sinner 'snobba' ranking e sorpasso Zverev al numero 1 - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Mon, 12 Oct 2026 13:24:00 GMT"
     },
     {
       "type": "news",
@@ -120,13 +120,6 @@
       "title": "Germania P2: Coello e Tapia superano Lebrón / Augsburger e accedono alla finale - Padel Magazine",
       "source": "Padel Magazine",
       "published": "Sat, 10 Oct 2026 17:42:15 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Seurin/Joris, Dumoulin/Pillon, Bahurel, Guy de Chamisso, Mansart… i francesi puntano alla semifinale del FIP Tour - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Sat, 10 Oct 2026 06:50:54 GMT"
     },
     {
       "type": "news",
@@ -141,6 +134,13 @@
       "title": "P1000 Signore Il mio Padel Langon – Denecheau / Majdoubi e Vandaele / Dautriat eliminati rapidamente in semifinale - Padel Magazine",
       "source": "Padel Magazine",
       "published": "Sun, 11 Oct 2026 09:55:15 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Germania P2: I quarti di finale più veloci della storia Premier Padel - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Sat, 10 Oct 2026 07:56:08 GMT"
     }
   ]
 }
