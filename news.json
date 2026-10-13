@@ -1,118 +1,125 @@
 {
-  "updated_at": "2026-10-13T20:47:51.133232+00:00",
-  "local_date": "2026-10-13",
+  "updated_at": "2026-10-13T23:59:06.732346+00:00",
+  "local_date": "2026-10-14",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Arsenal",
-      "away": "Lille",
-      "time": "21:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 3,
-      "away_score": 0,
-      "is_live": true,
-      "local_date": "2026-10-13"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "RB Leipzig",
-      "away": "PSV",
-      "time": "21:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 1,
-      "away_score": 0,
-      "is_live": true,
-      "local_date": "2026-10-13"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Galatasaray",
-      "away": "Barça",
-      "time": "21:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 1,
-      "away_score": 4,
-      "is_live": true,
-      "local_date": "2026-10-13"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Viking",
-      "away": "Bayern",
-      "time": "21:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 2,
-      "away_score": 3,
-      "is_live": true,
-      "local_date": "2026-10-13"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Inter",
-      "away": "Club Brugge",
-      "time": "21:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 2,
-      "away_score": 3,
-      "is_live": true,
-      "local_date": "2026-10-13"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Villarreal",
-      "away": "Napoli",
-      "time": "21:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 2,
-      "away_score": 1,
-      "is_live": true,
-      "local_date": "2026-10-13"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Atleti",
-      "away": "Man United",
-      "time": "21:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 2,
-      "away_score": 0,
-      "is_live": true,
-      "local_date": "2026-10-13"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Sabah FK",
-      "away": "Slavia Praha",
+      "home": "LASK",
+      "away": "Liverpool",
       "time": "18:45",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 2,
-      "away_score": 0,
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-10-13"
+      "local_date": "2026-10-14"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Feyenoord",
+      "away": "Como 1907",
+      "time": "18:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-14"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Sl. Bratislava",
+      "away": "Stuttgart",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-14"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Bodø/Glimt",
+      "away": "Dortmund",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-14"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Real Betis",
+      "away": "Porto",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-14"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Roma",
+      "away": "Real Madrid",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-14"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Man City",
+      "away": "PSG",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-14"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Aston Villa",
+      "away": "Fenerbahçe",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-14"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli, Manna sul rinnovo di McTominay: \"Scott vuole rimanere, ci stiamo lavorando\" - NapoliToday",
+      "source": "NapoliToday",
+      "published": "Tue, 13 Oct 2026 22:00:00 GMT"
     },
     {
       "type": "news",
@@ -124,23 +131,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Nuovo stadio a Napoli, De Laurentiis-Q8 Italia: si avvicina l’accordo per l’acquisto dei terreni - Il Mattino",
+      "source": "Il Mattino",
+      "published": "Tue, 13 Oct 2026 22:25:03 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Milan, c'è l'accordo per il rinnovo di Pavlovic - Fantacalcio",
       "source": "Fantacalcio",
       "published": "Tue, 13 Oct 2026 14:24:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Salute e sicurezza nei porti: firmato l’accordo attuativo per rafforzare la prevenzione, la formazione e l’innovazione tecnologica - Autorità di Sistema Portuale Mar Ligure Occidentale",
-      "source": "Autorità di Sistema Portuale Mar Ligure Occidentale",
-      "published": "Tue, 13 Oct 2026 14:59:47 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Sparkle sigla un accordo con Infront per la connettività internazionale a supporto dei media sportivi - Gruppo TIM",
-      "source": "Gruppo TIM",
-      "published": "Tue, 13 Oct 2026 10:16:00 GMT"
     },
     {
       "type": "news",
@@ -152,23 +152,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "[DIRETTA@HD] Villarreal-Napoli partita di Champions League in streaming 13 ottobre 2026 - Universidad de Córdoba (UCO)",
-      "source": "Universidad de Córdoba (UCO)",
-      "published": "Tue, 13 Oct 2026 19:42:06 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "[DIRETTA]LIVE!] Villarreal-Napoli partita di Champions League in streaming 13 ottobre 2026 - Universidad de Córdoba (UCO)",
-      "source": "Universidad de Córdoba (UCO)",
-      "published": "Tue, 13 Oct 2026 19:43:20 GMT"
+      "title": "Riepilogo seconda giornata Champions League: cadono Inter e Napoli, vittorie per Arsenal, Barcelona e Sporting - UEFA.com",
+      "source": "UEFA.com",
+      "published": "Tue, 13 Oct 2026 21:49:11 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
       "title": "Champions League: Roma-Real Madrid in campo mercoledì alle 21 DIRETTA - ANSA",
       "source": "ANSA",
-      "published": "Tue, 13 Oct 2026 14:29:00 GMT"
+      "published": "Tue, 13 Oct 2026 17:16:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "[DIRETTA@HD] Villarreal-Napoli partita di Champions League in streaming 13 ottobre 2026 - Universidad de Córdoba (UCO)",
+      "source": "Universidad de Córdoba (UCO)",
+      "published": "Tue, 13 Oct 2026 19:42:06 GMT"
     },
     {
       "type": "news",
