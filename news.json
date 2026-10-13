@@ -1,41 +1,125 @@
 {
-  "updated_at": "2026-10-12T18:59:14.351511+00:00",
-  "local_date": "2026-10-12",
+  "updated_at": "2026-10-13T01:15:54.100677+00:00",
+  "local_date": "2026-10-13",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Torino",
-      "away": "Udinese",
-      "time": "20:45",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 0,
-      "away_score": 0,
-      "is_live": true,
-      "local_date": "2026-10-12"
+      "competition": "UEFA Champions League",
+      "home": "RC Lens",
+      "away": "Sporting CP",
+      "time": "18:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-13"
     },
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Atalanta",
-      "away": "Venezia FC",
-      "time": "18:30",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 3,
-      "away_score": 1,
+      "competition": "UEFA Champions League",
+      "home": "Sabah FK",
+      "away": "Slavia Praha",
+      "time": "18:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-10-12"
+      "local_date": "2026-10-13"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Inter",
+      "away": "Club Brugge",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-13"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Villarreal",
+      "away": "Napoli",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-13"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Atleti",
+      "away": "Man United",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-13"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Viking",
+      "away": "Bayern",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-13"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "RB Leipzig",
+      "away": "PSV",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-13"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Galatasaray",
+      "away": "Barça",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-13"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "Il Gruppo Nicolaus smentisce l'accordo per la cessione. Interlocuzioni in corso, ma nessuna vendita - advtraining.it",
       "source": "advtraining.it",
-      "published": "Mon, 12 Oct 2026 13:00:34 GMT"
+      "published": "Mon, 12 Oct 2026 13:02:50 GMT"
     },
     {
       "type": "news",
@@ -47,9 +131,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Space Economy, accordo quadro tra Regione Lazio e Agenzia Spaziale Italiana - Regione Lazio",
-      "source": "Regione Lazio",
-      "published": "Mon, 12 Oct 2026 15:44:45 GMT"
+      "title": "Disabilità e invalidità civile: accordo tra Regione Lazio, Inps e Prap. Anastasìa: \"Bene così\" - Garante detenuti Lazio",
+      "source": "Garante detenuti Lazio",
+      "published": "Mon, 12 Oct 2026 14:10:46 GMT"
     },
     {
       "type": "news",
@@ -61,6 +145,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Il ritorno di Mourinho all’Olimpico, l’Inter ritrova Sommer, le trappole per Como e Napoli: riecco la Champions - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Mon, 12 Oct 2026 19:52:36 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Champions League show con Manchester City-Psg, Mourinho torna all'Olimpico - ANSA",
       "source": "ANSA",
       "published": "Mon, 12 Oct 2026 10:09:00 GMT"
@@ -68,23 +159,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: Inter-Club Brugges in campo martedì alle 21 LIVE - ANSA",
-      "source": "ANSA",
-      "published": "Mon, 12 Oct 2026 12:56:00 GMT"
+      "title": "Villarreal-Napoli, le probabili formazioni della partita di Champions League - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Mon, 12 Oct 2026 20:28:22 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, il duello \"Spagna-Italia\" inizia con Villarreal-Napoli - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Mon, 12 Oct 2026 13:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Roma-Real Madrid: pronostico, consigli sulle scommesse e quote | Champions League - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "Mon, 12 Oct 2026 18:31:14 GMT"
+      "title": "Champions League, Inter-Bruges: dove vederla in diretta tv e streaming, probabili formazioni - la Repubblica",
+      "source": "la Repubblica",
+      "published": "Mon, 12 Oct 2026 22:01:00 GMT"
     },
     {
       "type": "news",
@@ -96,23 +180,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Alcaraz fuori al 3° turno all'Atp Shanghai 2026: Bergs vince in due set - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Mon, 12 Oct 2026 09:35:24 GMT"
+      "title": "WTA Pechino, Mertens sorprende Swiatek, semifinale contro Zheng - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Fri, 09 Oct 2026 13:44:28 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Alcaraz beffato, il nuovo numero 1 ATP sarà Zverev: quando potrebbe avvenire il sorpasso - DAZN",
-      "source": "DAZN",
-      "published": "Mon, 12 Oct 2026 15:46:28 GMT"
+      "title": "Djokovic: \"Sinner mancherà al tennis, ma ha fatto la scelta giusta\" - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Mon, 12 Oct 2026 18:56:49 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "\"Non gliene frega niente\", Sinner 'snobba' ranking e sorpasso Zverev al numero 1 - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Mon, 12 Oct 2026 13:24:00 GMT"
+      "title": "Sinner come Goggia: il luminare Schoenhuber guida la riabilitazione dell'azzurro - Style Magazine",
+      "source": "Style Magazine",
+      "published": "Mon, 12 Oct 2026 15:45:44 GMT"
     },
     {
       "type": "news",
@@ -120,6 +204,13 @@
       "title": "Germania P2: Coello e Tapia superano Lebrón / Augsburger e accedono alla finale - Padel Magazine",
       "source": "Padel Magazine",
       "published": "Sat, 10 Oct 2026 17:42:15 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Finale Germany P2 Premier Padel: Stupa e Sanz ci provano - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Mon, 12 Oct 2026 19:37:43 GMT"
     },
     {
       "type": "news",
@@ -134,13 +225,6 @@
       "title": "P1000 Signore Il mio Padel Langon – Denecheau / Majdoubi e Vandaele / Dautriat eliminati rapidamente in semifinale - Padel Magazine",
       "source": "Padel Magazine",
       "published": "Sun, 11 Oct 2026 09:55:15 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Germania P2: I quarti di finale più veloci della storia Premier Padel - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Sat, 10 Oct 2026 07:56:08 GMT"
     }
   ]
 }
