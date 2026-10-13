@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-10-13T07:49:43.027870+00:00",
+  "updated_at": "2026-10-13T15:26:00.278731+00:00",
   "local_date": "2026-10-13",
   "articles": [
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "RC Lens",
-      "away": "Sporting CP",
-      "time": "18:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-13"
-    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -34,8 +20,50 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Viking",
-      "away": "Bayern",
+      "home": "RC Lens",
+      "away": "Sporting CP",
+      "time": "18:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-13"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "RB Leipzig",
+      "away": "PSV",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-13"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Galatasaray",
+      "away": "Barça",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-13"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Arsenal",
+      "away": "Lille",
       "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -87,88 +115,60 @@
       "local_date": "2026-10-13"
     },
     {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "RB Leipzig",
-      "away": "PSV",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-13"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Galatasaray",
-      "away": "Barça",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-13"
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Milan, c'è l'accordo per il rinnovo di Pavlovic - Fantacalcio",
+      "source": "Fantacalcio",
+      "published": "Tue, 13 Oct 2026 14:24:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Accordo UE-Mercosur: cosa cambia per le imprese italiane - Ministero degli Affari Esteri e della Cooperazione Internazionale",
-      "source": "Ministero degli Affari Esteri e della Cooperazione Internazionale",
-      "published": "Mon, 12 Oct 2026 13:21:51 GMT"
+      "title": "FLASH - Milan, accordo per il rinnovo di Pavlovic! E Saelemaekers si è operato: il comunicato e i tempi di recupero - SOS Fanta",
+      "source": "SOS Fanta",
+      "published": "Tue, 13 Oct 2026 14:25:36 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Space Economy, accordo quadro tra Regione Lazio e Agenzia Spaziale Italiana - Regione Lazio",
-      "source": "Regione Lazio",
-      "published": "Mon, 12 Oct 2026 15:44:45 GMT"
+      "title": "COMUNICATO UFFICIALE: ALEXIS SAELEMAEKERS - AC Milan",
+      "source": "AC Milan",
+      "published": "Tue, 13 Oct 2026 14:16:24 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Universita' di Torino e UN Staff College: un accordo per la formazione della leadership internazionale - OnuItalia",
-      "source": "OnuItalia",
-      "published": "Tue, 13 Oct 2026 00:17:46 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Varese, accordo Carlsberg dopo una lunga trattativa: 11.950 euro di premio in 4 anni - malpensa24",
-      "source": "malpensa24",
-      "published": "Tue, 13 Oct 2026 07:19:19 GMT"
+      "title": "Salute e sicurezza nei porti: firmato l’accordo attuativo per rafforzare la prevenzione, la formazione e l’innovazione tecnologica - Autorità di Sistema Portuale Mar Ligure Occidentale",
+      "source": "Autorità di Sistema Portuale Mar Ligure Occidentale",
+      "published": "Tue, 13 Oct 2026 14:37:12 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Riecco la Champions League: la Roma ospita il Real, Inter-Brugge, Como e Napoli in trasferta - Diretta",
-      "source": "Diretta",
-      "published": "Mon, 12 Oct 2026 22:22:00 GMT"
+      "title": "Serie A, Inter e Napoli corrono, frenano Roma, Milan e Juventus. Vincono Atalanta e Torino - La Voce di New York",
+      "source": "La Voce di New York",
+      "published": "Tue, 13 Oct 2026 12:39:32 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, il programma del martedì: Arsenal, Atletico e Barcellona in campo - Diretta",
-      "source": "Diretta",
-      "published": "Tue, 13 Oct 2026 06:59:15 GMT"
+      "title": "Incassi Champions League: quanto possono guadagnare Inter, Napoli, Roma e Como - DAZN",
+      "source": "DAZN",
+      "published": "Tue, 13 Oct 2026 13:55:47 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Dove vedere Inter-Bruges, Villarreal-Napoli e le altre partite di oggi in Champions League in tv e streaming - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Tue, 13 Oct 2026 05:27:00 GMT"
+      "title": "Champions League: Roma-Real Madrid in campo mercoledì alle 21 DIRETTA - ANSA",
+      "source": "ANSA",
+      "published": "Tue, 13 Oct 2026 14:29:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Le partite di Champions League di oggi: Manchester United in trasferta contro l'Atletico Madrid, Barcellona contro il Galatasaray. - Vietnam.vn",
-      "source": "Vietnam.vn",
-      "published": "Tue, 13 Oct 2026 05:53:10 GMT"
+      "title": "Roma-Real Madrid: le probabili formazioni e dove vedere la partita di Champions League - RomaToday",
+      "source": "RomaToday",
+      "published": "Tue, 13 Oct 2026 08:15:00 GMT"
     },
     {
       "type": "news",
@@ -180,23 +180,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Zverev chiuderà 2026 da numero uno del ranking Atp, come cambia classifica per Sinner e Alcaraz - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Mon, 12 Oct 2026 13:12:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "LIVE Errani/Paolini-Fernandez/Gibson 6-4 6-2, WTA Wuhan 2026 in DIRETTA: vittoria agevole delle azzurre all’esordio nel torneo cinese - OA Sport",
-      "source": "OA Sport",
-      "published": "Tue, 13 Oct 2026 06:44:19 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "WTA Pechino, Mertens sorprende Swiatek, semifinale contro Zheng - SuperTennis",
       "source": "SuperTennis",
       "published": "Fri, 09 Oct 2026 13:44:28 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Zverev-Bublik all'Atp Shanghai, il risultato in diretta live della partita - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Tue, 13 Oct 2026 09:31:45 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Atp Finals, chi va a Torino? La race, i qualificati e i posti da assegnare (da Cobolli a Djokovic) - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Tue, 13 Oct 2026 14:46:00 GMT"
     },
     {
       "type": "news",
@@ -208,13 +208,6 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Finale Germany P2 Premier Padel: Stupa e Sanz ci provano - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Mon, 12 Oct 2026 19:37:43 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
       "title": "Premier Padel Dusseldorf, trionfo di Coello-Tapia e Fernandez-Calvo - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 11 Oct 2026 19:52:56 GMT"
@@ -222,9 +215,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Germania P2: I quarti di finale più veloci della storia Premier Padel - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Sat, 10 Oct 2026 07:56:08 GMT"
+      "title": "Sánchez/Ustero salgono al 2° posto nella corsa, la battaglia per il Premier Padel La fase finale si fa sempre più intensa - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Tue, 13 Oct 2026 12:14:37 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Finale Germany P2 Premier Padel: Stupa e Sanz ci provano - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Mon, 12 Oct 2026 19:37:43 GMT"
     }
   ]
 }
