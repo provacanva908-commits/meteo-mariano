@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T01:15:54.100677+00:00",
+  "updated_at": "2026-10-13T07:49:43.027870+00:00",
   "local_date": "2026-10-13",
   "articles": [
     {
@@ -23,6 +23,20 @@
       "home": "Sabah FK",
       "away": "Slavia Praha",
       "time": "18:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-13"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Viking",
+      "away": "Bayern",
+      "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -76,20 +90,6 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Viking",
-      "away": "Bayern",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-13"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
       "home": "RB Leipzig",
       "away": "PSV",
       "time": "21:00",
@@ -117,13 +117,6 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Il Gruppo Nicolaus smentisce l'accordo per la cessione. Interlocuzioni in corso, ma nessuna vendita - advtraining.it",
-      "source": "advtraining.it",
-      "published": "Mon, 12 Oct 2026 13:02:50 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "Accordo UE-Mercosur: cosa cambia per le imprese italiane - Ministero degli Affari Esteri e della Cooperazione Internazionale",
       "source": "Ministero degli Affari Esteri e della Cooperazione Internazionale",
       "published": "Mon, 12 Oct 2026 13:21:51 GMT"
@@ -131,44 +124,58 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Disabilità e invalidità civile: accordo tra Regione Lazio, Inps e Prap. Anastasìa: \"Bene così\" - Garante detenuti Lazio",
-      "source": "Garante detenuti Lazio",
-      "published": "Mon, 12 Oct 2026 14:10:46 GMT"
+      "title": "Space Economy, accordo quadro tra Regione Lazio e Agenzia Spaziale Italiana - Regione Lazio",
+      "source": "Regione Lazio",
+      "published": "Mon, 12 Oct 2026 15:44:45 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Notizie tematiche - Arpal e Arpa Puglia firmano l'accordo sul One Health - Arpal Liguria",
-      "source": "Arpal Liguria",
-      "published": "Mon, 12 Oct 2026 12:28:16 GMT"
+      "title": "Universita' di Torino e UN Staff College: un accordo per la formazione della leadership internazionale - OnuItalia",
+      "source": "OnuItalia",
+      "published": "Tue, 13 Oct 2026 00:17:46 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Varese, accordo Carlsberg dopo una lunga trattativa: 11.950 euro di premio in 4 anni - malpensa24",
+      "source": "malpensa24",
+      "published": "Tue, 13 Oct 2026 07:19:19 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Il ritorno di Mourinho all’Olimpico, l’Inter ritrova Sommer, le trappole per Como e Napoli: riecco la Champions - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "Mon, 12 Oct 2026 19:52:36 GMT"
+      "title": "Riecco la Champions League: la Roma ospita il Real, Inter-Brugge, Como e Napoli in trasferta - Diretta",
+      "source": "Diretta",
+      "published": "Mon, 12 Oct 2026 22:22:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League show con Manchester City-Psg, Mourinho torna all'Olimpico - ANSA",
-      "source": "ANSA",
-      "published": "Mon, 12 Oct 2026 10:09:00 GMT"
+      "title": "Champions League, il programma del martedì: Arsenal, Atletico e Barcellona in campo - Diretta",
+      "source": "Diretta",
+      "published": "Tue, 13 Oct 2026 06:59:15 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Villarreal-Napoli, le probabili formazioni della partita di Champions League - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Mon, 12 Oct 2026 20:28:22 GMT"
+      "title": "Dove vedere Inter-Bruges, Villarreal-Napoli e le altre partite di oggi in Champions League in tv e streaming - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Tue, 13 Oct 2026 05:27:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, Inter-Bruges: dove vederla in diretta tv e streaming, probabili formazioni - la Repubblica",
-      "source": "la Repubblica",
-      "published": "Mon, 12 Oct 2026 22:01:00 GMT"
+      "title": "Le partite di Champions League di oggi: Manchester United in trasferta contro l'Atletico Madrid, Barcellona contro il Galatasaray. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "published": "Tue, 13 Oct 2026 05:53:10 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner, ora è ufficiale: chiuderà il 2026 da numero 2 al mondo. Decisiva la sconfitta di Alcaraz - TrentoToday",
+      "source": "TrentoToday",
+      "published": "Tue, 13 Oct 2026 05:12:38 GMT"
     },
     {
       "type": "news",
@@ -180,23 +187,16 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "LIVE Errani/Paolini-Fernandez/Gibson 6-4 6-2, WTA Wuhan 2026 in DIRETTA: vittoria agevole delle azzurre all’esordio nel torneo cinese - OA Sport",
+      "source": "OA Sport",
+      "published": "Tue, 13 Oct 2026 06:44:19 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "WTA Pechino, Mertens sorprende Swiatek, semifinale contro Zheng - SuperTennis",
       "source": "SuperTennis",
       "published": "Fri, 09 Oct 2026 13:44:28 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Djokovic: \"Sinner mancherà al tennis, ma ha fatto la scelta giusta\" - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Mon, 12 Oct 2026 18:56:49 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner come Goggia: il luminare Schoenhuber guida la riabilitazione dell'azzurro - Style Magazine",
-      "source": "Style Magazine",
-      "published": "Mon, 12 Oct 2026 15:45:44 GMT"
     },
     {
       "type": "news",
@@ -222,9 +222,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "P1000 Signore Il mio Padel Langon – Denecheau / Majdoubi e Vandaele / Dautriat eliminati rapidamente in semifinale - Padel Magazine",
+      "title": "Germania P2: I quarti di finale più veloci della storia Premier Padel - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "Sun, 11 Oct 2026 09:55:15 GMT"
+      "published": "Sat, 10 Oct 2026 07:56:08 GMT"
     }
   ]
 }
