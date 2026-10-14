@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T09:46:47.630477+00:00",
+  "updated_at": "2026-10-14T14:43:06.155916+00:00",
   "local_date": "2026-10-14",
   "articles": [
     {
@@ -23,20 +23,6 @@
       "home": "Feyenoord",
       "away": "Como 1907",
       "time": "18:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-14"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Sl. Bratislava",
-      "away": "Stuttgart",
-      "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -90,8 +76,8 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Man City",
-      "away": "PSG",
+      "home": "Sl. Bratislava",
+      "away": "Stuttgart",
       "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -115,88 +101,102 @@
       "local_date": "2026-10-14"
     },
     {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "FLASH - Milan, accordo per il rinnovo di Pavlovic! E Saelemaekers si è operato: il comunicato e i tempi di recupero - SOS Fanta",
-      "source": "SOS Fanta",
-      "published": "Wed, 14 Oct 2026 06:15:36 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, Manna sul rinnovo di McTominay: \"Scott vuole rimanere, ci stiamo lavorando\" - NapoliToday",
-      "source": "NapoliToday",
-      "published": "Tue, 13 Oct 2026 22:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "AS Roma - sito ufficiale - AS Roma",
-      "source": "AS Roma",
-      "published": "Wed, 14 Oct 2026 08:20:01 GMT"
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Shaktar",
+      "away": "PAE AEK",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-14"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Auto, Francia e Germania verso l’accordo sul 2035: emissioni ridotte dell’80% e incentivi Made in Europe - Milano Finanza",
-      "source": "Milano Finanza",
-      "published": "Wed, 14 Oct 2026 07:00:00 GMT"
+      "title": "Skydance rafforza il proprio posionamento strategico con l’accordo con Movistar Plus - MIA | Mercato Internazionale Audiovisivo",
+      "source": "MIA | Mercato Internazionale Audiovisivo",
+      "published": "Wed, 14 Oct 2026 12:03:36 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Ufficiale: Pavlovic ha rinnovato con il Milan fino al 2031 - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Wed, 14 Oct 2026 11:46:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Energia: Urso, da accordo Usa-Russia su gasolio nulla che possa cambiare mercato - Il Sole 24 ORE",
+      "source": "Il Sole 24 ORE",
+      "published": "Wed, 14 Oct 2026 13:02:13 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Riccitelli, firmato in Prefettura l’accordo sui sinistri. Il 20 ottobre nuovo confronto sulla parte economica - Città della Spezia",
+      "source": "Città della Spezia",
+      "published": "Wed, 14 Oct 2026 13:45:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League amara per Inter e Napoli e stasera Roma-Real Madrid: Mourinho all'Olimpico da avversario. Il big match è City-Psg - FIRSTonline",
-      "source": "FIRSTonline",
-      "published": "Wed, 14 Oct 2026 05:33:00 GMT"
+      "title": "Roma-Real Madrid, i convocati di Gasperini per la Champions League - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Wed, 14 Oct 2026 11:19:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Incassi Champions League: quanto possono guadagnare Inter, Napoli, Roma e Como - DAZN",
-      "source": "DAZN",
-      "published": "Tue, 13 Oct 2026 13:55:47 GMT"
+      "title": "Come procurarsi i biglietti per le partite del Liverpool in Champions League 2026/27: calendario della fase campionato, prezzi e altro - Goal.com",
+      "source": "Goal.com",
+      "published": "Wed, 14 Oct 2026 14:02:07 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Partite di Champions League: Manchester City contro PSG, Real Madrid in trasferta contro la Roma. - Vietnam.vn",
-      "source": "Vietnam.vn",
-      "published": "Wed, 14 Oct 2026 08:46:42 GMT"
+      "title": "Champions League 2026, alle 18.45 c'è Feyenoord-Como. Alle 21:00, sfida aperta tra Real Madrid e Roma: formazioni e dove vedere - Moveo by Telepass",
+      "source": "Moveo by Telepass",
+      "published": "Wed, 14 Oct 2026 10:31:55 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, oggi Manchester City-Psg: orario, probabili formazioni e dove vederla in tv - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Wed, 14 Oct 2026 04:40:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Jasmine Paolini - Nikola Bartůňková al Wuhan Open 2026 LIVE: risultato e aggiornamenti in diretta · Tennis ATP - Olympics",
-      "source": "Olympics",
-      "published": "Wed, 14 Oct 2026 04:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Medvedev-Tsitsipas all'Atp Shanghai, il risultato in diretta live della partita - Sky Sport",
+      "title": "Roma-Real Madrid, dove vedere la partita di Champions League in tv e streaming - Sky Sport",
       "source": "Sky Sport",
-      "published": "Wed, 14 Oct 2026 09:30:00 GMT"
+      "published": "Wed, 14 Oct 2026 10:30:01 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jasmine Paolini e Sara Errani LIVE al WTA Wuhan 2026 contro Tereza Mihalikova e Olivia Nicholls: risultato e cronaca in diretta della partita · Tennis oggi - Olympics",
-      "source": "Olympics",
-      "published": "Wed, 14 Oct 2026 08:45:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Paolini, altra vittoria di carattere al WTA 1000 di Wuhan: l'azzurra vola agli ottavi, sfiderà Kartal - Eurosport.it",
+      "title": "Medvedev vince, vola ai quarti di finale e mette pressione a Djokovic - Eurosport.it",
       "source": "Eurosport.it",
-      "published": "Wed, 14 Oct 2026 07:57:21 GMT"
+      "published": "Wed, 14 Oct 2026 11:49:52 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Jasmine Paolini e Sara Errani LIVE al Wuhan Open 2026: risultato e aggiornamenti in diretta del match contro Mihalikova/Nicholls · Tennis WTA - Olympics",
+      "source": "Olympics",
+      "published": "Wed, 14 Oct 2026 00:15:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner, il corpo oltre la diagnosi: il nuovo tennis presenta il conto - Domani",
+      "source": "Domani",
+      "published": "Sun, 11 Oct 2026 05:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner si affida a Schoenhuber, il medico del miracolo di Goggia: obiettivo rientro nel 2027 - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 11 Oct 2026 16:57:12 GMT"
     },
     {
       "type": "news",
