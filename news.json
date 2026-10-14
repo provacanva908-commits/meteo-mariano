@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T04:43:51.497555+00:00",
+  "updated_at": "2026-10-14T09:46:47.630477+00:00",
   "local_date": "2026-10-14",
   "articles": [
     {
@@ -23,34 +23,6 @@
       "home": "Feyenoord",
       "away": "Como 1907",
       "time": "18:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-14"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Real Betis",
-      "away": "Porto",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-14"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Roma",
-      "away": "Real Madrid",
-      "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -90,8 +62,8 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Aston Villa",
-      "away": "Fenerbahçe",
+      "home": "Real Betis",
+      "away": "Porto",
       "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -104,8 +76,36 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Shaktar",
-      "away": "PAE AEK",
+      "home": "Roma",
+      "away": "Real Madrid",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-14"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Man City",
+      "away": "PSG",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-14"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Aston Villa",
+      "away": "Fenerbahçe",
       "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -117,6 +117,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "FLASH - Milan, accordo per il rinnovo di Pavlovic! E Saelemaekers si è operato: il comunicato e i tempi di recupero - SOS Fanta",
+      "source": "SOS Fanta",
+      "published": "Wed, 14 Oct 2026 06:15:36 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Calciomercato Napoli, Manna sul rinnovo di McTominay: \"Scott vuole rimanere, ci stiamo lavorando\" - NapoliToday",
       "source": "NapoliToday",
       "published": "Tue, 13 Oct 2026 22:00:00 GMT"
@@ -124,23 +131,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Nuovo stadio a Napoli, De Laurentiis-Q8 Italia: si avvicina l’accordo per l’acquisto dei terreni - Il Mattino",
-      "source": "Il Mattino",
-      "published": "Tue, 13 Oct 2026 22:25:03 GMT"
+      "title": "AS Roma - sito ufficiale - AS Roma",
+      "source": "AS Roma",
+      "published": "Wed, 14 Oct 2026 08:20:01 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "FLASH - Milan, accordo per il rinnovo di Pavlovic! E Saelemaekers si è operato: il comunicato e i tempi di recupero - SOS Fanta",
-      "source": "SOS Fanta",
-      "published": "Tue, 13 Oct 2026 20:15:36 GMT"
+      "title": "Auto, Francia e Germania verso l’accordo sul 2035: emissioni ridotte dell’80% e incentivi Made in Europe - Milano Finanza",
+      "source": "Milano Finanza",
+      "published": "Wed, 14 Oct 2026 07:00:00 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Milan, c'è l'accordo per il rinnovo di Pavlovic - Fantacalcio",
-      "source": "Fantacalcio",
-      "published": "Tue, 13 Oct 2026 14:24:00 GMT"
+      "category": "CALCIO",
+      "title": "Champions League amara per Inter e Napoli e stasera Roma-Real Madrid: Mourinho all'Olimpico da avversario. Il big match è City-Psg - FIRSTonline",
+      "source": "FIRSTonline",
+      "published": "Wed, 14 Oct 2026 05:33:00 GMT"
     },
     {
       "type": "news",
@@ -152,37 +159,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Riepilogo seconda giornata Champions League: cadono Inter e Napoli, vittorie per Arsenal, Barcelona e Sporting - UEFA.com",
-      "source": "UEFA.com",
-      "published": "Tue, 13 Oct 2026 21:49:11 GMT"
+      "title": "Partite di Champions League: Manchester City contro PSG, Real Madrid in trasferta contro la Roma. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "published": "Wed, 14 Oct 2026 08:46:42 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, vincono Arsenal, Barcellona e Atletico. Stop Bayern, Doumbia lancia lo Sporting - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Tue, 13 Oct 2026 18:41:38 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League: Roma-Real Madrid in campo mercoledì alle 21 DIRETTA - ANSA",
-      "source": "ANSA",
-      "published": "Tue, 13 Oct 2026 17:16:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner, ora è ufficiale: chiuderà il 2026 da numero 2 al mondo. Decisiva la sconfitta di Alcaraz - TrentoToday",
-      "source": "TrentoToday",
-      "published": "Tue, 13 Oct 2026 05:12:38 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "ATP Shanghai 2026, Zverev e de Minaur ai quarti di finale. Cade Mensik - OA Sport",
-      "source": "OA Sport",
-      "published": "Tue, 13 Oct 2026 15:28:51 GMT"
+      "title": "Champions League, oggi Manchester City-Psg: orario, probabili formazioni e dove vederla in tv - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Wed, 14 Oct 2026 04:40:00 GMT"
     },
     {
       "type": "news",
@@ -194,9 +180,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner, il corpo oltre la diagnosi: il nuovo tennis presenta il conto - Domani",
-      "source": "Domani",
-      "published": "Sun, 11 Oct 2026 05:00:00 GMT"
+      "title": "Medvedev-Tsitsipas all'Atp Shanghai, il risultato in diretta live della partita - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Wed, 14 Oct 2026 09:30:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Jasmine Paolini e Sara Errani LIVE al WTA Wuhan 2026 contro Tereza Mihalikova e Olivia Nicholls: risultato e cronaca in diretta della partita · Tennis oggi - Olympics",
+      "source": "Olympics",
+      "published": "Wed, 14 Oct 2026 08:45:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Paolini, altra vittoria di carattere al WTA 1000 di Wuhan: l'azzurra vola agli ottavi, sfiderà Kartal - Eurosport.it",
+      "source": "Eurosport.it",
+      "published": "Wed, 14 Oct 2026 07:57:21 GMT"
     },
     {
       "type": "news",
@@ -215,16 +215,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Sánchez/Ustero salgono al 2° posto nella corsa, la battaglia per il Premier Padel La fase finale si fa sempre più intensa - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Tue, 13 Oct 2026 12:14:37 GMT"
+      "title": "Finale Germany P2 Premier Padel: Stupa e Sanz ci provano - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Mon, 12 Oct 2026 19:37:43 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Finale Germany P2 Premier Padel: Stupa e Sanz ci provano - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Mon, 12 Oct 2026 19:37:43 GMT"
+      "title": "Sánchez/Ustero salgono al 2° posto nella corsa, la battaglia per il Premier Padel La fase finale si fa sempre più intensa - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Tue, 13 Oct 2026 12:14:37 GMT"
     }
   ]
 }
