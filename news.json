@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T10:01:10.653140+00:00",
+  "updated_at": "2026-10-15T14:54:45.875314+00:00",
   "local_date": "2026-10-15",
   "articles": [
     {
@@ -19,6 +19,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Atalanta-Pafos, il pranzo ufficiale - Atalanta",
+      "source": "Atalanta",
+      "published": "Thu, 15 Oct 2026 12:27:02 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "COMUNICATO UFFICIALE: STRAHINJA PAVLOVIĆ - AC Milan",
       "source": "AC Milan",
       "published": "Wed, 14 Oct 2026 12:00:00 GMT"
@@ -33,23 +40,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Tetto al gas, accordo con l’Europa più vicino: Roma chiede una flessibilità più lunga - la Repubblica",
-      "source": "la Repubblica",
-      "published": "Wed, 14 Oct 2026 23:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Fondazione Roma e Polizia: accordo per tutelare i minori online – LMF - LaMiaFinanza",
-      "source": "LaMiaFinanza",
-      "published": "Thu, 15 Oct 2026 08:23:19 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League: il Como perde 3-2 a Rotterdam. Remuntada Real Madrid contro la Roma - La Milano",
-      "source": "La Milano",
-      "published": "Thu, 15 Oct 2026 09:49:46 GMT"
+      "title": "Embraer firma un accordo di manutenzione con Portugália Airlines - MarketScreener Italia",
+      "source": "MarketScreener Italia",
+      "published": "Thu, 15 Oct 2026 12:51:25 GMT"
     },
     {
       "type": "news",
@@ -61,16 +54,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Roma-Real Madrid 3-4, le pagelle della partita di Champions League - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 14 Oct 2026 21:44:25 GMT"
+      "title": "Europa League e Conference League: le quote Betsson.it per Juventus, Milan e Atalanta - JAMMA",
+      "source": "JAMMA",
+      "published": "Thu, 15 Oct 2026 10:34:01 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
       "title": "Champions League, Roma e Como sconfitte: beffa Real, vince il Feyenoord - Il Sole 24 ORE",
       "source": "Il Sole 24 ORE",
-      "published": "Thu, 15 Oct 2026 09:05:05 GMT"
+      "published": "Thu, 15 Oct 2026 09:05:28 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A Enilive | Juventus-Lazio, la conferenza stampa di mister Gattuso - S.S. Lazio",
+      "source": "S.S. Lazio",
+      "published": "Thu, 15 Oct 2026 13:01:03 GMT"
     },
     {
       "type": "news",
@@ -82,6 +82,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "ATP Shanghai, Zverev stavolta non stecca: è in semifinale - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Thu, 15 Oct 2026 11:51:20 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "WTA Pechino, Mertens sorprende Swiatek, semifinale contro Zheng - SuperTennis",
       "source": "SuperTennis",
       "published": "Mon, 12 Oct 2026 07:00:00 GMT"
@@ -89,16 +96,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "UFFICIALE. Alcaraz giocherà l'Atp 500 di Vienna - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Thu, 15 Oct 2026 09:53:47 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Medvedev vince, vola ai quarti di finale e mette pressione a Djokovic - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "Wed, 14 Oct 2026 15:05:47 GMT"
+      "title": "Atp Vienna, Sinner dà forfait: Alcaraz si prende la scena, ecco la data del debutto dello spagnolo - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Thu, 15 Oct 2026 12:00:00 GMT"
     },
     {
       "type": "news",
@@ -124,9 +124,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Germania P2: I quarti di finale più veloci della storia Premier Padel - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Sat, 10 Oct 2026 09:42:55 GMT"
+      "title": "Premier Padel 2026: Rotterdam P2 | Live - Red Bull",
+      "source": "Red Bull",
+      "published": "Sun, 11 Oct 2026 07:00:00 GMT"
     }
   ]
 }
