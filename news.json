@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T22:13:08.741198+00:00",
+  "updated_at": "2026-10-15T00:34:59.976262+00:00",
   "local_date": "2026-10-15",
   "articles": [
     {
@@ -33,16 +33,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Venezia, ora è ufficiale: Nicola nuovo allenatore, firmato un biennale. \"Ho una fame pazzesca\" - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Wed, 14 Oct 2026 19:10:58 GMT"
+      "title": "Tetto al gas, accordo con l’Europa più vicino: Roma chiede una flessibilità più lunga - la Repubblica",
+      "source": "la Repubblica",
+      "published": "Wed, 14 Oct 2026 23:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale: Nicola nuovo allenatore del Venezia, ha firmato fino al termine della stagione 2027/28 - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Wed, 14 Oct 2026 19:08:00 GMT"
+      "title": "Venezia, ora è ufficiale: Nicola nuovo allenatore, firmato un biennale. \"Ho una fame pazzesca\" - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Wed, 14 Oct 2026 19:10:58 GMT"
     },
     {
       "type": "news",
@@ -54,16 +54,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Roma-Real Madrid 3-4, le pagelle della partita di Champions League - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 14 Oct 2026 21:44:25 GMT"
+      "title": "$@[IN DIRETTA] Manchester City-Psg partita di Champions League oggi in tv 14 ottobre 2026 - Universidad de Córdoba (UCO)",
+      "source": "Universidad de Córdoba (UCO)",
+      "published": "Wed, 14 Oct 2026 19:20:40 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, Feyenoord-Como 3-2. Ora in campo Roma-Real Madrid 1-1 - Sky TG24",
-      "source": "Sky TG24",
-      "published": "Wed, 14 Oct 2026 16:25:37 GMT"
+      "title": "Roma-Real Madrid di Champions League 3-4: clamorosa rimonta spagnola nel finale, 3 gol in 8'. Decide l'ex Rudiger - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Wed, 14 Oct 2026 21:31:37 GMT"
     },
     {
       "type": "news",
@@ -75,16 +75,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Medvedev vince, vola ai quarti di finale e mette pressione a Djokovic - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "Wed, 14 Oct 2026 15:05:47 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Alcaraz e Sinner sono stati criticati per la loro \"mancanza di ambizione\" rispetto a Federer, Nadal e Djokovic. - Vietnam.vn",
-      "source": "Vietnam.vn",
-      "published": "Wed, 14 Oct 2026 16:25:29 GMT"
+      "title": "Monaco: “Su Sinner leggo tante amenità. Alcaraz vuole fare il professionista a modo suo” - OA Sport",
+      "source": "OA Sport",
+      "published": "Wed, 14 Oct 2026 16:28:38 GMT"
     },
     {
       "type": "news",
@@ -99,6 +92,13 @@
       "title": "Jasmine Paolini e Sara Errani LIVE al Wuhan Open 2026: risultato e aggiornamenti in diretta del match contro Mihalikova/Nicholls · Tennis WTA - Olympics",
       "source": "Olympics",
       "published": "Wed, 14 Oct 2026 00:15:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Jannik Sinner n. 2 del mondo, Alcaraz non può superarlo: i punti con 9 tornei e 44 vittorie - OA Sport",
+      "source": "OA Sport",
+      "published": "Wed, 14 Oct 2026 21:45:40 GMT"
     },
     {
       "type": "news",
