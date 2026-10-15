@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T05:11:19.743920+00:00",
+  "updated_at": "2026-10-15T10:01:10.653140+00:00",
   "local_date": "2026-10-15",
   "articles": [
     {
@@ -19,16 +19,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Skydance rafforza il proprio posionamento strategico con l’accordo con Movistar Plus - MIA | Mercato Internazionale Audiovisivo",
-      "source": "MIA | Mercato Internazionale Audiovisivo",
-      "published": "Wed, 14 Oct 2026 12:38:12 GMT"
+      "title": "COMUNICATO UFFICIALE: STRAHINJA PAVLOVIĆ - AC Milan",
+      "source": "AC Milan",
+      "published": "Wed, 14 Oct 2026 12:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "COMUNICATO UFFICIALE: STRAHINJA PAVLOVIĆ - AC Milan",
-      "source": "AC Milan",
-      "published": "Wed, 14 Oct 2026 12:00:00 GMT"
+      "title": "Mario Draghi: Francia vittima della sregolatezza fiscale, serve un accordo sui conti - Milano Finanza",
+      "source": "Milano Finanza",
+      "published": "Thu, 15 Oct 2026 09:39:00 GMT"
     },
     {
       "type": "news",
@@ -40,37 +40,44 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale: Nicola nuovo allenatore del Venezia, ha firmato fino al termine della stagione 2027/28 - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Wed, 14 Oct 2026 19:08:00 GMT"
+      "title": "Fondazione Roma e Polizia: accordo per tutelare i minori online – LMF - LaMiaFinanza",
+      "source": "LaMiaFinanza",
+      "published": "Thu, 15 Oct 2026 08:23:19 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "$@[IN DIRETTA] Manchester City-Psg partita di Champions League in tv e streaming 14 ottobre 2026 - Universidad de Córdoba (UCO)",
-      "source": "Universidad de Córdoba (UCO)",
-      "published": "Wed, 14 Oct 2026 20:15:46 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "[Diretta]sTREAMING!] Manchester City - Psg di Champions League partita in tv 14 ottobre 2026 - Universidad de Córdoba (UCO)",
-      "source": "Universidad de Córdoba (UCO)",
-      "published": "Wed, 14 Oct 2026 18:32:12 GMT"
+      "title": "Champions League: il Como perde 3-2 a Rotterdam. Remuntada Real Madrid contro la Roma - La Milano",
+      "source": "La Milano",
+      "published": "Thu, 15 Oct 2026 09:49:46 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
       "title": "Roma-Real Madrid di Champions League 3-4: clamorosa rimonta spagnola nel finale, 3 gol in 8'. Decide l'ex Rudiger - Corriere della Sera",
       "source": "Corriere della Sera",
-      "published": "Wed, 14 Oct 2026 21:31:37 GMT"
+      "published": "Thu, 15 Oct 2026 05:36:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: il Psg abbatte il City di Maresca, pazzo 6-3 del Liverpool sul Lask - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Wed, 14 Oct 2026 21:13:00 GMT"
+      "title": "Roma-Real Madrid 3-4, le pagelle della partita di Champions League - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Wed, 14 Oct 2026 21:44:25 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Champions League, Roma e Como sconfitte: beffa Real, vince il Feyenoord - Il Sole 24 ORE",
+      "source": "Il Sole 24 ORE",
+      "published": "Thu, 15 Oct 2026 09:05:05 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "ATP Shanghai: Davidovich Fokina in semifinale (come non è mai riuscito ad Alcaraz) - Ubitennis",
+      "source": "Ubitennis",
+      "published": "Thu, 15 Oct 2026 07:34:37 GMT"
     },
     {
       "type": "news",
@@ -82,23 +89,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Monaco: “Su Sinner leggo tante amenità. Alcaraz vuole fare il professionista a modo suo” - OA Sport",
-      "source": "OA Sport",
-      "published": "Wed, 14 Oct 2026 16:28:38 GMT"
+      "title": "UFFICIALE. Alcaraz giocherà l'Atp 500 di Vienna - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Thu, 15 Oct 2026 09:53:47 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Rinviato il Six Kings Slam, le tensioni a Riad fanno slittare il torneo più ricco del mondo. Ora Sinner cosa farà? - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "Wed, 14 Oct 2026 16:39:19 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner, il corpo oltre la diagnosi: il nuovo tennis presenta il conto - Domani",
-      "source": "Domani",
-      "published": "Sun, 11 Oct 2026 05:00:00 GMT"
+      "title": "Medvedev vince, vola ai quarti di finale e mette pressione a Djokovic - Eurosport.it",
+      "source": "Eurosport.it",
+      "published": "Wed, 14 Oct 2026 15:05:47 GMT"
     },
     {
       "type": "news",
@@ -124,9 +124,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel 2026: Rotterdam P2 | Live - Red Bull",
-      "source": "Red Bull",
-      "published": "Sun, 11 Oct 2026 07:00:00 GMT"
+      "title": "Germania P2: I quarti di finale più veloci della storia Premier Padel - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Sat, 10 Oct 2026 09:42:55 GMT"
     }
   ]
 }
