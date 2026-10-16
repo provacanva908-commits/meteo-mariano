@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T22:09:01.208392+00:00",
+  "updated_at": "2026-10-16T00:25:20.583046+00:00",
   "local_date": "2026-10-16",
   "articles": [
     {
@@ -33,6 +33,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Accordo Trump-Putin, Santoro: “Meloni in politica internazionale fa ridere, nel cabaret è a suo agio” - LA7",
+      "source": "LA7",
+      "published": "Thu, 15 Oct 2026 20:33:18 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Accordo Trenitalia- Costa Crociere per l’intermodalità turistica - FS News",
       "source": "FS News",
       "published": "Thu, 15 Oct 2026 14:30:39 GMT"
@@ -53,15 +60,8 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Accordo Trump-Putin, Santoro: “Meloni in politica internazionale fa ridere, nel cabaret è a suo agio” - LA7",
-      "source": "LA7",
-      "published": "Thu, 15 Oct 2026 20:28:52 GMT"
-    },
-    {
-      "type": "news",
       "category": "CALCIO",
-      "title": "Calcio, successi esterni di Juventus e Milan in Europa League. Tris dell'Atalanta in Conference League - OA Sport",
+      "title": "Calcio, successi esterni di Juventus e Milan in Europa League. Tris dell’Atalanta in Conference League - OA Sport",
       "source": "OA Sport",
       "published": "Thu, 15 Oct 2026 21:25:58 GMT"
     },
@@ -82,9 +82,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Seconda giornata Europa League: poker Milan, vittoria in rimonta all'ultimo respiro per la Juventus - UEFA.com",
-      "source": "UEFA.com",
-      "published": "Thu, 15 Oct 2026 21:38:49 GMT"
+      "title": "Serie A Enilive | Juventus-Lazio, la conferenza stampa di mister Gattuso - S.S. Lazio",
+      "source": "S.S. Lazio",
+      "published": "Thu, 15 Oct 2026 16:23:05 GMT"
     },
     {
       "type": "news",
@@ -138,9 +138,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Sánchez/Ustero salgono al 2° posto nella corsa, la battaglia per il Premier Padel La fase finale si fa sempre più intensa - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Tue, 13 Oct 2026 12:14:37 GMT"
+      "title": "Premier Padel 2026: Rotterdam P2 | Live - Red Bull",
+      "source": "Red Bull",
+      "published": "Sun, 11 Oct 2026 07:00:00 GMT"
     }
   ]
 }
