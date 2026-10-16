@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T09:30:04.963416+00:00",
+  "updated_at": "2026-10-16T14:11:39.275740+00:00",
   "local_date": "2026-10-16",
   "articles": [
     {
@@ -33,6 +33,20 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Accordo Trenitalia-Costa Crociere per intermodalità turistica. Dal 2027 offerta di Trenitalia su sistema di prenotazione di Costa - Telenord",
+      "source": "Telenord",
+      "published": "Fri, 16 Oct 2026 09:36:29 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Vesuvio, svolta per le guide del Gran Cono: firmato l’accordo, si apre una nuova fase - Parco Nazionale del Vesuvio",
+      "source": "Parco Nazionale del Vesuvio",
+      "published": "Fri, 16 Oct 2026 10:01:11 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Accordo Trump-Putin, Santoro: “Meloni in politica internazionale fa ridere, nel cabaret è a suo agio” - LA7",
       "source": "LA7",
       "published": "Thu, 15 Oct 2026 20:33:18 GMT"
@@ -40,86 +54,65 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Accordo Trenitalia- Costa Crociere per l’intermodalità turistica - FS News",
-      "source": "FS News",
-      "published": "Thu, 15 Oct 2026 14:30:39 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Studsvik firma un accordo sul combustibile nucleare norvegese - MarketScreener Italia",
-      "source": "MarketScreener Italia",
-      "published": "Fri, 16 Oct 2026 08:30:21 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "COMUNICATO UFFICIALE: STRAHINJA PAVLOVIĆ - AC Milan",
-      "source": "AC Milan",
-      "published": "Wed, 14 Oct 2026 12:00:00 GMT"
+      "title": "Intesa Sanpaolo e associazioni consumatori firmano accordo quadro 2027-2029 - la Repubblica",
+      "source": "la Repubblica",
+      "published": "Fri, 16 Oct 2026 10:51:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Milan e Juventus vincono in Europa League. Tre punti anche per l’Atalanta in Conference - L'Eco Vicentino",
-      "source": "L'Eco Vicentino",
-      "published": "Fri, 16 Oct 2026 06:39:44 GMT"
+      "title": "Torna il campionato: Juventus-Como 1907 e Roma-Milan i due big match, l’Inter ospita il Parma. Serie A Women in campo con AIRC - FIGC",
+      "source": "FIGC",
+      "published": "Fri, 16 Oct 2026 03:02:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "L’Italia guadagna una posizione nella corsa al 5º posto in Champions grazie a Juve, Milan e Atalanta - Fanpage",
-      "source": "Fanpage",
-      "published": "Fri, 16 Oct 2026 04:16:21 GMT"
+      "title": "Roma, infortunio Koné: quante partite salta tra Serie A e Champions League - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 16 Oct 2026 14:05:03 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "UEFA Europa League | Celta-Juventus | I numeri postpartita - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Fri, 16 Oct 2026 08:05:27 GMT"
+      "title": "Serie A: Juventus favorita nel big match contro la Lazio capolista, l'Inter vede il colpo esterno a Bologna - JAMMA",
+      "source": "JAMMA",
+      "published": "Fri, 16 Oct 2026 12:44:31 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "UEFA Europa League | Celta-Juventus | Le interviste - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Fri, 16 Oct 2026 02:12:26 GMT"
+      "title": "Rimini, vincere la coppa Italia nazionale di Eccellenza dà diritto alla promozione in D - Corriere Romagna",
+      "source": "Corriere Romagna",
+      "published": "Fri, 16 Oct 2026 10:24:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "WTA 1000 Whuan, Kartal sorprende Svitolina ed é in semifinale - ANSA",
+      "source": "ANSA",
+      "published": "Fri, 16 Oct 2026 08:43:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "ATP Shanghai, in semifinale sarà sfida Jodar-Medvedev - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Fri, 16 Oct 2026 12:46:01 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
       "title": "ATP Shanghai, Zverev stavolta non stecca: è in semifinale - SuperTennis",
       "source": "SuperTennis",
-      "published": "Thu, 15 Oct 2026 14:51:20 GMT"
+      "published": "Wed, 14 Oct 2026 07:00:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "WTA 1000 Whuan, Kartal sorprende Svitolina ed é in semifinale - Il Mattino di Padova",
-      "source": "Il Mattino di Padova",
-      "published": "Fri, 16 Oct 2026 08:44:09 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Zverev in semifinale: De Minaur ko in due set - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Thu, 15 Oct 2026 09:15:06 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "UFFICIALE. Alcaraz giocherà l'Atp 500 di Vienna - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Thu, 15 Oct 2026 09:53:47 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Milano Premier Padel, Coello-Tapia sfidano Guerrero-Leal: spettacolo ai quarti - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Thu, 15 Oct 2026 16:45:03 GMT"
+      "title": "Medvedev vola in semifinale con Jodar: battuto Paul e insidia Cobolli nella Race, ATP Finals sempre più vicine - Eurosport.it",
+      "source": "Eurosport.it",
+      "published": "Fri, 16 Oct 2026 12:46:32 GMT"
     },
     {
       "type": "news",
@@ -127,6 +120,13 @@
       "title": "Premier Padel Dusseldorf, trionfo di Coello-Tapia e Fernandez-Calvo - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 11 Oct 2026 19:52:56 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Milano Premier Padel, Coello-Tapia sfidano Guerrero-Leal: spettacolo ai quarti - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Thu, 15 Oct 2026 16:45:03 GMT"
     },
     {
       "type": "news",
