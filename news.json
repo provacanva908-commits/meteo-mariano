@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T04:52:35.532186+00:00",
+  "updated_at": "2026-10-16T09:30:04.963416+00:00",
   "local_date": "2026-10-16",
   "articles": [
     {
@@ -47,51 +47,44 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Atalanta-Pafos, il pranzo ufficiale - Atalanta",
-      "source": "Atalanta",
-      "published": "Thu, 15 Oct 2026 12:27:02 GMT"
+      "title": "Studsvik firma un accordo sul combustibile nucleare norvegese - MarketScreener Italia",
+      "source": "MarketScreener Italia",
+      "published": "Fri, 16 Oct 2026 08:30:21 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Venezia, ufficiale il rinnovo di Yeboah fino al 2030: i dettagli - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Thu, 15 Oct 2026 16:16:00 GMT"
+      "title": "COMUNICATO UFFICIALE: STRAHINJA PAVLOVIĆ - AC Milan",
+      "source": "AC Milan",
+      "published": "Wed, 14 Oct 2026 12:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Roma-Real Madrid di Champions League 3-4: clamorosa rimonta spagnola nel finale, 3 gol in 8'. Decide l'ex Rudiger - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Thu, 15 Oct 2026 05:36:00 GMT"
+      "title": "Milan e Juventus vincono in Europa League. Tre punti anche per l’Atalanta in Conference - L'Eco Vicentino",
+      "source": "L'Eco Vicentino",
+      "published": "Fri, 16 Oct 2026 06:39:44 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "$@[IN DIRETTA] Salisburgo-Milan partita di Europa League in diretta tv e in streaming - Universidad de Córdoba (UCO)",
-      "source": "Universidad de Córdoba (UCO)",
-      "published": "Thu, 15 Oct 2026 16:56:36 GMT"
+      "title": "L’Italia guadagna una posizione nella corsa al 5º posto in Champions grazie a Juve, Milan e Atalanta - Fanpage",
+      "source": "Fanpage",
+      "published": "Fri, 16 Oct 2026 04:16:21 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "![Europa League TV!]*Milan-RB Salisburgo In Diretta Gratis Tv! Juventus Cagliari dove vederla Diretta tv e streaming - Universidad de Córdoba (UCO)",
-      "source": "Universidad de Córdoba (UCO)",
-      "published": "Thu, 15 Oct 2026 15:28:01 GMT"
+      "title": "UEFA Europa League | Celta-Juventus | I numeri postpartita - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Fri, 16 Oct 2026 08:05:27 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Enilive | Juventus-Lazio, la conferenza stampa di mister Gattuso - S.S. Lazio",
-      "source": "S.S. Lazio",
-      "published": "Thu, 15 Oct 2026 16:23:05 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "ATP Shanghai: Davidovich Fokina in semifinale (come non è mai riuscito ad Alcaraz) - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Thu, 15 Oct 2026 07:34:37 GMT"
+      "title": "UEFA Europa League | Celta-Juventus | Le interviste - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Fri, 16 Oct 2026 02:12:26 GMT"
     },
     {
       "type": "news",
@@ -103,9 +96,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "WTA Pechino, Mertens sorprende Swiatek, semifinale contro Zheng - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Mon, 12 Oct 2026 07:00:00 GMT"
+      "title": "WTA 1000 Whuan, Kartal sorprende Svitolina ed é in semifinale - Il Mattino di Padova",
+      "source": "Il Mattino di Padova",
+      "published": "Fri, 16 Oct 2026 08:44:09 GMT"
     },
     {
       "type": "news",
@@ -113,6 +106,13 @@
       "title": "Zverev in semifinale: De Minaur ko in due set - Sky Sport",
       "source": "Sky Sport",
       "published": "Thu, 15 Oct 2026 09:15:06 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "UFFICIALE. Alcaraz giocherà l'Atp 500 di Vienna - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Thu, 15 Oct 2026 09:53:47 GMT"
     },
     {
       "type": "news",
