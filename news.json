@@ -1,125 +1,125 @@
 {
-  "updated_at": "2026-10-17T21:33:14.137472+00:00",
-  "local_date": "2026-10-17",
+  "updated_at": "2026-10-17T23:23:09.437280+00:00",
+  "local_date": "2026-10-18",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Premier League",
-      "home": "Everton",
-      "away": "Chelsea",
-      "time": "13:30",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 0,
-      "away_score": 2,
+      "competition": "Serie A",
+      "home": "Udinese",
+      "away": "Lecce",
+      "time": "12:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-10-17"
+      "local_date": "2026-10-18"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Venezia FC",
-      "away": "Napoli",
+      "home": "Fiorentina",
+      "away": "Como 1907",
       "time": "15:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 1,
-      "away_score": 0,
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-10-17"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Premier League",
-      "home": "Brentford",
-      "away": "Liverpool",
-      "time": "16:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 1,
-      "away_score": 2,
-      "is_live": false,
-      "local_date": "2026-10-17"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "Den Haag",
-      "away": "PSV",
-      "time": "16:30",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 2,
-      "away_score": 1,
-      "is_live": false,
-      "local_date": "2026-10-17"
+      "local_date": "2026-10-18"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Ligue 1",
-      "home": "Strasbourg",
-      "away": "PSG",
-      "time": "17:15",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 1,
-      "away_score": 3,
+      "home": "Angers SCO",
+      "away": "Marseille",
+      "time": "15:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-10-17"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Bologna",
-      "away": "Inter",
-      "time": "18:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 1,
-      "away_score": 3,
-      "is_live": false,
-      "local_date": "2026-10-17"
+      "local_date": "2026-10-18"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Eredivisie",
-      "home": "Telstar",
-      "away": "Feyenoord",
-      "time": "20:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 3,
-      "away_score": 4,
+      "home": "Groningen",
+      "away": "Ajax",
+      "time": "16:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-10-17"
+      "local_date": "2026-10-18"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Premier League",
+      "home": "Nottingham",
+      "away": "Arsenal",
+      "time": "17:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-18"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Roma",
-      "away": "Genoa",
-      "time": "20:45",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 2,
-      "away_score": 0,
+      "home": "Milan",
+      "away": "Atalanta",
+      "time": "18:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-10-17"
+      "local_date": "2026-10-18"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Juventus",
+      "away": "Lazio",
+      "time": "20:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-18"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Ligue 1",
+      "home": "Olympique Lyon",
+      "away": "Nice",
+      "time": "20:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-18"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "Luca Pellegrini torna in lista, convocato per Juventus-Lazio: l'annuncio ufficiale di Gattuso e cosa era successo - Goal.com",
       "source": "Goal.com",
-      "published": "Sat, 17 Oct 2026 11:54:00 GMT"
+      "published": "Sat, 17 Oct 2026 11:55:29 GMT"
     },
     {
       "type": "news",
@@ -131,30 +131,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Vernole, zona Pip: firmato l’accordo tra Comune e Civ dopo oltre vent’anni - LeccePrima",
-      "source": "LeccePrima",
-      "published": "Sat, 17 Oct 2026 11:55:03 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "COMUNICATO UFFICIALE: STRAHINJA PAVLOVIĆ - AC Milan",
       "source": "AC Milan",
       "published": "Wed, 14 Oct 2026 12:00:00 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, ora Bologna-Inter: 1-3. Il Venezia batte 1-0 il Napoli, ora Roma-Genoa. LIVE - Sky TG24",
-      "source": "Sky TG24",
-      "published": "Sat, 17 Oct 2026 18:47:01 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "![Italian Serie A TV!]*Inter - Bologna In Diretta Gratis Tv! Juventus Cagliari dove vederla Diretta tv e streaming - Universidad de Córdoba (UCO)",
-      "source": "Universidad de Córdoba (UCO)",
-      "published": "Sat, 17 Oct 2026 15:42:46 GMT"
+      "category": "CALCIOMERCATO",
+      "title": "Vernole, zona Pip: firmato l’accordo tra Comune e Civ dopo oltre vent’anni - LeccePrima",
+      "source": "LeccePrima",
+      "published": "Sat, 17 Oct 2026 11:55:03 GMT"
     },
     {
       "type": "news",
@@ -166,16 +152,23 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "![Italian Serie A TV!]*Inter - Bologna In Diretta Gratis Tv! Juventus Cagliari dove vederla Diretta tv e streaming - Universidad de Córdoba (UCO)",
+      "source": "Universidad de Córdoba (UCO)",
+      "published": "Sat, 17 Oct 2026 15:42:46 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "[Diretta]LaIVE!] Venezia-Napoli risultato in diretta della partita di Serie A 17 ottobre 2026 - Universidad de Córdoba (UCO)",
       "source": "Universidad de Córdoba (UCO)",
       "published": "Sat, 17 Oct 2026 16:49:26 GMT"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Jasmine Paolini e Sara Errani LIVE in semifinale al Wuhan Open 2026: risultato e aggiornamenti in diretta del match contro Hunter/Siniakova · Tennis WTA - Olympics",
-      "source": "Olympics",
-      "published": "Sat, 17 Oct 2026 11:00:00 GMT"
+      "category": "CALCIO",
+      "title": "Serie A, ok Inter. Venezia batte 1-0 Napoli, Roma supera Genoa 2-0 - Sky TG24",
+      "source": "Sky TG24",
+      "published": "Sat, 17 Oct 2026 21:31:49 GMT"
     },
     {
       "type": "news",
@@ -200,10 +193,24 @@
     },
     {
       "type": "news",
+      "category": "TENNIS",
+      "title": "Errani/Paolini-Hunter/Siniakova oggi in tv, WTA Wuhan 2026: orario semifinale e streaming - OA Sport",
+      "source": "OA Sport",
+      "published": "Sat, 17 Oct 2026 03:12:32 GMT"
+    },
+    {
+      "type": "news",
       "category": "PADEL",
       "title": "Premier Padel Milano: Lebron batte Galan in rimonta e si prende la finale - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sat, 17 Oct 2026 20:15:23 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Augsburger/Lebron illuminano Milano e vanno in finale! Chingalan al tappeto - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Sat, 17 Oct 2026 21:42:01 GMT"
     },
     {
       "type": "news",
@@ -215,16 +222,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Tour: Leygue e Collombon brillano a Siviglia, Boronad/Robert raggiungono le semifinali a Oslo, Mansart/Dardaine e Sireix i quarti di finale ad Alkmaar - Padel Magazine",
+      "title": "Milano P1 – Tapia e Coello ancora troppo forti per Stupa/Sanz, Coello entra nella storia con 300 vittorie sul circuito Premier Padel - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "Sat, 17 Oct 2026 14:20:50 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel Dusseldorf, trionfo di Coello-Tapia e Fernandez-Calvo - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 11 Oct 2026 19:52:56 GMT"
+      "published": "Sat, 17 Oct 2026 15:27:05 GMT"
     }
   ]
 }
