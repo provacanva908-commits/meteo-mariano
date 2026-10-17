@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T01:32:09.614014+00:00",
+  "updated_at": "2026-10-17T06:08:18.533375+00:00",
   "local_date": "2026-10-17",
   "articles": [
     {
@@ -124,13 +124,6 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Vesuvio, svolta per le guide del Gran Cono: firmato l’accordo, si apre una nuova fase - Parco Nazionale del Vesuvio",
-      "source": "Parco Nazionale del Vesuvio",
-      "published": "Fri, 16 Oct 2026 10:01:11 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "Meloni: «Margini per più flessibilità». Accordo Ue sul decreto bollette - Milano Finanza",
       "source": "Milano Finanza",
       "published": "Fri, 16 Oct 2026 17:00:00 GMT"
@@ -144,6 +137,13 @@
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "COMUNICATO UFFICIALE: STRAHINJA PAVLOVIĆ - AC Milan",
+      "source": "AC Milan",
+      "published": "Wed, 14 Oct 2026 12:00:00 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
       "title": "Roma, infortunio Koné: quante partite salta tra Serie A e Champions League - Sky Sport",
       "source": "Sky Sport",
@@ -152,9 +152,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A: Milan-Atalanta in campo domenica alle 18 DIRETTA - ANSA",
-      "source": "ANSA",
-      "published": "Fri, 16 Oct 2026 18:43:04 GMT"
+      "title": "Serie A, Milan-Atalanta: dove vedere la partita, probabili formazioni e quote - Diretta",
+      "source": "Diretta",
+      "published": "Sat, 17 Oct 2026 05:42:22 GMT"
     },
     {
       "type": "news",
@@ -166,9 +166,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Infortunio Pavard, il comunicato ufficiale dell'Inter - DAZN",
-      "source": "DAZN",
-      "published": "Fri, 16 Oct 2026 14:16:19 GMT"
+      "title": "Serie A: Milan-Atalanta in campo domenica alle 18 DIRETTA - ANSA",
+      "source": "ANSA",
+      "published": "Fri, 16 Oct 2026 18:43:04 GMT"
     },
     {
       "type": "news",
@@ -187,16 +187,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Quando si gioca Errani/Paolini-Hunter/Siniakova, WTA Wuhan 2026: orario semifinale, tv, streaming - OA Sport",
-      "source": "OA Sport",
-      "published": "Fri, 16 Oct 2026 15:02:44 GMT"
+      "title": "ATP Shanghai, Zverev stavolta non stecca: è in semifinale - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Wed, 14 Oct 2026 07:00:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Shanghai, Zverev stavolta non stecca: è in semifinale - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Wed, 14 Oct 2026 07:00:00 GMT"
+      "title": "Quando si gioca Errani/Paolini-Hunter/Siniakova, WTA Wuhan 2026: orario semifinale, tv, streaming - OA Sport",
+      "source": "OA Sport",
+      "published": "Fri, 16 Oct 2026 15:02:44 GMT"
     },
     {
       "type": "news",
@@ -222,7 +222,7 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Coello/Tapia hanno liquidato rapidamente Guerrero/Leal: \"I numeri dimostrano che Chingo/Galan sono ancora in gara\" - Padel Magazine",
+      "title": "Coello/Tapia surclassano Guerrero/Leal: \"I numeri dimostrano che Chingo/Galan sono ancora in corsa\" - Padel Magazine",
       "source": "Padel Magazine",
       "published": "Fri, 16 Oct 2026 19:54:43 GMT"
     }
