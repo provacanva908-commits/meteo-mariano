@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T06:08:18.533375+00:00",
+  "updated_at": "2026-10-17T10:45:13.313739+00:00",
   "local_date": "2026-10-17",
   "articles": [
     {
@@ -117,23 +117,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Intesa Sanpaolo e associazioni consumatori firmano accordo quadro 2027-2029 - Borsa Italiana",
-      "source": "Borsa Italiana",
-      "published": "Fri, 16 Oct 2026 10:46:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Meloni: «Margini per più flessibilità». Accordo Ue sul decreto bollette - Milano Finanza",
-      "source": "Milano Finanza",
-      "published": "Fri, 16 Oct 2026 17:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Esami per la patente A nel piazzale del mercato, accordo tra Comune e Motorizzazione - Il Piccolo",
-      "source": "Il Piccolo",
-      "published": "Fri, 16 Oct 2026 16:25:26 GMT"
+      "title": "Calciomercato Inter, per la porta si pensa a Beltran. Ma occhio alla Fiorentina - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sat, 17 Oct 2026 09:21:19 GMT"
     },
     {
       "type": "news",
@@ -144,38 +130,45 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Roma, infortunio Koné: quante partite salta tra Serie A e Champions League - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 16 Oct 2026 14:05:03 GMT"
+      "category": "CALCIOMERCATO",
+      "title": "Accordo Trump-Putin, Santoro: “Meloni in politica internazionale fa ridere, nel cabaret è a suo agio” - LA7",
+      "source": "LA7",
+      "published": "Thu, 15 Oct 2026 20:33:18 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Meloni: «Margini per più flessibilità». Accordo Ue sul decreto bollette - Milano Finanza",
+      "source": "Milano Finanza",
+      "published": "Fri, 16 Oct 2026 17:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, Milan-Atalanta: dove vedere la partita, probabili formazioni e quote - Diretta",
-      "source": "Diretta",
-      "published": "Sat, 17 Oct 2026 05:42:22 GMT"
+      "title": "Serie A: Napoli, Inter e Roma vogliono tornare alla vittoria dopo i Ko in Champions - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Sat, 17 Oct 2026 06:34:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A : Juventus-Lazio in campo domenica alle 20.45 DIRETTA - ANSA",
-      "source": "ANSA",
-      "published": "Fri, 16 Oct 2026 16:26:54 GMT"
+      "title": "Serie A, oggi tre sfide: Venezia-Napoli, Bologna-Inter e Roma-Genoa - Il Sole 24 ORE",
+      "source": "Il Sole 24 ORE",
+      "published": "Sat, 17 Oct 2026 09:26:41 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A: Milan-Atalanta in campo domenica alle 18 DIRETTA - ANSA",
-      "source": "ANSA",
-      "published": "Fri, 16 Oct 2026 18:43:04 GMT"
+      "title": "Venezia-Napoli, Bologna-Inter e Roma-Genoa oggi in serie A: orario, probabili formazioni e dove vederle in tv - LaPresse",
+      "source": "LaPresse",
+      "published": "Sat, 17 Oct 2026 09:09:09 GMT"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Errani/Paolini proseguono la scalata verso le WTA Finals! Netta vittoria su Danilina/Zhang e semifinale a Wuhan! - OA Sport",
-      "source": "OA Sport",
-      "published": "Fri, 16 Oct 2026 14:38:13 GMT"
+      "category": "CALCIO",
+      "title": "Serie A, sabato super: oggi in campo Napoli, Inter e Roma - Radio Sportiva",
+      "source": "Radio Sportiva",
+      "published": "Sat, 17 Oct 2026 08:02:35 GMT"
     },
     {
       "type": "news",
@@ -187,9 +180,16 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Errani/Paolini-Hunter/Siniakova oggi in tv, WTA Wuhan 2026: orario semifinale e streaming - OA Sport",
+      "source": "OA Sport",
+      "published": "Sat, 17 Oct 2026 03:12:32 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "ATP Shanghai, Zverev stavolta non stecca: è in semifinale - SuperTennis",
       "source": "SuperTennis",
-      "published": "Wed, 14 Oct 2026 07:00:00 GMT"
+      "published": "Thu, 15 Oct 2026 14:51:20 GMT"
     },
     {
       "type": "news",
@@ -222,9 +222,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Coello/Tapia surclassano Guerrero/Leal: \"I numeri dimostrano che Chingo/Galan sono ancora in corsa\" - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Fri, 16 Oct 2026 19:54:43 GMT"
+      "title": "FIP Bronze Cotonou: Bergeron e Seurin sorpresi nei quarti di finale, una sconfitta frustrante - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 17 Oct 2026 06:30:00 GMT"
     }
   ]
 }
