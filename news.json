@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-10-17T10:45:13.313739+00:00",
+  "updated_at": "2026-10-17T13:58:24.045166+00:00",
   "local_date": "2026-10-17",
   "articles": [
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Premier League",
-      "home": "Everton",
-      "away": "Chelsea",
-      "time": "13:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-17"
-    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -23,10 +9,24 @@
       "home": "Venezia FC",
       "away": "Napoli",
       "time": "15:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "is_live": true,
+      "local_date": "2026-10-17"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Premier League",
+      "home": "Everton",
+      "away": "Chelsea",
+      "time": "13:30",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 0,
+      "away_score": 2,
       "is_live": false,
       "local_date": "2026-10-17"
     },
@@ -117,37 +117,51 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Luca Pellegrini torna in lista, convocato per Juventus-Lazio: l'annuncio ufficiale di Gattuso e cosa era successo - Goal.com",
+      "source": "Goal.com",
+      "published": "Sat, 17 Oct 2026 11:55:29 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Sardone, 'per Milano scegliere in fretta, primarie se non c'è accordo' - ANSA",
+      "source": "ANSA",
+      "published": "Sat, 17 Oct 2026 12:16:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Calciomercato Inter, per la porta si pensa a Beltran. Ma occhio alla Fiorentina - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
-      "published": "Sat, 17 Oct 2026 09:21:19 GMT"
+      "published": "Sat, 17 Oct 2026 09:28:03 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "COMUNICATO UFFICIALE: STRAHINJA PAVLOVIĆ - AC Milan",
-      "source": "AC Milan",
-      "published": "Wed, 14 Oct 2026 12:00:00 GMT"
+      "title": "Venezia-Napoli, la formazione ufficiale di Allegri - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Sat, 17 Oct 2026 06:16:38 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Accordo Trump-Putin, Santoro: “Meloni in politica internazionale fa ridere, nel cabaret è a suo agio” - LA7",
-      "source": "LA7",
-      "published": "Thu, 15 Oct 2026 20:33:18 GMT"
+      "category": "CALCIO",
+      "title": "![Italian Serie A TV!]*Napoli-Venezia In Diretta Gratis Tv! Juventus Cagliari dove vederla Diretta tv e streaming - Universidad de Córdoba (UCO)",
+      "source": "Universidad de Córdoba (UCO)",
+      "published": "Sat, 17 Oct 2026 12:28:14 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Meloni: «Margini per più flessibilità». Accordo Ue sul decreto bollette - Milano Finanza",
-      "source": "Milano Finanza",
-      "published": "Fri, 16 Oct 2026 17:00:00 GMT"
+      "category": "CALCIO",
+      "title": "[Diretta]LaIVE!] Venezia-Napoli risultato in diretta della partita di Serie A 17 ottobre 2026 - Universidad de Córdoba (UCO)",
+      "source": "Universidad de Córdoba (UCO)",
+      "published": "Sat, 17 Oct 2026 12:58:53 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
       "title": "Serie A: Napoli, Inter e Roma vogliono tornare alla vittoria dopo i Ko in Champions - Sportmediaset",
       "source": "Sportmediaset",
-      "published": "Sat, 17 Oct 2026 06:34:00 GMT"
+      "published": "Sat, 17 Oct 2026 12:31:00 GMT"
     },
     {
       "type": "news",
@@ -158,17 +172,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Venezia-Napoli, Bologna-Inter e Roma-Genoa oggi in serie A: orario, probabili formazioni e dove vederle in tv - LaPresse",
-      "source": "LaPresse",
-      "published": "Sat, 17 Oct 2026 09:09:09 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, sabato super: oggi in campo Napoli, Inter e Roma - Radio Sportiva",
-      "source": "Radio Sportiva",
-      "published": "Sat, 17 Oct 2026 08:02:35 GMT"
+      "category": "TENNIS",
+      "title": "Jasmine Paolini e Sara Errani LIVE in semifinale al Wuhan Open 2026: risultato e aggiornamenti in diretta del match contro Hunter/Siniakova · Tennis WTA - Olympics",
+      "source": "Olympics",
+      "published": "Sat, 17 Oct 2026 11:00:00 GMT"
     },
     {
       "type": "news",
@@ -193,24 +200,10 @@
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Quando si gioca Errani/Paolini-Hunter/Siniakova, WTA Wuhan 2026: orario semifinale, tv, streaming - OA Sport",
-      "source": "OA Sport",
-      "published": "Fri, 16 Oct 2026 15:02:44 GMT"
-    },
-    {
-      "type": "news",
       "category": "PADEL",
       "title": "Premier Padel Milano: Galan e Lebron, sarà show all’Allianz. Avanti tutti i big - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Fri, 16 Oct 2026 21:44:17 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Milano Premier Padel, spettacolo ai quarti: Coello-Tapia sfidano Guerrero-Leal - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Fri, 16 Oct 2026 15:13:37 GMT"
     },
     {
       "type": "news",
@@ -225,6 +218,13 @@
       "title": "FIP Bronze Cotonou: Bergeron e Seurin sorpresi nei quarti di finale, una sconfitta frustrante - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sat, 17 Oct 2026 06:30:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Dove posso guardare i quarti di finale del torneo P1000 a Sens, Limoges e Draguignan? - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 17 Oct 2026 10:09:00 GMT"
     }
   ]
 }
