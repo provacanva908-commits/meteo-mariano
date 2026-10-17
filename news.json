@@ -1,18 +1,32 @@
 {
-  "updated_at": "2026-10-17T13:58:24.045166+00:00",
+  "updated_at": "2026-10-17T17:01:42.782522+00:00",
   "local_date": "2026-10-17",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Venezia FC",
-      "away": "Napoli",
-      "time": "15:00",
+      "competition": "Ligue 1",
+      "home": "Strasbourg",
+      "away": "PSG",
+      "time": "17:15",
       "status": "IN_PLAY",
       "status_label": "LIVE",
-      "home_score": 0,
-      "away_score": 0,
+      "home_score": 1,
+      "away_score": 1,
+      "is_live": true,
+      "local_date": "2026-10-17"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Bologna",
+      "away": "Inter",
+      "time": "18:00",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 1,
+      "away_score": 1,
       "is_live": true,
       "local_date": "2026-10-17"
     },
@@ -33,14 +47,28 @@
     {
       "type": "match",
       "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Venezia FC",
+      "away": "Napoli",
+      "time": "15:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 0,
+      "is_live": false,
+      "local_date": "2026-10-17"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
       "competition": "Premier League",
       "home": "Brentford",
       "away": "Liverpool",
       "time": "16:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 2,
       "is_live": false,
       "local_date": "2026-10-17"
     },
@@ -51,38 +79,10 @@
       "home": "Den Haag",
       "away": "PSV",
       "time": "16:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-17"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Ligue 1",
-      "home": "Strasbourg",
-      "away": "PSG",
-      "time": "17:15",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-17"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Bologna",
-      "away": "Inter",
-      "time": "18:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
+      "away_score": 1,
       "is_live": false,
       "local_date": "2026-10-17"
     },
@@ -124,6 +124,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Vernole, zona Pip: firmato l’accordo tra Comune e Civ dopo oltre vent’anni - LeccePrima",
+      "source": "LeccePrima",
+      "published": "Sat, 17 Oct 2026 11:55:03 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Sardone, 'per Milano scegliere in fretta, primarie se non c'è accordo' - ANSA",
       "source": "ANSA",
       "published": "Sat, 17 Oct 2026 12:16:00 GMT"
@@ -137,13 +144,6 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Venezia-Napoli, la formazione ufficiale di Allegri - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Sat, 17 Oct 2026 06:16:38 GMT"
-    },
-    {
-      "type": "news",
       "category": "CALCIO",
       "title": "![Italian Serie A TV!]*Napoli-Venezia In Diretta Gratis Tv! Juventus Cagliari dove vederla Diretta tv e streaming - Universidad de Córdoba (UCO)",
       "source": "Universidad de Córdoba (UCO)",
@@ -154,7 +154,7 @@
       "category": "CALCIO",
       "title": "[Diretta]LaIVE!] Venezia-Napoli risultato in diretta della partita di Serie A 17 ottobre 2026 - Universidad de Córdoba (UCO)",
       "source": "Universidad de Córdoba (UCO)",
-      "published": "Sat, 17 Oct 2026 12:58:53 GMT"
+      "published": "Sat, 17 Oct 2026 16:49:26 GMT"
     },
     {
       "type": "news",
@@ -166,9 +166,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, oggi tre sfide: Venezia-Napoli, Bologna-Inter e Roma-Genoa - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
-      "published": "Sat, 17 Oct 2026 09:26:41 GMT"
+      "title": "(((IN LINEA))) Bologna v Inter Milan in diretta gratis Serie A italiana - Universidad de Córdoba (UCO)",
+      "source": "Universidad de Córdoba (UCO)",
+      "published": "Sat, 17 Oct 2026 15:49:57 GMT"
     },
     {
       "type": "news",
@@ -180,23 +180,23 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Zverev ko in semifinale a Shanghai e Sinner ringrazia - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Sat, 17 Oct 2026 13:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "ATP Shanghai, delusione Zverev: il futuro numero uno eliminato in semifinale da Davidovich - Diretta",
+      "source": "Diretta",
+      "published": "Sat, 17 Oct 2026 11:00:48 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Jasmine Paolini e Sara Errani in semifinale al Wuhan Open 2026! Superate ai quarti Danilina/Zhang · Tennis WTA - Olympics",
       "source": "Olympics",
       "published": "Fri, 16 Oct 2026 14:24:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Errani/Paolini-Hunter/Siniakova oggi in tv, WTA Wuhan 2026: orario semifinale e streaming - OA Sport",
-      "source": "OA Sport",
-      "published": "Sat, 17 Oct 2026 03:12:32 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "ATP Shanghai, Zverev stavolta non stecca: è in semifinale - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Thu, 15 Oct 2026 14:51:20 GMT"
     },
     {
       "type": "news",
@@ -215,16 +215,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Bronze Cotonou: Bergeron e Seurin sorpresi nei quarti di finale, una sconfitta frustrante - padel-magazine.it",
+      "title": "FIP Tour: Leygue e Collombon brillano a Siviglia, Boronad/Robert raggiungono le semifinali a Oslo, Mansart/Dardaine e Sireix i quarti di finale ad Alkmaar - padel-magazine.it",
       "source": "padel-magazine.it",
-      "published": "Sat, 17 Oct 2026 06:30:00 GMT"
+      "published": "Sat, 17 Oct 2026 14:20:50 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Dove posso guardare i quarti di finale del torneo P1000 a Sens, Limoges e Draguignan? - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sat, 17 Oct 2026 10:09:00 GMT"
+      "title": "FIP Bronze Cotonou: Bergeron e Seurin sorprendono nei quarti di finale, una sconfitta frustrante - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Sat, 17 Oct 2026 06:30:00 GMT"
     }
   ]
 }
