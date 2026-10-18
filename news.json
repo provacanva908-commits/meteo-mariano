@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T06:24:30.745897+00:00",
+  "updated_at": "2026-10-18T11:35:23.519968+00:00",
   "local_date": "2026-10-18",
   "articles": [
     {
@@ -9,11 +9,11 @@
       "home": "Udinese",
       "away": "Lecce",
       "time": "12:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 2,
+      "is_live": true,
       "local_date": "2026-10-18"
     },
     {
@@ -117,9 +117,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Luca Pellegrini torna in lista, convocato per Juventus-Lazio: l'annuncio ufficiale di Gattuso e cosa era successo - Goal.com",
-      "source": "Goal.com",
-      "published": "Sat, 17 Oct 2026 11:54:00 GMT"
+      "title": "Monza 2027: Piffer si candida, il primo sfidante ufficiale lancia la \"chiamata civica\" - Il Cittadino di Monza e Brianza",
+      "source": "Il Cittadino di Monza e Brianza",
+      "published": "Sun, 18 Oct 2026 07:30:00 GMT"
     },
     {
       "type": "news",
@@ -131,30 +131,37 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Inter, per la porta si pensa a Beltran. Ma occhio alla Fiorentina - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sat, 17 Oct 2026 09:28:03 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "Accordo Trump-Putin, Santoro: “Meloni in politica internazionale fa ridere, nel cabaret è a suo agio” - LA7",
       "source": "LA7",
       "published": "Thu, 15 Oct 2026 20:33:18 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Dove vedere Milan-Atalanta, Juventus-Lazio e le altre partite di oggi in serie A - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Sun, 18 Oct 2026 05:10:00 GMT"
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Inter, per la porta si pensa a Beltran. Ma occhio alla Fiorentina - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sat, 17 Oct 2026 09:28:03 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "![Italian Serie A TV!]*Inter - Bologna In Diretta Gratis Tv! Juventus Cagliari dove vederla Diretta tv e streaming - Universidad de Córdoba (UCO)",
-      "source": "Universidad de Córdoba (UCO)",
-      "published": "Sat, 17 Oct 2026 15:42:46 GMT"
+      "title": "I convocati per Milan-Atalanta | Serie A Enilive 2026/27 MD7 - Atalanta",
+      "source": "Atalanta",
+      "published": "Sun, 18 Oct 2026 10:00:12 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Le partite di oggi: Milan-Atalanta e Juventus-Lazio. In campo Serie B, Premier, Bundesliga, Liga e Ligue 1 - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 18 Oct 2026 06:29:21 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Milan-Atalanta e Juve-Lazio oggi in serie A: orario, probabili formazioni e dove vederle in tv - LaPresse",
+      "source": "LaPresse",
+      "published": "Sun, 18 Oct 2026 07:45:35 GMT"
     },
     {
       "type": "news",
@@ -162,13 +169,6 @@
       "title": "[Diretta YouTube] Bologna-Inter IN DIRETTA Streaming, partita di oggi, Serie A italiana, 17 ottobre 2026 - Universidad de Córdoba (UCO)",
       "source": "Universidad de Córdoba (UCO)",
       "published": "Sat, 17 Oct 2026 20:46:53 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "[Diretta]LaIVE!] Venezia-Napoli risultato in diretta della partita di Serie A 17 ottobre 2026 - Universidad de Córdoba (UCO)",
-      "source": "Universidad de Córdoba (UCO)",
-      "published": "Sat, 17 Oct 2026 16:49:26 GMT"
     },
     {
       "type": "news",
@@ -215,16 +215,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Milano: Galan e Lebron, sarà show all’Allianz. Avanti tutti i big - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Fri, 16 Oct 2026 21:44:17 GMT"
+      "title": "FIP Tour: Collombon in semifinale a Siviglia, fine del percorso per Leygue, Boronad/Robert e le donne francesi ad Alkmaar. - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Sun, 18 Oct 2026 06:58:46 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Dusseldorf, trionfo di Coello-Tapia e Fernandez-Calvo - La Gazzetta dello Sport",
+      "title": "Premier Padel Milano: Galan e Lebron, sarà show all’Allianz. Avanti tutti i big - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
-      "published": "Sun, 11 Oct 2026 19:52:56 GMT"
+      "published": "Fri, 16 Oct 2026 21:44:17 GMT"
     }
   ]
 }
