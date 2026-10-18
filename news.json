@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-10-18T11:35:23.519968+00:00",
+  "updated_at": "2026-10-18T14:48:57.243182+00:00",
   "local_date": "2026-10-18",
   "articles": [
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Udinese",
-      "away": "Lecce",
-      "time": "12:30",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 0,
-      "away_score": 2,
-      "is_live": true,
-      "local_date": "2026-10-18"
-    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -23,11 +9,11 @@
       "home": "Fiorentina",
       "away": "Como 1907",
       "time": "15:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 1,
+      "away_score": 3,
+      "is_live": true,
       "local_date": "2026-10-18"
     },
     {
@@ -37,10 +23,24 @@
       "home": "Angers SCO",
       "away": "Marseille",
       "time": "15:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 2,
+      "away_score": 5,
+      "is_live": true,
+      "local_date": "2026-10-18"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Udinese",
+      "away": "Lecce",
+      "time": "12:30",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 0,
+      "away_score": 3,
       "is_live": false,
       "local_date": "2026-10-18"
     },
@@ -117,6 +117,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "San Marino si prepara alla firma dell'accordo di associazione all'Ue - ANSA",
+      "source": "ANSA",
+      "published": "Sun, 18 Oct 2026 12:08:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Monza 2027: Piffer si candida, il primo sfidante ufficiale lancia la \"chiamata civica\" - Il Cittadino di Monza e Brianza",
       "source": "Il Cittadino di Monza e Brianza",
       "published": "Sun, 18 Oct 2026 07:30:00 GMT"
@@ -137,13 +144,6 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Inter, per la porta si pensa a Beltran. Ma occhio alla Fiorentina - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sat, 17 Oct 2026 09:28:03 GMT"
-    },
-    {
-      "type": "news",
       "category": "CALCIO",
       "title": "I convocati per Milan-Atalanta | Serie A Enilive 2026/27 MD7 - Atalanta",
       "source": "Atalanta",
@@ -152,30 +152,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Le partite di oggi: Milan-Atalanta e Juventus-Lazio. In campo Serie B, Premier, Bundesliga, Liga e Ligue 1 - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 18 Oct 2026 06:29:21 GMT"
+      "title": "Serie A Enilive | Juventus-Lazio, i convocati biancocelesti - S.S. Lazio",
+      "source": "S.S. Lazio",
+      "published": "Sun, 18 Oct 2026 12:00:54 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Milan-Atalanta e Juve-Lazio oggi in serie A: orario, probabili formazioni e dove vederle in tv - LaPresse",
-      "source": "LaPresse",
-      "published": "Sun, 18 Oct 2026 07:45:35 GMT"
+      "title": "Serie A: Milan-Atalanta in campo alle 18 DIRETTA - ANSA",
+      "source": "ANSA",
+      "published": "Sun, 18 Oct 2026 13:43:30 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "[Diretta YouTube] Bologna-Inter IN DIRETTA Streaming, partita di oggi, Serie A italiana, 17 ottobre 2026 - Universidad de Córdoba (UCO)",
-      "source": "Universidad de Córdoba (UCO)",
-      "published": "Sat, 17 Oct 2026 20:46:53 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Jasmine Paolini e Sara Errani LIVE in semifinale al Wuhan Open 2026: risultato e aggiornamenti in diretta del match contro Hunter/Siniakova · Tennis WTA - Olympics",
-      "source": "Olympics",
-      "published": "Sat, 17 Oct 2026 11:00:00 GMT"
+      "title": "Serie A, Juventus-Lazio in campo alle 20.45 DIRETTA - ANSA",
+      "source": "ANSA",
+      "published": "Sun, 18 Oct 2026 13:42:41 GMT"
     },
     {
       "type": "news",
@@ -194,9 +187,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Zverev ko in semifinale a Shanghai e Sinner ringrazia - OglioPoNews",
-      "source": "OglioPoNews",
-      "published": "Sat, 17 Oct 2026 20:38:05 GMT"
+      "title": "ATP Shanghai, finale: la spagna vittoriosa con Jodar e Davidovich Fokina - Il Tennis Italiano",
+      "source": "Il Tennis Italiano",
+      "published": "Sun, 18 Oct 2026 07:54:17 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Jodar raggiunge la sua prima finale Masters 1000 a Shanghai - www.nextgenatpfinals.com",
+      "source": "www.nextgenatpfinals.com",
+      "published": "Sun, 18 Oct 2026 06:57:38 GMT"
     },
     {
       "type": "news",
