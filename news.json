@@ -1,46 +1,18 @@
 {
-  "updated_at": "2026-10-18T19:41:43.455031+00:00",
+  "updated_at": "2026-10-18T21:56:06.459910+00:00",
   "local_date": "2026-10-18",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Juventus",
-      "away": "Lazio",
-      "time": "20:45",
+      "competition": "Eredivisie",
+      "home": "Groningen",
+      "away": "Ajax",
+      "time": "16:45",
       "status": "IN_PLAY",
       "status_label": "LIVE",
       "home_score": 0,
-      "away_score": 1,
-      "is_live": true,
-      "local_date": "2026-10-18"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Primera Division",
-      "home": "Real Madrid",
-      "away": "Sevilla FC",
-      "time": "21:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 1,
-      "away_score": 0,
-      "is_live": true,
-      "local_date": "2026-10-18"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Ligue 1",
-      "home": "Olympique Lyon",
-      "away": "Nice",
-      "time": "20:45",
-      "status": "PAUSED",
-      "status_label": "Intervallo",
-      "home_score": 2,
-      "away_score": 1,
+      "away_score": 2,
       "is_live": true,
       "local_date": "2026-10-18"
     },
@@ -89,20 +61,6 @@
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "Groningen",
-      "away": "Ajax",
-      "time": "16:45",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 2,
-      "away_score": 5,
-      "is_live": false,
-      "local_date": "2026-10-18"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
       "competition": "Premier League",
       "home": "Nottingham",
       "away": "Arsenal",
@@ -115,18 +73,53 @@
       "local_date": "2026-10-18"
     },
     {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Milan",
+      "away": "Atalanta",
+      "time": "18:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 3,
+      "away_score": 2,
+      "is_live": false,
+      "local_date": "2026-10-18"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Juventus",
+      "away": "Lazio",
+      "time": "20:45",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 0,
+      "away_score": 3,
+      "is_live": false,
+      "local_date": "2026-10-18"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Ligue 1",
+      "home": "Olympique Lyon",
+      "away": "Nice",
+      "time": "20:45",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
+      "away_score": 1,
+      "is_live": false,
+      "local_date": "2026-10-18"
+    },
+    {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "✔️[DIRETTA UFFICIALE] Atalanta - AC Milan Diretta Streaming Gratis TV - Universidad de Córdoba (UCO)",
       "source": "Universidad de Córdoba (UCO)",
       "published": "Sun, 18 Oct 2026 15:43:04 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "San Marino si prepara alla firma dell'accordo di associazione all'Ue - ANSA",
-      "source": "ANSA",
-      "published": "Sun, 18 Oct 2026 12:08:00 GMT"
     },
     {
       "type": "news",
@@ -144,6 +137,13 @@
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Inter, per la porta si pensa a Beltran. Ma occhio alla Fiorentina - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sat, 17 Oct 2026 09:28:03 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
       "title": "[Diretta YouTube] Juventus-Lazio: la partita di oggi, Serie A italiana, 19 ottobre 2026 - Universidad de Córdoba (UCO)",
       "source": "Universidad de Córdoba (UCO)",
@@ -152,9 +152,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "[+>REGARDEZ DIRETTA!%]* Juventus Torino-Lazio Roma in diretta Coppa Italia gratuita sul canale TV - Universidad de Córdoba (UCO)",
+      "title": "[IN DIRETTA] Atalanta-Milan In Diretta Streaming Italian Serie A Calcio 18 ｏｔｔｏｂｒｅ ２０２６ - Universidad de Córdoba (UCO)",
       "source": "Universidad de Córdoba (UCO)",
-      "published": "Sun, 18 Oct 2026 18:18:47 GMT"
+      "published": "Sun, 18 Oct 2026 16:23:14 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "!~%!%~[DIRETTA] Atalanta-Milan 𝕀𝕟 𝔻𝕚𝕣𝕖𝕥𝕥𝕒 Streaming Italian Serie A Ｃａｌｃｉｏ 18 ｏｔｔｏｂｒｅ ２０２６ - Universidad de Córdoba (UCO)",
+      "source": "Universidad de Córdoba (UCO)",
+      "published": "Sun, 18 Oct 2026 16:23:12 GMT"
     },
     {
       "type": "news",
@@ -162,13 +169,6 @@
       "title": "I convocati per Milan-Atalanta | Serie A Enilive 2026/27 MD7 - Atalanta",
       "source": "Atalanta",
       "published": "Sun, 18 Oct 2026 10:00:12 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Come acquistare i biglietti per le partite del Liverpool in Champions League 2026/27: calendario della fase campionato, prezzi e altre informazioni - Goal.com",
-      "source": "Goal.com",
-      "published": "Sun, 18 Oct 2026 16:28:15 GMT"
     },
     {
       "type": "news",
@@ -182,7 +182,7 @@
       "category": "TENNIS",
       "title": "Atp Shanghai, Davidovich Fokina trionfa in finale contro Jodar - Il Sole 24 ORE",
       "source": "Il Sole 24 ORE",
-      "published": "Sun, 18 Oct 2026 19:30:00 GMT"
+      "published": "Sun, 18 Oct 2026 19:30:34 GMT"
     },
     {
       "type": "news",
@@ -208,16 +208,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Augsburger/Lebron illuminano Milano e vanno in finale! Chingalan al tappeto - Padel Magazine",
+      "title": "Tapia e Coello hanno avuto difficoltà nella finale di Milano P1, ma conquistano il loro quarto titolo consecutivo - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "Sat, 17 Oct 2026 21:42:01 GMT"
+      "published": "Sun, 18 Oct 2026 17:50:59 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Tapia e Coello hanno avuto difficoltà nella finale di Milano P1, ma conquistano il loro quarto titolo consecutivo - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sun, 18 Oct 2026 17:50:59 GMT"
+      "title": "Augsburger/Lebron illuminano Milano e vanno in finale! Chingalan al tappeto - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Sat, 17 Oct 2026 21:42:01 GMT"
     },
     {
       "type": "news",
