@@ -1,32 +1,18 @@
 {
-  "updated_at": "2026-10-18T14:48:57.243182+00:00",
+  "updated_at": "2026-10-18T17:39:12.948551+00:00",
   "local_date": "2026-10-18",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Fiorentina",
-      "away": "Como 1907",
-      "time": "15:00",
+      "home": "Milan",
+      "away": "Atalanta",
+      "time": "18:00",
       "status": "IN_PLAY",
       "status_label": "LIVE",
-      "home_score": 1,
-      "away_score": 3,
-      "is_live": true,
-      "local_date": "2026-10-18"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Ligue 1",
-      "home": "Angers SCO",
-      "away": "Marseille",
-      "time": "15:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 2,
-      "away_score": 5,
+      "home_score": 3,
+      "away_score": 1,
       "is_live": true,
       "local_date": "2026-10-18"
     },
@@ -47,14 +33,42 @@
     {
       "type": "match",
       "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Fiorentina",
+      "away": "Como 1907",
+      "time": "15:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 3,
+      "is_live": false,
+      "local_date": "2026-10-18"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Ligue 1",
+      "home": "Angers SCO",
+      "away": "Marseille",
+      "time": "15:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
+      "away_score": 5,
+      "is_live": false,
+      "local_date": "2026-10-18"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
       "competition": "Eredivisie",
       "home": "Groningen",
       "away": "Ajax",
       "time": "16:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
+      "away_score": 5,
       "is_live": false,
       "local_date": "2026-10-18"
     },
@@ -65,24 +79,10 @@
       "home": "Nottingham",
       "away": "Arsenal",
       "time": "17:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-18"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Milan",
-      "away": "Atalanta",
-      "time": "18:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 0,
+      "away_score": 1,
       "is_live": false,
       "local_date": "2026-10-18"
     },
@@ -117,6 +117,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "✔️[DIRETTA UFFICIALE] Atalanta - AC Milan Diretta Streaming Gratis TV - Universidad de Córdoba (UCO)",
+      "source": "Universidad de Córdoba (UCO)",
+      "published": "Sun, 18 Oct 2026 15:43:04 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "San Marino si prepara alla firma dell'accordo di associazione all'Ue - ANSA",
       "source": "ANSA",
       "published": "Sun, 18 Oct 2026 12:08:00 GMT"
@@ -137,10 +144,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Accordo Trump-Putin, Santoro: “Meloni in politica internazionale fa ridere, nel cabaret è a suo agio” - LA7",
-      "source": "LA7",
-      "published": "Thu, 15 Oct 2026 20:33:18 GMT"
+      "category": "CALCIO",
+      "title": "~%^$[CALCIO/TV]!* Milan - Atalanta In Diretta 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Serie A Italiana Gratis 18 ｏｔｔｏｂｒｅ ２０２６ - Universidad de Córdoba (UCO)",
+      "source": "Universidad de Córdoba (UCO)",
+      "published": "Sun, 18 Oct 2026 16:23:17 GMT"
     },
     {
       "type": "news",
@@ -152,30 +159,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Enilive | Juventus-Lazio, i convocati biancocelesti - S.S. Lazio",
-      "source": "S.S. Lazio",
-      "published": "Sun, 18 Oct 2026 12:00:54 GMT"
+      "title": "++%[CALCIO!!] US Atalanta — Milan Calcio diretta 18 ottobre 2026 |Italian Serie A - Universidad de Córdoba (UCO)",
+      "source": "Universidad de Córdoba (UCO)",
+      "published": "Sun, 18 Oct 2026 15:47:22 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A: Milan-Atalanta in campo alle 18 DIRETTA - ANSA",
-      "source": "ANSA",
-      "published": "Sun, 18 Oct 2026 13:43:30 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, Juventus-Lazio in campo alle 20.45 DIRETTA - ANSA",
-      "source": "ANSA",
-      "published": "Sun, 18 Oct 2026 13:42:41 GMT"
+      "title": "Come acquistare i biglietti per le partite del Liverpool in Champions League 2026/27: calendario della fase campionato, prezzi e altre informazioni - Goal.com",
+      "source": "Goal.com",
+      "published": "Sun, 18 Oct 2026 16:28:15 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jasmine Paolini e Sara Errani in semifinale al Wuhan Open 2026! Superate ai quarti Danilina/Zhang · Tennis WTA - Olympics",
+      "title": "Jasmine Paolini e Sara Errani LIVE in semifinale al Wuhan Open 2026: risultato e aggiornamenti in diretta del match contro Hunter/Siniakova · Tennis WTA - Olympics",
       "source": "Olympics",
-      "published": "Fri, 16 Oct 2026 14:24:00 GMT"
+      "published": "Sat, 17 Oct 2026 11:00:00 GMT"
     },
     {
       "type": "news",
