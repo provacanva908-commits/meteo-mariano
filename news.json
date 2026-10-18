@@ -1,17 +1,45 @@
 {
-  "updated_at": "2026-10-18T17:39:12.948551+00:00",
+  "updated_at": "2026-10-18T19:41:43.455031+00:00",
   "local_date": "2026-10-18",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Milan",
-      "away": "Atalanta",
-      "time": "18:00",
+      "home": "Juventus",
+      "away": "Lazio",
+      "time": "20:45",
       "status": "IN_PLAY",
       "status_label": "LIVE",
-      "home_score": 3,
+      "home_score": 0,
+      "away_score": 1,
+      "is_live": true,
+      "local_date": "2026-10-18"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Primera Division",
+      "home": "Real Madrid",
+      "away": "Sevilla FC",
+      "time": "21:00",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 1,
+      "away_score": 0,
+      "is_live": true,
+      "local_date": "2026-10-18"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Ligue 1",
+      "home": "Olympique Lyon",
+      "away": "Nice",
+      "time": "20:45",
+      "status": "PAUSED",
+      "status_label": "Intervallo",
+      "home_score": 2,
       "away_score": 1,
       "is_live": true,
       "local_date": "2026-10-18"
@@ -87,34 +115,6 @@
       "local_date": "2026-10-18"
     },
     {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Juventus",
-      "away": "Lazio",
-      "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-18"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Ligue 1",
-      "home": "Olympique Lyon",
-      "away": "Nice",
-      "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-18"
-    },
-    {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "✔️[DIRETTA UFFICIALE] Atalanta - AC Milan Diretta Streaming Gratis TV - Universidad de Córdoba (UCO)",
@@ -145,9 +145,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "~%^$[CALCIO/TV]!* Milan - Atalanta In Diretta 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Serie A Italiana Gratis 18 ｏｔｔｏｂｒｅ ２０２６ - Universidad de Córdoba (UCO)",
+      "title": "[Diretta YouTube] Juventus-Lazio: la partita di oggi, Serie A italiana, 19 ottobre 2026 - Universidad de Córdoba (UCO)",
       "source": "Universidad de Córdoba (UCO)",
-      "published": "Sun, 18 Oct 2026 16:23:17 GMT"
+      "published": "Sun, 18 Oct 2026 18:11:47 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "[+>REGARDEZ DIRETTA!%]* Juventus Torino-Lazio Roma in diretta Coppa Italia gratuita sul canale TV - Universidad de Córdoba (UCO)",
+      "source": "Universidad de Córdoba (UCO)",
+      "published": "Sun, 18 Oct 2026 18:18:47 GMT"
     },
     {
       "type": "news",
@@ -159,13 +166,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "++%[CALCIO!!] US Atalanta — Milan Calcio diretta 18 ottobre 2026 |Italian Serie A - Universidad de Córdoba (UCO)",
-      "source": "Universidad de Córdoba (UCO)",
-      "published": "Sun, 18 Oct 2026 15:47:22 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Come acquistare i biglietti per le partite del Liverpool in Champions League 2026/27: calendario della fase campionato, prezzi e altre informazioni - Goal.com",
       "source": "Goal.com",
       "published": "Sun, 18 Oct 2026 16:28:15 GMT"
@@ -173,16 +173,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jasmine Paolini e Sara Errani LIVE in semifinale al Wuhan Open 2026: risultato e aggiornamenti in diretta del match contro Hunter/Siniakova · Tennis WTA - Olympics",
-      "source": "Olympics",
-      "published": "Sat, 17 Oct 2026 11:00:00 GMT"
+      "title": "ATP Shanghai, Zverev stavolta non stecca: è in semifinale - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Thu, 15 Oct 2026 14:51:20 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Shanghai, Zverev stavolta non stecca: è in semifinale - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Thu, 15 Oct 2026 14:51:20 GMT"
+      "title": "Atp Shanghai, Davidovich Fokina trionfa in finale contro Jodar - Il Sole 24 ORE",
+      "source": "Il Sole 24 ORE",
+      "published": "Sun, 18 Oct 2026 19:30:00 GMT"
     },
     {
       "type": "news",
@@ -215,16 +215,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Tour: Collombon in semifinale a Siviglia, fine del percorso per Leygue, Boronad/Robert e le donne francesi ad Alkmaar. - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Sun, 18 Oct 2026 06:58:46 GMT"
+      "title": "Tapia e Coello hanno avuto difficoltà nella finale di Milano P1, ma conquistano il loro quarto titolo consecutivo - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sun, 18 Oct 2026 17:50:59 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Milano: Galan e Lebron, sarà show all’Allianz. Avanti tutti i big - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Fri, 16 Oct 2026 21:44:17 GMT"
+      "title": "FIP Tour: Collombon in semifinale a Siviglia, fine del percorso per Leygue, Boronad/Robert e le donne francesi ad Alkmaar. - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Sun, 18 Oct 2026 06:58:46 GMT"
     }
   ]
 }
