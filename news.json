@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T00:05:59.502321+00:00",
+  "updated_at": "2026-10-19T04:37:10.594986+00:00",
   "local_date": "2026-10-19",
   "articles": [
     {
@@ -54,16 +54,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "COMUNICATO UFFICIALE: STRAHINJA PAVLOVIĆ - AC Milan",
-      "source": "AC Milan",
-      "published": "Wed, 14 Oct 2026 12:00:00 GMT"
+      "title": "OpenWorld firma accordo di fusione con la società di AI Blocksight - Investing.com",
+      "source": "Investing.com",
+      "published": "Mon, 19 Oct 2026 00:05:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Monza 2027: Piffer si candida, il primo sfidante ufficiale lancia la \"chiamata civica\" - Il Cittadino di Monza e Brianza",
-      "source": "Il Cittadino di Monza e Brianza",
-      "published": "Sun, 18 Oct 2026 07:30:00 GMT"
+      "title": "COMUNICATO UFFICIALE: STRAHINJA PAVLOVIĆ - AC Milan",
+      "source": "AC Milan",
+      "published": "Wed, 14 Oct 2026 12:00:00 GMT"
     },
     {
       "type": "news",
@@ -76,6 +76,13 @@
       "type": "news",
       "category": "CALCIO",
       "title": "[Diretta YouTube] Juventus-Lazio: la partita di oggi, Serie A italiana, 19 ottobre 2026 - Universidad de Córdoba (UCO)",
+      "source": "Universidad de Córdoba (UCO)",
+      "published": "Sun, 18 Oct 2026 18:11:47 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "(Diretta TV) Juventus-Lazio: guarda il match della Serie A italiana, 19 ottobre 2026 - Universidad de Córdoba (UCO)",
       "source": "Universidad de Córdoba (UCO)",
       "published": "Sun, 18 Oct 2026 18:11:47 GMT"
     },
@@ -95,24 +102,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "I convocati per Milan-Atalanta | Serie A Enilive 2026/27 MD7 - Atalanta",
-      "source": "Atalanta",
-      "published": "Sun, 18 Oct 2026 10:00:12 GMT"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
       "title": "ATP Shanghai, Zverev stavolta non stecca: è in semifinale - SuperTennis",
       "source": "SuperTennis",
       "published": "Thu, 15 Oct 2026 14:51:20 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Atp Shanghai, Davidovich Fokina trionfa in finale contro Jodar - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
-      "published": "Sun, 18 Oct 2026 19:30:34 GMT"
     },
     {
       "type": "news",
@@ -124,9 +117,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Shanghai, finale: la spagna vittoriosa con Jodar e Davidovich Fokina - Il Tennis Italiano",
-      "source": "Il Tennis Italiano",
-      "published": "Sun, 18 Oct 2026 07:54:17 GMT"
+      "title": "Zverev out in semifinale: Fokina vince in 3 set - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sat, 17 Oct 2026 07:59:16 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Atp Shanghai, Davidovich Fokina trionfa in finale contro Jodar - Il Sole 24 ORE",
+      "source": "Il Sole 24 ORE",
+      "published": "Sun, 18 Oct 2026 19:30:34 GMT"
     },
     {
       "type": "news",
@@ -152,9 +152,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Tour: Collombon in semifinale a Siviglia, fine del percorso per Leygue, Boronad/Robert e le donne francesi ad Alkmaar. - Padel Magazine",
+      "title": "“Arturo giocava quasi interamente da solo”: Tapia racconta come Coello salvò la loro finale a Milano - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "Sun, 18 Oct 2026 06:58:46 GMT"
+      "published": "Sun, 18 Oct 2026 23:39:02 GMT"
     }
   ]
 }
