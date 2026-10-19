@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T10:18:25.318345+00:00",
+  "updated_at": "2026-10-19T17:02:46.705830+00:00",
   "local_date": "2026-10-19",
   "articles": [
     {
@@ -9,11 +9,11 @@
       "home": "Monza",
       "away": "Cagliari",
       "time": "18:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "is_live": true,
       "local_date": "2026-10-19"
     },
     {
@@ -47,44 +47,44 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "San Marino, firma storica a Bruxelles: siglato l’accordo per l’integrazione nel mercato unico europeo - Corriere Romagna",
+      "source": "Corriere Romagna",
+      "published": "Mon, 19 Oct 2026 13:19:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "BAE Systems firma un accordo con il Pentagono per produrre fino a 25.000 sistemi intercettori all'anno - MarketScreener Italia",
+      "source": "MarketScreener Italia",
+      "published": "Mon, 19 Oct 2026 15:43:13 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "SAN MARINO: Arriva la firma dell'accordo di associazione all'Ue - Teleromagna",
+      "source": "Teleromagna",
+      "published": "Mon, 19 Oct 2026 07:48:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Fondi europei, Roma stringe un accordo con Anci Lazio: più formazione e nuovi progetti - La Capitale",
       "source": "La Capitale",
       "published": "Mon, 19 Oct 2026 09:51:41 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "✔️[DIRETTA UFFICIALE] Atalanta - AC Milan Diretta Streaming Gratis TV - Universidad de Córdoba (UCO)",
-      "source": "Universidad de Córdoba (UCO)",
-      "published": "Sun, 18 Oct 2026 15:43:04 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Sicurezza sanitaria globale. Accordo Oms-Interpol contro traffico di organi, farmaci contraffatti e minacce biologiche - Quotidiano Sanità",
-      "source": "Quotidiano Sanità",
-      "published": "Mon, 19 Oct 2026 08:52:35 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Svizzera e Paesi dell'Associazione europea di libero scambio firmano un accordo di libero scambio con il Vietnam - MarketScreener Italia",
-      "source": "MarketScreener Italia",
-      "published": "Mon, 19 Oct 2026 04:48:49 GMT"
+      "category": "CALCIO",
+      "title": "Terza giornata Champions League: Como - Manchester United, storia della partita - UEFA.com",
+      "source": "UEFA.com",
+      "published": "Mon, 19 Oct 2026 10:59:47 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, torna lo spettacolo: quando giocano Inter, Napoli, Roma e Como e dove vedere le partite in tv - Torino Cronaca",
-      "source": "Torino Cronaca",
-      "published": "Mon, 19 Oct 2026 09:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, la Juve crolla e il Milan resta in scia. Lazio prima con l’Inter: risultati, nuova classifica e partite di oggi - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "Mon, 19 Oct 2026 06:55:00 GMT"
+      "title": "Psg-Barcellona, le probabili formazioni della partita di Champions League - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Mon, 19 Oct 2026 14:46:25 GMT"
     },
     {
       "type": "news",
@@ -96,9 +96,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Como-Manchester United, anteprima di Champions League: lo United cerca una ripartenza decisiva in vista dell’insidiosa trasferta in Italia - Goal.com",
-      "source": "Goal.com",
-      "published": "Mon, 19 Oct 2026 07:22:44 GMT"
+      "title": "Champions League: super show Psg-Barcellona, italiane in cerca di riscatto - ANSA",
+      "source": "ANSA",
+      "published": "Mon, 19 Oct 2026 08:25:00 GMT"
     },
     {
       "type": "news",
@@ -124,9 +124,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking Atp, Sinner resiste al primo posto - LaPresse",
-      "source": "LaPresse",
-      "published": "Mon, 19 Oct 2026 08:08:53 GMT"
+      "title": "Sinner ancora numero 1 Atp, ma per Zverev è questione di giorni: ecco quando può arrivare il sorpasso nel ranking - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Mon, 19 Oct 2026 12:05:00 GMT"
     },
     {
       "type": "news",
