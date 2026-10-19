@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T17:02:46.705830+00:00",
+  "updated_at": "2026-10-19T21:29:27.620280+00:00",
   "local_date": "2026-10-19",
   "articles": [
     {
@@ -9,11 +9,11 @@
       "home": "Monza",
       "away": "Cagliari",
       "time": "18:30",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 0,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 4,
       "away_score": 0,
-      "is_live": true,
+      "is_live": false,
       "local_date": "2026-10-19"
     },
     {
@@ -23,10 +23,10 @@
       "home": "Parma",
       "away": "Torino",
       "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 3,
       "is_live": false,
       "local_date": "2026-10-19"
     },
@@ -37,19 +37,19 @@
       "home": "Tottenham",
       "away": "Coventry City",
       "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 3,
+      "away_score": 1,
       "is_live": false,
       "local_date": "2026-10-19"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "San Marino, firma storica a Bruxelles: siglato l’accordo per l’integrazione nel mercato unico europeo - Corriere Romagna",
-      "source": "Corriere Romagna",
-      "published": "Mon, 19 Oct 2026 13:19:00 GMT"
+      "title": "Firma Accordo Ue, le congratulazioni di De Pascale: \"Emilia-Romagna continuerà a essere partner strategico\" - San Marino Rtv",
+      "source": "San Marino Rtv",
+      "published": "Mon, 19 Oct 2026 16:37:00 GMT"
     },
     {
       "type": "news",
@@ -61,16 +61,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "SAN MARINO: Arriva la firma dell'accordo di associazione all'Ue - Teleromagna",
-      "source": "Teleromagna",
-      "published": "Mon, 19 Oct 2026 07:48:00 GMT"
+      "title": "Fiumicino: nuovo accordo con la Regione Lazio per valorizzare il patrimonio pubblico - Comune di Fiumicino",
+      "source": "Comune di Fiumicino",
+      "published": "Mon, 19 Oct 2026 13:20:14 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Fondi europei, Roma stringe un accordo con Anci Lazio: più formazione e nuovi progetti - La Capitale",
-      "source": "La Capitale",
-      "published": "Mon, 19 Oct 2026 09:51:41 GMT"
+      "title": "Accordo storico con l'Unione Europea, San Marino entra nel mercato unico - RaiNews",
+      "source": "RaiNews",
+      "published": "Mon, 19 Oct 2026 17:51:45 GMT"
     },
     {
       "type": "news",
@@ -82,23 +82,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Psg-Barcellona, le probabili formazioni della partita di Champions League - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Mon, 19 Oct 2026 14:46:25 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League, gli arbitri di Inter-Shakhtar e Como-Manchester United - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Mon, 19 Oct 2026 09:36:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Champions League: super show Psg-Barcellona, italiane in cerca di riscatto - ANSA",
       "source": "ANSA",
       "published": "Mon, 19 Oct 2026 08:25:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A, la Juve crolla e il Milan resta in scia. Lazio prima con l’Inter: risultati, nuova classifica e partite di oggi - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Mon, 19 Oct 2026 06:55:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Psg-Barcellona, le probabili formazioni della partita di Champions League - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Mon, 19 Oct 2026 14:46:25 GMT"
     },
     {
       "type": "news",
