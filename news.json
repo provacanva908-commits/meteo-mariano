@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-10-20T10:13:01.265956+00:00",
+  "updated_at": "2026-10-20T15:10:24.581419+00:00",
   "local_date": "2026-10-20",
   "articles": [
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Fenerbahçe",
-      "away": "Slavia Praha",
-      "time": "18:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-20"
-    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -34,9 +20,9 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Napoli",
-      "away": "Bodø/Glimt",
-      "time": "21:00",
+      "home": "Fenerbahçe",
+      "away": "Slavia Praha",
+      "time": "18:45",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -48,22 +34,8 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Stuttgart",
-      "away": "Atleti",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-20"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Roma",
-      "away": "Sl. Bratislava",
+      "home": "Man City",
+      "away": "PAE AEK",
       "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -115,11 +87,53 @@
       "local_date": "2026-10-20"
     },
     {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Napoli",
+      "away": "Bodø/Glimt",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-20"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Stuttgart",
+      "away": "Atleti",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-20"
+    },
+    {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "Andorra e San Marino firmano un accordo di associazione per avvicinarsi all'UE - Rappresentanza in Italia - Commissione europea",
       "source": "Rappresentanza in Italia - Commissione europea",
       "published": "Tue, 20 Oct 2026 09:55:19 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "UE, Nuova Caledonia firma accordo su materie prime critiche - Eunews",
+      "source": "Eunews",
+      "published": "Tue, 20 Oct 2026 10:23:18 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Intesa Sanpaolo e CNCU, firmato nuovo accordo di collaborazione - Help Consumatori",
+      "source": "Help Consumatori",
+      "published": "Tue, 20 Oct 2026 07:38:02 GMT"
     },
     {
       "type": "news",
@@ -130,38 +144,17 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Fiumicino: nuovo accordo con la Regione Lazio per valorizzare il patrimonio pubblico - Comune di Fiumicino",
-      "source": "Comune di Fiumicino",
-      "published": "Mon, 19 Oct 2026 13:20:14 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Accordo storico con l'Unione Europea, San Marino entra nel mercato unico - RaiNews",
-      "source": "RaiNews",
-      "published": "Mon, 19 Oct 2026 17:51:45 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League, martedì di fuoco: Napoli e Roma cercano il riscatto, ma il big match è Psg-Barcellona - FIRSTonline",
-      "source": "FIRSTonline",
-      "published": "Tue, 20 Oct 2026 04:00:00 GMT"
-    },
-    {
-      "type": "news",
       "category": "CALCIO",
       "title": "Le italiane del calcio tra riscatto e conferme in Europa: la UEFA Champions League, la UEFA Europa League e la UEFA Conference League su NOW, come abbonarsi e quanto costa - Goal.com",
       "source": "Goal.com",
-      "published": "Tue, 20 Oct 2026 09:39:09 GMT"
+      "published": "Tue, 20 Oct 2026 09:35:05 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, oggi Psg-Barcellona: orario, probabili formazioni e dove vederla in tv - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Tue, 20 Oct 2026 06:58:00 GMT"
+      "title": "Champions League, Como-Manchester United: probabili formazioni e dove vedere la partita - QuiComo",
+      "source": "QuiComo",
+      "published": "Tue, 20 Oct 2026 11:08:00 GMT"
     },
     {
       "type": "news",
@@ -169,6 +162,13 @@
       "title": "Champions League, oggi Psg-Barcellona: orario, probabili formazioni e dove vederla in tv - OglioPoNews",
       "source": "OglioPoNews",
       "published": "Tue, 20 Oct 2026 09:08:27 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Champions League, oggi Psg-Barcellona: orario, probabili formazioni e dove vederla in tv - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Tue, 20 Oct 2026 06:58:00 GMT"
     },
     {
       "type": "news",
