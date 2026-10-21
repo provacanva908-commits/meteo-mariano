@@ -1,33 +1,19 @@
 {
-  "updated_at": "2026-10-21T15:36:18.397451+00:00",
+  "updated_at": "2026-10-21T19:37:21.473849+00:00",
   "local_date": "2026-10-21",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Lille",
-      "away": "Galatasaray",
-      "time": "18:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-21"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Como 1907",
-      "away": "Man United",
-      "time": "18:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "home": "Club Brugge",
+      "away": "RC Lens",
+      "time": "21:00",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "is_live": true,
       "local_date": "2026-10-21"
     },
     {
@@ -37,11 +23,11 @@
       "home": "Sporting CP",
       "away": "LASK",
       "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 1,
+      "away_score": 1,
+      "is_live": true,
       "local_date": "2026-10-21"
     },
     {
@@ -51,25 +37,25 @@
       "home": "Inter",
       "away": "Shaktar",
       "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "is_live": true,
       "local_date": "2026-10-21"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Club Brugge",
-      "away": "RC Lens",
+      "home": "Bayern",
+      "away": "Arsenal",
       "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 1,
+      "is_live": true,
       "local_date": "2026-10-21"
     },
     {
@@ -79,11 +65,11 @@
       "home": "Aston Villa",
       "away": "Viking",
       "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 1,
+      "away_score": 0,
+      "is_live": true,
       "local_date": "2026-10-21"
     },
     {
@@ -93,11 +79,11 @@
       "home": "Real Madrid",
       "away": "RB Leipzig",
       "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "is_live": true,
       "local_date": "2026-10-21"
     },
     {
@@ -107,26 +93,33 @@
       "home": "Real Betis",
       "away": "Feyenoord",
       "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "is_live": true,
+      "local_date": "2026-10-21"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Lille",
+      "away": "Galatasaray",
+      "time": "18:45",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
+      "away_score": 4,
       "is_live": false,
       "local_date": "2026-10-21"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "COMUNICATO UFFICIALE: CHRISTIAN VECHIU - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Wed, 21 Oct 2026 15:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Immobili, il piano di Giorgetti per sbloccare il patrimonio pubblico: accordo con i privati e strumenti ai Comuni - Milano Finanza",
-      "source": "Milano Finanza",
-      "published": "Wed, 21 Oct 2026 10:56:00 GMT"
+      "title": "Sampdoria, accordo vicino con D'Angelo: firma attesa stasera, domani il primo allenamento - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Wed, 21 Oct 2026 17:14:44 GMT"
     },
     {
       "type": "news",
@@ -138,9 +131,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ets: accordo Consiglio-Parlamento Ue su quote riserva stabilita' mercato - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
-      "published": "Wed, 21 Oct 2026 12:47:16 GMT"
+      "title": "Paula Blasi alla Movistar, adesso è ufficiale: i dettagli dell'accordo - Cicloweb",
+      "source": "Cicloweb",
+      "published": "Wed, 21 Oct 2026 16:20:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Immobili, il piano di Giorgetti per sbloccare il patrimonio pubblico: accordo con i privati e strumenti ai Comuni - Milano Finanza",
+      "source": "Milano Finanza",
+      "published": "Wed, 21 Oct 2026 10:56:00 GMT"
     },
     {
       "type": "news",
@@ -152,23 +152,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Napoli e Roma, il riscatto dell’Italia in Champions League - Panorama",
-      "source": "Panorama",
-      "published": "Wed, 21 Oct 2026 06:00:00 GMT"
+      "title": "Champions League, alle 18.45 Como-Manchester United. Stasera l'Inter - Sky TG24",
+      "source": "Sky TG24",
+      "published": "Wed, 21 Oct 2026 16:18:21 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Como-Manchester United, dove vedere la partita di Champions League in tv e streaming - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 21 Oct 2026 10:30:01 GMT"
+      "title": "Champions League: in campo Como-Manchester United 1-0 DIRETTA - ANSA",
+      "source": "ANSA",
+      "published": "Wed, 21 Oct 2026 16:36:41 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, il formalwear di PSG e Liverpool - nss sports",
-      "source": "nss sports",
-      "published": "Wed, 21 Oct 2026 09:33:47 GMT"
+      "title": "Champions League, le formazioni ufficiali di Como-Manchester United - Diretta",
+      "source": "Diretta",
+      "published": "Wed, 21 Oct 2026 18:44:45 GMT"
     },
     {
       "type": "news",
@@ -180,6 +180,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Kukushkin, unico tennista in attivo con Sinner: \"Vi dico perché lui e Alcaraz sono di un altro livello\" - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Wed, 21 Oct 2026 18:37:59 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Ranking Atp: Sinner numero 1 almeno fino a novembre - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Mon, 19 Oct 2026 08:17:00 GMT"
@@ -187,16 +194,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "LIVE Errani/Paolini-Bucsa/Melichar 5-7 3-6, WTA Ningbo 2026 in DIRETTA: le azzurre escono subito di scena dal torneo cinese - OA Sport",
-      "source": "OA Sport",
-      "published": "Wed, 21 Oct 2026 07:13:04 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner ancora numero 1 Atp, ma per Zverev è questione di giorni: ecco quando può arrivare il sorpasso nel ranking - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Mon, 19 Oct 2026 12:05:00 GMT"
+      "title": "Musetti, quarti di finale Atp 250 di Lione: orario, quando si gioca e dove vederla in tv - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Wed, 21 Oct 2026 19:02:00 GMT"
     },
     {
       "type": "news",
