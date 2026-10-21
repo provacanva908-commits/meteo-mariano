@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-10-21T05:35:09.145209+00:00",
+  "updated_at": "2026-10-21T10:34:42.930166+00:00",
   "local_date": "2026-10-21",
   "articles": [
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Lille",
-      "away": "Galatasaray",
-      "time": "18:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-21"
-    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -34,37 +20,9 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Club Brugge",
-      "away": "RC Lens",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-21"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Sporting CP",
-      "away": "LASK",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-21"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Inter",
-      "away": "Shaktar",
-      "time": "21:00",
+      "home": "Lille",
+      "away": "Galatasaray",
+      "time": "18:45",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -115,32 +73,74 @@
       "local_date": "2026-10-21"
     },
     {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Il calciomercato è impazzito: Giangaspero ufficiale alla Caronnese, Checchi verso Muggiò - Sprint e Sport",
-      "source": "Sprint e Sport",
-      "published": "Tue, 20 Oct 2026 21:43:58 GMT"
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Bayern",
+      "away": "Arsenal",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-21"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Sporting CP",
+      "away": "LASK",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-21"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Inter",
+      "away": "Shaktar",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-21"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Roma, la formazione ufficiale con lo Slovan Bratislava - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Tue, 20 Oct 2026 18:10:22 GMT"
+      "title": "Namirial firma un accordo per acquisire la spagnola ZeroComa - InsurZine",
+      "source": "InsurZine",
+      "published": "Wed, 21 Oct 2026 08:39:25 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Andorra e San Marino firmano un accordo di associazione per avvicinarsi all'UE - Rappresentanza in Italia - Commissione europea",
-      "source": "Rappresentanza in Italia - Commissione europea",
-      "published": "Tue, 20 Oct 2026 09:55:19 GMT"
+      "title": "Venerdì 23 ottobre verrà presentato il nuovo accordo quadro per gli interventi di riqualificazione dei cimiteri del comune di Carbonia. - La Provincia del Sulcis Iglesiente",
+      "source": "La Provincia del Sulcis Iglesiente",
+      "published": "Wed, 21 Oct 2026 08:58:56 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Gruppo Generali: We Share 3, firmato accordo sull’anticipo del TFR - FISAC CGIL NAZIONALE",
-      "source": "FISAC CGIL NAZIONALE",
-      "published": "Tue, 20 Oct 2026 13:46:30 GMT"
+      "title": "Scuole paritarie, spunta l’accordo in attesa della firma - La Fedeltà",
+      "source": "La Fedeltà",
+      "published": "Wed, 21 Oct 2026 07:31:41 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Micron firma un accordo tra azienda e sindacato con il sindacato taiwanese - MarketScreener Italia",
+      "source": "MarketScreener Italia",
+      "published": "Wed, 21 Oct 2026 09:06:51 GMT"
     },
     {
       "type": "news",
@@ -152,23 +152,30 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: il PSG batte il Barcellona, ​​il Liverpool vince in modo rocambolesco. - Vietnam.vn",
-      "source": "Vietnam.vn",
-      "published": "Wed, 21 Oct 2026 02:32:33 GMT"
+      "title": "Champions League, la situazione delle italiane: in ripresa Roma e Napoli, stasera Inter e Como. La classifica completa - Il Gazzettino",
+      "source": "Il Gazzettino",
+      "published": "Wed, 21 Oct 2026 09:27:45 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: il Psg batte anche il Barcellona, riscatto del ManCity, rimonta Liverpool - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Tue, 20 Oct 2026 21:15:00 GMT"
+      "title": "Le partite di oggi: attesa per Como-Manchester United e Inter-Shakhtar. Occhi anche su Bayern-Arsenal - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Wed, 21 Oct 2026 05:34:28 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, oggi diretta Napoli-Bodo Glimt. Risultato e aggiornamenti Live - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Tue, 20 Oct 2026 18:10:00 GMT"
+      "title": "Napoli e Roma, il riscatto dell’Italia in Champions League - Panorama",
+      "source": "Panorama",
+      "published": "Wed, 21 Oct 2026 06:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "ATP Shanghai, Zverev stavolta non stecca: è in semifinale - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Sun, 18 Oct 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -180,9 +187,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Shanghai, Zverev stavolta non stecca: è in semifinale - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Thu, 15 Oct 2026 14:51:20 GMT"
+      "title": "LIVE Errani/Paolini-Bucsa/Melichar 5-7 3-6, WTA Ningbo 2026 in DIRETTA: le azzurre escono subito di scena dal torneo cinese - OA Sport",
+      "source": "OA Sport",
+      "published": "Wed, 21 Oct 2026 07:13:04 GMT"
     },
     {
       "type": "news",
@@ -190,13 +197,6 @@
       "title": "Ranking Atp: Sinner numero 1 almeno fino a novembre - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Mon, 19 Oct 2026 08:17:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "LIVE Paolini-Kalinina 6-2 7-5, WTA Ningbo 2026 in DIRETTA: l’azzurra lotta e conquista la vittoria contro una distratta ucraina! - OA Sport",
-      "source": "OA Sport",
-      "published": "Tue, 20 Oct 2026 11:42:01 GMT"
     },
     {
       "type": "news",
