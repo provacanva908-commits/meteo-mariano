@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-10-20T22:27:31.438877+00:00",
+  "updated_at": "2026-10-21T00:49:55.260008+00:00",
   "local_date": "2026-10-21",
   "articles": [
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Lille",
-      "away": "Galatasaray",
-      "time": "18:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-21"
-    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -34,8 +20,22 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Club Brugge",
-      "away": "RC Lens",
+      "home": "Lille",
+      "away": "Galatasaray",
+      "time": "18:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-21"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Aston Villa",
+      "away": "Viking",
       "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -48,22 +48,8 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Sporting CP",
-      "away": "LASK",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-21"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Inter",
-      "away": "Shaktar",
+      "home": "Real Madrid",
+      "away": "RB Leipzig",
       "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -104,8 +90,22 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Aston Villa",
-      "away": "Viking",
+      "home": "Sporting CP",
+      "away": "LASK",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-21"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Inter",
+      "away": "Shaktar",
       "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -124,9 +124,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Cantù, svolta storica per il nuovo commissariato di polizia: firmato l'accordo, investimento da 1,8 milioni - QuiComo",
-      "source": "QuiComo",
-      "published": "Tue, 20 Oct 2026 18:12:22 GMT"
+      "title": "Roma, la formazione ufficiale con lo Slovan Bratislava - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Tue, 20 Oct 2026 18:10:22 GMT"
     },
     {
       "type": "news",
@@ -138,9 +138,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Roma, la formazione ufficiale con lo Slovan Bratislava - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Tue, 20 Oct 2026 18:10:22 GMT"
+      "title": "Gruppo Generali: We Share 3, firmato accordo sull’anticipo del TFR - FISAC CGIL NAZIONALE",
+      "source": "FISAC CGIL NAZIONALE",
+      "published": "Tue, 20 Oct 2026 13:46:30 GMT"
     },
     {
       "type": "news",
@@ -148,13 +148,6 @@
       "title": "Champions League: il Psg batte anche il Barcellona, riscatto del ManCity, rimonta Liverpool - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Tue, 20 Oct 2026 21:15:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League, Roma-Slovan Bratislava 4-0 e Napoli-Bodo 4-2 LIVE - Sky TG24",
-      "source": "Sky TG24",
-      "published": "Tue, 20 Oct 2026 20:50:23 GMT"
     },
     {
       "type": "news",
@@ -169,6 +162,13 @@
       "title": "Champions League, in campo Roma-Slovan Bratislava 1-0 e Napoli-Bodo-Glimt 1-0 DIRETTA - ANSA",
       "source": "ANSA",
       "published": "Tue, 20 Oct 2026 19:08:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Champions League: Como-Manchester United in campo mercoledì alle 18.45 DIRETTA - ANSA",
+      "source": "ANSA",
+      "published": "Tue, 20 Oct 2026 15:24:00 GMT"
     },
     {
       "type": "news",
