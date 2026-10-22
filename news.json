@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T22:46:06.058639+00:00",
+  "updated_at": "2026-10-22T00:59:39.670384+00:00",
   "local_date": "2026-10-22",
   "articles": [
     {
@@ -40,9 +40,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Paula Blasi alla Movistar, adesso è ufficiale: i dettagli dell'accordo - Cicloweb",
-      "source": "Cicloweb",
-      "published": "Wed, 21 Oct 2026 16:20:00 GMT"
+      "title": "Immobili, il piano di Giorgetti per sbloccare il patrimonio pubblico: accordo con i privati e strumenti ai Comuni - Milano Finanza",
+      "source": "Milano Finanza",
+      "published": "Wed, 21 Oct 2026 10:56:00 GMT"
     },
     {
       "type": "news",
@@ -68,9 +68,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, oggi Como-Manchester United – Diretta - Cremaoggi",
-      "source": "Cremaoggi",
-      "published": "Wed, 21 Oct 2026 22:07:30 GMT"
+      "title": "Salto in avanti nel ranking Uefa dopo i colpi Como, Inter, Roma e Napoli: come cambia la corsa al quinto posto Champions - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Wed, 21 Oct 2026 20:37:12 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "ATP Shanghai, Zverev stavolta non stecca: è in semifinale - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Sun, 18 Oct 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -89,16 +96,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Musetti, quarti di finale Atp 250 di Lione: orario, quando si gioca e dove vederla in tv - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Wed, 21 Oct 2026 19:02:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Lorenzo Musetti inizia la risalita nel ranking ATP. Obiettivo testa di serie agli Australian Open - OA Sport",
-      "source": "OA Sport",
-      "published": "Wed, 21 Oct 2026 20:15:10 GMT"
+      "title": "Ranking Atp: Sinner numero 1 almeno fino a novembre - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Mon, 19 Oct 2026 08:17:00 GMT"
     },
     {
       "type": "news",
