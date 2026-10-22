@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T11:42:45.363952+00:00",
+  "updated_at": "2026-10-22T16:04:34.896795+00:00",
   "local_date": "2026-10-22",
   "articles": [
     {
@@ -19,6 +19,20 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Calciomercato, nuova squadra per l'ex Napoli Mario Rui: arriva l'annuncio ufficiale - NapoliToday",
+      "source": "NapoliToday",
+      "published": "Thu, 22 Oct 2026 14:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Cdm, Meloni: firmato accordo con autotrasportatori, Ministero ha già iniziato a pagare acconti credito d’imposta - AGEEI",
+      "source": "AGEEI",
+      "published": "Thu, 22 Oct 2026 11:59:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "La Santa Sede firma un accordo con la Repubblica di Honduras - Vatican News",
       "source": "Vatican News",
       "published": "Thu, 22 Oct 2026 10:42:13 GMT"
@@ -26,23 +40,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Accordo Roma-Madrid, stop ai controlli Schengen alle frontiere con Italia - ANSA",
-      "source": "ANSA",
-      "published": "Thu, 22 Oct 2026 08:37:00 GMT"
+      "title": "Ajax-Atalanta, il pranzo ufficiale - Atalanta",
+      "source": "Atalanta",
+      "published": "Thu, 22 Oct 2026 12:00:12 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Napoli: accordo raggiunto per il ritiro a Dimaro - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Thu, 22 Oct 2026 09:21:49 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Misitano & Stracuzzi, Intermonte riassegna target price dopo accordo con le banche - la Repubblica",
-      "source": "la Repubblica",
-      "published": "Thu, 22 Oct 2026 11:21:00 GMT"
+      "category": "CALCIO",
+      "title": "Anteprima terza giornata UEFA Women's Champions League: Bayern-Real Madrid, OL Lyonnes-Inter, Arsenal-Benfica, HB Køge Women-Barcelona, Manchester City-Paris Saint-Germain - UEFA.com",
+      "source": "UEFA.com",
+      "published": "Thu, 22 Oct 2026 15:56:01 GMT"
     },
     {
       "type": "news",
@@ -67,20 +74,6 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Inter-Shakhtar Donetsk 1-0, le pagelle della partita di Champions League - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Thu, 22 Oct 2026 09:04:18 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "ATP Shanghai, Zverev stavolta non stecca: è in semifinale - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Sun, 18 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
       "title": "Atp Lione 2026, Musetti ai quarti di finale: Kouamé battuto in due set - Sky Sport",
       "source": "Sky Sport",
@@ -92,6 +85,13 @@
       "title": "Ranking Atp: Sinner numero 1 almeno fino a novembre - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Mon, 19 Oct 2026 08:17:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner, ritorno a sorpresa? E intanto l’Italia del tennis prepara un finale da brividi tra Torino e Coppa Davis - Il Mattino",
+      "source": "Il Mattino",
+      "published": "Thu, 22 Oct 2026 15:06:22 GMT"
     },
     {
       "type": "news",
