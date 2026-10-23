@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T12:04:39.792185+00:00",
+  "updated_at": "2026-10-23T17:02:23.111170+00:00",
   "local_date": "2026-10-23",
   "articles": [
     {
@@ -33,6 +33,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Roma, vicino l'accordo per il rinnovo di Lulli fino al 2031 - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 23 Oct 2026 11:49:08 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Lulli rinnova con la Roma: c'è l'accordo, il baby giallorosso pronto a firmare fino al 2031 - Il Messaggero",
       "source": "Il Messaggero",
       "published": "Fri, 23 Oct 2026 11:17:41 GMT"
@@ -40,58 +47,58 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "La Santa Sede firma un accordo con la Repubblica di Honduras - Vatican News",
-      "source": "Vatican News",
-      "published": "Thu, 22 Oct 2026 10:42:13 GMT"
+      "title": "COMUNICATO UFFICIALE - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Fri, 23 Oct 2026 16:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Cdm, Meloni: firmato accordo con autotrasportatori, Ministero ha già iniziato a pagare acconti credito d’imposta - AGEEI",
-      "source": "AGEEI",
-      "published": "Thu, 22 Oct 2026 11:59:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "A Dumarey le attività nel Motorsport di Alpine, accordo per la cessione - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
-      "published": "Thu, 22 Oct 2026 17:56:29 GMT"
+      "title": "Lulli rinnova con la Roma, accordo raggiunto: firmerà fino al 2031 - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Fri, 23 Oct 2026 12:50:53 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A 8° turno: Napoli-Roma e il riscatto di Juventus e Milan - Diretta",
-      "source": "Diretta",
-      "published": "Fri, 23 Oct 2026 01:29:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A: Napoli-Roma in campo sabato alle 18 DIRETTA - ANSA",
+      "title": "Serie A: snodo Napoli-Roma, Inter e Lazio possono allungare - ANSA",
       "source": "ANSA",
-      "published": "Fri, 23 Oct 2026 11:26:00 GMT"
+      "published": "Fri, 23 Oct 2026 14:41:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Europa e Conference League, pari Juventus. Ko per Milan e Atalanta - Sky TG24",
-      "source": "Sky TG24",
-      "published": "Thu, 22 Oct 2026 16:06:55 GMT"
+      "title": "Come acquistare i biglietti per Manchester United-Roma: prezzi della Champions League, informazioni sulla partita, vendite dell’ultimo minuto e altro - Goal.com",
+      "source": "Goal.com",
+      "published": "Fri, 23 Oct 2026 16:37:11 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Milan, Juve e Atalanta fanno scivolare l'Italia al 9° posto del Ranking UEFA: si allontana il 5° posto Champions - Fanpage",
-      "source": "Fanpage",
-      "published": "Fri, 23 Oct 2026 07:38:11 GMT"
+      "title": "Come acquistare i biglietti per Fenerbahce-Liverpool: Prezzi per la Champions League, informazioni sulla partita, vendite dell'ultimo minuto e altro - Goal.com",
+      "source": "Goal.com",
+      "published": "Fri, 23 Oct 2026 16:37:11 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "SERIE A ENILIVE | I CONVOCATI PER LAZIO-PARMA - Parma Calcio 1913",
+      "source": "Parma Calcio 1913",
+      "published": "Fri, 23 Oct 2026 15:03:10 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
       "title": "ATP Almaty, Medvedev è in semifinale - SuperTennis",
       "source": "SuperTennis",
-      "published": "Fri, 23 Oct 2026 11:02:25 GMT"
+      "published": "Fri, 23 Oct 2026 14:21:36 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Tennis: Atp Almaty, Medvedev in semifinale - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Fri, 23 Oct 2026 13:04:31 GMT"
     },
     {
       "type": "news",
@@ -106,13 +113,6 @@
       "title": "WTA Osaka 2026, derby americano in semifinale. Avanti anche Boulter e Siniakova - OA Sport",
       "source": "OA Sport",
       "published": "Fri, 23 Oct 2026 11:11:40 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "LIVE Musetti-Van Assche, ATP Lione 2026 in DIRETTA: altro talento francese sulla strada della semifinale - OA Sport",
-      "source": "OA Sport",
-      "published": "Fri, 23 Oct 2026 03:30:46 GMT"
     },
     {
       "type": "news",
@@ -138,9 +138,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Milano: ancora Coello-Tapia. E Ari Sanchez fa il bis - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 18 Oct 2026 20:21:51 GMT"
+      "title": "Premier Padel: Tapia e Coello, il tabù che perseguita Paquito - padelmagazine.it",
+      "source": "padelmagazine.it",
+      "published": "Fri, 23 Oct 2026 16:00:45 GMT"
     }
   ]
 }
