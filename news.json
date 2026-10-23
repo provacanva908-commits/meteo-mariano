@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T17:02:23.111170+00:00",
+  "updated_at": "2026-10-23T20:23:31.752548+00:00",
   "local_date": "2026-10-23",
   "articles": [
     {
@@ -9,11 +9,11 @@
       "home": "Torino",
       "away": "Monza",
       "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 2,
+      "away_score": 1,
+      "is_live": true,
       "local_date": "2026-10-23"
     },
     {
@@ -40,13 +40,6 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Lulli rinnova con la Roma: c'è l'accordo, il baby giallorosso pronto a firmare fino al 2031 - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "Fri, 23 Oct 2026 11:17:41 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "COMUNICATO UFFICIALE - AC Milan | Sito Ufficiale",
       "source": "AC Milan | Sito Ufficiale",
       "published": "Fri, 23 Oct 2026 16:00:00 GMT"
@@ -54,9 +47,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Lulli rinnova con la Roma, accordo raggiunto: firmerà fino al 2031 - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Fri, 23 Oct 2026 12:50:53 GMT"
+      "title": "La Santa Sede firma un accordo con la Repubblica di Honduras - Vatican News",
+      "source": "Vatican News",
+      "published": "Thu, 22 Oct 2026 10:42:13 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Ufficiale il prolungamento di contratto di Matias Mancuso - Inter.it",
+      "source": "Inter.it",
+      "published": "Fri, 23 Oct 2026 17:16:29 GMT"
     },
     {
       "type": "news",
@@ -82,16 +82,30 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "SERIE A ENILIVE | I CONVOCATI PER LAZIO-PARMA - Parma Calcio 1913",
-      "source": "Parma Calcio 1913",
-      "published": "Fri, 23 Oct 2026 15:03:10 GMT"
+      "title": "SERIE A WOMEN, LA PREVIEW DI MILAN-TERNANA - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Fri, 23 Oct 2026 16:30:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Almaty, Medvedev è in semifinale - SuperTennis",
+      "title": "ATP Almaty, in semifinale sarà sfida Bublik-Medvedev - SuperTennis",
       "source": "SuperTennis",
       "published": "Fri, 23 Oct 2026 14:21:36 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Tennis, Atp Almaty: Bublik in semifinale contro Medvedev - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Fri, 23 Oct 2026 17:49:16 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "ATP Almaty 2026, Medvedev sfiderà Bublik in semifinale. Tsitsipas incrocerà Basilashvili - OA Sport",
+      "source": "OA Sport",
+      "published": "Fri, 23 Oct 2026 17:36:00 GMT"
     },
     {
       "type": "news",
@@ -99,20 +113,6 @@
       "title": "Tennis: Atp Almaty, Medvedev in semifinale - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Fri, 23 Oct 2026 13:04:31 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "ATP Lione, Cobolli e Musetti puntano al derby in semifinale: Volandri osserva - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Fri, 23 Oct 2026 09:19:10 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "WTA Osaka 2026, derby americano in semifinale. Avanti anche Boulter e Siniakova - OA Sport",
-      "source": "OA Sport",
-      "published": "Fri, 23 Oct 2026 11:11:40 GMT"
     },
     {
       "type": "news",
