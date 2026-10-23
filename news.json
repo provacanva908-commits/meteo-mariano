@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T01:42:28.822485+00:00",
+  "updated_at": "2026-10-23T06:33:22.460648+00:00",
   "local_date": "2026-10-23",
   "articles": [
     {
@@ -68,13 +68,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, poker Italia: Como da sogno, Inter batticuore - Panorama",
-      "source": "Panorama",
-      "published": "Thu, 22 Oct 2026 06:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Europa e Conference League, pari Juventus. Ko per Milan e Atalanta - Sky TG24",
       "source": "Sky TG24",
       "published": "Thu, 22 Oct 2026 16:06:55 GMT"
@@ -82,9 +75,30 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calcio, pari Juve e ko Milan in Europa League. Atalanta sconfitta in Conference League - OA Sport",
+      "title": "Napoli a caccia di riscatto, Roma da record e la sfida De Bruyne-Malen Serie A Enilive - DAZN",
+      "source": "DAZN",
+      "published": "Fri, 23 Oct 2026 06:25:50 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Europa League e Conference: cadono Milan e Atalanta, solo un pari per la Juventus - L'Eco Vicentino",
+      "source": "L'Eco Vicentino",
+      "published": "Fri, 23 Oct 2026 04:30:46 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "LIVE Musetti-Van Assche, ATP Lione 2026 in DIRETTA: altro talento francese sulla strada della semifinale - OA Sport",
       "source": "OA Sport",
-      "published": "Thu, 22 Oct 2026 21:45:27 GMT"
+      "published": "Fri, 23 Oct 2026 03:20:49 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "LIVE Cobolli-Nakashima, ATP Lione 2026 in DIRETTA: azzurro a caccia della semifinale - OA Sport",
+      "source": "OA Sport",
+      "published": "Fri, 23 Oct 2026 03:15:28 GMT"
     },
     {
       "type": "news",
@@ -98,21 +112,7 @@
       "category": "TENNIS",
       "title": "LIVE Cobolli-Wawrinka 6-2, 6-4, ATP Lione 2026 in DIRETTA: finalmente una gioia per l’azzurro! Vittoria agile contro l’affaticato svizzero - OA Sport",
       "source": "OA Sport",
-      "published": "Thu, 22 Oct 2026 19:00:22 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Atp Lione 2026, Musetti ai quarti di finale: Kouamé battuto in due set - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 21 Oct 2026 16:30:59 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Cobolli, quarti di finale Atp 250 di Lione: orario, quando si gioca e dove vederla in tv - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Thu, 22 Oct 2026 18:18:00 GMT"
+      "published": "Thu, 22 Oct 2026 19:22:58 GMT"
     },
     {
       "type": "news",
