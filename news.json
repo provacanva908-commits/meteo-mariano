@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T11:36:39.769648+00:00",
+  "updated_at": "2026-10-24T14:53:43.738129+00:00",
   "local_date": "2026-10-24",
   "articles": [
     {
@@ -110,13 +110,6 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Istat: le organizzazioni sindacali firmano unitariamente l'ipotesi di accordo sul salario accessorio dei I-III del 2020 - FLC CGIL",
-      "source": "FLC CGIL",
-      "published": "Sat, 24 Oct 2026 03:41:36 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "La Santa Sede firma un accordo con la Repubblica di Honduras - Vatican News",
       "source": "Vatican News",
       "published": "Thu, 22 Oct 2026 10:42:13 GMT"
@@ -124,37 +117,51 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "COMUNICATO UFFICIALE - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Fri, 23 Oct 2026 16:00:00 GMT"
+      "title": "Istat: le organizzazioni sindacali firmano unitariamente l'ipotesi di accordo sul salario accessorio dei I-III del 2020 - FLC CGIL",
+      "source": "FLC CGIL",
+      "published": "Sat, 24 Oct 2026 03:41:36 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Sorpresa San Salvo sul mercato: ufficiale l’arrivo di Paglia - Chiaro Quotidiano",
+      "source": "Chiaro Quotidiano",
+      "published": "Sat, 24 Oct 2026 06:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, le sfide di sabato: Napoli-Roma big match da Champions. Lazio e Como, vincere per sognare - Sportmediaset",
+      "title": "Serie A, le sfide di sabato: Napoli-Roma big match da Champions, la Lazio vuole sognare in grandissimo - Sportmediaset",
       "source": "Sportmediaset",
-      "published": "Sat, 24 Oct 2026 07:01:00 GMT"
+      "published": "Sat, 24 Oct 2026 12:20:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A: snodo Napoli-Roma, Inter e Lazio possono allungare - ANSA",
-      "source": "ANSA",
-      "published": "Fri, 23 Oct 2026 14:41:00 GMT"
+      "title": "~$!【DIRETTA GRATIS】 Napoli - Roma Serie A partita oggi in tv 24 ottobre 2026 - 小豆島町",
+      "source": "小豆島町",
+      "published": "Sat, 24 Oct 2026 14:41:06 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Le partite di oggi: Napoli-Roma e Lazio-Parma. In campo Serie B, Premier, Bundesliga, Liga e Ligue 1 - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sat, 24 Oct 2026 05:01:16 GMT"
+      "title": "『DIRETTA STREAMING』 Roma - Napoli Serie A partita in tv e streaming 24 ottobre 2026 - FC東京オフィシャルホームページ",
+      "source": "FC東京オフィシャルホームページ",
+      "published": "Sat, 24 Oct 2026 14:38:49 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, oggi Napoli-Roma: orario, probabili formazioni e dove vederla in tv - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Sat, 24 Oct 2026 05:03:00 GMT"
+      "title": "Serie A Enilive | Lazio-Parma, i convocati biancocelesti - S.S. Lazio",
+      "source": "S.S. Lazio",
+      "published": "Sat, 24 Oct 2026 12:41:51 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "LIVE Musetti-Cobolli, ATP Lione 2026 in DIRETTA: Fritz avanti di un set contro Paul, poi la semifinale azzurra - OA Sport",
+      "source": "OA Sport",
+      "published": "Sat, 24 Oct 2026 13:23:56 GMT"
     },
     {
       "type": "news",
@@ -166,9 +173,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Lione, oggi la semifinale Cobolli-Musetti: orario, dove vederla in tv - Tennis Magazine Italia",
-      "source": "Tennis Magazine Italia",
-      "published": "Sat, 24 Oct 2026 06:19:33 GMT"
+      "title": "Cobolli-Musetti, prima semifinale ATP tutta italiana sul duro - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Fri, 23 Oct 2026 22:31:37 GMT"
     },
     {
       "type": "news",
@@ -176,13 +183,6 @@
       "title": "Cobolli-Musetti, semifinale Atp 250 Lione: orario, quando si gioca e dove vederla in tv - Corriere dello Sport",
       "source": "Corriere dello Sport",
       "published": "Fri, 23 Oct 2026 23:53:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Cobolli-Musetti, prima semifinale ATP tutta italiana sul duro - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Fri, 23 Oct 2026 22:31:37 GMT"
     },
     {
       "type": "news",
@@ -208,9 +208,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel: Tapia e Coello, il tabù che perseguita Paquito - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Fri, 23 Oct 2026 16:00:30 GMT"
+      "title": "Premier Padel Milano: ancora Coello-Tapia. E Ari Sanchez fa il bis - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 18 Oct 2026 20:21:51 GMT"
     }
   ]
 }
