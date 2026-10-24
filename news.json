@@ -1,104 +1,118 @@
 {
-  "updated_at": "2026-10-24T20:36:57.489981+00:00",
-  "local_date": "2026-10-24",
+  "updated_at": "2026-10-24T22:43:57.269479+00:00",
+  "local_date": "2026-10-25",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Cagliari",
-      "away": "Bologna",
-      "time": "15:00",
+      "home": "Inter",
+      "away": "Fiorentina",
+      "time": "12:30",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
       "away_score": null,
       "is_live": false,
-      "local_date": "2026-10-24"
+      "local_date": "2026-10-25"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Eredivisie",
+      "home": "PSV",
+      "away": "Feyenoord",
+      "time": "14:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-25"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Como 1907",
-      "away": "Sassuolo",
+      "home": "Atalanta",
+      "away": "Frosinone",
       "time": "15:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
       "away_score": null,
       "is_live": false,
-      "local_date": "2026-10-24"
+      "local_date": "2026-10-25"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Genoa",
+      "away": "Venezia FC",
+      "time": "15:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-25"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Premier League",
-      "home": "Arsenal",
-      "away": "Everton",
-      "time": "16:00",
+      "home": "Liverpool",
+      "away": "Brighton Hove",
+      "time": "15:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
       "away_score": null,
       "is_live": false,
-      "local_date": "2026-10-24"
+      "local_date": "2026-10-25"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Eredivisie",
+      "home": "Sparta",
+      "away": "Ajax",
+      "time": "16:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-25"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Ligue 1",
+      "home": "Marseille",
+      "away": "Le Havre",
+      "time": "17:15",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-25"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Napoli",
-      "away": "Roma",
+      "home": "Lecce",
+      "away": "Juventus",
       "time": "18:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
       "away_score": null,
       "is_live": false,
-      "local_date": "2026-10-24"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Premier League",
-      "home": "Chelsea",
-      "away": "Tottenham",
-      "time": "18:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-24"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Lazio",
-      "away": "Parma",
-      "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-24"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Primeira Liga",
-      "home": "Gil Vicente",
-      "away": "Porto",
-      "time": "21:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-24"
+      "local_date": "2026-10-25"
     },
     {
       "type": "news",
@@ -112,7 +126,7 @@
       "category": "CALCIOMERCATO",
       "title": "Ufficiale il prolungamento di contratto di Matias Mancuso - Inter.it",
       "source": "Inter.it",
-      "published": "Sat, 24 Oct 2026 13:18:15 GMT"
+      "published": "Sat, 24 Oct 2026 14:14:30 GMT"
     },
     {
       "type": "news",
@@ -124,9 +138,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Napoli, la formazione ufficiale: De Bruyne play, fuori Lobotka - Radio Marte",
-      "source": "Radio Marte",
-      "published": "Sat, 24 Oct 2026 15:13:48 GMT"
+      "title": "COMUNICATO UFFICIALE - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Fri, 23 Oct 2026 16:00:00 GMT"
     },
     {
       "type": "news",
@@ -138,13 +152,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, vincono Bologna e Como. Napoli-Roma finisce 3-3. Stasera Lazio-Parma - Sky TG24",
-      "source": "Sky TG24",
-      "published": "Sat, 24 Oct 2026 18:10:06 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Serie A, le sfide di sabato: Napoli-Roma big match da Champions, la Lazio vuole sognare in grandissimo - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Sat, 24 Oct 2026 12:20:00 GMT"
@@ -152,9 +159,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "%*((ROJADIRECTA>)))* Roma - Napoli Serie A partita Diretta tv e streaming gratis 24 ottobre 2026 - FC東京オフィシャルホームページ",
-      "source": "FC東京オフィシャルホームページ",
-      "published": "Sat, 24 Oct 2026 15:54:37 GMT"
+      "title": "Napoli vs Roma | Serie A Enilive - Lega Serie A",
+      "source": "Lega Serie A",
+      "published": "Sat, 24 Oct 2026 19:04:43 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Napoli-Roma 3-3, le pagelle della partita di Serie A - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sat, 24 Oct 2026 21:12:42 GMT"
     },
     {
       "type": "news",
@@ -166,23 +180,23 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Pronostico Musetti-Fritz quote finale torneo Lione Atp 250 - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sat, 24 Oct 2026 21:25:58 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Cobolli-Musetti, prima semifinale ATP tutta italiana sul duro - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Fri, 23 Oct 2026 22:31:37 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "ATP Lione, oggi la semifinale Cobolli-Musetti: orario, dove vederla in tv - Tennis Magazine Italia",
       "source": "Tennis Magazine Italia",
       "published": "Sat, 24 Oct 2026 06:19:33 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Cobolli-Musetti, semifinale Atp 250 Lione: orario, quando si gioca e dove vederla in tv - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Fri, 23 Oct 2026 23:53:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "ATP di Lione, Musetti vince il derby con Cobolli: è finale del torneo francese - IlFaroOnline",
-      "source": "IlFaroOnline",
-      "published": "Sat, 24 Oct 2026 18:09:00 GMT"
     },
     {
       "type": "news",
@@ -208,9 +222,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Tour: Blanqué/Hugounenq e Merah accedono ai quarti di finale a Taunton, fine del percorso per Muesser e Ledrap. - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Sat, 24 Oct 2026 16:01:00 GMT"
+      "title": "Premier Padel Milano: ancora Coello-Tapia. E Ari Sanchez fa il bis - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 18 Oct 2026 20:21:51 GMT"
     }
   ]
 }
