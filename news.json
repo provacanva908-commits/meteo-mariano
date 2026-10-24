@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-10-24T14:53:43.738129+00:00",
+  "updated_at": "2026-10-24T17:56:02.897091+00:00",
   "local_date": "2026-10-24",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Como 1907",
-      "away": "Sassuolo",
-      "time": "15:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "home": "Napoli",
+      "away": "Roma",
+      "time": "18:00",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 3,
+      "away_score": 3,
+      "is_live": true,
       "local_date": "2026-10-24"
     },
     {
@@ -33,10 +33,10 @@
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Premier League",
-      "home": "Arsenal",
-      "away": "Everton",
-      "time": "16:00",
+      "competition": "Serie A",
+      "home": "Como 1907",
+      "away": "Sassuolo",
+      "time": "15:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -47,10 +47,10 @@
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Napoli",
-      "away": "Roma",
-      "time": "18:00",
+      "competition": "Premier League",
+      "home": "Arsenal",
+      "away": "Everton",
+      "time": "16:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -103,13 +103,6 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Lulli rinnova con la Roma: c'è l'accordo, il baby giallorosso pronto a firmare fino al 2031 - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "Sat, 24 Oct 2026 07:19:33 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "La Santa Sede firma un accordo con la Repubblica di Honduras - Vatican News",
       "source": "Vatican News",
       "published": "Thu, 22 Oct 2026 10:42:13 GMT"
@@ -124,9 +117,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Napoli, la formazione ufficiale: De Bruyne play, fuori Lobotka - Radio Marte",
+      "source": "Radio Marte",
+      "published": "Sat, 24 Oct 2026 15:13:48 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Sorpresa San Salvo sul mercato: ufficiale l’arrivo di Paglia - Chiaro Quotidiano",
       "source": "Chiaro Quotidiano",
       "published": "Sat, 24 Oct 2026 06:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "[GUARDA GRATIS] Napoli-Roma, partita di Serie A italiana in diretta - 小豆島町",
+      "source": "小豆島町",
+      "published": "Sat, 24 Oct 2026 15:28:54 GMT"
     },
     {
       "type": "news",
@@ -138,30 +145,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "~$!【DIRETTA GRATIS】 Napoli - Roma Serie A partita oggi in tv 24 ottobre 2026 - 小豆島町",
-      "source": "小豆島町",
-      "published": "Sat, 24 Oct 2026 14:41:06 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "『DIRETTA STREAMING』 Roma - Napoli Serie A partita in tv e streaming 24 ottobre 2026 - FC東京オフィシャルホームページ",
+      "title": "%*((ROJADIRECTA>)))* Roma - Napoli Serie A partita Diretta tv e streaming gratis 24 ottobre 2026 - FC東京オフィシャルホームページ",
       "source": "FC東京オフィシャルホームページ",
-      "published": "Sat, 24 Oct 2026 14:38:49 GMT"
+      "published": "Sat, 24 Oct 2026 15:54:37 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Enilive | Lazio-Parma, i convocati biancocelesti - S.S. Lazio",
-      "source": "S.S. Lazio",
-      "published": "Sat, 24 Oct 2026 12:41:51 GMT"
+      "title": "%*((ROJADIRECTA>)))* Napoli-Roma Serie A oggi partita in tv 24 ottobre 2026 - FC東京オフィシャルホームページ",
+      "source": "FC東京オフィシャルホームページ",
+      "published": "Sat, 24 Oct 2026 15:34:49 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "LIVE Musetti-Cobolli, ATP Lione 2026 in DIRETTA: Fritz avanti di un set contro Paul, poi la semifinale azzurra - OA Sport",
-      "source": "OA Sport",
-      "published": "Sat, 24 Oct 2026 13:23:56 GMT"
+      "title": "ATP Lione LIVE, Cobolli-Musetti 6-4 2-6 3-2: la cronaca in diretta della semifinale - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Sat, 24 Oct 2026 15:56:15 GMT"
     },
     {
       "type": "news",
@@ -194,16 +194,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Tapia e Coello hanno avuto difficoltà nella finale di Milano P1, ma conquistano il loro quarto titolo consecutivo - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Sun, 18 Oct 2026 17:50:59 GMT"
+      "title": "Premier Padel Milano: Galan e Lebron, sarà show all’Allianz. Avanti tutti i big - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Fri, 16 Oct 2026 07:00:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Milano: Galan e Lebron, sarà show all’Allianz. Avanti tutti i big - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Fri, 16 Oct 2026 07:00:00 GMT"
+      "title": "FIP Tour: Blanqué/Hugounenq e Merah accedono ai quarti di finale a Taunton, fine del percorso per Muesser e Ledrap. - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 24 Oct 2026 16:01:00 GMT"
     },
     {
       "type": "news",
