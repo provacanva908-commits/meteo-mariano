@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-10-24T17:56:02.897091+00:00",
+  "updated_at": "2026-10-24T20:36:57.489981+00:00",
   "local_date": "2026-10-24",
   "articles": [
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Napoli",
-      "away": "Roma",
-      "time": "18:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 3,
-      "away_score": 3,
-      "is_live": true,
-      "local_date": "2026-10-24"
-    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -51,6 +37,20 @@
       "home": "Arsenal",
       "away": "Everton",
       "time": "16:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-24"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Napoli",
+      "away": "Roma",
+      "time": "18:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -110,6 +110,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Ufficiale il prolungamento di contratto di Matias Mancuso - Inter.it",
+      "source": "Inter.it",
+      "published": "Sat, 24 Oct 2026 13:18:15 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Istat: le organizzazioni sindacali firmano unitariamente l'ipotesi di accordo sul salario accessorio dei I-III del 2020 - FLC CGIL",
       "source": "FLC CGIL",
       "published": "Sat, 24 Oct 2026 03:41:36 GMT"
@@ -123,17 +130,17 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Sorpresa San Salvo sul mercato: ufficiale l’arrivo di Paglia - Chiaro Quotidiano",
-      "source": "Chiaro Quotidiano",
-      "published": "Sat, 24 Oct 2026 06:00:00 GMT"
+      "category": "CALCIO",
+      "title": "Serie A Women Athora - Estasi Roma, Juventus travolta 5-2 nel big match. La Napoli frena l’Inter, tris Milan alla Ternana - FIGC",
+      "source": "FIGC",
+      "published": "Sat, 24 Oct 2026 09:35:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "[GUARDA GRATIS] Napoli-Roma, partita di Serie A italiana in diretta - 小豆島町",
-      "source": "小豆島町",
-      "published": "Sat, 24 Oct 2026 15:28:54 GMT"
+      "title": "Serie A, vincono Bologna e Como. Napoli-Roma finisce 3-3. Stasera Lazio-Parma - Sky TG24",
+      "source": "Sky TG24",
+      "published": "Sat, 24 Oct 2026 18:10:06 GMT"
     },
     {
       "type": "news",
@@ -151,20 +158,6 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "%*((ROJADIRECTA>)))* Napoli-Roma Serie A oggi partita in tv 24 ottobre 2026 - FC東京オフィシャルホームページ",
-      "source": "FC東京オフィシャルホームページ",
-      "published": "Sat, 24 Oct 2026 15:34:49 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "ATP Lione LIVE, Cobolli-Musetti 6-4 2-6 3-2: la cronaca in diretta della semifinale - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Sat, 24 Oct 2026 15:56:15 GMT"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
       "title": "Musetti-Cobolli, dove vedere la semifinale dell'Atp 250 di Lione in tv e in streaming - Corriere della Sera",
       "source": "Corriere della Sera",
@@ -173,9 +166,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Cobolli-Musetti, prima semifinale ATP tutta italiana sul duro - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Fri, 23 Oct 2026 22:31:37 GMT"
+      "title": "ATP Lione, oggi la semifinale Cobolli-Musetti: orario, dove vederla in tv - Tennis Magazine Italia",
+      "source": "Tennis Magazine Italia",
+      "published": "Sat, 24 Oct 2026 06:19:33 GMT"
     },
     {
       "type": "news",
@@ -186,10 +179,24 @@
     },
     {
       "type": "news",
+      "category": "TENNIS",
+      "title": "ATP di Lione, Musetti vince il derby con Cobolli: è finale del torneo francese - IlFaroOnline",
+      "source": "IlFaroOnline",
+      "published": "Sat, 24 Oct 2026 18:09:00 GMT"
+    },
+    {
+      "type": "news",
       "category": "PADEL",
       "title": "Premier Padel Milano: Lebron batte Galan in rimonta e si prende la finale - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sat, 17 Oct 2026 20:16:57 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Tapia e Coello hanno avuto difficoltà nella finale di Milano P1, ma conquistano il loro quarto titolo consecutivo - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Sun, 18 Oct 2026 17:50:59 GMT"
     },
     {
       "type": "news",
@@ -204,13 +211,6 @@
       "title": "FIP Tour: Blanqué/Hugounenq e Merah accedono ai quarti di finale a Taunton, fine del percorso per Muesser e Ledrap. - padel-magazine.it",
       "source": "padel-magazine.it",
       "published": "Sat, 24 Oct 2026 16:01:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel Milano: ancora Coello-Tapia. E Ari Sanchez fa il bis - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 18 Oct 2026 20:21:51 GMT"
     }
   ]
 }
