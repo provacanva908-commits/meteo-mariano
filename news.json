@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-24T01:46:01.203116+00:00",
+  "updated_at": "2026-10-24T06:33:48.811823+00:00",
   "local_date": "2026-10-24",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Como 1907",
-      "away": "Sassuolo",
+      "home": "Cagliari",
+      "away": "Bologna",
       "time": "15:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -20,8 +20,8 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Cagliari",
-      "away": "Bologna",
+      "home": "Como 1907",
+      "away": "Sassuolo",
       "time": "15:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -124,9 +124,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Cdm, Meloni: firmato accordo con autotrasportatori, Ministero ha già iniziato a pagare acconti credito d’imposta - AGEEI",
-      "source": "AGEEI",
-      "published": "Thu, 22 Oct 2026 11:59:00 GMT"
+      "title": "Istat: le organizzazioni sindacali firmano unitariamente l'ipotesi di accordo sul salario accessorio dei I-III del 2020 - FLC CGIL",
+      "source": "FLC CGIL",
+      "published": "Fri, 23 Oct 2026 22:18:57 GMT"
     },
     {
       "type": "news",
@@ -138,6 +138,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Le partite di oggi: Napoli-Roma e Lazio-Parma. In campo Serie B, Premier, Bundesliga, Liga e Ligue 1 - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sat, 24 Oct 2026 05:01:16 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "SERIE A WOMEN, LA PREVIEW DI MILAN-TERNANA - AC Milan | Sito Ufficiale",
       "source": "AC Milan | Sito Ufficiale",
       "published": "Fri, 23 Oct 2026 16:30:00 GMT"
@@ -145,16 +152,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "SERIE A ENILIVE | I CONVOCATI PER LAZIO-PARMA - Parma Calcio 1913",
-      "source": "Parma Calcio 1913",
-      "published": "Fri, 23 Oct 2026 15:03:10 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, Torino-Monza 3-2: terza vittoria consecutiva per i granata, si avvicina la zona Conference League - Allora! Italian Australian News",
-      "source": "Allora! Italian Australian News",
-      "published": "Fri, 23 Oct 2026 21:01:18 GMT"
+      "title": "Dove vedere Napoli-Roma e Lazio-Parma di serie A in tv e streaming - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Sat, 24 Oct 2026 05:56:00 GMT"
     },
     {
       "type": "news",
@@ -166,9 +166,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Lione: Musetti vince una maratona con Van Assche. È derby con Cobolli in semifinale - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Fri, 23 Oct 2026 23:36:51 GMT"
+      "title": "Cobolli-Musetti, semifinale Atp 250 Lione: orario, quando si gioca e dove vederla in tv - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Fri, 23 Oct 2026 23:53:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "ATP Lione, oggi la semifinale Cobolli-Musetti: orario, dove vederla in tv - Tennis Magazine Italia",
+      "source": "Tennis Magazine Italia",
+      "published": "Sat, 24 Oct 2026 06:19:33 GMT"
     },
     {
       "type": "news",
@@ -176,13 +183,6 @@
       "title": "ATP Almaty, in semifinale sarà sfida Bublik-Medvedev - SuperTennis",
       "source": "SuperTennis",
       "published": "Fri, 23 Oct 2026 14:21:36 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "LIVE Cobolli-Nakashima, 4-6, 6-4, 6-4, ATP Lione 2026 in DIRETTA: il tennista cresciuto a Roma vince in rimonta e vola in semifinale - OA Sport",
-      "source": "OA Sport",
-      "published": "Fri, 23 Oct 2026 19:13:40 GMT"
     },
     {
       "type": "news",
