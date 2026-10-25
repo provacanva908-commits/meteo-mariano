@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T22:43:57.269479+00:00",
+  "updated_at": "2026-10-25T00:35:16.472108+00:00",
   "local_date": "2026-10-25",
   "articles": [
     {
@@ -131,21 +131,21 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Istat: le organizzazioni sindacali firmano unitariamente l'ipotesi di accordo sul salario accessorio dei I-III del 2020 - FLC CGIL",
-      "source": "FLC CGIL",
-      "published": "Sat, 24 Oct 2026 03:41:36 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "COMUNICATO UFFICIALE - AC Milan | Sito Ufficiale",
       "source": "AC Milan | Sito Ufficiale",
       "published": "Fri, 23 Oct 2026 16:00:00 GMT"
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Istat: le organizzazioni sindacali firmano unitariamente l'ipotesi di accordo sul salario accessorio dei I-III del 2020 - FLC CGIL",
+      "source": "FLC CGIL",
+      "published": "Sat, 24 Oct 2026 03:41:36 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Women Athora - Estasi Roma, Juventus travolta 5-2 nel big match. La Napoli frena l’Inter, tris Milan alla Ternana - FIGC",
+      "title": "Estasi Roma, Juventus travolta 5-2 nel big match. La Napoli frena 0-0 l’Inter, tris Milan alla Ternana - FIGC",
       "source": "FIGC",
       "published": "Sat, 24 Oct 2026 09:35:00 GMT"
     },
@@ -161,14 +161,14 @@
       "category": "CALCIO",
       "title": "Napoli vs Roma | Serie A Enilive - Lega Serie A",
       "source": "Lega Serie A",
-      "published": "Sat, 24 Oct 2026 19:04:43 GMT"
+      "published": "Sat, 24 Oct 2026 22:05:37 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Napoli-Roma 3-3, le pagelle della partita di Serie A - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sat, 24 Oct 2026 21:12:42 GMT"
+      "title": "Serie A Enilive | Lazio-Parma, i convocati biancocelesti - S.S. Lazio",
+      "source": "S.S. Lazio",
+      "published": "Sat, 24 Oct 2026 12:04:09 GMT"
     },
     {
       "type": "news",
@@ -222,9 +222,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Milano: ancora Coello-Tapia. E Ari Sanchez fa il bis - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 18 Oct 2026 20:21:51 GMT"
+      "title": "FIP Tour: Blanqué/Hugounenq e Merah accedono ai quarti di finale a Taunton, fine del percorso per Muesser e Ledrap. - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Sat, 24 Oct 2026 16:01:00 GMT"
     }
   ]
 }
