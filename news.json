@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-10-25T10:00:22.840359+00:00",
+  "updated_at": "2026-10-25T14:15:30.609799+00:00",
   "local_date": "2026-10-25",
   "articles": [
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Eredivisie",
+      "home": "PSV",
+      "away": "Feyenoord",
+      "time": "14:30",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 1,
+      "away_score": 0,
+      "is_live": true,
+      "local_date": "2026-10-25"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Atalanta",
+      "away": "Frosinone",
+      "time": "15:00",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 1,
+      "is_live": true,
+      "local_date": "2026-10-25"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Genoa",
+      "away": "Venezia FC",
+      "time": "15:00",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "is_live": true,
+      "local_date": "2026-10-25"
+    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -9,6 +51,62 @@
       "home": "Liverpool",
       "away": "Brighton Hove",
       "time": "15:00",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "is_live": true,
+      "local_date": "2026-10-25"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Inter",
+      "away": "Fiorentina",
+      "time": "12:30",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
+      "away_score": 1,
+      "is_live": false,
+      "local_date": "2026-10-25"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Eredivisie",
+      "home": "Sparta",
+      "away": "Ajax",
+      "time": "16:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-25"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Ligue 1",
+      "home": "Marseille",
+      "away": "Le Havre",
+      "time": "17:15",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-25"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Lecce",
+      "away": "Juventus",
+      "time": "18:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -26,16 +124,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "COMUNICATO UFFICIALE - AC Milan",
-      "source": "AC Milan",
-      "published": "Fri, 23 Oct 2026 16:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Più Oss nelle strutture per anziani e disabili, accordo da 5 milioni di euro in Emilia-Romagna - ModenaToday",
-      "source": "ModenaToday",
-      "published": "Sun, 25 Oct 2026 07:52:00 GMT"
+      "title": "Più operatori sociosanitari nelle strutture: l’accordo dell’Emilia-Romagna - Mondosanità",
+      "source": "Mondosanità",
+      "published": "Sun, 25 Oct 2026 12:00:00 GMT"
     },
     {
       "type": "news",
@@ -46,10 +137,24 @@
     },
     {
       "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "COMUNICATO UFFICIALE - AC Milan",
+      "source": "AC Milan",
+      "published": "Fri, 23 Oct 2026 16:00:00 GMT"
+    },
+    {
+      "type": "news",
       "category": "CALCIO",
-      "title": "Inter-Fiorentina oggi in Serie A, in campo anche Juventus e Milan: orario, probabili formazioni e dove vederla in tv - LaPresse",
-      "source": "LaPresse",
-      "published": "Sun, 25 Oct 2026 07:46:41 GMT"
+      "title": "Serie A, Inter-Fiorentina 0-0: LIVE. Alle 18 Lecce-Juve e stasera Udinese-Milan - Sky TG24",
+      "source": "Sky TG24",
+      "published": "Sun, 25 Oct 2026 11:36:04 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A Enilive | Lazio-Como Women, le formazioni ufficiali - S.S. Lazio",
+      "source": "S.S. Lazio",
+      "published": "Sun, 25 Oct 2026 10:43:11 GMT"
     },
     {
       "type": "news",
@@ -61,16 +166,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Napoli vs Roma | Serie A Enilive - Lega Serie A",
-      "source": "Lega Serie A",
-      "published": "Sat, 24 Oct 2026 19:04:43 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Lazio matura, Como da sogno e Balerdi leader: il sabato di Serie A - Diretta",
-      "source": "Diretta",
-      "published": "Sun, 25 Oct 2026 08:02:53 GMT"
+      "title": "Europa e Conference League, pari Juventus. Ko per Milan e Atalanta - Sky TG24",
+      "source": "Sky TG24",
+      "published": "Thu, 22 Oct 2026 16:06:55 GMT"
     },
     {
       "type": "news",
@@ -96,9 +194,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Cobolli-Musetti, semifinale Atp 250 Lione: orario, quando si gioca e dove vederla in tv - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Fri, 23 Oct 2026 23:53:00 GMT"
+      "title": "Dove vedere in tv e streaming Musetti-Fritz, finale del torneo 250 di Lione. Lorenzo non vince un titolo da quattro anni - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Sun, 25 Oct 2026 07:24:54 GMT"
     },
     {
       "type": "news",
