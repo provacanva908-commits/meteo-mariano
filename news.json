@@ -1,63 +1,7 @@
 {
-  "updated_at": "2026-10-25T05:17:49.484896+00:00",
+  "updated_at": "2026-10-25T10:00:22.840359+00:00",
   "local_date": "2026-10-25",
   "articles": [
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Inter",
-      "away": "Fiorentina",
-      "time": "12:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-25"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "PSV",
-      "away": "Feyenoord",
-      "time": "14:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-25"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Genoa",
-      "away": "Venezia FC",
-      "time": "15:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-25"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Atalanta",
-      "away": "Frosinone",
-      "time": "15:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-25"
-    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -73,60 +17,25 @@
       "local_date": "2026-10-25"
     },
     {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "Sparta",
-      "away": "Ajax",
-      "time": "16:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-25"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Ligue 1",
-      "home": "Marseille",
-      "away": "Le Havre",
-      "time": "17:15",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-25"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Lecce",
-      "away": "Juventus",
-      "time": "18:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-25"
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Istat: le organizzazioni sindacali firmano unitariamente l’ipotesi di accordo sul salario accessorio dei I-III del 2020 - FLC CGIL NAPOLI",
+      "source": "FLC CGIL NAPOLI",
+      "published": "Fri, 23 Oct 2026 10:06:51 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "COMUNICATO UFFICIALE - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
+      "title": "COMUNICATO UFFICIALE - AC Milan",
+      "source": "AC Milan",
       "published": "Fri, 23 Oct 2026 16:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ufficiale il prolungamento di contratto di Matias Mancuso - Inter.it",
-      "source": "Inter.it",
-      "published": "Sat, 24 Oct 2026 14:14:30 GMT"
+      "title": "Più Oss nelle strutture per anziani e disabili, accordo da 5 milioni di euro in Emilia-Romagna - ModenaToday",
+      "source": "ModenaToday",
+      "published": "Sun, 25 Oct 2026 07:52:00 GMT"
     },
     {
       "type": "news",
@@ -137,24 +46,17 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Napoli, la formazione ufficiale: De Bruyne play, fuori Lobotka - Radio Marte",
-      "source": "Radio Marte",
-      "published": "Sat, 24 Oct 2026 15:13:48 GMT"
+      "category": "CALCIO",
+      "title": "Inter-Fiorentina oggi in Serie A, in campo anche Juventus e Milan: orario, probabili formazioni e dove vederla in tv - LaPresse",
+      "source": "LaPresse",
+      "published": "Sun, 25 Oct 2026 07:46:41 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Estasi Roma, Juventus travolta 5-2 nel big match. La Napoli frena 0-0 l’Inter, tris Milan alla Ternana - FIGC",
-      "source": "FIGC",
-      "published": "Sat, 24 Oct 2026 09:35:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "%*((ROJADIRECTA>)))* Roma - Napoli Serie A partita Diretta tv e streaming gratis 24 ottobre 2026 - FC東京オフィシャルホームページ",
-      "source": "FC東京オフィシャルホームページ",
-      "published": "Sat, 24 Oct 2026 15:54:37 GMT"
+      "title": "I convocati per Atalanta-Frosinone | Serie A Enilive 2026/27 MD8 - Atalanta",
+      "source": "Atalanta",
+      "published": "Sun, 25 Oct 2026 09:30:34 GMT"
     },
     {
       "type": "news",
@@ -166,9 +68,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Enilive | Lazio-Parma, i convocati biancocelesti - S.S. Lazio",
-      "source": "S.S. Lazio",
-      "published": "Sat, 24 Oct 2026 12:04:09 GMT"
+      "title": "Lazio matura, Como da sogno e Balerdi leader: il sabato di Serie A - Diretta",
+      "source": "Diretta",
+      "published": "Sun, 25 Oct 2026 08:02:53 GMT"
     },
     {
       "type": "news",
@@ -180,16 +82,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Musetti-Cobolli, dove vedere la semifinale dell'Atp 250 di Lione in tv e in streaming - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Sat, 24 Oct 2026 06:40:19 GMT"
+      "title": "Cobolli-Musetti, prima semifinale ATP tutta italiana sul duro - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Fri, 23 Oct 2026 22:31:37 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Cobolli-Musetti, prima semifinale ATP tutta italiana sul duro - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Fri, 23 Oct 2026 22:31:37 GMT"
+      "title": "Musetti-Cobolli, dove vedere la semifinale dell'Atp 250 di Lione in tv e in streaming - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Sat, 24 Oct 2026 06:40:19 GMT"
     },
     {
       "type": "news",
@@ -222,9 +124,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Tour: Blanqué/Hugounenq e Merah accedono ai quarti di finale a Taunton, fine del percorso per Muesser e Ledrap. - Padel Magazine",
+      "title": "FIP Tour: Fine del percorso per i francesi a Taunton, Blanqué/Hugounenq e Merah eliminati ai quarti di finale. - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "Sat, 24 Oct 2026 16:01:00 GMT"
+      "published": "Sun, 25 Oct 2026 07:32:59 GMT"
     }
   ]
 }
