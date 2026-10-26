@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T05:25:10.093318+00:00",
+  "updated_at": "2026-10-26T11:26:59.363727+00:00",
   "local_date": "2026-10-26",
   "articles": [
     {
@@ -33,16 +33,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Più operatori sociosanitari nelle strutture: l’accordo dell’Emilia-Romagna - Mondosanità",
-      "source": "Mondosanità",
-      "published": "Sun, 25 Oct 2026 12:00:00 GMT"
+      "title": "La Santa Sede firma un accordo con la Repubblica di Honduras - Vatican News",
+      "source": "Vatican News",
+      "published": "Thu, 22 Oct 2026 10:42:13 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "La Santa Sede firma un accordo con la Repubblica di Honduras - Vatican News",
-      "source": "Vatican News",
-      "published": "Thu, 22 Oct 2026 10:42:13 GMT"
+      "title": "Roma, asse tra Gualtieri e Conte per il Campidoglio. L'accordo Pd-M5S è (quasi) fatto - Il Messaggero",
+      "source": "Il Messaggero",
+      "published": "Mon, 26 Oct 2026 10:31:50 GMT"
     },
     {
       "type": "news",
@@ -54,37 +54,44 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "LA SMENTITA UFFICIALE DEL VATICANO AI MEDIA INTERNAZIONALI: NO A IMMUNOTERAPIA PER PAPA LEONE XIV - Le Cronache Lucane",
-      "source": "Le Cronache Lucane",
-      "published": "Sun, 25 Oct 2026 18:33:29 GMT"
+      "title": "UFFICIALE - Como, Douvikas rinnova il suo contratto: il comunicato e la nuova scadenza - SOS Fanta",
+      "source": "SOS Fanta",
+      "published": "Mon, 26 Oct 2026 10:30:41 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, Lazio e Inter in testa. Rimonta Roma a Napoli e il Milan vince a Udine - La Voce di New York",
-      "source": "La Voce di New York",
-      "published": "Sun, 25 Oct 2026 22:20:05 GMT"
+      "title": "Gol a raffica in Serie A e in Champions League, il Como blinda il bomber: Douvikas lariano fino al 2031 - ComoZero",
+      "source": "ComoZero",
+      "published": "Mon, 26 Oct 2026 10:53:29 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Enilive | Lazio-Como Women 0-0, il tabellino - S.S. Lazio",
-      "source": "S.S. Lazio",
-      "published": "Sun, 25 Oct 2026 16:42:46 GMT"
+      "title": "Biglietti Inter-Como: dove acquistarli per la partita di Serie A a San Siro - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Mon, 26 Oct 2026 08:29:06 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, l’Inter ribalta la Fiorentina nel recupero e resta in vetta con la Lazio. Il Milan sale al terzo posto, la Juve torna a vincere - www.firstonline.info",
-      "source": "www.firstonline.info",
-      "published": "Mon, 26 Oct 2026 05:22:00 GMT"
+      "title": "Europa e Conference League, pari Juventus. Ko per Milan e Atalanta - Sky TG24",
+      "source": "Sky TG24",
+      "published": "Thu, 22 Oct 2026 16:06:55 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A | Lecce-Juventus | Le interviste - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Sun, 25 Oct 2026 22:34:42 GMT"
+      "title": "Calcio amputati, Champions League: storico secondo posto per lo Sporting Fano - Comitato Italiano Paralimpico",
+      "source": "Comitato Italiano Paralimpico",
+      "published": "Mon, 26 Oct 2026 08:16:52 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Ranking ATP/WTA: Sinner, settimana n. 95 in vetta. Fils al top - Ok Tennis",
+      "source": "Ok Tennis",
+      "published": "Mon, 26 Oct 2026 09:23:00 GMT"
     },
     {
       "type": "news",
@@ -103,16 +110,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Musetti-Fritz, finale Atp 250 Lione: orario, quando si gioca e dove vederla in tv - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Sun, 25 Oct 2026 09:16:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "ATP Bruxelles, Griekspoor trova Struff in finale - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Sat, 24 Oct 2026 19:11:37 GMT"
+      "title": "Ranking ATP (26 ottobre 2026): Jannik Sinner ancora primo, ma Alexander Zverev si prepara al sorpasso - OA Sport",
+      "source": "OA Sport",
+      "published": "Mon, 26 Oct 2026 07:35:21 GMT"
     },
     {
       "type": "news",
@@ -120,6 +120,13 @@
       "title": "Premier Padel Milano: Lebron batte Galan in rimonta e si prende la finale - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sat, 17 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Tapia e Coello hanno avuto difficoltà nella finale di Milano P1, ma conquistano il loro quarto titolo consecutivo - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Sun, 18 Oct 2026 17:50:59 GMT"
     },
     {
       "type": "news",
@@ -134,13 +141,6 @@
       "title": "Premier Padel: Tapia e Coello, il tabù che perseguita Paquito - Padel Magazine",
       "source": "Padel Magazine",
       "published": "Fri, 23 Oct 2026 16:00:30 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel Milano: ancora Coello-Tapia. E Ari Sanchez fa il bis - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 18 Oct 2026 20:21:51 GMT"
     }
   ]
 }
