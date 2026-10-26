@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T11:26:59.363727+00:00",
+  "updated_at": "2026-10-26T17:35:22.872799+00:00",
   "local_date": "2026-10-26",
   "articles": [
     {
@@ -33,30 +33,51 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "La Santa Sede firma un accordo con la Repubblica di Honduras - Vatican News",
-      "source": "Vatican News",
-      "published": "Thu, 22 Oct 2026 10:42:13 GMT"
+      "title": "Roma, Lulli ha firmato: ufficiale il rinnovo fino al 2031 - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Mon, 26 Oct 2026 15:28:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Roma, asse tra Gualtieri e Conte per il Campidoglio. L'accordo Pd-M5S è (quasi) fatto - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "Mon, 26 Oct 2026 10:31:50 GMT"
+      "title": "Roma, ufficiale il rinnovo di Lulli fino al 2031 - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Mon, 26 Oct 2026 15:13:41 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "COMUNICATO UFFICIALE - AC Milan",
-      "source": "AC Milan",
-      "published": "Fri, 23 Oct 2026 16:00:00 GMT"
+      "title": "Il nuovo accordo sulla sanità nel Lazio \"a rischio\" dopo un mese. L'allarme dei medici: \"Troppi ritardi\" - RomaToday",
+      "source": "RomaToday",
+      "published": "Mon, 26 Oct 2026 14:37:11 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "UFFICIALE - Como, Douvikas rinnova il suo contratto: il comunicato e la nuova scadenza - SOS Fanta",
-      "source": "SOS Fanta",
-      "published": "Mon, 26 Oct 2026 10:30:41 GMT"
+      "title": "UFFICIALE - Il Como blinda Douvikas: rinnovo fino al 2031 - Fantacalcio",
+      "source": "Fantacalcio",
+      "published": "Mon, 26 Oct 2026 10:21:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Torino abbraccia l'Europa: la UEFA Futsal Champions League torna in Italia. Tutto il girone della L84 in diretta streaming su Futsal TV - Divisione Calcio a 5",
+      "source": "Divisione Calcio a 5",
+      "published": "Mon, 26 Oct 2026 17:27:52 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A Enilive | Lazio-Roma, vendita riservata agli abbonati Settore Sud e Aquilotti - S.S. Lazio",
+      "source": "S.S. Lazio",
+      "published": "Mon, 26 Oct 2026 13:42:36 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Coppa Italia '26/'27: Spezia-Livorno, le designazioni - Spezia Calcio - Sito ufficiale",
+      "source": "Spezia Calcio - Sito ufficiale",
+      "published": "Mon, 26 Oct 2026 14:59:00 GMT"
     },
     {
       "type": "news",
@@ -67,45 +88,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Biglietti Inter-Como: dove acquistarli per la partita di Serie A a San Siro - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Mon, 26 Oct 2026 08:29:06 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Europa e Conference League, pari Juventus. Ko per Milan e Atalanta - Sky TG24",
-      "source": "Sky TG24",
-      "published": "Thu, 22 Oct 2026 16:06:55 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Calcio amputati, Champions League: storico secondo posto per lo Sporting Fano - Comitato Italiano Paralimpico",
-      "source": "Comitato Italiano Paralimpico",
-      "published": "Mon, 26 Oct 2026 08:16:52 GMT"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP/WTA: Sinner, settimana n. 95 in vetta. Fils al top - Ok Tennis",
-      "source": "Ok Tennis",
-      "published": "Mon, 26 Oct 2026 09:23:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Cobolli-Musetti, prima semifinale ATP tutta italiana sul duro - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Fri, 23 Oct 2026 22:31:37 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Musetti-Cobolli, dove vedere la semifinale dell'Atp 250 di Lione in tv e in streaming - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Sat, 24 Oct 2026 06:40:19 GMT"
+      "title": "Tennis: ranking ATP, Sinner numero 1 per la 95.a settimana ma Zverev pronto al sorpasso - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Mon, 26 Oct 2026 09:02:00 GMT"
     },
     {
       "type": "news",
@@ -113,6 +99,20 @@
       "title": "Ranking ATP (26 ottobre 2026): Jannik Sinner ancora primo, ma Alexander Zverev si prepara al sorpasso - OA Sport",
       "source": "OA Sport",
       "published": "Mon, 26 Oct 2026 07:35:21 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sinner ancora in vetta, ma ora Zverez può superarlo. Musetti non guadagna posizioni dopo la vittoria a Lione | La nuova classifica Atp - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Mon, 26 Oct 2026 12:19:38 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Ranking ATP: Sinner resiste per la 95ª settimana, Zverev a un passo dal sorpasso. Musetti vince ma non sale - Ubitennis",
+      "source": "Ubitennis",
+      "published": "Mon, 26 Oct 2026 09:31:17 GMT"
     },
     {
       "type": "news",
@@ -126,7 +126,7 @@
       "category": "PADEL",
       "title": "Tapia e Coello hanno avuto difficoltà nella finale di Milano P1, ma conquistano il loro quarto titolo consecutivo - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "Sun, 18 Oct 2026 17:50:59 GMT"
+      "published": "Sun, 18 Oct 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -138,9 +138,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel: Tapia e Coello, il tabù che perseguita Paquito - Padel Magazine",
+      "title": "Circuito FIP: Italia ancora protagonista, Dal Pozzo entra nella volata finale - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "Fri, 23 Oct 2026 16:00:30 GMT"
+      "published": "Mon, 26 Oct 2026 12:01:29 GMT"
     }
   ]
 }
