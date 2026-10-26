@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T00:41:26.948071+00:00",
+  "updated_at": "2026-10-26T05:25:10.093318+00:00",
   "local_date": "2026-10-26",
   "articles": [
     {
@@ -47,16 +47,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "LA SMENTITA UFFICIALE DEL VATICANO AI MEDIA INTERNAZIONALI: NO A IMMUNOTERAPIA PER PAPA LEONE XIV - Le Cronache Lucane",
-      "source": "Le Cronache Lucane",
-      "published": "Sun, 25 Oct 2026 18:33:29 GMT"
+      "title": "COMUNICATO UFFICIALE - AC Milan",
+      "source": "AC Milan",
+      "published": "Fri, 23 Oct 2026 16:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "COMUNICATO UFFICIALE - AC Milan",
-      "source": "AC Milan",
-      "published": "Fri, 23 Oct 2026 16:00:00 GMT"
+      "title": "LA SMENTITA UFFICIALE DEL VATICANO AI MEDIA INTERNAZIONALI: NO A IMMUNOTERAPIA PER PAPA LEONE XIV - Le Cronache Lucane",
+      "source": "Le Cronache Lucane",
+      "published": "Sun, 25 Oct 2026 18:33:29 GMT"
     },
     {
       "type": "news",
@@ -70,7 +70,14 @@
       "category": "CALCIO",
       "title": "Serie A Enilive | Lazio-Como Women 0-0, il tabellino - S.S. Lazio",
       "source": "S.S. Lazio",
-      "published": "Sun, 25 Oct 2026 16:41:15 GMT"
+      "published": "Sun, 25 Oct 2026 16:42:46 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A, l’Inter ribalta la Fiorentina nel recupero e resta in vetta con la Lazio. Il Milan sale al terzo posto, la Juve torna a vincere - www.firstonline.info",
+      "source": "www.firstonline.info",
+      "published": "Mon, 26 Oct 2026 05:22:00 GMT"
     },
     {
       "type": "news",
@@ -78,13 +85,6 @@
       "title": "Serie A | Lecce-Juventus | Le interviste - Juventus.com",
       "source": "Juventus.com",
       "published": "Sun, 25 Oct 2026 22:34:42 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, in campo Udinese-Milan LIVE - ANSA",
-      "source": "ANSA",
-      "published": "Sun, 25 Oct 2026 20:13:18 GMT"
     },
     {
       "type": "news",
@@ -110,9 +110,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Atp Lione, Lorenzo Musetti trionfa in finale contro Taylor Fritz - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
-      "published": "Sun, 25 Oct 2026 17:35:34 GMT"
+      "title": "ATP Bruxelles, Griekspoor trova Struff in finale - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Sat, 24 Oct 2026 19:11:37 GMT"
     },
     {
       "type": "news",
@@ -131,16 +131,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Milano: ancora Coello-Tapia. E Ari Sanchez fa il bis - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 18 Oct 2026 20:21:51 GMT"
+      "title": "Premier Padel: Tapia e Coello, il tabù che perseguita Paquito - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Fri, 23 Oct 2026 16:00:30 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Tour: Fine del percorso per i francesi a Taunton, Blanqué/Hugounenq e Merah eliminati ai quarti di finale. - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Sun, 25 Oct 2026 07:32:59 GMT"
+      "title": "Premier Padel Milano: ancora Coello-Tapia. E Ari Sanchez fa il bis - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 18 Oct 2026 20:21:51 GMT"
     }
   ]
 }
