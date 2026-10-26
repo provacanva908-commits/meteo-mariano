@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T17:35:22.872799+00:00",
+  "updated_at": "2026-10-26T21:51:29.817771+00:00",
   "local_date": "2026-10-26",
   "articles": [
     {
@@ -9,10 +9,10 @@
       "home": "Santa Clara",
       "away": "SL Benfica",
       "time": "19:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 2,
       "is_live": false,
       "local_date": "2026-10-26"
     },
@@ -23,10 +23,10 @@
       "home": "PSG",
       "away": "Olympique Lyon",
       "time": "20:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
+      "away_score": 0,
       "is_live": false,
       "local_date": "2026-10-26"
     },
@@ -40,16 +40,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Roma, ufficiale il rinnovo di Lulli fino al 2031 - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Mon, 26 Oct 2026 15:13:41 GMT"
+      "title": "Il nuovo accordo sulla sanità nel Lazio \"a rischio\" dopo un mese. L'allarme dei medici: \"Troppi ritardi\" - RomaToday",
+      "source": "RomaToday",
+      "published": "Mon, 26 Oct 2026 14:37:11 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Il nuovo accordo sulla sanità nel Lazio \"a rischio\" dopo un mese. L'allarme dei medici: \"Troppi ritardi\" - RomaToday",
-      "source": "RomaToday",
-      "published": "Mon, 26 Oct 2026 14:37:11 GMT"
+      "title": "Roma, ufficiale il rinnovo di Lulli fino al 2031 - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Mon, 26 Oct 2026 15:13:41 GMT"
     },
     {
       "type": "news",
@@ -68,13 +68,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Enilive | Lazio-Roma, vendita riservata agli abbonati Settore Sud e Aquilotti - S.S. Lazio",
-      "source": "S.S. Lazio",
-      "published": "Mon, 26 Oct 2026 13:42:36 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Coppa Italia '26/'27: Spezia-Livorno, le designazioni - Spezia Calcio - Sito ufficiale",
       "source": "Spezia Calcio - Sito ufficiale",
       "published": "Mon, 26 Oct 2026 14:59:00 GMT"
@@ -82,9 +75,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Gol a raffica in Serie A e in Champions League, il Como blinda il bomber: Douvikas lariano fino al 2031 - ComoZero",
-      "source": "ComoZero",
-      "published": "Mon, 26 Oct 2026 10:53:29 GMT"
+      "title": "Motori: l’udinese De Sabbata centra la finale nazionale di coppa Italia - Il Pais",
+      "source": "Il Pais",
+      "published": "Mon, 26 Oct 2026 18:24:37 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A Enilive | Lazio-Roma, vendita riservata agli abbonati Settore Sud e Aquilotti - S.S. Lazio",
+      "source": "S.S. Lazio",
+      "published": "Mon, 26 Oct 2026 13:42:36 GMT"
     },
     {
       "type": "news",
@@ -110,9 +110,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP: Sinner resiste per la 95ª settimana, Zverev a un passo dal sorpasso. Musetti vince ma non sale - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Mon, 26 Oct 2026 09:31:17 GMT"
+      "title": "Sinner giocherà il Six Kings Slam a dicembre, è ufficiale: ecco la data del rientro in campo - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Mon, 26 Oct 2026 14:56:49 GMT"
     },
     {
       "type": "news",
