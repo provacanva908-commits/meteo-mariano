@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T12:25:35.370759+00:00",
+  "updated_at": "2026-10-27T18:11:18.690441+00:00",
   "local_date": "2026-10-27",
   "articles": [
     {
@@ -9,11 +9,11 @@
       "home": "Sassuolo",
       "away": "Lazio",
       "time": "18:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 1,
+      "away_score": 3,
+      "is_live": true,
       "local_date": "2026-10-27"
     },
     {
@@ -47,16 +47,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Roma, Lulli ha firmato: ufficiale il rinnovo fino al 2031 - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Mon, 26 Oct 2026 15:28:00 GMT"
+      "title": "L'ospedale San Giacomo, c'è l'accordo con Invimit. Riaprirà dopo 18 anni: RSA, lungodegenza e tutti i dettagli del piano - RomaToday",
+      "source": "RomaToday",
+      "published": "Tue, 27 Oct 2026 17:02:24 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Inter, Thuram verso il rinnovo: accordo vicino - Fantacalcio",
-      "source": "Fantacalcio",
-      "published": "Tue, 27 Oct 2026 05:52:00 GMT"
+      "title": "Università e lavoro nel Lazio, accordo tra DiSCo e Camera di Commercio di Roma: corsi e incontri con le imprese - La Capitale",
+      "source": "La Capitale",
+      "published": "Tue, 27 Oct 2026 15:15:35 GMT"
     },
     {
       "type": "news",
@@ -75,6 +75,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Champions League: Napoli, Inter, Roma e Como a caccia di punti - Virgilio",
+      "source": "Virgilio",
+      "published": "Tue, 27 Oct 2026 17:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Le partite di oggi: in Serie A turno infrasettimanale con Sassuolo-Lazio, Torino-Como e Roma-Cagliari - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Tue, 27 Oct 2026 06:29:14 GMT"
@@ -82,23 +89,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Sassuolo-Lazio oggi in Serie A, in campo anche Roma e Como: orario, probabili formazioni e dove vederla in tv - LaPresse",
-      "source": "LaPresse",
-      "published": "Tue, 27 Oct 2026 06:32:09 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, le probabili formazioni della 9ª giornata: Dybala torna in panchina, il Napoli a Monza senza Allegri, turnover per Milan e Inter - WilliamHillNews",
-      "source": "WilliamHillNews",
-      "published": "Tue, 27 Oct 2026 11:00:55 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Serie A Enilive | Sassuolo-Lazio, i convocati biancocelesti - S.S. Lazio",
       "source": "S.S. Lazio",
-      "published": "Tue, 27 Oct 2026 11:04:36 GMT"
+      "published": "Tue, 27 Oct 2026 11:05:28 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Torino abbraccia l'Europa: la UEFA Futsal Champions League torna in Italia. Tutto il girone della L84 in diretta streaming su Futsal TV - Divisione Calcio a 5",
+      "source": "Divisione Calcio a 5",
+      "published": "Tue, 27 Oct 2026 00:25:36 GMT"
     },
     {
       "type": "news",
@@ -110,23 +110,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Il tennista Lorenzo Musetti ha vinto il torneo di Lione: è la sua prima vittoria in un torneo ATP dal 2022 - Il Post",
-      "source": "Il Post",
-      "published": "Sun, 25 Oct 2026 15:40:24 GMT"
+      "title": "Tennis: ranking ATP, Sinner numero 1 per la 95.a settimana ma Zverev pronto al sorpasso - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Mon, 26 Oct 2026 09:02:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "WTA di Tokyo, Jasmine Paolini sconfitta da Osaka: dice addio al torneo al primo turno - IlFaroOnline",
-      "source": "IlFaroOnline",
-      "published": "Tue, 27 Oct 2026 11:44:00 GMT"
+      "title": "Ranking ATP: Zverev può superare Sinner, gli scenari. Si accende la corsa per Torino - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Sat, 24 Oct 2026 07:00:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jannik Sinner torna contro Carlos Alcaraz? Ritorno al Six Kings Slam dopo l'infortunio · Tennis - Olympics",
-      "source": "Olympics",
-      "published": "Tue, 27 Oct 2026 09:55:00 GMT"
+      "title": "Ranking ATP (26 ottobre 2026): Jannik Sinner ancora primo, ma Alexander Zverev si prepara al sorpasso - OA Sport",
+      "source": "OA Sport",
+      "published": "Mon, 26 Oct 2026 07:35:21 GMT"
     },
     {
       "type": "news",
