@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T01:04:37.115170+00:00",
+  "updated_at": "2026-10-27T06:14:07.270580+00:00",
   "local_date": "2026-10-27",
   "articles": [
     {
@@ -54,6 +54,13 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Inter, Thuram verso il rinnovo: accordo vicino - Fantacalcio",
+      "source": "Fantacalcio",
+      "published": "Tue, 27 Oct 2026 05:52:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Il nuovo accordo sulla sanità nel Lazio \"a rischio\" dopo un mese. L'allarme dei medici: \"Troppi ritardi\" - RomaToday",
       "source": "RomaToday",
       "published": "Mon, 26 Oct 2026 14:37:11 GMT"
@@ -67,10 +74,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "UFFICIALE - Il Como blinda Douvikas: rinnovo fino al 2031 - Fantacalcio",
-      "source": "Fantacalcio",
-      "published": "Mon, 26 Oct 2026 10:21:00 GMT"
+      "category": "CALCIO",
+      "title": "Torino abbraccia l'Europa: la UEFA Futsal Champions League torna in Italia. Tutto il girone della L84 in diretta streaming su Futsal TV - Divisione Calcio a 5",
+      "source": "Divisione Calcio a 5",
+      "published": "Mon, 26 Oct 2026 17:27:52 GMT"
     },
     {
       "type": "news",
@@ -82,9 +89,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Motori: l’udinese De Sabbata centra la finale nazionale di coppa Italia - Il Pais",
-      "source": "Il Pais",
-      "published": "Mon, 26 Oct 2026 18:24:37 GMT"
+      "title": "Sport oggi in tv, la programmazione di martedì 27 ottobre: serie A, serie B, basket e coppa Italia serie C - Virgilio",
+      "source": "Virgilio",
+      "published": "Tue, 27 Oct 2026 06:10:00 GMT"
     },
     {
       "type": "news",
@@ -92,13 +99,6 @@
       "title": "Serie A Enilive | Lazio-Roma, vendita riservata agli abbonati Settore Sud e Aquilotti - S.S. Lazio",
       "source": "S.S. Lazio",
       "published": "Mon, 26 Oct 2026 13:42:36 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Calcio amputati, Champions League: storico secondo posto per lo Sporting Fano - Comitato Italiano Paralimpico",
-      "source": "Comitato Italiano Paralimpico",
-      "published": "Mon, 26 Oct 2026 08:16:52 GMT"
     },
     {
       "type": "news",
@@ -117,37 +117,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Il tennista Lorenzo Musetti ha vinto il torneo di Lione: è la sua prima vittoria in un torneo ATP dal 2022 - Il Post",
-      "source": "Il Post",
-      "published": "Sun, 25 Oct 2026 15:40:24 GMT"
+      "title": "Ranking ATP: Zverev può superare Sinner, gli scenari. Si accende la corsa per Torino - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Sat, 24 Oct 2026 07:00:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP: Sinner resiste per la 95ª settimana, Zverev a un passo dal sorpasso. Musetti vince ma non sale - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Mon, 26 Oct 2026 09:31:17 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel Milano: Lebron batte Galan in rimonta e si prende la finale - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sat, 17 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Tapia e Coello hanno avuto difficoltà nella finale di Milano P1, ma conquistano il loro quarto titolo consecutivo - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Sun, 18 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel Milano: Galan e Lebron, sarà show all’Allianz. Avanti tutti i big - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Fri, 16 Oct 2026 07:00:00 GMT"
+      "title": "LIVE Alcaraz-Khachanov, ATP Vienna 2026 in DIRETTA: lo spagnolo affronta il solido russo - OA Sport",
+      "source": "OA Sport",
+      "published": "Tue, 27 Oct 2026 04:20:35 GMT"
     },
     {
       "type": "news",
@@ -155,6 +134,27 @@
       "title": "Circuito FIP: Italia ancora protagonista, Dal Pozzo entra nella volata finale - Padel Magazine",
       "source": "Padel Magazine",
       "published": "Mon, 26 Oct 2026 12:01:29 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Blupadel Tour 2026: Master Finale, i vincitori del torneo che porta il padel nei viaggi - Il Giornale del Turismo",
+      "source": "Il Giornale del Turismo",
+      "published": "Mon, 26 Oct 2026 20:35:50 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Tour: Fine del percorso per i francesi a Taunton, Blanqué/Hugounenq e Merah eliminati ai quarti di finale. - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Sun, 25 Oct 2026 07:32:59 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Kuwait Major: Godallier e Peralta debuttano e accedono ai sedicesimi di finale. - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Mon, 26 Oct 2026 15:49:18 GMT"
     }
   ]
 }
