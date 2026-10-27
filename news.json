@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T18:11:18.690441+00:00",
+  "updated_at": "2026-10-27T22:20:21.175716+00:00",
   "local_date": "2026-10-27",
   "articles": [
     {
@@ -9,24 +9,10 @@
       "home": "Sassuolo",
       "away": "Lazio",
       "time": "18:30",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 1,
-      "away_score": 3,
-      "is_live": true,
-      "local_date": "2026-10-27"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Torino",
-      "away": "Como 1907",
-      "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
+      "away_score": 6,
       "is_live": false,
       "local_date": "2026-10-27"
     },
@@ -37,19 +23,40 @@
       "home": "Roma",
       "away": "Cagliari",
       "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 4,
+      "away_score": 2,
+      "is_live": false,
+      "local_date": "2026-10-27"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Torino",
+      "away": "Como 1907",
+      "time": "20:45",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 3,
       "is_live": false,
       "local_date": "2026-10-27"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Interpol e Oms firmano un accordo per rafforzare la protezione di salute e sicurezza globale - AboutPharma",
+      "source": "AboutPharma",
+      "published": "Tue, 27 Oct 2026 15:51:29 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "L'ospedale San Giacomo, c'è l'accordo con Invimit. Riaprirà dopo 18 anni: RSA, lungodegenza e tutti i dettagli del piano - RomaToday",
       "source": "RomaToday",
-      "published": "Tue, 27 Oct 2026 17:02:24 GMT"
+      "published": "Tue, 27 Oct 2026 13:00:00 GMT"
     },
     {
       "type": "news",
@@ -67,13 +74,6 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "FSC 14/20 - Condotte San Biagio Platani - Accordo rinnovo conv. ATI AG - EuroInfoSicilia",
-      "source": "EuroInfoSicilia",
-      "published": "Tue, 27 Oct 2026 11:06:20 GMT"
-    },
-    {
-      "type": "news",
       "category": "CALCIO",
       "title": "Champions League: Napoli, Inter, Roma e Como a caccia di punti - Virgilio",
       "source": "Virgilio",
@@ -82,16 +82,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Le partite di oggi: in Serie A turno infrasettimanale con Sassuolo-Lazio, Torino-Como e Roma-Cagliari - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Tue, 27 Oct 2026 06:29:14 GMT"
+      "title": "Serie A, Sassuolo-Lazio 2-6. Ora in corso Roma-Cagliari e Torino-Como - Sky TG24",
+      "source": "Sky TG24",
+      "published": "Tue, 27 Oct 2026 19:28:57 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Enilive | Sassuolo-Lazio, i convocati biancocelesti - S.S. Lazio",
-      "source": "S.S. Lazio",
-      "published": "Tue, 27 Oct 2026 11:05:28 GMT"
+      "title": "Pre partita | Davide Nicola | Venezia FC - Inter | Serie A Enilive 26/27 - Venezia FC",
+      "source": "Venezia FC",
+      "published": "Tue, 27 Oct 2026 16:47:41 GMT"
     },
     {
       "type": "news",
@@ -110,51 +110,51 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis: ranking ATP, Sinner numero 1 per la 95.a settimana ma Zverev pronto al sorpasso - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Mon, 26 Oct 2026 09:02:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ranking ATP: Zverev può superare Sinner, gli scenari. Si accende la corsa per Torino - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Sat, 24 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ranking ATP (26 ottobre 2026): Jannik Sinner ancora primo, ma Alexander Zverev si prepara al sorpasso - OA Sport",
+      "title": "Ranking ATP, Alexander Zverev vicino al sorpasso su Jannik Sinner: gli scenari a Vienna - OA Sport",
       "source": "OA Sport",
-      "published": "Mon, 26 Oct 2026 07:35:21 GMT"
+      "published": "Tue, 27 Oct 2026 20:43:33 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "ATP Vienna, Alcaraz: \"Mi sono mancate le partite, adesso mi sto divertendo. Davis? Il doppio ha un peso, penso a Sinner...\" - Ubitennis",
+      "source": "Ubitennis",
+      "published": "Tue, 27 Oct 2026 18:28:06 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "ATP Vienna 2026, Tommy Paul sfiderà Darderi negli ottavi di finale - OA Sport",
+      "source": "OA Sport",
+      "published": "Tue, 27 Oct 2026 18:52:17 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Milano: Lebron batte Galan in rimonta e si prende la finale - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sat, 17 Oct 2026 07:00:00 GMT"
+      "title": "Blupadel Tour 2026: Master Finale, i vincitori del torneo che porta il padel nei viaggi - Il Giornale del Turismo",
+      "source": "Il Giornale del Turismo",
+      "published": "Mon, 26 Oct 2026 20:35:50 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Tapia e Coello hanno avuto difficoltà nella finale di Milano P1, ma conquistano il loro quarto titolo consecutivo - Padel Magazine",
+      "title": "Kuwait Major: la corsa di Godallier si interrompe, Leygue esce dagli ottavi di finale dopo un match emozionante - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "Sun, 18 Oct 2026 07:00:00 GMT"
+      "published": "Tue, 27 Oct 2026 18:57:50 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Milano: Galan e Lebron, sarà show all’Allianz. Avanti tutti i big - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Fri, 16 Oct 2026 07:00:00 GMT"
+      "title": "Kuwait Major – I favoriti scendono in campo, il programma completo dei sedicesimi di finale - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Tue, 27 Oct 2026 08:07:53 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Milano: ancora Coello-Tapia. E Ari Sanchez fa il bis - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 18 Oct 2026 07:00:00 GMT"
+      "title": "Kuwait Major – Due francesi in lizza per gli ottavi di finale, Godallier affronta una grande sfida, Leygue ha una reale possibilità - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Tue, 27 Oct 2026 07:49:52 GMT"
     }
   ]
 }
