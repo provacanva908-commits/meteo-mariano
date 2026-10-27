@@ -1,34 +1,48 @@
 {
-  "updated_at": "2026-10-26T21:51:29.817771+00:00",
-  "local_date": "2026-10-26",
+  "updated_at": "2026-10-27T01:04:37.115170+00:00",
+  "local_date": "2026-10-27",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Primeira Liga",
-      "home": "Santa Clara",
-      "away": "SL Benfica",
-      "time": "19:45",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 1,
-      "away_score": 2,
+      "competition": "Serie A",
+      "home": "Sassuolo",
+      "away": "Lazio",
+      "time": "18:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-10-26"
+      "local_date": "2026-10-27"
     },
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Ligue 1",
-      "home": "PSG",
-      "away": "Olympique Lyon",
-      "time": "20:30",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 2,
-      "away_score": 0,
+      "competition": "Serie A",
+      "home": "Torino",
+      "away": "Como 1907",
+      "time": "20:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-10-26"
+      "local_date": "2026-10-27"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Roma",
+      "away": "Cagliari",
+      "time": "20:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-27"
     },
     {
       "type": "news",
@@ -61,13 +75,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Torino abbraccia l'Europa: la UEFA Futsal Champions League torna in Italia. Tutto il girone della L84 in diretta streaming su Futsal TV - Divisione Calcio a 5",
-      "source": "Divisione Calcio a 5",
-      "published": "Mon, 26 Oct 2026 17:27:52 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Coppa Italia '26/'27: Spezia-Livorno, le designazioni - Spezia Calcio - Sito ufficiale",
       "source": "Spezia Calcio - Sito ufficiale",
       "published": "Mon, 26 Oct 2026 14:59:00 GMT"
@@ -88,17 +95,10 @@
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Tennis: ranking ATP, Sinner numero 1 per la 95.a settimana ma Zverev pronto al sorpasso - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Mon, 26 Oct 2026 09:02:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ranking ATP (26 ottobre 2026): Jannik Sinner ancora primo, ma Alexander Zverev si prepara al sorpasso - OA Sport",
-      "source": "OA Sport",
-      "published": "Mon, 26 Oct 2026 07:35:21 GMT"
+      "category": "CALCIO",
+      "title": "Calcio amputati, Champions League: storico secondo posto per lo Sporting Fano - Comitato Italiano Paralimpico",
+      "source": "Comitato Italiano Paralimpico",
+      "published": "Mon, 26 Oct 2026 08:16:52 GMT"
     },
     {
       "type": "news",
@@ -110,9 +110,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner giocherà il Six Kings Slam a dicembre, è ufficiale: ecco la data del rientro in campo - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Mon, 26 Oct 2026 14:56:49 GMT"
+      "title": "Ranking ATP (26 ottobre 2026): Jannik Sinner ancora primo, ma Alexander Zverev si prepara al sorpasso - OA Sport",
+      "source": "OA Sport",
+      "published": "Mon, 26 Oct 2026 07:35:21 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Il tennista Lorenzo Musetti ha vinto il torneo di Lione: è la sua prima vittoria in un torneo ATP dal 2022 - Il Post",
+      "source": "Il Post",
+      "published": "Sun, 25 Oct 2026 15:40:24 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Ranking ATP: Sinner resiste per la 95ª settimana, Zverev a un passo dal sorpasso. Musetti vince ma non sale - Ubitennis",
+      "source": "Ubitennis",
+      "published": "Mon, 26 Oct 2026 09:31:17 GMT"
     },
     {
       "type": "news",
