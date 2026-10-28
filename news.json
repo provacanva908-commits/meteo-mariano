@@ -1,48 +1,76 @@
 {
-  "updated_at": "2026-10-27T22:20:21.175716+00:00",
-  "local_date": "2026-10-27",
+  "updated_at": "2026-10-28T01:31:13.328157+00:00",
+  "local_date": "2026-10-28",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Sassuolo",
-      "away": "Lazio",
+      "home": "Milan",
+      "away": "Bologna",
       "time": "18:30",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 2,
-      "away_score": 6,
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-10-27"
+      "local_date": "2026-10-28"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Roma",
-      "away": "Cagliari",
-      "time": "20:45",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 4,
-      "away_score": 2,
+      "home": "Parma",
+      "away": "Udinese",
+      "time": "18:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-10-27"
+      "local_date": "2026-10-28"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Torino",
-      "away": "Como 1907",
-      "time": "20:45",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 1,
-      "away_score": 3,
+      "home": "Venezia FC",
+      "away": "Inter",
+      "time": "18:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-10-27"
+      "local_date": "2026-10-28"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Monza",
+      "away": "Napoli",
+      "time": "20:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-28"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Genoa",
+      "away": "Juventus",
+      "time": "20:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-28"
     },
     {
       "type": "news",
@@ -61,16 +89,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Università e lavoro nel Lazio, accordo tra DiSCo e Camera di Commercio di Roma: corsi e incontri con le imprese - La Capitale",
-      "source": "La Capitale",
-      "published": "Tue, 27 Oct 2026 15:15:35 GMT"
+      "title": "Calciomercato - Juve: Balogun a gennaio? Bayern su Manu Konè. Marcus Thuram verso il rinnovo - Eurosport.it",
+      "source": "Eurosport.it",
+      "published": "Tue, 27 Oct 2026 08:36:56 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato - Juve: Balogun a gennaio? Bayern su Manu Konè. Marcus Thuram verso il rinnovo - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "Tue, 27 Oct 2026 08:36:56 GMT"
+      "title": "Maugeri, accordo raggiunto: messa la firma sul “ritocco” di 200 euro in busta paga. “Un importante passo in avanti” - Il Giorno",
+      "source": "Il Giorno",
+      "published": "Wed, 28 Oct 2026 01:09:15 GMT"
     },
     {
       "type": "news",
@@ -82,23 +110,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, Sassuolo-Lazio 2-6. Ora in corso Roma-Cagliari e Torino-Como - Sky TG24",
-      "source": "Sky TG24",
-      "published": "Tue, 27 Oct 2026 19:28:57 GMT"
+      "title": "Calcio, Lazio e Roma vincono negli anticipi del turno infrasettimanale di Serie A. Ok anche il Como - OA Sport",
+      "source": "OA Sport",
+      "published": "Tue, 27 Oct 2026 23:25:23 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Pre partita | Davide Nicola | Venezia FC - Inter | Serie A Enilive 26/27 - Venezia FC",
-      "source": "Venezia FC",
-      "published": "Tue, 27 Oct 2026 16:47:41 GMT"
+      "title": "Floriani Mussolini è il gioiello italiano della Lazio: primo goal in Serie A e l'Inter lo sta già studiando - Goal.com",
+      "source": "Goal.com",
+      "published": "Tue, 27 Oct 2026 20:35:14 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Torino abbraccia l'Europa: la UEFA Futsal Champions League torna in Italia. Tutto il girone della L84 in diretta streaming su Futsal TV - Divisione Calcio a 5",
-      "source": "Divisione Calcio a 5",
-      "published": "Tue, 27 Oct 2026 00:25:36 GMT"
+      "title": "Torino vs Como | Serie A Enilive - Lega Serie A",
+      "source": "Lega Serie A",
+      "published": "Tue, 27 Oct 2026 21:34:48 GMT"
     },
     {
       "type": "news",
@@ -124,37 +152,37 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Vienna 2026, Tommy Paul sfiderà Darderi negli ottavi di finale - OA Sport",
-      "source": "OA Sport",
-      "published": "Tue, 27 Oct 2026 18:52:17 GMT"
+      "title": "Il tennista Lorenzo Musetti ha vinto il torneo di Lione: è la sua prima vittoria in un torneo ATP dal 2022 - Il Post",
+      "source": "Il Post",
+      "published": "Sun, 25 Oct 2026 15:40:24 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Blupadel Tour 2026: Master Finale, i vincitori del torneo che porta il padel nei viaggi - Il Giornale del Turismo",
-      "source": "Il Giornale del Turismo",
-      "published": "Mon, 26 Oct 2026 20:35:50 GMT"
+      "title": "Premier Padel Milano: Lebron batte Galan in rimonta e si prende la finale - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sat, 17 Oct 2026 07:00:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Kuwait Major: la corsa di Godallier si interrompe, Leygue esce dagli ottavi di finale dopo un match emozionante - Padel Magazine",
+      "title": "Tapia e Coello hanno avuto difficoltà nella finale di Milano P1, ma conquistano il loro quarto titolo consecutivo - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "Tue, 27 Oct 2026 18:57:50 GMT"
+      "published": "Sun, 18 Oct 2026 07:00:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Kuwait Major – I favoriti scendono in campo, il programma completo dei sedicesimi di finale - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Tue, 27 Oct 2026 08:07:53 GMT"
+      "title": "Premier Padel Milano: Galan e Lebron, sarà show all’Allianz. Avanti tutti i big - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Fri, 16 Oct 2026 07:00:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Kuwait Major – Due francesi in lizza per gli ottavi di finale, Godallier affronta una grande sfida, Leygue ha una reale possibilità - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Tue, 27 Oct 2026 07:49:52 GMT"
+      "title": "Premier Padel Milano: ancora Coello-Tapia. E Ari Sanchez fa il bis - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 18 Oct 2026 07:00:00 GMT"
     }
   ]
 }
