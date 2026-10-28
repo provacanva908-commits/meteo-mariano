@@ -1,83 +1,55 @@
 {
-  "updated_at": "2026-10-28T19:39:42.931691+00:00",
-  "local_date": "2026-10-28",
+  "updated_at": "2026-10-28T23:35:34.603768+00:00",
+  "local_date": "2026-10-29",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Parma",
-      "away": "Udinese",
+      "home": "Frosinone",
+      "away": "Lecce",
       "time": "18:30",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 0,
-      "away_score": 0,
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-10-28"
+      "local_date": "2026-10-29"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Venezia FC",
-      "away": "Inter",
-      "time": "18:30",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 0,
-      "away_score": 2,
-      "is_live": false,
-      "local_date": "2026-10-28"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Milan",
-      "away": "Bologna",
-      "time": "18:30",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 2,
-      "away_score": 4,
-      "is_live": false,
-      "local_date": "2026-10-28"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Monza",
-      "away": "Napoli",
+      "home": "Fiorentina",
+      "away": "Atalanta",
       "time": "20:45",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
       "away_score": null,
       "is_live": false,
-      "local_date": "2026-10-28"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Genoa",
-      "away": "Juventus",
-      "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-28"
+      "local_date": "2026-10-29"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Milano e Roma, accordo contro le infezioni: il ruolo del genoma - The Wom Healthy",
-      "source": "The Wom Healthy",
-      "published": "Wed, 28 Oct 2026 18:10:00 GMT"
+      "title": "Milan, dopo Christian Pulisic rinnova Adrien Rabiot: i dettagli dell'accordo - Calciomercato",
+      "source": "Calciomercato",
+      "published": "Wed, 28 Oct 2026 08:09:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Monza-Napoli LIVE 1-1: Varela risponde a Hojlund! - Calciomercato",
+      "source": "Calciomercato",
+      "published": "Wed, 28 Oct 2026 19:40:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Milan-Hardung, ora è giallo sull'arrivo (retroscena) - Calciomercato Jeltsch scatena un derby con Inter e Juventus - Rumor - Il Giornale d'Italia",
+      "source": "Il Giornale d'Italia",
+      "published": "Wed, 28 Oct 2026 15:36:06 GMT"
     },
     {
       "type": "news",
@@ -88,17 +60,17 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "✔️[DIRETTA UFFICIALE] Venezia - Internazionale Diretta Streaming Gratis TV - Vantage Data Centers",
+      "category": "CALCIO",
+      "title": "『DIRETTA STREAMING』 Monza - Napoli Serie A Calcio partita in diretta - Vantage Data Centers",
       "source": "Vantage Data Centers",
-      "published": "Wed, 28 Oct 2026 17:29:25 GMT"
+      "published": "Wed, 28 Oct 2026 20:07:06 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Internet in volo, easyJet annuncia l'accordo con Starlink (dal 2027). La replica di Ryanair: «Pecore» - Corriere della Sera",
-      "source": "Corriere della Sera",
-      "published": "Wed, 28 Oct 2026 14:56:00 GMT"
+      "category": "CALCIO",
+      "title": "【SERIE A LIVE】Napoli-Monza — Diretta, Formazioni e Risultato - Vantage Data Centers",
+      "source": "Vantage Data Centers",
+      "published": "Wed, 28 Oct 2026 20:04:34 GMT"
     },
     {
       "type": "news",
@@ -110,23 +82,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Milan-Catanzaro, Coppa Italia Primavera 2026/27 - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Wed, 28 Oct 2026 14:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Serie A Enilive | Pack 3 partite Lecce, Atalanta e Roma - S.S. Lazio",
       "source": "S.S. Lazio",
       "published": "Wed, 28 Oct 2026 13:22:13 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "[ＤＩＲＥＴＴＡ@TV!!] Napoli - Monza Serie A Calcio in Diretta Streaming 28 ottobre 2026 - Vantage Data Centers",
-      "source": "Vantage Data Centers",
-      "published": "Wed, 28 Oct 2026 19:13:57 GMT"
+      "category": "TENNIS",
+      "title": "Sinner ancora in vetta, ma ora Zverez può superarlo. Musetti non guadagna posizioni dopo la vittoria a Lione | La nuova classifica Atp - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Mon, 26 Oct 2026 12:19:38 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Ranking ATP: Zverev può superare Sinner, gli scenari. Si accende la corsa per Torino - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Mon, 26 Oct 2026 07:26:37 GMT"
     },
     {
       "type": "news",
@@ -138,23 +110,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Derby azzurro all'ATP 500 di Vienna: Cobolli e Berrettini si giocano i quarti di finale - Sportmediaset",
+      "title": "Tennis: ranking ATP, Sinner numero 1 per la 95.a settimana ma Zverev pronto al sorpasso - Sportmediaset",
       "source": "Sportmediaset",
-      "published": "Wed, 28 Oct 2026 16:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "RANKING ATP. Zverev a 700 punti da Sinner: punta il sorpasso a Vienna - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Mon, 26 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Jannik Sinner al Six Kings Slam 2026: le partite nel torneo, quando gioca, programma e orario · Tennis - Olympics",
-      "source": "Olympics",
-      "published": "Wed, 28 Oct 2026 09:00:00 GMT"
+      "published": "Mon, 26 Oct 2026 09:02:00 GMT"
     },
     {
       "type": "news",
@@ -173,16 +131,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Circuito FIP: Italia ancora protagonista, Dal Pozzo entra nella volata finale - Padel Magazine",
+      "title": "Kuwait Major: Salazar e Osoro eliminati, Tapia e Coello sconfitti rapidamente, gli ultimi giocatori francesi lasciano il torneo - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "Mon, 26 Oct 2026 12:01:29 GMT"
+      "published": "Wed, 28 Oct 2026 07:23:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Kuwait Major: Salazar e Osoro eliminati, Tapia e Coello sconfitti rapidamente, gli ultimi giocatori francesi lasciano il torneo - Padel Magazine",
+      "title": "Kuwait Major: una giornata intensa degli ottavi di finale con lo scontro tra Lebrón/Augsburger e Libaak/Alfonso - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "Wed, 28 Oct 2026 07:23:00 GMT"
+      "published": "Wed, 28 Oct 2026 08:03:00 GMT"
     }
   ]
 }
