@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-10-28T01:31:13.328157+00:00",
+  "updated_at": "2026-10-28T07:20:34.483935+00:00",
   "local_date": "2026-10-28",
   "articles": [
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Milan",
-      "away": "Bologna",
-      "time": "18:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-28"
-    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -48,9 +34,9 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Monza",
-      "away": "Napoli",
-      "time": "20:45",
+      "home": "Milan",
+      "away": "Bologna",
+      "time": "18:30",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -64,6 +50,20 @@
       "competition": "Serie A",
       "home": "Genoa",
       "away": "Juventus",
+      "time": "20:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-28"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Monza",
+      "away": "Napoli",
       "time": "20:45",
       "status": "TIMED",
       "status_label": "In programma",
@@ -96,37 +96,44 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Maugeri, accordo raggiunto: messa la firma sul “ritocco” di 200 euro in busta paga. “Un importante passo in avanti” - Il Giorno",
-      "source": "Il Giorno",
-      "published": "Wed, 28 Oct 2026 01:09:15 GMT"
+      "title": "Pensioni a 64 anni, Salvini annuncia l’accordo: \"Ci sono i finanziamenti\". L’intervento anche dopo il 2027 - Ascuolaoggi",
+      "source": "Ascuolaoggi",
+      "published": "Wed, 28 Oct 2026 06:34:22 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: Napoli, Inter, Roma e Como a caccia di punti - Virgilio",
-      "source": "Virgilio",
-      "published": "Tue, 27 Oct 2026 17:00:00 GMT"
+      "title": "Le partite di oggi: in Serie A turno infrasettimanale con Milan-Bologna, Venezia-Inter e Genoa-Juventus - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Wed, 28 Oct 2026 06:33:05 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calcio, Lazio e Roma vincono negli anticipi del turno infrasettimanale di Serie A. Ok anche il Como - OA Sport",
+      "title": "Chelsea-Roma oggi, Champions League calcio femminile: orario, tv, programma, streaming - OA Sport",
       "source": "OA Sport",
-      "published": "Tue, 27 Oct 2026 23:25:23 GMT"
+      "published": "Wed, 28 Oct 2026 03:57:26 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Floriani Mussolini è il gioiello italiano della Lazio: primo goal in Serie A e l'Inter lo sta già studiando - Goal.com",
-      "source": "Goal.com",
-      "published": "Tue, 27 Oct 2026 20:35:14 GMT"
+      "title": "LIVE Chelsea-Roma, Champions League calcio femminile in DIRETTA: serve un’impresa a Londra - OA Sport",
+      "source": "OA Sport",
+      "published": "Wed, 28 Oct 2026 04:20:52 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Torino vs Como | Serie A Enilive - Lega Serie A",
-      "source": "Lega Serie A",
-      "published": "Tue, 27 Oct 2026 21:34:48 GMT"
+      "title": "Serie A, oggi Monza-Napoli: orario, probabili formazioni e dove vederla in tv - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Wed, 28 Oct 2026 06:03:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Prosegue la volata di Errani/Paolini per le WTA Finals: possibile scontro diretto decisivo in semifinale - OA Sport",
+      "source": "OA Sport",
+      "published": "Wed, 28 Oct 2026 06:55:07 GMT"
     },
     {
       "type": "news",
@@ -141,13 +148,6 @@
       "title": "Ranking ATP, Alexander Zverev vicino al sorpasso su Jannik Sinner: gli scenari a Vienna - OA Sport",
       "source": "OA Sport",
       "published": "Tue, 27 Oct 2026 20:43:33 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "ATP Vienna, Alcaraz: \"Mi sono mancate le partite, adesso mi sto divertendo. Davis? Il doppio ha un peso, penso a Sinner...\" - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Tue, 27 Oct 2026 18:28:06 GMT"
     },
     {
       "type": "news",
