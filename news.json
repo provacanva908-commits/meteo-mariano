@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T14:14:22.743532+00:00",
+  "updated_at": "2026-10-28T19:39:42.931691+00:00",
   "local_date": "2026-10-28",
   "articles": [
     {
@@ -9,10 +9,10 @@
       "home": "Parma",
       "away": "Udinese",
       "time": "18:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 0,
+      "away_score": 0,
       "is_live": false,
       "local_date": "2026-10-28"
     },
@@ -23,10 +23,10 @@
       "home": "Venezia FC",
       "away": "Inter",
       "time": "18:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 0,
+      "away_score": 2,
       "is_live": false,
       "local_date": "2026-10-28"
     },
@@ -37,6 +37,20 @@
       "home": "Milan",
       "away": "Bologna",
       "time": "18:30",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
+      "away_score": 4,
+      "is_live": false,
+      "local_date": "2026-10-28"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Monza",
+      "away": "Napoli",
+      "time": "20:45",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -59,95 +73,81 @@
       "local_date": "2026-10-28"
     },
     {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Monza",
-      "away": "Napoli",
-      "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-28"
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Milano e Roma, accordo contro le infezioni: il ruolo del genoma - The Wom Healthy",
+      "source": "The Wom Healthy",
+      "published": "Wed, 28 Oct 2026 18:10:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "HAVAS E PUMA PORTANO IL PALLONE UFFICIALE DELLA SERIE A NELLE STRADE DI MILANO E ROMA CON UNA SFIDA DI CALCIO FREESTYLE - Media Key",
-      "source": "Media Key",
-      "published": "Wed, 28 Oct 2026 09:14:57 GMT"
+      "title": "Malattie infettive: accordo quinquennale tra Spallanzani (Roma) e Asst Fatebenefratelli Sacco (Milano) - AboutPharma",
+      "source": "AboutPharma",
+      "published": "Wed, 28 Oct 2026 10:49:43 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Prevenzione, sorveglianza, diagnosi e risposta alle malattie infettive: accordo Inmi Spallanzani di Roma e Asst Fatebenefratelli Sacco di Milano - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Wed, 28 Oct 2026 10:50:00 GMT"
+      "title": "✔️[DIRETTA UFFICIALE] Venezia - Internazionale Diretta Streaming Gratis TV - Vantage Data Centers",
+      "source": "Vantage Data Centers",
+      "published": "Wed, 28 Oct 2026 17:29:25 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato, il Barcellona punta Andrea Cambiaso: possibile intreccio con la Juventus - - Web Lombardia",
-      "source": "- Web Lombardia",
-      "published": "Wed, 28 Oct 2026 07:21:40 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Firmato l’accordo per l’acquisizione del Gruppo Tarros da parte di Contship - Shipping Italy",
-      "source": "Shipping Italy",
-      "published": "Wed, 28 Oct 2026 11:32:14 GMT"
+      "title": "Internet in volo, easyJet annuncia l'accordo con Starlink (dal 2027). La replica di Ryanair: «Pecore» - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "Wed, 28 Oct 2026 14:56:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Enilive | Pack 3 partite Lazio vs Lecce, Lazio vs Atalanta e Lazio vs Roma - S.S. Lazio",
+      "title": "LA PRIMAVERA AVANZA IN COPPA ITALIA - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Wed, 28 Oct 2026 13:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Milan-Catanzaro, Coppa Italia Primavera 2026/27 - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Wed, 28 Oct 2026 14:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A Enilive | Pack 3 partite Lecce, Atalanta e Roma - S.S. Lazio",
       "source": "S.S. Lazio",
       "published": "Wed, 28 Oct 2026 13:22:13 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Le partite di oggi: in Serie A turno infrasettimanale con Milan-Bologna, Venezia-Inter e Genoa-Juventus - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Wed, 28 Oct 2026 06:33:05 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "HAVAS E PUMA PORTANO IL PALLONE UFFICIALE DELLA SERIE A NELLE STRADE DI MILANO E ROMA CON UNA SFIDA DI CALCIO FREESTYLE - Media Key",
-      "source": "Media Key",
-      "published": "Wed, 28 Oct 2026 09:14:57 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A: Roma e Como vincono in rimonta, Lazio capolista in solitaria - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
-      "published": "Wed, 28 Oct 2026 10:05:21 GMT"
+      "title": "[ＤＩＲＥＴＴＡ@TV!!] Napoli - Monza Serie A Calcio in Diretta Streaming 28 ottobre 2026 - Vantage Data Centers",
+      "source": "Vantage Data Centers",
+      "published": "Wed, 28 Oct 2026 19:13:57 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner ancora in vetta, ma ora Zverez può superarlo. Musetti non guadagna posizioni dopo la vittoria a Lione | La nuova classifica Atp - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "Mon, 26 Oct 2026 12:19:38 GMT"
+      "title": "ATP Vienna, Medvedev: \"Parliamo sempre di Sinner e Alcaraz, ma io ci provo ancora\" - Ubitennis",
+      "source": "Ubitennis",
+      "published": "Wed, 28 Oct 2026 18:35:19 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP: Zverev può superare Sinner, gli scenari. Si accende la corsa per Torino - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Mon, 26 Oct 2026 07:26:37 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Tennis: ranking ATP, Sinner numero 1 per la 95.a settimana ma Zverev pronto al sorpasso - Sportmediaset",
+      "title": "Derby azzurro all'ATP 500 di Vienna: Cobolli e Berrettini si giocano i quarti di finale - Sportmediaset",
       "source": "Sportmediaset",
-      "published": "Mon, 26 Oct 2026 09:02:00 GMT"
+      "published": "Wed, 28 Oct 2026 16:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "RANKING ATP. Zverev a 700 punti da Sinner: punta il sorpasso a Vienna - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Mon, 26 Oct 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -159,16 +159,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Milano: ancora Coello-Tapia. E Ari Sanchez fa il bis - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 18 Oct 2026 07:00:00 GMT"
+      "title": "Kuwait Major Premier Padel: Ottavi di finale - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Wed, 28 Oct 2026 08:56:55 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Kuwait Major: Salazar e Osoro eliminati, Tapia e Coello sconfitti rapidamente, gli ultimi giocatori francesi lasciano il torneo - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "Wed, 28 Oct 2026 07:23:00 GMT"
+      "title": "Premier Padel Milano: ancora Coello-Tapia. E Ari Sanchez fa il bis - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 18 Oct 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -180,9 +180,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Blupadel Tour 2026: Master Finale, i vincitori del torneo che porta il padel nei viaggi - Il Giornale del Turismo",
-      "source": "Il Giornale del Turismo",
-      "published": "Mon, 26 Oct 2026 20:35:50 GMT"
+      "title": "Kuwait Major: Salazar e Osoro eliminati, Tapia e Coello sconfitti rapidamente, gli ultimi giocatori francesi lasciano il torneo - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Wed, 28 Oct 2026 07:23:00 GMT"
     }
   ]
 }
