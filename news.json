@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T23:35:34.603768+00:00",
+  "updated_at": "2026-10-29T02:52:15.525014+00:00",
   "local_date": "2026-10-29",
   "articles": [
     {
@@ -33,23 +33,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Milan, dopo Christian Pulisic rinnova Adrien Rabiot: i dettagli dell'accordo - Calciomercato",
-      "source": "Calciomercato",
-      "published": "Wed, 28 Oct 2026 08:09:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Monza-Napoli LIVE 1-1: Varela risponde a Hojlund! - Calciomercato",
-      "source": "Calciomercato",
-      "published": "Wed, 28 Oct 2026 19:40:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Milan-Hardung, ora è giallo sull'arrivo (retroscena) - Calciomercato Jeltsch scatena un derby con Inter e Juventus - Rumor - Il Giornale d'Italia",
-      "source": "Il Giornale d'Italia",
-      "published": "Wed, 28 Oct 2026 15:36:06 GMT"
+      "title": "Milano e Roma, accordo contro le infezioni: il ruolo del genoma - The Wom Healthy",
+      "source": "The Wom Healthy",
+      "published": "Wed, 28 Oct 2026 18:12:20 GMT"
     },
     {
       "type": "news",
@@ -60,17 +46,24 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "『DIRETTA STREAMING』 Monza - Napoli Serie A Calcio partita in diretta - Vantage Data Centers",
+      "category": "CALCIOMERCATO",
+      "title": "✔️[DIRETTA UFFICIALE] Genoa - Juventus Diretta Streaming Gratis TV - Vantage Data Centers",
       "source": "Vantage Data Centers",
-      "published": "Wed, 28 Oct 2026 20:07:06 GMT"
+      "published": "Wed, 28 Oct 2026 19:43:27 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "AS Roma - sito ufficiale - AS Roma",
+      "source": "AS Roma",
+      "published": "Tue, 27 Oct 2026 00:48:03 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "【SERIE A LIVE】Napoli-Monza — Diretta, Formazioni e Risultato - Vantage Data Centers",
+      "title": "+[!STREAMING@TV] Napoli - Monza Serie A in diretta streaming dove vederla la partita in 28 ottobre 2026 - Vantage Data Centers",
       "source": "Vantage Data Centers",
-      "published": "Wed, 28 Oct 2026 20:04:34 GMT"
+      "published": "Wed, 28 Oct 2026 18:23:51 GMT"
     },
     {
       "type": "news",
@@ -82,23 +75,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Enilive | Pack 3 partite Lecce, Atalanta e Roma - S.S. Lazio",
-      "source": "S.S. Lazio",
-      "published": "Wed, 28 Oct 2026 13:22:13 GMT"
+      "title": "$@[IN DIRETTA] Napoli-Monza Calcio Serie A in tv 28 ottobre 2026 - Vantage Data Centers",
+      "source": "Vantage Data Centers",
+      "published": "Wed, 28 Oct 2026 20:32:08 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "!$+[DIRETTA] Napoli - Monza Serie A Calcio in tv 28 ottobre 2026 - Vantage Data Centers",
+      "source": "Vantage Data Centers",
+      "published": "Wed, 28 Oct 2026 18:23:46 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner ancora in vetta, ma ora Zverez può superarlo. Musetti non guadagna posizioni dopo la vittoria a Lione | La nuova classifica Atp - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "Mon, 26 Oct 2026 12:19:38 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ranking ATP: Zverev può superare Sinner, gli scenari. Si accende la corsa per Torino - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Mon, 26 Oct 2026 07:26:37 GMT"
+      "title": "Tennis, i titoli ATP e WTA per l'Italia nel 2026 in singolare e doppio: tutte le vittorie · LIVE tracker - Olympics",
+      "source": "Olympics",
+      "published": "Mon, 26 Oct 2026 07:50:00 GMT"
     },
     {
       "type": "news",
@@ -110,9 +103,30 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis: ranking ATP, Sinner numero 1 per la 95.a settimana ma Zverev pronto al sorpasso - Sportmediaset",
+      "title": "RANKING ATP. Zverev a 700 punti da Sinner: punta il sorpasso a Vienna - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Mon, 26 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Derby azzurro all'Atp 500 di Vienna: Cobolli e Berrettini si giocano i quarti di finale - Sportmediaset",
       "source": "Sportmediaset",
-      "published": "Mon, 26 Oct 2026 09:02:00 GMT"
+      "published": "Wed, 28 Oct 2026 16:06:29 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel Milano: Lebron batte Galan in rimonta e si prende la finale - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sat, 17 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Tapia e Coello hanno avuto difficoltà nella finale di Milano P1, ma conquistano il loro quarto titolo consecutivo - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Sun, 18 Oct 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -124,23 +138,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Milano: ancora Coello-Tapia. E Ari Sanchez fa il bis - La Gazzetta dello Sport",
+      "title": "Premier Padel Milano: Galan e Lebron, sarà show all’Allianz. Avanti tutti i big - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
-      "published": "Sun, 18 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Kuwait Major: Salazar e Osoro eliminati, Tapia e Coello sconfitti rapidamente, gli ultimi giocatori francesi lasciano il torneo - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Wed, 28 Oct 2026 07:23:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Kuwait Major: una giornata intensa degli ottavi di finale con lo scontro tra Lebrón/Augsburger e Libaak/Alfonso - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Wed, 28 Oct 2026 08:03:00 GMT"
+      "published": "Fri, 16 Oct 2026 07:00:00 GMT"
     }
   ]
 }
