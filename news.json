@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T02:52:15.525014+00:00",
+  "updated_at": "2026-10-29T09:20:47.010800+00:00",
   "local_date": "2026-10-29",
   "articles": [
     {
@@ -54,16 +54,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "AS Roma - sito ufficiale - AS Roma",
-      "source": "AS Roma",
-      "published": "Tue, 27 Oct 2026 00:48:03 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "+[!STREAMING@TV] Napoli - Monza Serie A in diretta streaming dove vederla la partita in 28 ottobre 2026 - Vantage Data Centers",
-      "source": "Vantage Data Centers",
-      "published": "Wed, 28 Oct 2026 18:23:51 GMT"
+      "title": "Cosmos Volley Latina, accordo con la Savino Del Bene Volley Scandicci: la prima affiliazione nel territorio pontino - FIPAV Lazio",
+      "source": "FIPAV Lazio",
+      "published": "Thu, 29 Oct 2026 08:00:27 GMT"
     },
     {
       "type": "news",
@@ -82,37 +75,44 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "!$+[DIRETTA] Napoli - Monza Serie A Calcio in tv 28 ottobre 2026 - Vantage Data Centers",
-      "source": "Vantage Data Centers",
-      "published": "Wed, 28 Oct 2026 18:23:46 GMT"
+      "title": "Roma e Inter sconfitte da Chelsea e Lione, stasera tocca alla Juventus in casa dell’Austria Vienna - FIGC",
+      "source": "FIGC",
+      "published": "Thu, 29 Oct 2026 00:38:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A Enilive | Lazio-Roma, vendita riservata agli abbonati Settore Sud e Aquilotti - S.S. Lazio",
+      "source": "S.S. Lazio",
+      "published": "Thu, 29 Oct 2026 00:52:42 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis, i titoli ATP e WTA per l'Italia nel 2026 in singolare e doppio: tutte le vittorie · LIVE tracker - Olympics",
-      "source": "Olympics",
-      "published": "Mon, 26 Oct 2026 07:50:00 GMT"
+      "title": "Tennis: ATP Basilea, ottavi di finale, N. Djokovic (SRB) - J. Struff (GER) - RSI Radiotelevisione svizzera",
+      "source": "RSI Radiotelevisione svizzera",
+      "published": "Thu, 29 Oct 2026 07:45:45 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Vienna, Medvedev: \"Parliamo sempre di Sinner e Alcaraz, ma io ci provo ancora\" - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Wed, 28 Oct 2026 18:35:19 GMT"
+      "title": "Ranking ATP, oggi il possibile sorpasso di Zverev su Sinner: perché il tedesco sarebbe davanti a pari punti - OA Sport",
+      "source": "OA Sport",
+      "published": "Thu, 29 Oct 2026 09:11:58 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "RANKING ATP. Zverev a 700 punti da Sinner: punta il sorpasso a Vienna - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Mon, 26 Oct 2026 07:00:00 GMT"
+      "title": "Sinner ancora in vetta, ma ora Zverez può superarlo. Musetti non guadagna posizioni dopo la vittoria a Lione | La nuova classifica Atp - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Mon, 26 Oct 2026 12:19:38 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Derby azzurro all'Atp 500 di Vienna: Cobolli e Berrettini si giocano i quarti di finale - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Wed, 28 Oct 2026 16:06:29 GMT"
+      "title": "Ranking ATP: Zverev può superare Sinner, gli scenari. Si accende la corsa per Torino - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Mon, 26 Oct 2026 07:26:37 GMT"
     },
     {
       "type": "news",
@@ -131,16 +131,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Kuwait Major Premier Padel: Ottavi di finale - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Wed, 28 Oct 2026 08:56:55 GMT"
+      "title": "Premier Padel Milano: Galan e Lebron, sarà show all’Allianz. Avanti tutti i big - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Fri, 16 Oct 2026 07:00:00 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Milano: Galan e Lebron, sarà show all’Allianz. Avanti tutti i big - La Gazzetta dello Sport",
+      "title": "Premier Padel Milano: ancora Coello-Tapia. E Ari Sanchez fa il bis - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
-      "published": "Fri, 16 Oct 2026 07:00:00 GMT"
+      "published": "Sun, 18 Oct 2026 07:00:00 GMT"
     }
   ]
 }
