@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-10-29T16:17:59.396580+00:00",
+  "updated_at": "2026-10-29T21:15:28.011856+00:00",
   "local_date": "2026-10-29",
   "articles": [
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Frosinone",
-      "away": "Lecce",
-      "time": "18:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-29"
-    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -23,19 +9,26 @@
       "home": "Fiorentina",
       "away": "Atalanta",
       "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 1,
+      "away_score": 1,
+      "is_live": true,
       "local_date": "2026-10-29"
     },
     {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Aree interne, Quaglieri: firmato l’accordo per Piana del Cavaliere-Alto Liri - | Regione Abruzzo",
-      "source": "| Regione Abruzzo",
-      "published": "Thu, 29 Oct 2026 13:42:15 GMT"
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Frosinone",
+      "away": "Lecce",
+      "time": "18:30",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 5,
+      "away_score": 1,
+      "is_live": false,
+      "local_date": "2026-10-29"
     },
     {
       "type": "news",
@@ -47,30 +40,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "FX International firma un accordo per un'attività di credito su pegno in Svezia - MarketScreener Italia",
-      "source": "MarketScreener Italia",
-      "published": "Thu, 29 Oct 2026 11:19:25 GMT"
+      "title": "Il nuovo stadio di Inter e Milan si chiamerà “Generali Stadium”: i dettagli dell’accordo - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Thu, 29 Oct 2026 20:37:32 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "AS Roma - sito ufficiale - AS Roma",
-      "source": "AS Roma",
-      "published": "Wed, 28 Oct 2026 13:26:44 GMT"
+      "title": "Ericsson, esuberi a Genova: trattativa senza accordo, Governo interviene al Senato - MondoMobileWeb.it",
+      "source": "MondoMobileWeb.it",
+      "published": "Thu, 29 Oct 2026 20:13:00 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "AC Milan-Inter, Serie A 1987/1988: Time Machine - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Thu, 29 Oct 2026 14:30:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "LA PRIMAVERA AVANZA IN COPPA ITALIA - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Wed, 28 Oct 2026 13:00:00 GMT"
+      "category": "CALCIOMERCATO",
+      "title": "L'accordo tra Carabinieri e Agenzia delle Entrate fa arrabbiare la Finanza. Interviene Giorgetti: rescisso in 24 ore - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Thu, 29 Oct 2026 20:50:48 GMT"
     },
     {
       "type": "news",
@@ -82,9 +68,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Monza 1-4 Napoli | Serie A Enilive - Lega Serie A",
-      "source": "Lega Serie A",
-      "published": "Thu, 29 Oct 2026 12:12:07 GMT"
+      "title": "Serie A: Milan-Inter in campo sabato alle 20.45 DIRETTA - ANSA",
+      "source": "ANSA",
+      "published": "Thu, 29 Oct 2026 15:17:46 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "LIVE Austria Vienna-Juventus 1-4, Champions League calcio femminile in DIRETTA: poker bianconero nella trasferta austriaca - OA Sport",
+      "source": "OA Sport",
+      "published": "Thu, 29 Oct 2026 19:11:58 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Juventus vs Napoli: dove vedere la partita di Serie A in TV e streaming - Tom's Hardware",
+      "source": "Tom's Hardware",
+      "published": "Thu, 29 Oct 2026 14:44:00 GMT"
     },
     {
       "type": "news",
@@ -96,44 +96,30 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "djokovic-pif-atp-live-race-to-turin-29-october-2026 | Nitto ATP Finals | Tennis - Nitto ATP Finals",
-      "source": "Nitto ATP Finals",
-      "published": "Thu, 29 Oct 2026 15:59:18 GMT"
+      "title": "Zverev, ufficiale il sorpasso su Sinner: è il nuovo numero 1 ATP. Alcaraz avanza lottando, Jodar ko e Finals a rischio - Virgilio",
+      "source": "Virgilio",
+      "published": "Thu, 29 Oct 2026 19:42:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Zverev nuovo numero 1? Oggi il possibile sorpasso su Sinner nel ranking - Adnkronos",
+      "title": "Zverev batte Griekspoor a Vienna e sorpassa Sinner, è il nuovo numero uno del ranking Atp - Adnkronos",
       "source": "Adnkronos",
-      "published": "Thu, 29 Oct 2026 12:15:00 GMT"
+      "published": "Thu, 29 Oct 2026 19:33:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Quanti punti può guadagnare Alcaraz su Sinner: il possibile distacco minimo dopo le ATP Finals - OA Sport",
-      "source": "OA Sport",
-      "published": "Thu, 29 Oct 2026 11:55:25 GMT"
+      "title": "Sinner ancora in vetta, ma ora Zverez può superarlo. Musetti non guadagna posizioni dopo la vittoria a Lione | La nuova classifica Atp - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Mon, 26 Oct 2026 12:19:38 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Milano: Lebron batte Galan in rimonta e si prende la finale - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sat, 17 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Tapia e Coello hanno avuto difficoltà nella finale di Milano P1, ma conquistano il loro quarto titolo consecutivo - Padel Magazine",
+      "title": "Kuwait Major – Fernández e Calvo travolgono Ortega/Araújo, le prime quattro teste di serie in semifinale - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "Sun, 18 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel Milano: Galan e Lebron, sarà show all’Allianz. Avanti tutti i big - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Fri, 16 Oct 2026 07:00:00 GMT"
+      "published": "Thu, 29 Oct 2026 18:30:49 GMT"
     },
     {
       "type": "news",
@@ -141,6 +127,20 @@
       "title": "Kuwait Major – Sánchez e Ustero rischiano grosso ma ce la fanno, rivincita contro Josemaría/González in semifinale - Padel Magazine",
       "source": "Padel Magazine",
       "published": "Thu, 29 Oct 2026 14:51:20 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Kuwait Major Premier Padel: Ottavi di finale - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Wed, 28 Oct 2026 08:56:55 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Kuwait Major – A 18 e 20 anni, Zamora e Sintes sconvolgono i pronostici e raggiungono i quarti di finale - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Thu, 29 Oct 2026 08:23:05 GMT"
     }
   ]
 }
