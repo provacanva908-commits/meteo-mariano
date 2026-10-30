@@ -1,34 +1,41 @@
 {
-  "updated_at": "2026-10-29T21:15:28.011856+00:00",
-  "local_date": "2026-10-29",
+  "updated_at": "2026-10-30T01:09:22.659909+00:00",
+  "local_date": "2026-10-30",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Fiorentina",
-      "away": "Atalanta",
-      "time": "20:45",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 1,
-      "away_score": 1,
-      "is_live": true,
-      "local_date": "2026-10-29"
+      "competition": "Ligue 1",
+      "home": "Le Havre",
+      "away": "PSG",
+      "time": "19:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-10-30"
     },
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Frosinone",
-      "away": "Lecce",
-      "time": "18:30",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 5,
-      "away_score": 1,
+      "competition": "Primeira Liga",
+      "home": "Casa Pia",
+      "away": "Sporting CP",
+      "time": "21:15",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-10-29"
+      "local_date": "2026-10-30"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Il nuovo San Siro si chiamerà Generali Stadium, accordo di 20 anni da 600 milioni con Inter e Milan - Milano Finanza",
+      "source": "Milano Finanza",
+      "published": "Thu, 29 Oct 2026 18:11:00 GMT"
     },
     {
       "type": "news",
@@ -40,9 +47,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Il nuovo stadio di Inter e Milan si chiamerà “Generali Stadium”: i dettagli dell’accordo - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "Thu, 29 Oct 2026 20:37:32 GMT"
+      "title": "Il nuovo San Siro si chiamerà Generali Stadium: accordo di naming rights con Milan e Inter da 650 milioni - Brand News",
+      "source": "Brand News",
+      "published": "Thu, 29 Oct 2026 22:46:47 GMT"
     },
     {
       "type": "news",
@@ -53,38 +60,31 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "L'accordo tra Carabinieri e Agenzia delle Entrate fa arrabbiare la Finanza. Interviene Giorgetti: rescisso in 24 ore - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "Thu, 29 Oct 2026 20:50:48 GMT"
+      "category": "CALCIO",
+      "title": "LA PRIMAVERA AVANZA IN COPPA ITALIA - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Wed, 28 Oct 2026 13:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A: l'Inter passa a Venezia, crollano Milan e Juventus - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
-      "published": "Thu, 29 Oct 2026 12:26:05 GMT"
+      "title": "Terza giornata di Women's Champions League: poker della Juventus, vittoria per il Barça, pari tra PSG e City - UEFA.com",
+      "source": "UEFA.com",
+      "published": "Thu, 29 Oct 2026 22:39:28 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
       "title": "Serie A: Milan-Inter in campo sabato alle 20.45 DIRETTA - ANSA",
       "source": "ANSA",
-      "published": "Thu, 29 Oct 2026 15:17:46 GMT"
+      "published": "Thu, 29 Oct 2026 18:08:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "LIVE Austria Vienna-Juventus 1-4, Champions League calcio femminile in DIRETTA: poker bianconero nella trasferta austriaca - OA Sport",
-      "source": "OA Sport",
-      "published": "Thu, 29 Oct 2026 19:11:58 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Juventus vs Napoli: dove vedere la partita di Serie A in TV e streaming - Tom's Hardware",
-      "source": "Tom's Hardware",
-      "published": "Thu, 29 Oct 2026 14:44:00 GMT"
+      "title": "UEFA CHAMPIONS LEAGUE | Como - Como 1907",
+      "source": "Como 1907",
+      "published": "Thu, 29 Oct 2026 18:19:57 GMT"
     },
     {
       "type": "news",
@@ -110,9 +110,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner ancora in vetta, ma ora Zverez può superarlo. Musetti non guadagna posizioni dopo la vittoria a Lione | La nuova classifica Atp - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "Mon, 26 Oct 2026 12:19:38 GMT"
+      "title": "Sinner, Zverev diventa numero uno del mondo: quarti a Vienna e sorpasso su Jannik, il nuovo ranking Atp - Il Messaggero",
+      "source": "Il Messaggero",
+      "published": "Thu, 29 Oct 2026 20:17:04 GMT"
     },
     {
       "type": "news",
