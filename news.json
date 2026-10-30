@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T01:09:22.659909+00:00",
+  "updated_at": "2026-10-30T07:09:35.216980+00:00",
   "local_date": "2026-10-30",
   "articles": [
     {
@@ -33,37 +33,30 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Il nuovo San Siro si chiamerà Generali Stadium, accordo di 20 anni da 600 milioni con Inter e Milan - Milano Finanza",
-      "source": "Milano Finanza",
-      "published": "Thu, 29 Oct 2026 18:11:00 GMT"
+      "title": "Milan, dopo Christian Pulisic rinnova Adrien Rabiot: i dettagli dell'accordo - Calciomercato",
+      "source": "Calciomercato",
+      "published": "Wed, 28 Oct 2026 08:09:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Milan, ufficiale il rinnovo di Pulisic fino al 2031 - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Thu, 29 Oct 2026 15:27:46 GMT"
+      "title": "Milan, tramonta la pista Tim Hardung come nuovo direttore sportivo. L'Eintracht Francoforte lo blinda con una nota ufficiale, cosa cambia sul fronte Krosche - Calciomercato",
+      "source": "Calciomercato",
+      "published": "Thu, 29 Oct 2026 15:43:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Il nuovo San Siro si chiamerà Generali Stadium: accordo di naming rights con Milan e Inter da 650 milioni - Brand News",
-      "source": "Brand News",
-      "published": "Thu, 29 Oct 2026 22:46:47 GMT"
+      "title": "Milan e Inter annunciano il nuovo stadio: si chiamerà Generali Stadium, sarà pronto nel 2031/32 - Calciomercato",
+      "source": "Calciomercato",
+      "published": "Thu, 29 Oct 2026 20:31:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ericsson, esuberi a Genova: trattativa senza accordo, Governo interviene al Senato - MondoMobileWeb.it",
-      "source": "MondoMobileWeb.it",
-      "published": "Thu, 29 Oct 2026 20:13:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "LA PRIMAVERA AVANZA IN COPPA ITALIA - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Wed, 28 Oct 2026 13:00:00 GMT"
+      "title": "Milan, quando il rinnovo di Pulisic: le tempistiche, il nuovo ingaggio e tutti i dettagli - Calciomercato",
+      "source": "Calciomercato",
+      "published": "Thu, 29 Oct 2026 13:56:00 GMT"
     },
     {
       "type": "news",
@@ -75,6 +68,13 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Giacomo Fornari nuovo direttore del Politecnico delle Arti: \"Livello da Champions League\" - BergamoNews",
+      "source": "BergamoNews",
+      "published": "Fri, 30 Oct 2026 05:02:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "Serie A: Milan-Inter in campo sabato alle 20.45 DIRETTA - ANSA",
       "source": "ANSA",
       "published": "Thu, 29 Oct 2026 18:08:00 GMT"
@@ -82,9 +82,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "UEFA CHAMPIONS LEAGUE | Como - Como 1907",
-      "source": "Como 1907",
-      "published": "Thu, 29 Oct 2026 18:19:57 GMT"
+      "title": "Bucciantini: “Ecco chi è oggi il miglior giocatore della Serie A”. Non è né dell’Inter né della Roma - SOS Fanta",
+      "source": "SOS Fanta",
+      "published": "Fri, 30 Oct 2026 07:00:41 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Classifica Ranking Atp live, Sinner non è più il numero uno: c'è il sorpasso di Zverev in testa - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Fri, 30 Oct 2026 05:10:31 GMT"
     },
     {
       "type": "news",
@@ -103,16 +110,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Zverev batte Griekspoor a Vienna e sorpassa Sinner, è il nuovo numero uno del ranking Atp - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Thu, 29 Oct 2026 19:33:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sinner, Zverev diventa numero uno del mondo: quarti a Vienna e sorpasso su Jannik, il nuovo ranking Atp - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "Thu, 29 Oct 2026 20:17:04 GMT"
+      "title": "LIVE Berrettini-De Minaur, ATP Vienna 2026 in DIRETTA: azzurro a caccia della semifinale! - OA Sport",
+      "source": "OA Sport",
+      "published": "Fri, 30 Oct 2026 04:45:19 GMT"
     },
     {
       "type": "news",
