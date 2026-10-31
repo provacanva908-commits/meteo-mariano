@@ -1,31 +1,17 @@
 {
-  "updated_at": "2026-10-31T18:55:47.729868+00:00",
+  "updated_at": "2026-10-31T22:24:14.947990+00:00",
   "local_date": "2026-10-31",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Udinese",
-      "away": "Roma",
-      "time": "18:00",
+      "competition": "Primeira Liga",
+      "home": "Porto",
+      "away": "Estoril Praia",
+      "time": "21:30",
       "status": "IN_PLAY",
       "status_label": "LIVE",
-      "home_score": 2,
-      "away_score": 5,
-      "is_live": true,
-      "local_date": "2026-10-31"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "PSV",
-      "away": "Willem II",
-      "time": "18:45",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 2,
+      "home_score": 4,
       "away_score": 0,
       "is_live": true,
       "local_date": "2026-10-31"
@@ -33,14 +19,14 @@
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Bologna",
-      "away": "Monza",
-      "time": "15:00",
+      "competition": "Premier League",
+      "home": "Chelsea",
+      "away": "Man United",
+      "time": "13:30",
       "status": "FINISHED",
       "status_label": "Finale",
       "home_score": 2,
-      "away_score": 1,
+      "away_score": 0,
       "is_live": false,
       "local_date": "2026-10-31"
     },
@@ -62,23 +48,51 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "Premier League",
-      "home": "Chelsea",
-      "away": "Man United",
-      "time": "13:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "home": "Tottenham",
+      "away": "Crystal Palace",
+      "time": "18:30",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
+      "away_score": 0,
       "is_live": false,
       "local_date": "2026-10-31"
     },
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Premier League",
-      "home": "Tottenham",
-      "away": "Crystal Palace",
-      "time": "18:30",
+      "competition": "Eredivisie",
+      "home": "PSV",
+      "away": "Willem II",
+      "time": "18:45",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 7,
+      "away_score": 0,
+      "is_live": false,
+      "local_date": "2026-10-31"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Eredivisie",
+      "home": "Ajax",
+      "away": "AZ",
+      "time": "21:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 0,
+      "is_live": false,
+      "local_date": "2026-10-31"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Bologna",
+      "away": "Monza",
+      "time": "15:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -90,23 +104,9 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Milan",
-      "away": "Inter",
-      "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-31"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "Ajax",
-      "away": "AZ",
-      "time": "21:00",
+      "home": "Udinese",
+      "away": "Roma",
+      "time": "18:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -117,9 +117,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "UFFICIALE – Juventus-Napoli, i convocati di Allegri: aggregati anche 6 calciatori della Primavera! - Napolicalcionews.it",
-      "source": "Napolicalcionews.it",
-      "published": "Sat, 31 Oct 2026 16:10:58 GMT"
+      "title": "UFFICIALE – Juventus-Napoli, i convocati di Allegri: aggregati anche 6 calciatori della Primavera! - NapoliCalcioNews.it",
+      "source": "NapoliCalcioNews.it",
+      "published": "Sat, 31 Oct 2026 21:53:46 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Milan, accordo con Krösche: chi è e quale ruolo avrà - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sat, 31 Oct 2026 20:16:52 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Christian Pulisic prolunga il suo contratto: il comunicato ufficiale - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Fri, 30 Oct 2026 14:30:00 GMT"
     },
     {
       "type": "news",
@@ -130,24 +144,24 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "UDINESE-ROMA Formazione ufficiale. Giallorossi dal 1′ Ghilardi e Mora. 5000 tifosi al seguito (TABELLINO) - TuttoASRoma.it",
-      "source": "TuttoASRoma.it",
-      "published": "Sat, 31 Oct 2026 15:30:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "L'accordo tra Carabinieri e Agenzia delle Entrate fa arrabbiare la Finanza. Interviene Giorgetti: rescisso in 24 ore - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "Thu, 29 Oct 2026 20:50:48 GMT"
+      "category": "CALCIO",
+      "title": "AC Milan-Inter 3-1, Serie A Enilive 2026/2027: match report - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Sat, 31 Oct 2026 20:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "AC Milan-Inter, Serie A Enilive 2026/2027: statistiche, classifica, arbitro e squalificati - AC Milan | Sito Ufficiale",
+      "title": "Serie A, Bologna-Monza 2-1, Udinese-Roma 2-5, Milan-Inter - Radio RTL 102.5",
+      "source": "Radio RTL 102.5",
+      "published": "Sat, 31 Oct 2026 22:08:53 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "AC Milan-Inter, Serie A Enilive 2026/2027: le formazioni ufficiali - AC Milan | Sito Ufficiale",
       "source": "AC Milan | Sito Ufficiale",
-      "published": "Sat, 31 Oct 2026 10:00:00 GMT"
+      "published": "Sat, 31 Oct 2026 19:00:00 GMT"
     },
     {
       "type": "news",
@@ -158,45 +172,38 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, Bologna-Monza 2-1. Alle 18 Udinese-Roma, stasera Milan-Inter - Sky TG24",
-      "source": "Sky TG24",
-      "published": "Sat, 31 Oct 2026 16:08:38 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "AC Milan-Inter, Serie A Enilive 2026/2027: le formazioni ufficiali - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Sat, 31 Oct 2026 18:39:36 GMT"
+      "category": "TENNIS",
+      "title": "Atp Vienna 2026: Alcaraz in finale con De Minaur, fuori Zverev - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sat, 31 Oct 2026 13:31:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Atp Vienna, oggi semifinale Alcaraz-Medvedev – Diretta - OglioPoNews",
-      "source": "OglioPoNews",
-      "published": "Sat, 31 Oct 2026 15:07:03 GMT"
+      "title": "Zverev, figuraccia “da numero 1” e niente finale con Alcaraz: Sascha litiga con l’arbitro, impietoso il confronto con Sinner - Virgilio",
+      "source": "Virgilio",
+      "published": "Sat, 31 Oct 2026 19:31:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Atp Vienna, oggi semifinale Alcaraz-Medvedev – Diretta - www.egnews.it",
-      "source": "www.egnews.it",
-      "published": "Sat, 31 Oct 2026 13:17:41 GMT"
+      "title": "Atp Vienna 2026, Zverev eliminato da De Minaur: niente finale contro Alcaraz - LaPresse",
+      "source": "LaPresse",
+      "published": "Sat, 31 Oct 2026 18:59:16 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis, Atp Vienna: Alcaraz batte Medeved e va in finale - ANSA",
-      "source": "ANSA",
-      "published": "Sat, 31 Oct 2026 16:17:00 GMT"
+      "title": "Super colpo di De Minaur! Batte Zverev, vola in finale a Vienna con Alcaraz e sarebbe a oggi qualificato alle ATP Finals - Eurosport.it",
+      "source": "Eurosport.it",
+      "published": "Sat, 31 Oct 2026 19:29:01 GMT"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "ATP Vienna, Alcaraz piega Medvedev ed è in finale - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Sat, 31 Oct 2026 14:56:42 GMT"
+      "category": "PADEL",
+      "title": "Premier Padel Milano: Lebron batte Galan in rimonta e si prende la finale - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sat, 17 Oct 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -208,23 +215,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Coello e Tapia annientano Libaak e Alfonso: 57 minuti di dimostrazione di forza per raggiungere la finale in Kuwait - Padel Magazine",
+      "title": "Coello e Tapia annientano Libaak e Alfonso: 57 minuti di dimostrazione per raggiungere la finale in Kuwait. - Padel Magazine",
       "source": "Padel Magazine",
       "published": "Fri, 30 Oct 2026 21:42:01 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Tour – Fine del percorso per i francesi a Torino, Sireix e Buteau ai quarti di finale a Cipro - Padel Magazine",
+      "title": "Tapia e Coello hanno avuto difficoltà nella finale di Milano P1, ma conquistano il loro quarto titolo consecutivo - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "Sat, 31 Oct 2026 08:24:28 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Kuwait Major Premier Padel: Quarti di finale con la Dal Pozzo - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Fri, 30 Oct 2026 18:22:43 GMT"
+      "published": "Sun, 18 Oct 2026 07:00:00 GMT"
     }
   ]
 }
