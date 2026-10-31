@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-10-31T14:49:28.087759+00:00",
+  "updated_at": "2026-10-31T18:55:47.729868+00:00",
   "local_date": "2026-10-31",
   "articles": [
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Udinese",
+      "away": "Roma",
+      "time": "18:00",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 2,
+      "away_score": 5,
+      "is_live": true,
+      "local_date": "2026-10-31"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Eredivisie",
+      "home": "PSV",
+      "away": "Willem II",
+      "time": "18:45",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 2,
+      "away_score": 0,
+      "is_live": true,
+      "local_date": "2026-10-31"
+    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -9,24 +37,10 @@
       "home": "Bologna",
       "away": "Monza",
       "time": "15:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 1,
-      "away_score": 1,
-      "is_live": true,
-      "local_date": "2026-10-31"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Premier League",
-      "home": "Chelsea",
-      "away": "Man United",
-      "time": "13:30",
       "status": "FINISHED",
       "status_label": "Finale",
       "home_score": 2,
-      "away_score": 0,
+      "away_score": 1,
       "is_live": false,
       "local_date": "2026-10-31"
     },
@@ -37,20 +51,20 @@
       "home": "Feyenoord",
       "away": "Sittard",
       "time": "16:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 1,
       "is_live": false,
       "local_date": "2026-10-31"
     },
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Udinese",
-      "away": "Roma",
-      "time": "18:00",
+      "competition": "Premier League",
+      "home": "Chelsea",
+      "away": "Man United",
+      "time": "13:30",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -65,20 +79,6 @@
       "home": "Tottenham",
       "away": "Crystal Palace",
       "time": "18:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-31"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "PSV",
-      "away": "Willem II",
-      "time": "18:45",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -117,9 +117,23 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Il nuovo stadio di Inter e Milan si chiamerà 'Generali Stadium'. Accordo da 650 milioni di euro per i naming rights - Fortune Italia",
-      "source": "Fortune Italia",
-      "published": "Fri, 30 Oct 2026 16:33:54 GMT"
+      "title": "UFFICIALE – Juventus-Napoli, i convocati di Allegri: aggregati anche 6 calciatori della Primavera! - Napolicalcionews.it",
+      "source": "Napolicalcionews.it",
+      "published": "Sat, 31 Oct 2026 16:10:58 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Diplomazia pontificia, l’accordo con la Cina, la situazione internazionale - ACI Stampa",
+      "source": "ACI Stampa",
+      "published": "Sat, 31 Oct 2026 15:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "UDINESE-ROMA Formazione ufficiale. Giallorossi dal 1′ Ghilardi e Mora. 5000 tifosi al seguito (TABELLINO) - TuttoASRoma.it",
+      "source": "TuttoASRoma.it",
+      "published": "Sat, 31 Oct 2026 15:30:00 GMT"
     },
     {
       "type": "news",
@@ -127,27 +141,6 @@
       "title": "L'accordo tra Carabinieri e Agenzia delle Entrate fa arrabbiare la Finanza. Interviene Giorgetti: rescisso in 24 ore - Il Fatto Quotidiano",
       "source": "Il Fatto Quotidiano",
       "published": "Thu, 29 Oct 2026 20:50:48 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Christian Pulisic prolunga il suo contratto: il comunicato ufficiale - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Fri, 30 Oct 2026 14:30:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "\"Meglio un accordo imperfetto che niente\". Il Vaticano e la complicata relazione con la Cina - Il Foglio",
-      "source": "Il Foglio",
-      "published": "Sat, 31 Oct 2026 05:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Le partite di oggi: occhi su Milan-Inter e Udinese-Roma. Poi Bayern-Dortmund e Chelsea-United - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sat, 31 Oct 2026 06:50:57 GMT"
     },
     {
       "type": "news",
@@ -166,9 +159,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, 10ª giornata in TV e streaming: da Milan-Inter a Juventus-Napoli, dove vederla - Movieplayer",
-      "source": "Movieplayer",
-      "published": "Sat, 31 Oct 2026 08:36:01 GMT"
+      "title": "Serie A, Bologna-Monza 2-1. Alle 18 Udinese-Roma, stasera Milan-Inter - Sky TG24",
+      "source": "Sky TG24",
+      "published": "Sat, 31 Oct 2026 16:08:38 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "AC Milan-Inter, Serie A Enilive 2026/2027: le formazioni ufficiali - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Sat, 31 Oct 2026 18:39:36 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Atp Vienna, oggi semifinale Alcaraz-Medvedev – Diretta - OglioPoNews",
+      "source": "OglioPoNews",
+      "published": "Sat, 31 Oct 2026 15:07:03 GMT"
     },
     {
       "type": "news",
@@ -180,29 +187,22 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Errani/Paolini-Mihalikova/Nicholls oggi in tv, WTA Tokyo 2026: orario semifinale e streaming - OA Sport",
-      "source": "OA Sport",
-      "published": "Sat, 31 Oct 2026 04:07:36 GMT"
+      "title": "Tennis, Atp Vienna: Alcaraz batte Medeved e va in finale - ANSA",
+      "source": "ANSA",
+      "published": "Sat, 31 Oct 2026 16:17:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis Atp Vienna 2026, i risultati di oggi: Zverev e Medvedev in semifinale - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 30 Oct 2026 15:09:49 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Alcaraz in semifinale contro Medvedev: Paul ko - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 30 Oct 2026 14:19:14 GMT"
+      "title": "ATP Vienna, Alcaraz piega Medvedev ed è in finale - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Sat, 31 Oct 2026 14:56:42 GMT"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Coello/Tapia prima della finale del Kuwait Major contro Tello/Arce: \"Sono due giocatori che ci creano molti problemi\" - padel-magazine.it",
-      "source": "padel-magazine.it",
+      "title": "Coello/Tapia prima della finale del Kuwait Major contro Tello/Arce: \"Sono due giocatori che ci creano molti problemi\" - Padel Magazine",
+      "source": "Padel Magazine",
       "published": "Sat, 31 Oct 2026 08:37:59 GMT"
     },
     {
