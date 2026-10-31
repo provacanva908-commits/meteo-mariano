@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T23:08:43.051785+00:00",
+  "updated_at": "2026-10-31T02:23:36.121856+00:00",
   "local_date": "2026-10-31",
   "articles": [
     {
@@ -131,16 +131,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Nuovo stadio Milan e Inter, quanto vale l'accordo con Generali? Tutte le cifre - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Fri, 30 Oct 2026 12:39:00 GMT"
+      "title": "Il Milan blinda Pulisic: ufficiale il rinnovo fino al 2031 - Eurosport.it",
+      "source": "Eurosport.it",
+      "published": "Fri, 30 Oct 2026 14:15:54 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Il Milan blinda Pulisic: ufficiale il rinnovo fino al 2031 - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "Fri, 30 Oct 2026 14:15:54 GMT"
+      "title": "Nuovo stadio Milan e Inter, quanto vale l'accordo con Generali? Tutte le cifre - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Fri, 30 Oct 2026 12:39:00 GMT"
     },
     {
       "type": "news",
@@ -159,9 +159,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, Milan-Inter e Juventus-Napoli: big match tra primato e riscatto - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Fri, 30 Oct 2026 15:38:00 GMT"
+      "title": "LA PRIMAVERA AVANZA IN COPPA ITALIA - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Wed, 28 Oct 2026 13:00:00 GMT"
     },
     {
       "type": "news",
@@ -201,30 +201,30 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "Premier Padel Milano: Lebron batte Galan in rimonta e si prende la finale - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sat, 17 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Coello e Tapia annientano Libaak e Alfonso: 57 minuti di dimostrazione di forza per raggiungere la finale in Kuwait - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Fri, 30 Oct 2026 21:42:01 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Tapia e Coello hanno avuto difficoltà nella finale di Milano P1, ma conquistano il loro quarto titolo consecutivo - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Sun, 18 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "Kuwait Major Premier Padel: Quarti di finale con la Dal Pozzo - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Fri, 30 Oct 2026 18:22:43 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Kuwait Major Premier Padel: Ottavi di finale - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Wed, 28 Oct 2026 08:56:55 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Kuwait Major – Fernández e Calvo travolgono Ortega/Araújo, le prime quattro teste di serie in semifinale - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Thu, 29 Oct 2026 18:30:49 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Kuwait Major – Sánchez e Ustero superano l'impossibile e conquistano la terza finale di un Major dopo 3 ore e 43 minuti di battaglia - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Fri, 30 Oct 2026 15:10:17 GMT"
     }
   ]
 }
