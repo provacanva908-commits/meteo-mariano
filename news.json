@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T02:23:36.121856+00:00",
+  "updated_at": "2026-10-31T08:42:30.329866+00:00",
   "local_date": "2026-10-31",
   "articles": [
     {
@@ -117,13 +117,6 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, Ghilardi al top: Milan e Juventus interessate - Retesport",
-      "source": "Retesport",
-      "published": "Fri, 30 Oct 2026 15:59:50 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "Il nuovo stadio di Inter e Milan si chiamerà 'Generali Stadium'. Accordo da 650 milioni di euro per i naming rights - Fortune Italia",
       "source": "Fortune Italia",
       "published": "Fri, 30 Oct 2026 16:33:54 GMT"
@@ -138,44 +131,44 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Nuovo stadio Milan e Inter, quanto vale l'accordo con Generali? Tutte le cifre - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Fri, 30 Oct 2026 12:39:00 GMT"
+      "title": "UFFICIALE – Allegri in conferenza domani alle 12.30 alla vigilia di Juventus-Napoli - Radio Marte",
+      "source": "Radio Marte",
+      "published": "Fri, 30 Oct 2026 15:04:49 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "AC Milan-Inter, Serie A Enilive 2026/2027: la conferenza stampa della vigilia di Rúben Amorim - AC Milan | Sito Ufficiale",
+      "category": "CALCIOMERCATO",
+      "title": "Christian Pulisic prolunga il suo contratto: il comunicato ufficiale - AC Milan | Sito Ufficiale",
       "source": "AC Milan | Sito Ufficiale",
-      "published": "Fri, 30 Oct 2026 13:00:00 GMT"
+      "published": "Fri, 30 Oct 2026 14:30:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "AC Milan-Inter, Serie A Enilive 2026/2027: Opponent Review - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Fri, 30 Oct 2026 19:00:00 GMT"
+      "title": "Le partite di oggi: occhi su Milan-Inter e Udinese-Roma. Poi Bayern-Dortmund e Chelsea-United - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sat, 31 Oct 2026 06:50:57 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "LA PRIMAVERA AVANZA IN COPPA ITALIA - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Wed, 28 Oct 2026 13:00:00 GMT"
+      "title": "Serie A, le probabili formazioni di Bologna-Monza, Udinese-Roma e Milan-Inter - Diretta",
+      "source": "Diretta",
+      "published": "Sat, 31 Oct 2026 06:40:08 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Juventus-Napoli, le probabili formazioni della partita di Serie A - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 30 Oct 2026 18:54:00 GMT"
+      "title": "Serie A, le partite di oggi: il derby Milan-Inter accende il sabato, la Roma sfida l’Udinese - Virgilio",
+      "source": "Virgilio",
+      "published": "Sat, 31 Oct 2026 06:45:00 GMT"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "LIVE Errani/Paolini-Muhammad/Zhang 6-3 6-4, WTA Tokyo 2026 in DIRETTA: le azzurre volano in semifinale nel torneo giapponese! - OA Sport",
-      "source": "OA Sport",
-      "published": "Fri, 30 Oct 2026 08:06:15 GMT"
+      "category": "CALCIO",
+      "title": "Today's matches: eyes on Milan v Inter and Udinese v Roma, followed by Bayern v Dortmund and Chelsea v United - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sat, 31 Oct 2026 06:50:50 GMT"
     },
     {
       "type": "news",
@@ -187,9 +180,16 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Atp Vienna, i risultati di oggi: Zverev e Medvedev in semifinale - Sky Sport",
+      "title": "Tennis Atp Vienna 2026, i risultati di oggi: Zverev e Medvedev in semifinale - Sky Sport",
       "source": "Sky Sport",
       "published": "Fri, 30 Oct 2026 15:09:49 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Errani/Paolini-Mihalikova/Nicholls oggi in tv, WTA Tokyo 2026: orario semifinale e streaming - OA Sport",
+      "source": "OA Sport",
+      "published": "Sat, 31 Oct 2026 04:07:36 GMT"
     },
     {
       "type": "news",
@@ -201,13 +201,6 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel Milano: Lebron batte Galan in rimonta e si prende la finale - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sat, 17 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
       "title": "Coello e Tapia annientano Libaak e Alfonso: 57 minuti di dimostrazione di forza per raggiungere la finale in Kuwait - Padel Magazine",
       "source": "Padel Magazine",
       "published": "Fri, 30 Oct 2026 21:42:01 GMT"
@@ -215,9 +208,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Tapia e Coello hanno avuto difficoltà nella finale di Milano P1, ma conquistano il loro quarto titolo consecutivo - Padel Magazine",
+      "title": "FIP Tour – Fine del percorso per i francesi a Torino, Sireix e Buteau ai quarti di finale a Cipro - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "Sun, 18 Oct 2026 07:00:00 GMT"
+      "published": "Sat, 31 Oct 2026 08:24:28 GMT"
     },
     {
       "type": "news",
@@ -225,6 +218,13 @@
       "title": "Kuwait Major Premier Padel: Quarti di finale con la Dal Pozzo - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Fri, 30 Oct 2026 18:22:43 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Kuwait Major Premier Padel: Ottavi di finale - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Wed, 28 Oct 2026 08:56:55 GMT"
     }
   ]
 }
