@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-10-31T08:42:30.329866+00:00",
+  "updated_at": "2026-10-31T14:49:28.087759+00:00",
   "local_date": "2026-10-31",
   "articles": [
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Premier League",
-      "home": "Chelsea",
-      "away": "Man United",
-      "time": "13:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-10-31"
-    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -23,10 +9,24 @@
       "home": "Bologna",
       "away": "Monza",
       "time": "15:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 1,
+      "away_score": 1,
+      "is_live": true,
+      "local_date": "2026-10-31"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Premier League",
+      "home": "Chelsea",
+      "away": "Man United",
+      "time": "13:30",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
+      "away_score": 0,
       "is_live": false,
       "local_date": "2026-10-31"
     },
@@ -124,16 +124,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Il Milan blinda Pulisic: ufficiale il rinnovo fino al 2031 - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "Fri, 30 Oct 2026 14:15:54 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "UFFICIALE – Allegri in conferenza domani alle 12.30 alla vigilia di Juventus-Napoli - Radio Marte",
-      "source": "Radio Marte",
-      "published": "Fri, 30 Oct 2026 15:04:49 GMT"
+      "title": "L'accordo tra Carabinieri e Agenzia delle Entrate fa arrabbiare la Finanza. Interviene Giorgetti: rescisso in 24 ore - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Thu, 29 Oct 2026 20:50:48 GMT"
     },
     {
       "type": "news",
@@ -141,6 +134,13 @@
       "title": "Christian Pulisic prolunga il suo contratto: il comunicato ufficiale - AC Milan | Sito Ufficiale",
       "source": "AC Milan | Sito Ufficiale",
       "published": "Fri, 30 Oct 2026 14:30:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "\"Meglio un accordo imperfetto che niente\". Il Vaticano e la complicata relazione con la Cina - Il Foglio",
+      "source": "Il Foglio",
+      "published": "Sat, 31 Oct 2026 05:00:00 GMT"
     },
     {
       "type": "news",
@@ -152,37 +152,30 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, le probabili formazioni di Bologna-Monza, Udinese-Roma e Milan-Inter - Diretta",
-      "source": "Diretta",
-      "published": "Sat, 31 Oct 2026 06:40:08 GMT"
+      "title": "AC Milan-Inter, Serie A Enilive 2026/2027: statistiche, classifica, arbitro e squalificati - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Sat, 31 Oct 2026 10:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, le partite di oggi: il derby Milan-Inter accende il sabato, la Roma sfida l’Udinese - Virgilio",
-      "source": "Virgilio",
-      "published": "Sat, 31 Oct 2026 06:45:00 GMT"
+      "title": "Como Women-AC Milan, Serie A Women 2026/2027: Match Preview - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Sat, 31 Oct 2026 13:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Today's matches: eyes on Milan v Inter and Udinese v Roma, followed by Bayern v Dortmund and Chelsea v United - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sat, 31 Oct 2026 06:50:50 GMT"
+      "title": "Serie A, 10ª giornata in TV e streaming: da Milan-Inter a Juventus-Napoli, dove vederla - Movieplayer",
+      "source": "Movieplayer",
+      "published": "Sat, 31 Oct 2026 08:36:01 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Vienna, Medvedev vola a Torino e in semifinale sfiderà Alcaraz - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Fri, 30 Oct 2026 16:52:18 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Tennis Atp Vienna 2026, i risultati di oggi: Zverev e Medvedev in semifinale - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 30 Oct 2026 15:09:49 GMT"
+      "title": "Atp Vienna, oggi semifinale Alcaraz-Medvedev – Diretta - www.egnews.it",
+      "source": "www.egnews.it",
+      "published": "Sat, 31 Oct 2026 13:17:41 GMT"
     },
     {
       "type": "news",
@@ -194,9 +187,23 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Tennis Atp Vienna 2026, i risultati di oggi: Zverev e Medvedev in semifinale - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Fri, 30 Oct 2026 15:09:49 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Alcaraz in semifinale contro Medvedev: Paul ko - Sky Sport",
       "source": "Sky Sport",
       "published": "Fri, 30 Oct 2026 14:19:14 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Coello/Tapia prima della finale del Kuwait Major contro Tello/Arce: \"Sono due giocatori che ci creano molti problemi\" - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "Sat, 31 Oct 2026 08:37:59 GMT"
     },
     {
       "type": "news",
@@ -218,13 +225,6 @@
       "title": "Kuwait Major Premier Padel: Quarti di finale con la Dal Pozzo - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "Fri, 30 Oct 2026 18:22:43 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Kuwait Major Premier Padel: Ottavi di finale - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Wed, 28 Oct 2026 08:56:55 GMT"
     }
   ]
 }
