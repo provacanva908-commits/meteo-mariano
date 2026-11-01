@@ -1,118 +1,118 @@
 {
-  "updated_at": "2026-10-31T22:24:14.947990+00:00",
-  "local_date": "2026-10-31",
+  "updated_at": "2026-11-01T01:22:48.087638+00:00",
+  "local_date": "2026-11-01",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Primeira Liga",
-      "home": "Porto",
-      "away": "Estoril Praia",
-      "time": "21:30",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 4,
-      "away_score": 0,
-      "is_live": true,
-      "local_date": "2026-10-31"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Premier League",
-      "home": "Chelsea",
-      "away": "Man United",
-      "time": "13:30",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 2,
-      "away_score": 0,
+      "competition": "Serie A",
+      "home": "Como 1907",
+      "away": "Venezia FC",
+      "time": "12:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-10-31"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "Feyenoord",
-      "away": "Sittard",
-      "time": "16:30",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 1,
-      "away_score": 1,
-      "is_live": false,
-      "local_date": "2026-10-31"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Premier League",
-      "home": "Tottenham",
-      "away": "Crystal Palace",
-      "time": "18:30",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 2,
-      "away_score": 0,
-      "is_live": false,
-      "local_date": "2026-10-31"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "PSV",
-      "away": "Willem II",
-      "time": "18:45",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 7,
-      "away_score": 0,
-      "is_live": false,
-      "local_date": "2026-10-31"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "Ajax",
-      "away": "AZ",
-      "time": "21:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 1,
-      "away_score": 0,
-      "is_live": false,
-      "local_date": "2026-10-31"
+      "local_date": "2026-11-01"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Bologna",
-      "away": "Monza",
+      "home": "Frosinone",
+      "away": "Torino",
       "time": "15:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
       "away_score": null,
       "is_live": false,
-      "local_date": "2026-10-31"
+      "local_date": "2026-11-01"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Udinese",
-      "away": "Roma",
+      "home": "Lazio",
+      "away": "Cagliari",
+      "time": "15:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-01"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Primera Division",
+      "home": "Santander",
+      "away": "Real Madrid",
+      "time": "16:15",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-01"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Ligue 1",
+      "home": "Olympique Lyon",
+      "away": "Angers SCO",
+      "time": "17:15",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-01"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Premier League",
+      "home": "Liverpool",
+      "away": "Arsenal",
+      "time": "17:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-01"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Lecce",
+      "away": "Genoa",
       "time": "18:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
       "away_score": null,
       "is_live": false,
-      "local_date": "2026-10-31"
+      "local_date": "2026-11-01"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Juventus",
+      "away": "Napoli",
+      "time": "20:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-01"
     },
     {
       "type": "news",
@@ -159,16 +159,23 @@
     {
       "type": "news",
       "category": "CALCIO",
+      "title": "Como Women-AC Milan, Serie A Women 2026/2027: Match Preview - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Sat, 31 Oct 2026 13:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
       "title": "AC Milan-Inter, Serie A Enilive 2026/2027: le formazioni ufficiali - AC Milan | Sito Ufficiale",
       "source": "AC Milan | Sito Ufficiale",
       "published": "Sat, 31 Oct 2026 19:00:00 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Como Women-AC Milan, Serie A Women 2026/2027: Match Preview - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Sat, 31 Oct 2026 13:00:00 GMT"
+      "category": "TENNIS",
+      "title": "Atp Vienna, oggi semifinale Alcaraz-Medvedev – Diretta - OglioPoNews",
+      "source": "OglioPoNews",
+      "published": "Sat, 31 Oct 2026 20:53:31 GMT"
     },
     {
       "type": "news",
@@ -180,13 +187,6 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Zverev, figuraccia “da numero 1” e niente finale con Alcaraz: Sascha litiga con l’arbitro, impietoso il confronto con Sinner - Virgilio",
-      "source": "Virgilio",
-      "published": "Sat, 31 Oct 2026 19:31:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
       "title": "Atp Vienna 2026, Zverev eliminato da De Minaur: niente finale contro Alcaraz - LaPresse",
       "source": "LaPresse",
       "published": "Sat, 31 Oct 2026 18:59:16 GMT"
@@ -194,9 +194,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Super colpo di De Minaur! Batte Zverev, vola in finale a Vienna con Alcaraz e sarebbe a oggi qualificato alle ATP Finals - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "Sat, 31 Oct 2026 19:29:01 GMT"
+      "title": "Zverev, figuraccia “da numero 1” e niente finale con Alcaraz: Sascha litiga con l’arbitro, impietoso il confronto con Sinner - Virgilio",
+      "source": "Virgilio",
+      "published": "Sat, 31 Oct 2026 19:31:00 GMT"
     },
     {
       "type": "news",
