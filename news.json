@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T01:22:48.087638+00:00",
+  "updated_at": "2026-11-01T07:53:29.455915+00:00",
   "local_date": "2026-11-01",
   "articles": [
     {
@@ -20,8 +20,8 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Frosinone",
-      "away": "Torino",
+      "home": "Lazio",
+      "away": "Cagliari",
       "time": "15:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -34,8 +34,8 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Lazio",
-      "away": "Cagliari",
+      "home": "Frosinone",
+      "away": "Torino",
       "time": "15:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -113,118 +113,6 @@
       "away_score": null,
       "is_live": false,
       "local_date": "2026-11-01"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "UFFICIALE – Juventus-Napoli, i convocati di Allegri: aggregati anche 6 calciatori della Primavera! - NapoliCalcioNews.it",
-      "source": "NapoliCalcioNews.it",
-      "published": "Sat, 31 Oct 2026 21:53:46 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Milan, accordo con Krösche: chi è e quale ruolo avrà - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sat, 31 Oct 2026 20:16:52 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Christian Pulisic prolunga il suo contratto: il comunicato ufficiale - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Fri, 30 Oct 2026 14:30:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Diplomazia pontificia, l’accordo con la Cina, la situazione internazionale - ACI Stampa",
-      "source": "ACI Stampa",
-      "published": "Sat, 31 Oct 2026 15:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "AC Milan-Inter 3-1, Serie A Enilive 2026/2027: match report - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Sat, 31 Oct 2026 20:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, Bologna-Monza 2-1, Udinese-Roma 2-5, Milan-Inter - Radio RTL 102.5",
-      "source": "Radio RTL 102.5",
-      "published": "Sat, 31 Oct 2026 22:08:53 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Como Women-AC Milan, Serie A Women 2026/2027: Match Preview - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Sat, 31 Oct 2026 13:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "AC Milan-Inter, Serie A Enilive 2026/2027: le formazioni ufficiali - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Sat, 31 Oct 2026 19:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Atp Vienna, oggi semifinale Alcaraz-Medvedev – Diretta - OglioPoNews",
-      "source": "OglioPoNews",
-      "published": "Sat, 31 Oct 2026 20:53:31 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Atp Vienna 2026: Alcaraz in finale con De Minaur, fuori Zverev - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sat, 31 Oct 2026 13:31:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Atp Vienna 2026, Zverev eliminato da De Minaur: niente finale contro Alcaraz - LaPresse",
-      "source": "LaPresse",
-      "published": "Sat, 31 Oct 2026 18:59:16 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Zverev, figuraccia “da numero 1” e niente finale con Alcaraz: Sascha litiga con l’arbitro, impietoso il confronto con Sinner - Virgilio",
-      "source": "Virgilio",
-      "published": "Sat, 31 Oct 2026 19:31:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel Milano: Lebron batte Galan in rimonta e si prende la finale - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sat, 17 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Coello/Tapia prima della finale del Kuwait Major contro Tello/Arce: \"Sono due giocatori che ci creano molti problemi\" - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Sat, 31 Oct 2026 08:37:59 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Coello e Tapia annientano Libaak e Alfonso: 57 minuti di dimostrazione per raggiungere la finale in Kuwait. - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Fri, 30 Oct 2026 21:42:01 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Tapia e Coello hanno avuto difficoltà nella finale di Milano P1, ma conquistano il loro quarto titolo consecutivo - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Sun, 18 Oct 2026 07:00:00 GMT"
     }
   ]
 }
