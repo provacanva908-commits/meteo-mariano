@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T19:14:49.911319+00:00",
+  "updated_at": "2026-11-01T22:55:07.649270+00:00",
   "local_date": "2026-11-01",
   "articles": [
     {
@@ -20,20 +20,6 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Lazio",
-      "away": "Cagliari",
-      "time": "15:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 2,
-      "away_score": 1,
-      "is_live": false,
-      "local_date": "2026-11-01"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
       "home": "Frosinone",
       "away": "Torino",
       "time": "15:00",
@@ -41,6 +27,20 @@
       "status_label": "Finale",
       "home_score": 2,
       "away_score": 0,
+      "is_live": false,
+      "local_date": "2026-11-01"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Lazio",
+      "away": "Cagliari",
+      "time": "15:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
+      "away_score": 1,
       "is_live": false,
       "local_date": "2026-11-01"
     },
@@ -107,12 +107,19 @@
       "home": "Juventus",
       "away": "Napoli",
       "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
+      "away_score": 0,
       "is_live": false,
       "local_date": "2026-11-01"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "✔️[DIRETTA UFFICIALE] Napoli - Juventus Diretta Streaming Gratis TV - Pierce Manufacturing",
+      "source": "Pierce Manufacturing",
+      "published": "Sun, 01 Nov 2026 19:49:04 GMT"
     },
     {
       "type": "news",
@@ -124,51 +131,51 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Lucca, nasce il nuovo Museo del Fumetto: firmato l’accordo tra Ministero della Cultura, Regione Toscana e Comune - La Milano",
+      "source": "La Milano",
+      "published": "Sun, 01 Nov 2026 19:23:10 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Formazione ufficiale Juve, Spalletti cambia ancora: tutte le novità contro il Napoli - Tuttosport",
       "source": "Tuttosport",
-      "published": "Sun, 01 Nov 2026 18:36:00 GMT"
+      "published": "Sun, 01 Nov 2026 21:45:05 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Christian Pulisic prolunga il suo contratto: il comunicato ufficiale - AC Milan | Sito Ufficiale",
+      "category": "CALCIO",
+      "title": "Como Women-AC Milan 1-0, Serie A Women 2026/2027: il report - AC Milan | Sito Ufficiale",
       "source": "AC Milan | Sito Ufficiale",
-      "published": "Fri, 30 Oct 2026 14:30:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "‍‍‍~[[Ｕｆｆｉｃｉａｌｅ-TV] Juventus - Napoli oggi in diretta streaming Gratis 1° novembre 2026 - Pierce Manufacturing",
-      "source": "Pierce Manufacturing",
-      "published": "Sun, 01 Nov 2026 19:07:51 GMT"
+      "published": "Sun, 01 Nov 2026 20:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "SERIE A ENILIVE | I CONVOCATI PER ATALANTA-PARMA - Parma Calcio 1913",
-      "source": "Parma Calcio 1913",
-      "published": "Sun, 01 Nov 2026 17:00:57 GMT"
+      "title": "Como Women-AC Milan, Serie A Women 2026/2027 - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Sun, 01 Nov 2026 17:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A Enilive | Lazio-Cagliari, i convocati biancocelesti - S.S. Lazio",
-      "source": "S.S. Lazio",
-      "published": "Sun, 01 Nov 2026 12:56:46 GMT"
+      "title": "Serie A, la Lazio è in vetta. Il Milan vince il derby, la Juventus batte il Napoli - La Voce di New York",
+      "source": "La Voce di New York",
+      "published": "Sun, 01 Nov 2026 22:34:35 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A | Juventus-Napoli | I convocati - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Sun, 01 Nov 2026 12:10:49 GMT"
+      "title": "Roma e Inter vincono e allungano sul Como 1907, 1-0 del Como Women sul Milan, lunedì Fiorentina-Juventus - FIGC",
+      "source": "FIGC",
+      "published": "Sun, 01 Nov 2026 10:46:00 GMT"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Coppa Italia: la diretta streaming della partita Mogliano-Petrarca - On Rugby",
-      "source": "On Rugby",
-      "published": "Sun, 01 Nov 2026 12:09:03 GMT"
+      "category": "TENNIS",
+      "title": "Carlos Alcaraz si avvicina a Sinner: il nuovo distacco nel ranking ATP e il divario minimo a fine stagione - OA Sport",
+      "source": "OA Sport",
+      "published": "Sun, 01 Nov 2026 15:50:47 GMT"
     },
     {
       "type": "news",
@@ -187,16 +194,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Carlos Alcaraz si avvicina a Sinner: il nuovo distacco nel ranking ATP e il divario minimo a fine stagione - OA Sport",
-      "source": "OA Sport",
-      "published": "Sun, 01 Nov 2026 15:50:47 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Tennis Atp Vienna 2026, i risultati di oggi: Zverev e Medvedev in semifinale - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 30 Oct 2026 15:09:49 GMT"
+      "title": "Atp Vienna, titolo ad Alcaraz: De Minaur battuto in finale - LaPresse",
+      "source": "LaPresse",
+      "published": "Sun, 01 Nov 2026 15:12:13 GMT"
     },
     {
       "type": "news",
