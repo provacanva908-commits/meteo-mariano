@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-11-01T07:53:29.455915+00:00",
+  "updated_at": "2026-11-01T14:46:46.212634+00:00",
   "local_date": "2026-11-01",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Como 1907",
-      "away": "Venezia FC",
-      "time": "12:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "home": "Frosinone",
+      "away": "Torino",
+      "time": "15:00",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "is_live": true,
       "local_date": "2026-11-01"
     },
     {
@@ -23,24 +23,24 @@
       "home": "Lazio",
       "away": "Cagliari",
       "time": "15:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 1,
+      "away_score": 1,
+      "is_live": true,
       "local_date": "2026-11-01"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Frosinone",
-      "away": "Torino",
-      "time": "15:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "home": "Como 1907",
+      "away": "Venezia FC",
+      "time": "12:30",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 0,
       "is_live": false,
       "local_date": "2026-11-01"
     },
@@ -113,6 +113,118 @@
       "away_score": null,
       "is_live": false,
       "local_date": "2026-11-01"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "UFFICIALE – JUVENTUS-NAPOLI, I CONVOCATI DI SPALLETTI: NOVITÀ EKHATOR PER I BIANCONERI - NapoliCalcioNews.it",
+      "source": "NapoliCalcioNews.it",
+      "published": "Sun, 01 Nov 2026 12:55:14 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Christian Pulisic prolunga il suo contratto: il comunicato ufficiale - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Fri, 30 Oct 2026 14:30:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "L'accordo tra Carabinieri e Agenzia delle Entrate fa arrabbiare la Finanza. Interviene Giorgetti: rescisso in 24 ore - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "Thu, 29 Oct 2026 20:50:48 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Milan, accordo con Krösche: chi è e quale ruolo avrà - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sat, 31 Oct 2026 20:16:52 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "AC Milan 3-1 Inter, Serie A Enilive 2026/2027: Diego Moreira MVP - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Sun, 01 Nov 2026 10:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "AC Milan-Inter 3-1, Serie A Enilive 2026/2027: match report - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Sat, 31 Oct 2026 20:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A, il sabato ai raggi X: Moreira trascina il Milan nel derby, Inter in tilt e Roma da record - Diretta",
+      "source": "Diretta",
+      "published": "Sun, 01 Nov 2026 07:30:52 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Milan vs Inter | Serie A Enilive - Lega Serie A",
+      "source": "Lega Serie A",
+      "published": "Sun, 01 Nov 2026 10:50:57 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Alcaraz-de Minaur, finale Atp 500 Vienna: orario, quando si gioca e dove vederla in tv - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "Sun, 01 Nov 2026 08:36:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Tennis, Atp Vienna: De Minaur sorprende Zverev, finale contro Alcaraz - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Sat, 31 Oct 2026 18:59:47 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "ATP Vienna, la finale sarà Alcaraz-De Minaur - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Sat, 31 Oct 2026 18:51:53 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Atp Vienna 2026: Alcaraz in finale con De Minaur, fuori Zverev - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sat, 31 Oct 2026 13:31:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Kuwait Major: Coello e Tapia trionfo e per la 4° volta N°1 del FIP Ranking - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Sat, 31 Oct 2026 18:29:18 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Coello e Tapia annientano Libaak e Alfonso: 57 minuti di dimostrazione per raggiungere la finale in Kuwait. - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Fri, 30 Oct 2026 21:42:01 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Coello/Tapia prima della finale del Kuwait Major contro Tello/Arce: \"Sono due giocatori che ci creano molti problemi\" - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Sat, 31 Oct 2026 08:37:59 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Sireix e Razafindranaly eliminano la testa di serie numero 1 e si assicurano un posto in finale al FIP Bronze Cyprus - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Sun, 01 Nov 2026 11:02:36 GMT"
     }
   ]
 }
