@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T02:16:09.805112+00:00",
+  "updated_at": "2026-11-02T09:40:00.656748+00:00",
   "local_date": "2026-11-02",
   "articles": [
     {
@@ -47,23 +47,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "✔️[DIRETTA UFFICIALE] Napoli - Juventus Diretta Streaming Gratis TV - Pierce Manufacturing",
-      "source": "Pierce Manufacturing",
-      "published": "Sun, 01 Nov 2026 19:49:04 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "UFFICIALE – JUVENTUS-NAPOLI, I CONVOCATI DI SPALLETTI: NOVITÀ EKHATOR PER I BIANCONERI - NapoliCalcioNews.it",
-      "source": "NapoliCalcioNews.it",
-      "published": "Sun, 01 Nov 2026 23:02:39 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Lucca, nasce il nuovo Museo del Fumetto: firmato l’accordo tra Ministero della Cultura, Regione Toscana e Comune - La Milano",
-      "source": "La Milano",
-      "published": "Sun, 01 Nov 2026 19:23:10 GMT"
+      "title": "Romania-Moldova: firmato un accordo per l'acquisto congiunto di 3 mila veicoli militari Iveco attraverso Safe - Agenzia Nova",
+      "source": "Agenzia Nova",
+      "published": "Mon, 02 Nov 2026 08:49:45 GMT"
     },
     {
       "type": "news",
@@ -74,10 +60,17 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Como Women-AC Milan 1-0, Serie A Women 2026/2027: il report - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Sun, 01 Nov 2026 20:00:00 GMT"
+      "category": "CALCIOMERCATO",
+      "title": "Belgio, non c’è l’accordo sulla legge di bilancio: il premier De Wever dà le dimissioni - Milano Finanza",
+      "source": "Milano Finanza",
+      "published": "Mon, 02 Nov 2026 09:15:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Milan, cosa può succedere a gennaio in attacco e difesa: gli scenari - Sisal",
+      "source": "Sisal",
+      "published": "Mon, 02 Nov 2026 09:07:03 GMT"
     },
     {
       "type": "news",
@@ -89,16 +82,23 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, la Lazio è in vetta. Il Milan vince il derby, la Juventus batte il Napoli - La Voce di New York",
-      "source": "La Voce di New York",
-      "published": "Sun, 01 Nov 2026 22:34:35 GMT"
+      "title": "Champions League in TV dove vedere le partite della 4° giornata da Manchester United-Roma a Porto-Napoli: gli orari - Fanpage",
+      "source": "Fanpage",
+      "published": "Mon, 02 Nov 2026 05:35:14 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Roma e Inter vincono e allungano sul Como 1907, 1-0 del Como Women contro il Milan, lunedì Fiorentina-Juventus - FIGC",
-      "source": "FIGC",
-      "published": "Sun, 01 Nov 2026 10:46:00 GMT"
+      "title": "Como Women-AC Milan 1-0, Serie A Women 2026/2027: il report - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Sun, 01 Nov 2026 20:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A | Juventus-Napoli | Le interviste - Juventus.com",
+      "source": "Juventus.com",
+      "published": "Sun, 01 Nov 2026 22:44:35 GMT"
     },
     {
       "type": "news",
@@ -110,6 +110,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "Ranking ATP: Zverev, il sorpasso in vetta è ufficiale. Sinner scende al n.2, Cobolli stabile. La nuova top 10 - www.eurosport.it",
+      "source": "www.eurosport.it",
+      "published": "Mon, 02 Nov 2026 09:32:14 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Alcaraz-de Minaur, finale Atp 500 Vienna: orario, quando si gioca e dove vederla in tv - Corriere dello Sport",
       "source": "Corriere dello Sport",
       "published": "Sun, 01 Nov 2026 08:36:00 GMT"
@@ -117,16 +124,9 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Atp Vienna 2026: Alcaraz in finale con De Minaur, fuori Zverev - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sat, 31 Oct 2026 13:31:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Tennis Atp Vienna 2026, i risultati di oggi: Zverev e Medvedev in semifinale - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Fri, 30 Oct 2026 15:09:49 GMT"
+      "title": "Ranking ATP: è il giorno di Zverev, nuovo numero 1 del mondo. Sinner secondo, Cobolli resta sesto - Ubitennis",
+      "source": "Ubitennis",
+      "published": "Mon, 02 Nov 2026 09:31:57 GMT"
     },
     {
       "type": "news",
