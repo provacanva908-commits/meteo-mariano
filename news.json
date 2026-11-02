@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T09:40:00.656748+00:00",
+  "updated_at": "2026-11-02T19:48:52.786780+00:00",
   "local_date": "2026-11-02",
   "articles": [
     {
@@ -9,10 +9,10 @@
       "home": "Sassuolo",
       "away": "Fiorentina",
       "time": "18:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
+      "away_score": 4,
       "is_live": false,
       "local_date": "2026-11-02"
     },
@@ -47,51 +47,51 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Romania-Moldova: firmato un accordo per l'acquisto congiunto di 3 mila veicoli militari Iveco attraverso Safe - Agenzia Nova",
-      "source": "Agenzia Nova",
-      "published": "Mon, 02 Nov 2026 08:49:45 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Christian Pulisic prolunga il suo contratto: il comunicato ufficiale - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Fri, 30 Oct 2026 14:30:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Belgio, non c’è l’accordo sulla legge di bilancio: il premier De Wever dà le dimissioni - Milano Finanza",
-      "source": "Milano Finanza",
-      "published": "Mon, 02 Nov 2026 09:15:00 GMT"
+      "title": "Quando scade il contratto di Dimarco con l'Inter: l'accordo attuale, quanto guadagna e la trattativa per il rinnovo - Goal.com",
+      "source": "Goal.com",
+      "published": "Mon, 02 Nov 2026 18:33:45 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "Calciomercato Milan, cosa può succedere a gennaio in attacco e difesa: gli scenari - Sisal",
       "source": "Sisal",
-      "published": "Mon, 02 Nov 2026 09:07:03 GMT"
+      "published": "Mon, 02 Nov 2026 09:39:07 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Inter, e se il pallino Chiesa… Tutti i nomi per la quinta punta - Tuttosport",
+      "source": "Tuttosport",
+      "published": "Mon, 02 Nov 2026 09:36:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Electrolux, al Mimit trattativa ad oltranza ma l’accordo è ancora lontano - Il Sole 24 ORE",
+      "source": "Il Sole 24 ORE",
+      "published": "Mon, 02 Nov 2026 19:03:49 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Como Women-AC Milan, Serie A Women 2026/2027 - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Sun, 01 Nov 2026 17:00:00 GMT"
+      "title": "Cantù Olimpia Milano, il risultato in diretta della partita di Serie A di basket - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Mon, 02 Nov 2026 18:29:29 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League in TV dove vedere le partite della 4° giornata da Manchester United-Roma a Porto-Napoli: gli orari - Fanpage",
-      "source": "Fanpage",
-      "published": "Mon, 02 Nov 2026 05:35:14 GMT"
+      "title": "Champions League: clou Atletico-Bayern, la Roma torna a Manchester - ANSA",
+      "source": "ANSA",
+      "published": "Mon, 02 Nov 2026 11:10:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Como Women-AC Milan 1-0, Serie A Women 2026/2027: il report - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Sun, 01 Nov 2026 20:00:00 GMT"
+      "title": "Post partita | Davide Nicola | Como - Venezia FC | Serie A Enilive 26/27 - Venezia FC",
+      "source": "Venezia FC",
+      "published": "Mon, 02 Nov 2026 14:04:19 GMT"
     },
     {
       "type": "news",
@@ -103,44 +103,30 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Carlos Alcaraz si avvicina a Sinner: il nuovo distacco nel ranking ATP e il divario minimo a fine stagione - OA Sport",
-      "source": "OA Sport",
-      "published": "Sun, 01 Nov 2026 15:50:47 GMT"
+      "title": "Tennis, ora è ufficiale: Zverev supera Sinner ed è il nuovo numero 1 nel ranking Atp - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Mon, 02 Nov 2026 10:16:32 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP: Zverev, il sorpasso in vetta è ufficiale. Sinner scende al n.2, Cobolli stabile. La nuova top 10 - www.eurosport.it",
-      "source": "www.eurosport.it",
-      "published": "Mon, 02 Nov 2026 09:32:14 GMT"
+      "title": "Ranking ATP: Zverev, il sorpasso in vetta è ufficiale. Sinner scende al n.2, Cobolli stabile. La nuova top 10 - Eurosport.it",
+      "source": "Eurosport.it",
+      "published": "Mon, 02 Nov 2026 09:33:28 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Alcaraz-de Minaur, finale Atp 500 Vienna: orario, quando si gioca e dove vederla in tv - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "Sun, 01 Nov 2026 08:36:00 GMT"
+      "title": "Atp Vienna 2026: Alcaraz in finale con De Minaur, fuori Zverev - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sat, 31 Oct 2026 13:31:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Ranking ATP: è il giorno di Zverev, nuovo numero 1 del mondo. Sinner secondo, Cobolli resta sesto - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Mon, 02 Nov 2026 09:31:57 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel Milano: Lebron batte Galan in rimonta e si prende la finale - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sat, 17 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Gold Mediolanum Padel Cup, il torinese Rosingana vola in semifinale - Il Torinese",
-      "source": "Il Torinese",
-      "published": "Sun, 01 Nov 2026 23:43:24 GMT"
+      "title": "Classifica ATP, finisce il regno di Sinner: Zverev lo sorpassa e Alcaraz lo minaccia. Berrettini risale, crolla Sonego, Cinà da applausi - Virgilio",
+      "source": "Virgilio",
+      "published": "Mon, 02 Nov 2026 11:29:00 GMT"
     },
     {
       "type": "news",
@@ -152,9 +138,23 @@
     {
       "type": "news",
       "category": "PADEL",
+      "title": "FIP Gold Mediolanum Padel Cup, il torinese Rosingana vola in semifinale - Il Torinese",
+      "source": "Il Torinese",
+      "published": "Sun, 01 Nov 2026 23:43:24 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
       "title": "Coello e Tapia annientano Libaak e Alfonso: 57 minuti di dimostrazione per raggiungere la finale in Kuwait. - Padel Magazine",
       "source": "Padel Magazine",
       "published": "Fri, 30 Oct 2026 21:42:01 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel, Major in Kuwait: grande show dei numeri 1. Coello-Tapia senza rivali - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sun, 01 Nov 2026 15:01:11 GMT"
     }
   ]
 }
