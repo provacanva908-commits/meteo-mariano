@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-11-03T17:09:35.650018+00:00",
+  "updated_at": "2026-11-03T22:18:41.826637+00:00",
   "local_date": "2026-11-03",
   "articles": [
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Galatasaray",
-      "away": "Stuttgart",
-      "time": "18:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-11-03"
-    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -23,10 +9,10 @@
       "home": "Shaktar",
       "away": "Sporting CP",
       "time": "18:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 0,
+      "away_score": 1,
       "is_live": false,
       "local_date": "2026-11-03"
     },
@@ -34,13 +20,13 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Barça",
-      "away": "Aston Villa",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "home": "Galatasaray",
+      "away": "Stuttgart",
+      "time": "18:45",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
+      "away_score": 0,
       "is_live": false,
       "local_date": "2026-11-03"
     },
@@ -48,27 +34,13 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Villarreal",
-      "away": "PSG",
+      "home": "Feyenoord",
+      "away": "Inter",
       "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-11-03"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Bodø/Glimt",
-      "away": "Lille",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 0,
+      "away_score": 3,
       "is_live": false,
       "local_date": "2026-11-03"
     },
@@ -79,10 +51,10 @@
       "home": "LASK",
       "away": "Sl. Bratislava",
       "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 4,
+      "away_score": 0,
       "is_live": false,
       "local_date": "2026-11-03"
     },
@@ -93,10 +65,10 @@
       "home": "Atleti",
       "away": "Bayern",
       "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 0,
+      "away_score": 2,
       "is_live": false,
       "local_date": "2026-11-03"
     },
@@ -107,10 +79,38 @@
       "home": "Man United",
       "away": "Roma",
       "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 3,
+      "away_score": 2,
+      "is_live": false,
+      "local_date": "2026-11-03"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Bodø/Glimt",
+      "away": "Lille",
+      "time": "21:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 0,
+      "away_score": 0,
+      "is_live": false,
+      "local_date": "2026-11-03"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Barça",
+      "away": "Aston Villa",
+      "time": "21:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 3,
+      "away_score": 0,
       "is_live": false,
       "local_date": "2026-11-03"
     },
@@ -131,72 +131,79 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ricerca oncologica, siglato accordo internazionale tra Humanitas Catania e Ohio State University - insalutenews.it",
-      "source": "insalutenews.it",
-      "published": "Tue, 03 Nov 2026 12:00:00 GMT"
+      "title": "ACWA Power Company annuncia la firma di un accordo di acquisto dell'acqua con la Dubai Electricity and Water Authority - MarketScreener Italia",
+      "source": "MarketScreener Italia",
+      "published": "Tue, 03 Nov 2026 13:34:01 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Omniapart, accordo con Reliability per crescere negli Stati Uniti tra compliance e AI - Milano Finanza",
-      "source": "Milano Finanza",
-      "published": "Tue, 03 Nov 2026 14:18:00 GMT"
+      "title": "Edi Rama, 'possibile rinnovo dell'accordo Italia-Albania nel 2028' - ANSA",
+      "source": "ANSA",
+      "published": "Tue, 03 Nov 2026 17:56:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Barcellona-Aston Villa: partita di Champions League in diretta oggi - Anayasa.gov.tr",
+      "title": "+[!STREAMING@TV] AS Roma-Manchester United partita di Champions League in diretta 04 novembre 2026 - Anayasa.gov.tr",
       "source": "Anayasa.gov.tr",
-      "published": "Tue, 03 Nov 2026 16:38:57 GMT"
+      "published": "Tue, 03 Nov 2026 19:32:02 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, oggi Manchester United-Roma: orario, probabili formazioni e dove vederla - Startupbusiness.it",
-      "source": "Startupbusiness.it",
-      "published": "Tue, 03 Nov 2026 08:33:30 GMT"
+      "title": "!$+[DIRETTA] Roma-Manchester United partita di Champions League partita in tv 04 novembre 2026 - Anayasa.gov.tr",
+      "source": "Anayasa.gov.tr",
+      "published": "Tue, 03 Nov 2026 20:53:20 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Manchester United-Roma, dove vedere la partita di Champions League in tv e streaming - Sky Sport",
+      "title": "[DIRETTA]LIVE!] Manchester United - Roma di Champions League partita in tv 04 novembre 2026 - Anayasa.gov.tr",
+      "source": "Anayasa.gov.tr",
+      "published": "Tue, 03 Nov 2026 20:38:38 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "!$+[DIRETTA] Manchester United-Roma partita di Champions League oggi in diretta 04 novembre 2026 - Anayasa.gov.tr",
+      "source": "Anayasa.gov.tr",
+      "published": "Tue, 03 Nov 2026 20:26:04 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "ATP Finals 2026: il programma dell'ultimo torneo stagionale, i qualificati e quando si gioca a Torino · Tennis - Olympics",
+      "source": "Olympics",
+      "published": "Tue, 03 Nov 2026 09:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Alcaraz avvisa Sinner, il duopolio è finito: “Nel 2027 non saremo solo noi due”. I nomi indicati da Carlos - Virgilio",
+      "source": "Virgilio",
+      "published": "Tue, 03 Nov 2026 11:01:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Alcaraz rivela: 'Ho avuto paura di non tornare più al mio livello' - Sky Sport",
       "source": "Sky Sport",
-      "published": "Tue, 03 Nov 2026 11:30:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Perché c'è il minuto di silenzio prima di Manchester United-Roma e Feyenoord-Inter in Champions League - Goal.com",
-      "source": "Goal.com",
-      "published": "Tue, 03 Nov 2026 15:48:15 GMT"
+      "published": "Tue, 03 Nov 2026 11:19:20 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis, ora è ufficiale: Zverev supera Sinner ed è il nuovo numero 1 nel ranking Atp - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Mon, 02 Nov 2026 10:16:32 GMT"
+      "title": "Cobolli qualificato alle Atp Finals di Torino, decisiva la sconfitta di Jodar a Parigi. L'azzurro: «Notti magiche» - Il Messaggero",
+      "source": "Il Messaggero",
+      "published": "Tue, 03 Nov 2026 21:25:42 GMT"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Atp Vienna 2026: Alcaraz in finale con De Minaur, fuori Zverev - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sat, 31 Oct 2026 13:31:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Tennis, Atp Vienna: De Minaur sorprende Zverev, finale contro Alcaraz - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Sat, 31 Oct 2026 18:59:47 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ranking ATP: Italia con 7 Top 100. Zverev, primo giorno da n.1 - SuperTennis",
-      "source": "SuperTennis",
-      "published": "Mon, 02 Nov 2026 08:31:53 GMT"
+      "category": "PADEL",
+      "title": "Kuwait Major: Coello e Tapia trionfo e per la 4° volta N°1 del FIP Ranking - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "Sat, 31 Oct 2026 18:29:18 GMT"
     },
     {
       "type": "news",
@@ -218,13 +225,6 @@
       "title": "Sireix e Razafindranaly eliminano la testa di serie numero 1 e si assicurano un posto in finale al FIP Bronze Cyprus - Padel Magazine",
       "source": "Padel Magazine",
       "published": "Sun, 01 Nov 2026 11:02:36 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Sintes / Zamora: dal FIP Tour ai quarti di finale di un Major, la progressione è reale, anche l'ultimo ostacolo - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Mon, 02 Nov 2026 12:05:00 GMT"
     }
   ]
 }
