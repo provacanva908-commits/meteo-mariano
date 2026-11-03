@@ -1,83 +1,146 @@
 {
-  "updated_at": "2026-11-02T19:48:52.786780+00:00",
-  "local_date": "2026-11-02",
+  "updated_at": "2026-11-03T01:54:35.881952+00:00",
+  "local_date": "2026-11-03",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Sassuolo",
-      "away": "Fiorentina",
-      "time": "18:30",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 2,
-      "away_score": 4,
-      "is_live": false,
-      "local_date": "2026-11-02"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Atalanta",
-      "away": "Parma",
-      "time": "20:45",
+      "competition": "UEFA Champions League",
+      "home": "Shaktar",
+      "away": "Sporting CP",
+      "time": "18:45",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
       "away_score": null,
       "is_live": false,
-      "local_date": "2026-11-02"
+      "local_date": "2026-11-03"
     },
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Primeira Liga",
-      "home": "SL Benfica",
-      "away": "Alverca",
-      "time": "21:15",
+      "competition": "UEFA Champions League",
+      "home": "Galatasaray",
+      "away": "Stuttgart",
+      "time": "18:45",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
       "away_score": null,
       "is_live": false,
-      "local_date": "2026-11-02"
+      "local_date": "2026-11-03"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Feyenoord",
+      "away": "Inter",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-03"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "LASK",
+      "away": "Sl. Bratislava",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-03"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Atleti",
+      "away": "Bayern",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-03"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Man United",
+      "away": "Roma",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-03"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Bodø/Glimt",
+      "away": "Lille",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-03"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Barça",
+      "away": "Aston Villa",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-03"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Quando scade il contratto di Calhanoglu con l'Inter: l'accordo attuale, quanto guadagna e la trattativa per il rinnovo - Goal.com",
+      "source": "Goal.com",
+      "published": "Mon, 02 Nov 2026 20:34:02 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "Quando scade il contratto di Dimarco con l'Inter: l'accordo attuale, quanto guadagna e la trattativa per il rinnovo - Goal.com",
       "source": "Goal.com",
-      "published": "Mon, 02 Nov 2026 18:33:45 GMT"
+      "published": "Mon, 02 Nov 2026 18:34:06 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan, cosa può succedere a gennaio in attacco e difesa: gli scenari - Sisal",
-      "source": "Sisal",
-      "published": "Mon, 02 Nov 2026 09:39:07 GMT"
+      "title": "MERCATO. XDS Astana, ufficiale l’arrivo di Urko Berrade: lo spagnolo firma fino al 2028 - CiclismoWeb",
+      "source": "CiclismoWeb",
+      "published": "Mon, 02 Nov 2026 14:40:39 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Inter, e se il pallino Chiesa… Tutti i nomi per la quinta punta - Tuttosport",
-      "source": "Tuttosport",
-      "published": "Mon, 02 Nov 2026 09:36:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Electrolux, al Mimit trattativa ad oltranza ma l’accordo è ancora lontano - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
-      "published": "Mon, 02 Nov 2026 19:03:49 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Cantù Olimpia Milano, il risultato in diretta della partita di Serie A di basket - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Mon, 02 Nov 2026 18:29:29 GMT"
+      "title": "Atalanta, il ds Giuntoli: \"D'accordo con Sarri in ritiro fino a domenica\" - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Mon, 02 Nov 2026 22:35:05 GMT"
     },
     {
       "type": "news",
@@ -89,9 +152,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Post partita | Davide Nicola | Como - Venezia FC | Serie A Enilive 26/27 - Venezia FC",
-      "source": "Venezia FC",
-      "published": "Mon, 02 Nov 2026 14:04:19 GMT"
+      "title": "I convocati per Atalanta-Parma | Serie A Enilive 2026/27 MD10 - Atalanta",
+      "source": "Atalanta",
+      "published": "Mon, 02 Nov 2026 12:30:21 GMT"
     },
     {
       "type": "news",
@@ -99,6 +162,13 @@
       "title": "Serie A | Juventus-Napoli | Le interviste - Juventus.com",
       "source": "Juventus.com",
       "published": "Sun, 01 Nov 2026 22:44:35 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A: Juventus-Napoli in campo alle 20.45 DIRETTA - ANSA",
+      "source": "ANSA",
+      "published": "Sun, 01 Nov 2026 08:10:00 GMT"
     },
     {
       "type": "news",
@@ -117,16 +187,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Atp Vienna 2026: Alcaraz in finale con De Minaur, fuori Zverev - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Sat, 31 Oct 2026 13:31:00 GMT"
+      "title": "Classifica ATP, finisce il regno di Sinner: Zverev lo sorpassa e Alcaraz lo minaccia. Berrettini risale, crolla Sonego, Cinà da applausi - Virgilio",
+      "source": "Virgilio",
+      "published": "Mon, 02 Nov 2026 11:29:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Classifica ATP, finisce il regno di Sinner: Zverev lo sorpassa e Alcaraz lo minaccia. Berrettini risale, crolla Sonego, Cinà da applausi - Virgilio",
-      "source": "Virgilio",
-      "published": "Mon, 02 Nov 2026 11:29:00 GMT"
+      "title": "ATP Parigi, Alcaraz: “Ho avuto paura di non tornare più al mio livello” - Ubitennis",
+      "source": "Ubitennis",
+      "published": "Mon, 02 Nov 2026 22:19:04 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Premier Padel Milano: Lebron batte Galan in rimonta e si prende la finale - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sat, 17 Oct 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -141,13 +218,6 @@
       "title": "FIP Gold Mediolanum Padel Cup, il torinese Rosingana vola in semifinale - Il Torinese",
       "source": "Il Torinese",
       "published": "Sun, 01 Nov 2026 23:43:24 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Coello e Tapia annientano Libaak e Alfonso: 57 minuti di dimostrazione per raggiungere la finale in Kuwait. - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Fri, 30 Oct 2026 21:42:01 GMT"
     },
     {
       "type": "news",
