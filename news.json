@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-11-03T01:54:35.881952+00:00",
+  "updated_at": "2026-11-03T09:14:16.573460+00:00",
   "local_date": "2026-11-03",
   "articles": [
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Shaktar",
-      "away": "Sporting CP",
-      "time": "18:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-11-03"
-    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -34,51 +20,9 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Feyenoord",
-      "away": "Inter",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-11-03"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "LASK",
-      "away": "Sl. Bratislava",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-11-03"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Atleti",
-      "away": "Bayern",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-11-03"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Man United",
-      "away": "Roma",
-      "time": "21:00",
+      "home": "Shaktar",
+      "away": "Sporting CP",
+      "time": "18:45",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -115,6 +59,62 @@
       "local_date": "2026-11-03"
     },
     {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Villarreal",
+      "away": "PSG",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-03"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Man United",
+      "away": "Roma",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-03"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Feyenoord",
+      "away": "Inter",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-03"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "LASK",
+      "away": "Sl. Bratislava",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-03"
+    },
+    {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "Quando scade il contratto di Calhanoglu con l'Inter: l'accordo attuale, quanto guadagna e la trattativa per il rinnovo - Goal.com",
@@ -131,44 +131,44 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "MERCATO. XDS Astana, ufficiale l’arrivo di Urko Berrade: lo spagnolo firma fino al 2028 - CiclismoWeb",
-      "source": "CiclismoWeb",
-      "published": "Mon, 02 Nov 2026 14:40:39 GMT"
+      "title": "Electrolux, al Mimit trattativa ad oltranza ma l’accordo è ancora lontano - Il Sole 24 ORE",
+      "source": "Il Sole 24 ORE",
+      "published": "Mon, 02 Nov 2026 20:28:35 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Atalanta, il ds Giuntoli: \"D'accordo con Sarri in ritiro fino a domenica\" - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Mon, 02 Nov 2026 22:35:05 GMT"
+      "title": "INL: accordo con e INAPP per l’analisi del mercato del lavoro e il supporto alla vigilanza - Dottrina Per il Lavoro",
+      "source": "Dottrina Per il Lavoro",
+      "published": "Tue, 03 Nov 2026 07:51:37 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: clou Atletico-Bayern, la Roma torna a Manchester - ANSA",
-      "source": "ANSA",
-      "published": "Mon, 02 Nov 2026 11:10:00 GMT"
+      "title": "Classifica Serie A a confronto: Lazio spaziale, Como top, Napoli flop! Juve, Roma, Inter e Milan... - Tuttosport",
+      "source": "Tuttosport",
+      "published": "Tue, 03 Nov 2026 07:45:12 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "I convocati per Atalanta-Parma | Serie A Enilive 2026/27 MD10 - Atalanta",
-      "source": "Atalanta",
-      "published": "Mon, 02 Nov 2026 12:30:21 GMT"
+      "title": "Le partite di oggi: riparte la Champions con Feyernoord-Inter e Manchester United-Roma - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Tue, 03 Nov 2026 06:41:46 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A | Juventus-Napoli | Le interviste - Juventus.com",
-      "source": "Juventus.com",
-      "published": "Sun, 01 Nov 2026 22:44:35 GMT"
+      "title": "Champions League, oggi Manchester United-Roma: orario, probabili formazioni e dove vederla - Adnkronos",
+      "source": "Adnkronos",
+      "published": "Tue, 03 Nov 2026 08:24:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A: Juventus-Napoli in campo alle 20.45 DIRETTA - ANSA",
-      "source": "ANSA",
-      "published": "Sun, 01 Nov 2026 08:10:00 GMT"
+      "title": "Today's matches: Champions League resumes with Feyenoord v Inter and Manchester United v Roma - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Tue, 03 Nov 2026 06:58:19 GMT"
     },
     {
       "type": "news",
@@ -176,13 +176,6 @@
       "title": "Tennis, ora è ufficiale: Zverev supera Sinner ed è il nuovo numero 1 nel ranking Atp - Sportmediaset",
       "source": "Sportmediaset",
       "published": "Mon, 02 Nov 2026 10:16:32 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ranking ATP: Zverev, il sorpasso in vetta è ufficiale. Sinner scende al n.2, Cobolli stabile. La nuova top 10 - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "Mon, 02 Nov 2026 09:33:28 GMT"
     },
     {
       "type": "news",
@@ -197,6 +190,13 @@
       "title": "ATP Parigi, Alcaraz: “Ho avuto paura di non tornare più al mio livello” - Ubitennis",
       "source": "Ubitennis",
       "published": "Mon, 02 Nov 2026 22:19:04 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "ATP Parigi, Zverev: \"Punto a battere più spesso Sinner e Alcaraz\" - Ubitennis",
+      "source": "Ubitennis",
+      "published": "Mon, 02 Nov 2026 18:10:29 GMT"
     },
     {
       "type": "news",
