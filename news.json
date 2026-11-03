@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T09:14:16.573460+00:00",
+  "updated_at": "2026-11-03T17:09:35.650018+00:00",
   "local_date": "2026-11-03",
   "articles": [
     {
@@ -23,20 +23,6 @@
       "home": "Shaktar",
       "away": "Sporting CP",
       "time": "18:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-11-03"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Bodø/Glimt",
-      "away": "Lille",
-      "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -76,22 +62,8 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Man United",
-      "away": "Roma",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-11-03"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Feyenoord",
-      "away": "Inter",
+      "home": "Bodø/Glimt",
+      "away": "Lille",
       "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -115,60 +87,88 @@
       "local_date": "2026-11-03"
     },
     {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Quando scade il contratto di Calhanoglu con l'Inter: l'accordo attuale, quanto guadagna e la trattativa per il rinnovo - Goal.com",
-      "source": "Goal.com",
-      "published": "Mon, 02 Nov 2026 20:34:02 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Quando scade il contratto di Dimarco con l'Inter: l'accordo attuale, quanto guadagna e la trattativa per il rinnovo - Goal.com",
-      "source": "Goal.com",
-      "published": "Mon, 02 Nov 2026 18:34:06 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Electrolux, al Mimit trattativa ad oltranza ma l’accordo è ancora lontano - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
-      "published": "Mon, 02 Nov 2026 20:28:35 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "INL: accordo con e INAPP per l’analisi del mercato del lavoro e il supporto alla vigilanza - Dottrina Per il Lavoro",
-      "source": "Dottrina Per il Lavoro",
-      "published": "Tue, 03 Nov 2026 07:51:37 GMT"
-    },
-    {
-      "type": "news",
+      "type": "match",
       "category": "CALCIO",
-      "title": "Classifica Serie A a confronto: Lazio spaziale, Como top, Napoli flop! Juve, Roma, Inter e Milan... - Tuttosport",
+      "competition": "UEFA Champions League",
+      "home": "Atleti",
+      "away": "Bayern",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-03"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Man United",
+      "away": "Roma",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-03"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Elimoghale-Juve, firmato il rinnovo di contratto: i dettagli dell'accordo - Tuttosport",
       "source": "Tuttosport",
-      "published": "Tue, 03 Nov 2026 07:45:12 GMT"
+      "published": "Tue, 03 Nov 2026 16:01:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Qualifica OSS in Emilia-Romagna: firmato l'accordo per favorire la formazione delle lavoratrici e dei lavoratori - FP CGIL Emilia-Romagna",
+      "source": "FP CGIL Emilia-Romagna",
+      "published": "Tue, 03 Nov 2026 11:07:38 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Ricerca oncologica, siglato accordo internazionale tra Humanitas Catania e Ohio State University - insalutenews.it",
+      "source": "insalutenews.it",
+      "published": "Tue, 03 Nov 2026 12:00:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Omniapart, accordo con Reliability per crescere negli Stati Uniti tra compliance e AI - Milano Finanza",
+      "source": "Milano Finanza",
+      "published": "Tue, 03 Nov 2026 14:18:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Le partite di oggi: riparte la Champions con Feyernoord-Inter e Manchester United-Roma - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Tue, 03 Nov 2026 06:41:46 GMT"
+      "title": "Barcellona-Aston Villa: partita di Champions League in diretta oggi - Anayasa.gov.tr",
+      "source": "Anayasa.gov.tr",
+      "published": "Tue, 03 Nov 2026 16:38:57 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, oggi Manchester United-Roma: orario, probabili formazioni e dove vederla - Adnkronos",
-      "source": "Adnkronos",
-      "published": "Tue, 03 Nov 2026 08:24:00 GMT"
+      "title": "Champions League, oggi Manchester United-Roma: orario, probabili formazioni e dove vederla - Startupbusiness.it",
+      "source": "Startupbusiness.it",
+      "published": "Tue, 03 Nov 2026 08:33:30 GMT"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Today's matches: Champions League resumes with Feyenoord v Inter and Manchester United v Roma - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Tue, 03 Nov 2026 06:58:19 GMT"
+      "title": "Manchester United-Roma, dove vedere la partita di Champions League in tv e streaming - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Tue, 03 Nov 2026 11:30:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Perché c'è il minuto di silenzio prima di Manchester United-Roma e Feyenoord-Inter in Champions League - Goal.com",
+      "source": "Goal.com",
+      "published": "Tue, 03 Nov 2026 15:48:15 GMT"
     },
     {
       "type": "news",
@@ -180,37 +180,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Classifica ATP, finisce il regno di Sinner: Zverev lo sorpassa e Alcaraz lo minaccia. Berrettini risale, crolla Sonego, Cinà da applausi - Virgilio",
-      "source": "Virgilio",
-      "published": "Mon, 02 Nov 2026 11:29:00 GMT"
+      "title": "Atp Vienna 2026: Alcaraz in finale con De Minaur, fuori Zverev - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sat, 31 Oct 2026 13:31:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Parigi, Alcaraz: “Ho avuto paura di non tornare più al mio livello” - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Mon, 02 Nov 2026 22:19:04 GMT"
+      "title": "Tennis, Atp Vienna: De Minaur sorprende Zverev, finale contro Alcaraz - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Sat, 31 Oct 2026 18:59:47 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Parigi, Zverev: \"Punto a battere più spesso Sinner e Alcaraz\" - Ubitennis",
-      "source": "Ubitennis",
-      "published": "Mon, 02 Nov 2026 18:10:29 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel Milano: Lebron batte Galan in rimonta e si prende la finale - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sat, 17 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Kuwait Major: Coello e Tapia trionfo e per la 4° volta N°1 del FIP Ranking - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Sat, 31 Oct 2026 18:29:18 GMT"
+      "title": "Ranking ATP: Italia con 7 Top 100. Zverev, primo giorno da n.1 - SuperTennis",
+      "source": "SuperTennis",
+      "published": "Mon, 02 Nov 2026 08:31:53 GMT"
     },
     {
       "type": "news",
@@ -225,6 +211,20 @@
       "title": "Premier Padel, Major in Kuwait: grande show dei numeri 1. Coello-Tapia senza rivali - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 01 Nov 2026 15:01:11 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Sireix e Razafindranaly eliminano la testa di serie numero 1 e si assicurano un posto in finale al FIP Bronze Cyprus - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Sun, 01 Nov 2026 11:02:36 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Sintes / Zamora: dal FIP Tour ai quarti di finale di un Major, la progressione è reale, anche l'ultimo ostacolo - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Mon, 02 Nov 2026 12:05:00 GMT"
     }
   ]
 }
