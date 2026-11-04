@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T17:37:04.461102+00:00",
+  "updated_at": "2026-11-04T19:42:10.658364+00:00",
   "local_date": "2026-11-04",
   "articles": [
     {
@@ -9,11 +9,11 @@
       "home": "PAE AEK",
       "away": "Real Madrid",
       "time": "18:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 2,
+      "away_score": 3,
+      "is_live": true,
       "local_date": "2026-11-04"
     },
     {
@@ -23,25 +23,11 @@
       "home": "Fenerbahçe",
       "away": "Liverpool",
       "time": "18:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-11-04"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "PSV",
-      "away": "Club Brugge",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 3,
+      "away_score": 2,
+      "is_live": true,
       "local_date": "2026-11-04"
     },
     {
@@ -90,8 +76,8 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Dortmund",
-      "away": "Real Betis",
+      "home": "PSV",
+      "away": "Club Brugge",
       "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -115,116 +101,119 @@
       "local_date": "2026-11-04"
     },
     {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "UFFICIALE – Napoli-Lazio, scelta la sestina arbitrale - Radio Marte",
-      "source": "Radio Marte",
-      "published": "Wed, 04 Nov 2026 15:02:04 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Marotta: \"Dimarco? Esercitata clausola di comune accordo\". Il Milan vuole Tresoldi - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "Wed, 04 Nov 2026 07:07:38 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Operazione Samuel Chukwueze: il comunicato ufficiale - AC Milan | Sito Ufficiale",
-      "source": "AC Milan | Sito Ufficiale",
-      "published": "Wed, 04 Nov 2026 11:00:00 GMT"
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Slavia Praha",
+      "away": "Arsenal",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-04"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Il Milan torna Adidas: accordo record da 500 milioni - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "Wed, 04 Nov 2026 12:07:00 GMT"
+      "title": "Calciomercato Roma, fari puntati su Kvernadze. Pronta l’offerta? - AllRoma",
+      "source": "AllRoma",
+      "published": "2026-11-04T18:11:29+00:00"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Serie A, Lazio in fuga: Inter e Roma inseguono, Como sorprende, Napoli e Juve in difficoltà - Giro FVG",
-      "source": "Giro FVG",
-      "published": "Wed, 04 Nov 2026 16:16:44 GMT"
+      "category": "CALCIOMERCATO",
+      "title": "Dalla Juve all’Inter: Vavassori lancia il Palermo e strega le big | CM - Calciomercato.it",
+      "source": "Calciomercato.it",
+      "published": "2026-11-04T15:30:52+00:00"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Come procurarsi i biglietti per il Liverpool in Champions League 2026/27: calendario della fase campionato, prezzi e altre informazioni - Goal.com",
-      "source": "Goal.com",
-      "published": "Wed, 04 Nov 2026 17:01:32 GMT"
+      "category": "CALCIOMERCATO",
+      "title": "TRIBUNA.COM * SERIE A: «LAZIO, TRATTATIVE AVANZATE PER IL RINNOVO DI GUSTAV ISAKSEN - agenzia giornalistica opinione",
+      "source": "agenzia giornalistica opinione",
+      "published": "2026-11-04T15:10:25+00:00"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Coppa Italia Serie C: Campobasso-Spezia fissata per l'8 dicembre - Spezia Calcio - Sito ufficiale",
-      "source": "Spezia Calcio - Sito ufficiale",
-      "published": "Wed, 04 Nov 2026 09:23:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League: Porto-Napoli in campo alle 21 DIRETTA - ANSA",
-      "source": "ANSA",
-      "published": "Wed, 04 Nov 2026 15:35:50 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Chi va a Torino? 2 posti per 6 tennisti: a Djokovic serve la semifinale a Parigi - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "Wed, 04 Nov 2026 13:23:42 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "WTA Finals 2026, il sorteggio non stupisce Rybakina e Sabalenka mentre Errani/Paolini dovranno trovare risorse nuove per la semifinale - Virgilio",
+      "category": "CALCIOMERCATO",
+      "title": "Lazio, Gattuso ha convinto Lotito: rinnovo subito e rivincita su De Laurentiis, c’è un tabù da sfatare - Virgilio",
       "source": "Virgilio",
-      "published": "Wed, 04 Nov 2026 11:10:00 GMT"
+      "published": "2026-11-04T14:51:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Futsal, Champions League: L84 Torino tra ucraine o kazake. \"Pensiamo a migliorarci\" - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "2026-11-04T19:16:36+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Inter, Marotta diviso tra il progetto per blindare l’inesauribile Thuram e l’assalto al baby-talento da soffiare all’Ajax - Virgilio",
+      "source": "Virgilio",
+      "published": "2026-11-04T19:08:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Lens-Como, le formazioni ufficiali: fuori Baturina, novità Caqueret - 11contro11",
+      "source": "11contro11",
+      "published": "2026-11-04T19:05:12+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Europa League, Spalletti: \"La Juve arriva bene alla sfida con l'AZ, l'assenza di McKennie però pesa\" - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "2026-11-04T18:26:29+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Atp Parigi, i risultati di oggi: Djokovic in campo con Hijikata - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Wed, 04 Nov 2026 14:31:41 GMT"
+      "title": "Atp Parigi, Berrettini piega Humbert e vola agli ottavi: aspettando Alcaraz... - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "2026-11-04T19:29:00+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Cobolli, l’anno del trionfo: finale storica a Parigi e qualificazione alle ATP Finals - RaiNews",
-      "source": "RaiNews",
-      "published": "Wed, 04 Nov 2026 11:24:00 GMT"
+      "title": "Djokovic, il sogno Finals finice qua! Hijikata lo caccia fuori e lo esclude da Torino - Eurosport.it",
+      "source": "Eurosport.it",
+      "published": "2026-11-04T19:18:45+00:00"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Novak Djokovic dice addio alle Nitto ATP Finals di Torino - Quotidiano Piemontese",
+      "source": "Quotidiano Piemontese",
+      "published": "2026-11-04T18:57:17+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Gold Mediolanum Padel Cup, il torinese Rosingana vola in semifinale - Il Torinese",
-      "source": "Il Torinese",
-      "published": "Sun, 01 Nov 2026 23:43:24 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Tour – Fine del percorso per i francesi a Torino, Sireix e Buteau raggiungono i quarti di finale a Cipro. - Padel Magazine",
+      "title": "Campionati del mondo 2026 – Francia/Argentina: Boronad/Robert e Guichard/Blanqué confermati, Fonteny in coppia con Joris - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "Sat, 31 Oct 2026 08:24:28 GMT"
+      "published": "2026-11-04T14:59:54+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Mondiali 2026: la Francia travolge l'Australia, ma per raggiungere i quarti di finale ora serve un miracolo - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Tue, 03 Nov 2026 18:00:06 GMT"
+      "title": "Barcellona vuole essere la capitale mondiale del padel: le Finals ampliano il Sant Jordi per battere il record di presenze - Demócrata",
+      "source": "Demócrata",
+      "published": "2026-11-04T12:42:36+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Campionati del mondo 2026 – Joris e Bergeron ribaltano il risultato contro Meijer/Nolten in un finale al cardiopalma, la Francia è ancora in corsa - Padel Magazine",
+      "title": "Mondiali 2026: Blanqué e Auradou dopo la delusione contro l'Olanda: \"Non dobbiamo buttare via tutto\" - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "Mon, 02 Nov 2026 18:28:49 GMT"
+      "published": "2026-11-04T11:48:14+00:00"
     }
-  ]
+  ],
+  "sources_ok": 5,
+  "sources_total": 5,
+  "warnings": []
 }
