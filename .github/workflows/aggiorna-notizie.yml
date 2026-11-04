@@ -24,7 +24,6 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-
       - name: Aggiorna news.json
         env:
           FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
@@ -40,13 +39,11 @@ jobs:
           from datetime import datetime, timedelta, timezone
           from email.utils import parsedate_to_datetime
           from zoneinfo import ZoneInfo
-
           TZ = ZoneInfo('Europe/Rome')
           NOW = datetime.now(timezone.utc)
           LOCAL = NOW.astimezone(TZ)
           TOKEN = os.getenv('FOOTBALL_DATA_TOKEN', '').strip()
           OUTFILE = 'news.json'
-
           # Competizioni intere solo quelle rilevanti. Le leghe estere sono filtrate per squadra.
           ALL_COMPETITIONS = {'SA', 'CL', 'EL', 'CLI'}
           FOREIGN_LEAGUES = {'PL', 'PD', 'BL1', 'FL1', 'DED', 'PPL'}
@@ -59,15 +56,20 @@ jobs:
               'olympique lyonnais', 'lyon', 'benfica', 'fc porto', 'porto',
               'sporting cp', 'sporting lisbon', 'ajax', 'psv', 'feyenoord',
           )
-          BLOCKED = ('fotogallery', 'guarda il video', 'video:', 'gossip', 'foto:',
-                     'oroscopo', 'highlights', 'social:', 'curiosita')
+          # Escludi notizie marginali, futsal e competizioni giovanili.
+          # Il filtro riguarda gli articoli RSS, non i risultati delle competizioni principali.
+          BLOCKED = (
+              'fotogallery', 'guarda il video', 'video:', 'gossip', 'foto:',
+              'oroscopo', 'highlights', 'social:', 'curiosita',
+              'futsal', 'calcio a 5', 'calcio a cinque',
+              'serie c', 'primavera', 'under 17', 'under 19', 'u17', 'u19'
+          )
           CATEGORY_CONFIG = [
               ('CALCIOMERCATO', '(calciomercato OR trattativa OR cessione OR acquisto OR rinnovo) (Serie A OR Inter OR Milan OR Juventus OR Napoli OR Roma OR Como) when:2d', 4),
               ('CALCIO', '(Serie A OR Coppa Italia OR Champions League OR Europa League OR Conference League) (calcio OR risultato OR allenatore OR infortunio) when:2d', 4),
               ('TENNIS', '(tennis OR Sinner OR Alcaraz OR ATP OR WTA) when:2d', 3),
               ('PADEL', '(Premier Padel OR FIP padel OR padel mondiale) when:2d', 3),
           ]
-
 
           def clean(value):
               return re.sub(r'\s+', ' ', html.unescape(str(value or ''))).strip()
@@ -78,11 +80,9 @@ jobs:
               s = unicodedata.normalize('NFKD', clean(value).casefold())
               return ''.join(c for c in s if not unicodedata.combining(c))
 
-
           def team_is_top(team):
               name = normalized(team.get('name', '') + ' ' + team.get('shortName', ''))
               return any(re.search(r'(?<!\w)' + re.escape(w) + r'(?!\w)', name) for w in TOP_TEAMS)
-
 
           def request_json(url):
               req = urllib.request.Request(url, headers={
@@ -91,7 +91,6 @@ jobs:
               })
               with urllib.request.urlopen(req, timeout=25) as r:
                   return json.load(r)
-
 
           def get_score(match):
               status = match.get('status', '')
@@ -104,7 +103,6 @@ jobs:
                   if home is not None and away is not None:
                       return home, away
               return None, None
-
 
           def fetch_matches():
               if not TOKEN:
@@ -173,7 +171,6 @@ jobs:
                   item.pop('_kickoff')
               return result
 
-
           def fetch_feed(category, query, limit):
               url = ('https://news.google.com/rss/search?q=' + urllib.parse.quote_plus(query)
                      + '&hl=it&gl=IT&ceid=IT:it')
@@ -216,7 +213,6 @@ jobs:
                   row.pop('_date')
               return result
 
-
           def main():
               errors = []
               articles = []
@@ -250,11 +246,9 @@ jobs:
                   f.write('\n')
               print('Creati', len(articles), 'elementi; fonti con problemi:', len(errors))
 
-
           if __name__ == '__main__':
               main()
           PY
-
       - name: Salva solo se cambiato
         run: |
           git config user.name "github-actions[bot]"
