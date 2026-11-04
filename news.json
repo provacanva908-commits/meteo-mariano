@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T19:42:10.658364+00:00",
+  "updated_at": "2026-11-04T19:51:39.487398+00:00",
   "local_date": "2026-11-04",
   "articles": [
     {
@@ -9,11 +9,11 @@
       "home": "PAE AEK",
       "away": "Real Madrid",
       "time": "18:45",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
+      "status": "FINISHED",
+      "status_label": "Finale",
       "home_score": 2,
       "away_score": 3,
-      "is_live": true,
+      "is_live": false,
       "local_date": "2026-11-04"
     },
     {
@@ -23,24 +23,10 @@
       "home": "Fenerbahçe",
       "away": "Liverpool",
       "time": "18:45",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
+      "status": "FINISHED",
+      "status_label": "Finale",
       "home_score": 3,
       "away_score": 2,
-      "is_live": true,
-      "local_date": "2026-11-04"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Porto",
-      "away": "Napoli",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
       "is_live": false,
       "local_date": "2026-11-04"
     },
@@ -78,6 +64,20 @@
       "competition": "UEFA Champions League",
       "home": "PSV",
       "away": "Club Brugge",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-04"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Porto",
+      "away": "Napoli",
       "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -145,9 +145,9 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Futsal, Champions League: L84 Torino tra ucraine o kazake. \"Pensiamo a migliorarci\" - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "2026-11-04T19:16:36+00:00"
+      "title": "Champions League LIVE: Lens-Como in diretta - Football-Magazine.it",
+      "source": "Football-Magazine.it",
+      "published": "2026-11-04T19:45:54+00:00"
     },
     {
       "type": "news",
@@ -173,6 +173,13 @@
     {
       "type": "news",
       "category": "TENNIS",
+      "title": "ATP Parigi, Berrettini non si ferma: batte anche Humbert e approda agli ottavi - Ubitennis",
+      "source": "Ubitennis",
+      "published": "2026-11-04T19:43:33+00:00"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
       "title": "Atp Parigi, Berrettini piega Humbert e vola agli ottavi: aspettando Alcaraz... - Sportmediaset",
       "source": "Sportmediaset",
       "published": "2026-11-04T19:29:00+00:00"
@@ -183,13 +190,6 @@
       "title": "Djokovic, il sogno Finals finice qua! Hijikata lo caccia fuori e lo esclude da Torino - Eurosport.it",
       "source": "Eurosport.it",
       "published": "2026-11-04T19:18:45+00:00"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Novak Djokovic dice addio alle Nitto ATP Finals di Torino - Quotidiano Piemontese",
-      "source": "Quotidiano Piemontese",
-      "published": "2026-11-04T18:57:17+00:00"
     },
     {
       "type": "news",
