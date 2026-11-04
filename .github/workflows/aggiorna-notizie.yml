@@ -8,20 +8,24 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: sport-news-update
+  cancel-in-progress: false
+
 jobs:
   aggiorna:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 4
     steps:
       - name: Scarica repository
         uses: actions/checkout@v4
 
-      - name: Installa Python
+      - name: Configura Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Crea feed sportivo
+      - name: Aggiorna news.json
         env:
           FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
         run: |
@@ -34,602 +38,232 @@ jobs:
           import urllib.request
           import xml.etree.ElementTree as ET
           from datetime import datetime, timedelta, timezone
+          from email.utils import parsedate_to_datetime
           from zoneinfo import ZoneInfo
 
-          ITALY_TZ = ZoneInfo("Europe/Rome")
-          now_italy = datetime.now(ITALY_TZ)
-          today = now_italy.date()
-          tomorrow = today + timedelta(days=1)
+          TZ = ZoneInfo('Europe/Rome')
+          NOW = datetime.now(timezone.utc)
+          LOCAL = NOW.astimezone(TZ)
+          TOKEN = os.getenv('FOOTBALL_DATA_TOKEN', '').strip()
+          OUTFILE = 'news.json'
 
-          FOOTBALL_DATA_TOKEN = os.environ.get("FOOTBALL_DATA_TOKEN", "")
-
-          IMPORTANT_COMPETITIONS = [
-              "Serie A",
-              "UEFA Champions League",
-              "UEFA Europa League",
-              "UEFA Conference League"
+          # Competizioni intere solo quelle rilevanti. Le leghe estere sono filtrate per squadra.
+          ALL_COMPETITIONS = {'SA', 'CL', 'EL', 'CLI'}
+          FOREIGN_LEAGUES = {'PL', 'PD', 'BL1', 'FL1', 'DED', 'PPL'}
+          TOP_TEAMS = (
+              'real madrid', 'barcelona', 'atletico madrid', 'atletico de madrid',
+              'manchester city', 'man city', 'manchester united', 'man united',
+              'liverpool', 'arsenal', 'chelsea', 'tottenham',
+              'bayern munich', 'bayern munchen', 'bayern', 'borussia dortmund', 'dortmund',
+              'paris saint germain', 'psg', 'olympique marseille', 'marseille',
+              'olympique lyonnais', 'lyon', 'benfica', 'fc porto', 'porto',
+              'sporting cp', 'sporting lisbon', 'ajax', 'psv', 'feyenoord',
+          )
+          BLOCKED = ('fotogallery', 'guarda il video', 'video:', 'gossip', 'foto:',
+                     'oroscopo', 'highlights', 'social:', 'curiosita')
+          CATEGORY_CONFIG = [
+              ('CALCIOMERCATO', '(calciomercato OR trattativa OR cessione OR acquisto OR rinnovo) (Serie A OR Inter OR Milan OR Juventus OR Napoli OR Roma OR Como) when:2d', 4),
+              ('CALCIO', '(Serie A OR Coppa Italia OR Champions League OR Europa League OR Conference League) (calcio OR risultato OR allenatore OR infortunio) when:2d', 4),
+              ('TENNIS', '(tennis OR Sinner OR Alcaraz OR ATP OR WTA) when:2d', 3),
+              ('PADEL', '(Premier Padel OR FIP padel OR padel mondiale) when:2d', 3),
           ]
 
-          FOOTBALL_DATA_COMPETITIONS = [
-              "SA",
-              "CL",
-              "EL",
-              "CLI",
-              "PL",
-              "PD",
-              "BL1",
-              "FL1",
-              "DED",
-              "PPL"
-          ]
 
-          TOP_FOREIGN_TEAMS = [
-              "Real Madrid",
-              "Barcelona",
-              "FC Barcelona",
-              "Atlético Madrid",
-              "Atletico Madrid",
-              "Manchester City",
-              "Manchester United",
-              "Liverpool",
-              "Arsenal",
-              "Chelsea",
-              "Tottenham",
-              "Bayern Munich",
-              "FC Bayern München",
-              "Borussia Dortmund",
-              "Paris Saint-Germain",
-              "PSG",
-              "Marseille",
-              "Olympique Marseille",
-              "Lyon",
-              "Olympique Lyonnais",
-              "Benfica",
-              "Porto",
-              "FC Porto",
-              "Sporting CP",
-              "Sporting",
-              "Ajax",
-              "PSV",
-              "Feyenoord"
-          ]
+          def clean(value):
+              return re.sub(r'\s+', ' ', html.unescape(str(value or ''))).strip()
 
-          ITALIAN_TEAMS = [
-              "Inter",
-              "Milan",
-              "Juventus",
-              "Napoli",
-              "Roma",
-              "Lazio",
-              "Atalanta",
-              "Fiorentina",
-              "Bologna",
-              "Torino",
-              "Genoa",
-              "Sampdoria",
-              "Como",
-              "Monza",
-              "Udinese",
-              "Sassuolo",
-              "Parma",
-              "Cagliari",
-              "Lecce",
-              "Verona",
-              "Hellas Verona"
-          ]
 
-          blocked_phrases = [
-              "guarda il video",
-              "video:",
-              "foto:",
-              "fotogallery",
-              "gallery",
-              "highlights",
-              "virale",
-              "sui social",
-              "clicca qui",
-              "da non perdere",
-              "curiosità",
-              "gossip",
-              "retroscena social"
-          ]
+          def normalized(value):
+              import unicodedata
+              s = unicodedata.normalize('NFKD', clean(value).casefold())
+              return ''.join(c for c in s if not unicodedata.combining(c))
 
-          important_keywords = {
-              "CALCIOMERCATO": [
-                  "calciomercato",
-                  "mercato",
-                  "trattativa",
-                  "ufficiale",
-                  "accordo",
-                  "firma",
-                  "prestito",
-                  "rinnovo",
-                  "cessione",
-                  "acquisto",
-                  "offerta",
-                  "inter",
-                  "milan",
-                  "juventus",
-                  "napoli",
-                  "roma",
-                  "lazio",
-                  "atalanta",
-                  "como",
-                  "monza"
-              ],
-              "CALCIO": [
-                  "serie a",
-                  "coppa italia",
-                  "champions",
-                  "champions league",
-                  "europa league",
-                  "conference league",
-                  "nazionale",
-                  "italia",
-                  "milan",
-                  "inter",
-                  "juventus",
-                  "napoli",
-                  "roma",
-                  "lazio",
-                  "atalanta",
-                  "como",
-                  "monza",
-                  "real madrid",
-                  "barcellona",
-                  "barcelona",
-                  "manchester city",
-                  "manchester united",
-                  "liverpool",
-                  "arsenal",
-                  "chelsea",
-                  "bayern",
-                  "psg",
-                  "ufficiale",
-                  "infortunio",
-                  "allenatore",
-                  "convocati",
-                  "calendario",
-                  "partita",
-                  "risultato"
-              ],
-              "TENNIS": [
-                  "sinner",
-                  "atp",
-                  "wta",
-                  "wimbledon",
-                  "us open",
-                  "roland garros",
-                  "australian open",
-                  "ranking",
-                  "torneo",
-                  "finale",
-                  "semifinale",
-                  "vittoria",
-                  "sconfitta",
-                  "alcaraz",
-                  "djokovic"
-              ],
-              "PADEL": [
-                  "padel",
-                  "premier padel",
-                  "fip",
-                  "torneo",
-                  "finale",
-                  "semifinale",
-                  "ranking",
-                  "coello",
-                  "tapia",
-                  "galan",
-                  "lebron"
-              ]
-          }
 
-          def clean_text(value):
-              value = html.unescape(value or "")
-              value = re.sub(r"\s+", " ", value)
-              return value.strip()
+          def team_is_top(team):
+              name = normalized(team.get('name', '') + ' ' + team.get('shortName', ''))
+              return any(re.search(r'(?<!\w)' + re.escape(w) + r'(?!\w)', name) for w in TOP_TEAMS)
 
-          def normalize(value):
-              return clean_text(value).lower()
 
-          def is_blocked(title):
-              normalized = title.lower()
-              return any(phrase in normalized for phrase in blocked_phrases)
+          def request_json(url):
+              req = urllib.request.Request(url, headers={
+                  'X-Auth-Token': TOKEN,
+                  'User-Agent': 'SportNews-MSA/2.0'
+              })
+              with urllib.request.urlopen(req, timeout=25) as r:
+                  return json.load(r)
 
-          def contains_any(text, words):
-              text_norm = normalize(text)
-              for word in words:
-                  if normalize(word) in text_norm:
-                      return True
-              return False
-
-          def importance_score(title, category):
-              normalized = title.lower()
-              score = 0
-
-              for keyword in important_keywords.get(category, []):
-                  if keyword in normalized:
-                      score += 2
-
-              if any(word in normalized for word in [
-                  "oggi",
-                  "domani",
-                  "ufficiale",
-                  "ultim'ora",
-                  "breaking",
-                  "accordo",
-                  "firma",
-                  "live",
-                  "diretta",
-                  "risultato",
-                  "finale"
-              ]):
-                  score += 2
-
-              if any(word in normalized for word in [
-                  "video",
-                  "foto",
-                  "social",
-                  "curiosità",
-                  "gossip"
-              ]):
-                  score -= 6
-
-              return score
-
-          def fetch_google_news(category, query, limit=4):
-              encoded_query = urllib.parse.quote_plus(query)
-
-              feed_url = (
-                  "https://news.google.com/rss/search"
-                  f"?q={encoded_query}"
-                  "&hl=it"
-                  "&gl=IT"
-                  "&ceid=IT:it"
-              )
-
-              request = urllib.request.Request(
-                  feed_url,
-                  headers={
-                      "User-Agent": (
-                          "Mozilla/5.0 "
-                          "(Windows NT 10.0; Win64; x64)"
-                      )
-                  }
-              )
-
-              with urllib.request.urlopen(request, timeout=30) as response:
-                  xml_data = response.read()
-
-              root = ET.fromstring(xml_data)
-
-              results = []
-              seen = set()
-
-              for item in root.findall("./channel/item"):
-                  title = clean_text(item.findtext("title", ""))
-
-                  if not title:
-                      continue
-
-                  normalized = title.lower()
-
-                  if normalized in seen:
-                      continue
-
-                  if is_blocked(title):
-                      continue
-
-                  score = importance_score(title, category)
-
-                  if score < 1:
-                      continue
-
-                  source_element = item.find("source")
-
-                  source = (
-                      clean_text(source_element.text)
-                      if source_element is not None and source_element.text
-                      else "Google News"
-                  )
-
-                  published = clean_text(
-                      item.findtext("pubDate", "")
-                  )
-
-                  results.append({
-                      "type": "news",
-                      "category": category,
-                      "title": title,
-                      "source": source,
-                      "published": published,
-                      "_score": score
-                  })
-
-                  seen.add(normalized)
-
-              results.sort(
-                  key=lambda item: item["_score"],
-                  reverse=True
-              )
-
-              selected = results[:limit]
-
-              for result in selected:
-                  result.pop("_score", None)
-
-              return selected
-
-          def convert_utc_to_italy_time(value):
-              if not value:
-                  return ""
-
-              try:
-                  date = datetime.fromisoformat(
-                      value.replace("Z", "+00:00")
-                  )
-                  local = date.astimezone(ITALY_TZ)
-                  return local.strftime("%H:%M")
-              except Exception:
-                  return ""
-
-          def get_match_local_date(value):
-              try:
-                  date = datetime.fromisoformat(
-                      value.replace("Z", "+00:00")
-                  )
-                  local = date.astimezone(ITALY_TZ)
-                  return local.date()
-              except Exception:
-                  return None
 
           def get_score(match):
-              score = match.get("score", {})
-              full_time = score.get("fullTime", {}) or {}
-              half_time = score.get("halfTime", {}) or {}
+              status = match.get('status', '')
+              score = match.get('score') or {}
+              if status in ('SCHEDULED', 'TIMED', 'POSTPONED', 'CANCELLED'):
+                  return None, None
+              for period in ('fullTime', 'halfTime'):
+                  scores = score.get(period) or {}
+                  home, away = scores.get('home'), scores.get('away')
+                  if home is not None and away is not None:
+                      return home, away
+              return None, None
 
-              home_score = full_time.get("home")
-              away_score = full_time.get("away")
 
-              if home_score is None or away_score is None:
-                  home_score = half_time.get("home")
-                  away_score = half_time.get("away")
-
-              return home_score, away_score
-
-          def status_label(status):
-              labels = {
-                  "SCHEDULED": "In programma",
-                  "TIMED": "In programma",
-                  "IN_PLAY": "LIVE",
-                  "PAUSED": "Intervallo",
-                  "FINISHED": "Finale",
-                  "POSTPONED": "Rinviata",
-                  "SUSPENDED": "Sospesa",
-                  "CANCELED": "Annullata"
-              }
-
-              return labels.get(status, status or "")
-
-          def is_important_match(match):
-              competition = match.get("competition", {}).get("name", "")
-              competition_code = match.get("competition", {}).get("code", "")
-
-              home = match.get("homeTeam", {}).get("shortName") or match.get("homeTeam", {}).get("name", "")
-              away = match.get("awayTeam", {}).get("shortName") or match.get("awayTeam", {}).get("name", "")
-
-              teams_text = home + " " + away
-
-              if competition_code in ["SA", "CL", "EL", "CLI"]:
-                  return True
-
-              if contains_any(competition, IMPORTANT_COMPETITIONS):
-                  return True
-
-              if contains_any(teams_text, ITALIAN_TEAMS):
-                  return True
-
-              if contains_any(teams_text, TOP_FOREIGN_TEAMS):
-                  return True
-
-              return False
-
-          def fetch_matches_for_competition(code):
-              url = (
-                  "https://api.football-data.org/v4/matches"
-                  "?competitions=" + code +
-                  "&dateFrom=" + today.isoformat() +
-                  "&dateTo=" + tomorrow.isoformat()
-              )
-
-              request = urllib.request.Request(
-                  url,
-                  headers={
-                      "X-Auth-Token": FOOTBALL_DATA_TOKEN,
-                      "User-Agent": "Mozilla/5.0"
-                  }
-              )
-
-              with urllib.request.urlopen(request, timeout=30) as response:
-                  data = json.loads(
-                      response.read().decode("utf-8")
-                  )
-
-              return data.get("matches", [])
-
-          def fetch_football_matches():
-              if not FOOTBALL_DATA_TOKEN:
-                  print("FOOTBALL_DATA_TOKEN assente")
-                  return []
-
-              all_matches = []
-              seen_ids = set()
-
-              for code in FOOTBALL_DATA_COMPETITIONS:
-                  try:
-                      matches = fetch_matches_for_competition(code)
-
-                      for match in matches:
-                          match_id = match.get("id")
-
-                          if match_id in seen_ids:
-                              continue
-
-                          seen_ids.add(match_id)
-                          all_matches.append(match)
-
-                  except Exception as error:
-                      print(
-                          "Errore recupero competizione",
-                          code,
-                          error
-                      )
-
-              result = []
-
-              priority = {
-                  "IN_PLAY": 1,
-                  "PAUSED": 2,
-                  "FINISHED": 3,
-                  "TIMED": 4,
-                  "SCHEDULED": 5
-              }
-
-              for match in all_matches:
-                  if not is_important_match(match):
-                      continue
-
-                  status = match.get("status", "")
-                  utc_date = match.get("utcDate", "")
-                  local_date = get_match_local_date(utc_date)
-
-                  if local_date not in [today, tomorrow]:
-                      continue
-
-                  home = match.get("homeTeam", {}).get("shortName") or match.get("homeTeam", {}).get("name", "")
-                  away = match.get("awayTeam", {}).get("shortName") or match.get("awayTeam", {}).get("name", "")
-                  competition = match.get("competition", {}).get("name", "Calcio")
-
-                  home_score, away_score = get_score(match)
-
-                  item = {
-                      "type": "match",
-                      "category": "CALCIO",
-                      "competition": competition,
-                      "home": home,
-                      "away": away,
-                      "time": convert_utc_to_italy_time(utc_date),
-                      "status": status,
-                      "status_label": status_label(status),
-                      "home_score": home_score,
-                      "away_score": away_score,
-                      "is_live": status in ["IN_PLAY", "PAUSED"],
-                      "local_date": str(local_date),
-                      "_priority": priority.get(status, 9)
-                  }
-
-                  result.append(item)
-
-              result.sort(
-                  key=lambda item: (
-                      item["_priority"],
-                      item.get("local_date", ""),
-                      item.get("time", "")
-                  )
-              )
-
-              selected = result[:8]
-
-              for item in selected:
-                  item.pop("_priority", None)
-
-              if not selected:
-                  return [{
-                      "type": "message",
-                      "category": "CALCIO",
-                      "title": "Nessuna partita rilevante in programma oggi tra Serie A, coppe europee e top club",
-                      "source": "football-data.org"
-                  }]
-
-              return selected
-
-          articles = []
-
-          try:
-              articles.extend(
-                  fetch_football_matches()
-              )
-          except Exception as error:
-              print("Errore recupero risultati calcio:", error)
-              articles.append({
-                  "type": "message",
-                  "category": "CALCIO",
-                  "title": "Risultati calcio momentaneamente non disponibili",
-                  "source": "football-data.org"
+          def fetch_matches():
+              if not TOKEN:
+                  raise RuntimeError('Secret FOOTBALL_DATA_TOKEN mancante')
+              # Un'unica chiamata, anziché una per campionato. Il servizio restituisce
+              # solo le competizioni che l'account è autorizzato a leggere.
+              qs = urllib.parse.urlencode({
+                  'dateFrom': (LOCAL.date() - timedelta(days=1)).isoformat(),
+                  'dateTo': (LOCAL.date() + timedelta(days=1)).isoformat()
               })
+              data = request_json('https://api.football-data.org/v4/matches?' + qs)
+              matches = []
+              seen = set()
+              for m in data.get('matches', []):
+                  mid = m.get('id')
+                  if mid in seen:
+                      continue
+                  seen.add(mid)
+                  comp = m.get('competition') or {}
+                  code = comp.get('code', '')
+                  home_team = m.get('homeTeam') or {}
+                  away_team = m.get('awayTeam') or {}
+                  if code not in ALL_COMPETITIONS and not (
+                      code in FOREIGN_LEAGUES and (team_is_top(home_team) or team_is_top(away_team))
+                  ):
+                      continue
+                  start_str = m.get('utcDate') or ''
+                  try:
+                      kickoff = datetime.fromisoformat(start_str.replace('Z', '+00:00')).astimezone(TZ)
+                  except ValueError:
+                      continue
+                  if kickoff.date() not in (LOCAL.date(), LOCAL.date() + timedelta(days=1)):
+                      continue
+                  status = m.get('status', 'SCHEDULED')
+                  scores = get_score(m)
+                  # Non inventare il LIVE: alcune fonti gratuite continuano a segnalare
+                  # TIMED dopo il calcio d'inizio. Mostriamo un'etichetta cauta.
+                  late = status in ('SCHEDULED', 'TIMED') and kickoff < LOCAL - timedelta(minutes=20)
+                  labels = {
+                      'IN_PLAY': 'LIVE', 'PAUSED': 'Intervallo',
+                      'FINISHED': 'Finale', 'SCHEDULED': 'In programma',
+                      'TIMED': 'In programma', 'POSTPONED': 'Rinviata',
+                      'SUSPENDED': 'Sospesa', 'CANCELLED': 'Annullata'
+                  }
+                  item = {
+                      'type': 'match', 'category': 'CALCIO',
+                      'competition': clean(comp.get('name') or 'Calcio'),
+                      'home': clean(home_team.get('shortName') or home_team.get('name') or 'Da definire'),
+                      'away': clean(away_team.get('shortName') or away_team.get('name') or 'Da definire'),
+                      'time': kickoff.strftime('%H:%M'),
+                      'status': status,
+                      'status_label': 'Stato da verificare' if late else labels.get(status, status),
+                      'home_score': scores[0], 'away_score': scores[1],
+                      'is_live': status in ('IN_PLAY', 'PAUSED'),
+                      'local_date': kickoff.date().isoformat(),
+                      '_rank': (0 if status in ('IN_PLAY', 'PAUSED') else
+                                1 if status == 'FINISHED' else
+                                2 if kickoff.date() == LOCAL.date() else 3),
+                      '_kickoff': kickoff.isoformat()
+                  }
+                  matches.append(item)
+              matches.sort(key=lambda m: (m['_rank'], m['_kickoff']))
+              result = matches[:8]
+              for item in result:
+                  item.pop('_rank')
+                  item.pop('_kickoff')
+              return result
 
-          feeds = [
-              (
-                  "CALCIOMERCATO",
-                  'calciomercato OR "mercato serie a" OR "trattativa" OR "ufficiale" OR "accordo"'
-              ),
-              (
-                  "CALCIO",
-                  '"serie a" OR "coppa italia" OR "champions league" OR "europa league" OR "conference league"'
-              ),
-              (
-                  "TENNIS",
-                  'tennis OR ATP OR WTA OR Sinner'
-              ),
-              (
-                  "PADEL",
-                  'padel OR "Premier Padel" OR "FIP"'
-              )
-          ]
 
-          for category, query in feeds:
+          def fetch_feed(category, query, limit):
+              url = ('https://news.google.com/rss/search?q=' + urllib.parse.quote_plus(query)
+                     + '&hl=it&gl=IT&ceid=IT:it')
+              req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+              with urllib.request.urlopen(req, timeout=20) as response:
+                  root = ET.fromstring(response.read())
+              result = []
+              seen = set()
+              for item in root.findall('./channel/item'):
+                  title = clean(item.findtext('title', ''))
+                  key = normalized(title)
+                  if not title or key in seen or any(w in key for w in BLOCKED):
+                      continue
+                  seen.add(key)
+                  try:
+                      published = parsedate_to_datetime(item.findtext('pubDate', ''))
+                      if published.tzinfo is None:
+                          published = published.replace(tzinfo=timezone.utc)
+                  except Exception:
+                      continue
+                  age = NOW - published.astimezone(timezone.utc)
+                  if age < timedelta(minutes=-20) or age > timedelta(hours=48):
+                      continue
+                  # Requisito tematico più rigoroso del generico keyword-score.
+                  if category == 'CALCIOMERCATO' and not any(w in key for w in (
+                      'mercato', 'trattativ', 'ufficial', 'trasferiment', 'prestito',
+                      'rinnov', 'acquist', 'cession', 'accordo', 'firma')):
+                      continue
+                  if category == 'PADEL' and 'padel' not in key and 'fip' not in key:
+                      continue
+                  source_element = item.find('source')
+                  result.append({
+                      'type': 'news', 'category': category,
+                      'title': title, 'source': clean(source_element.text if source_element is not None else 'Google News'),
+                      'published': published.isoformat(), '_date': published.timestamp()
+                  })
+              result.sort(key=lambda a: a['_date'], reverse=True)
+              result = result[:limit]
+              for row in result:
+                  row.pop('_date')
+              return result
+
+
+          def main():
+              errors = []
+              articles = []
               try:
-                  articles.extend(
-                      fetch_google_news(
-                          category,
-                          query,
-                          limit=4
-                      )
-                  )
-              except Exception as error:
-                  print(
-                      f"Errore recupero {category}:",
-                      error
-                  )
+                  articles.extend(fetch_matches())
+              except Exception as e:
+                  errors.append('calcio: ' + str(e))
+                  print('ATTENZIONE: risultati calcio non disponibili:', e)
+              for category, query, limit in CATEGORY_CONFIG:
+                  try:
+                      items = fetch_feed(category, query, limit)
+                      print(category, len(items), 'notizie')
+                      articles.extend(items)
+                  except Exception as e:
+                      errors.append(category + ': ' + str(e))
+                      print('ATTENZIONE:', category, e)
+              # Se tutte le fonti falliscono, lascia intatto il file precedente.
+              # Non trasformare un errore temporaneo in un feed vuoto.
+              if not articles:
+                  raise RuntimeError('Nessun dato valido ottenuto: news.json precedente conservato. ' + '; '.join(errors))
+              data = {
+                  'updated_at': NOW.isoformat(),
+                  'local_date': LOCAL.date().isoformat(),
+                  'articles': articles,
+                  'sources_ok': len(CATEGORY_CONFIG) + 1 - len(errors),
+                  'sources_total': len(CATEGORY_CONFIG) + 1,
+                  'warnings': errors[:5]
+              }
+              with open(OUTFILE, 'w', encoding='utf-8') as f:
+                  json.dump(data, f, ensure_ascii=False, indent=2)
+                  f.write('\n')
+              print('Creati', len(articles), 'elementi; fonti con problemi:', len(errors))
 
-          output = {
-              "updated_at": datetime.now(timezone.utc).isoformat(),
-              "local_date": now_italy.date().isoformat(),
-              "articles": articles
-          }
 
-          with open("news.json", "w", encoding="utf-8") as file:
-              json.dump(
-                  output,
-                  file,
-                  ensure_ascii=False,
-                  indent=2
-              )
-
-          print(f"Salvati {len(articles)} elementi")
+          if __name__ == '__main__':
+              main()
           PY
 
-      - name: Salva news.json
+      - name: Salva solo se cambiato
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git add news.json
-
           if git diff --cached --quiet; then
-            echo "Nessuna modifica"
-          else
-            git commit -m "Aggiorna notizie sportive"
-            git push
+            echo "Nessuna modifica da pubblicare"
+            exit 0
           fi
+          git commit -m "Aggiorna notizie sportive"
+          git pull --rebase origin main
+          git push origin HEAD:main
