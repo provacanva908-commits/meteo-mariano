@@ -1,118 +1,118 @@
 {
-  "updated_at": "2026-11-03T22:18:41.826637+00:00",
-  "local_date": "2026-11-03",
+  "updated_at": "2026-11-04T02:29:27.062457+00:00",
+  "local_date": "2026-11-04",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Shaktar",
-      "away": "Sporting CP",
+      "home": "Fenerbahçe",
+      "away": "Liverpool",
       "time": "18:45",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 0,
-      "away_score": 1,
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-11-03"
+      "local_date": "2026-11-04"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Galatasaray",
-      "away": "Stuttgart",
+      "home": "PAE AEK",
+      "away": "Real Madrid",
       "time": "18:45",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 2,
-      "away_score": 0,
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-11-03"
+      "local_date": "2026-11-04"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Feyenoord",
-      "away": "Inter",
+      "home": "RC Lens",
+      "away": "Como 1907",
       "time": "21:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 0,
-      "away_score": 3,
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-11-03"
+      "local_date": "2026-11-04"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "LASK",
-      "away": "Sl. Bratislava",
+      "home": "Slavia Praha",
+      "away": "Arsenal",
       "time": "21:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 4,
-      "away_score": 0,
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-11-03"
+      "local_date": "2026-11-04"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Atleti",
-      "away": "Bayern",
+      "home": "Dortmund",
+      "away": "Real Betis",
       "time": "21:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 0,
-      "away_score": 2,
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-11-03"
+      "local_date": "2026-11-04"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Man United",
-      "away": "Roma",
+      "home": "RB Leipzig",
+      "away": "Man City",
       "time": "21:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 3,
-      "away_score": 2,
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-11-03"
+      "local_date": "2026-11-04"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Bodø/Glimt",
-      "away": "Lille",
+      "home": "Viking",
+      "away": "Sabah FK",
       "time": "21:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 0,
-      "away_score": 0,
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-11-03"
+      "local_date": "2026-11-04"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Barça",
-      "away": "Aston Villa",
+      "home": "PSV",
+      "away": "Club Brugge",
       "time": "21:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 3,
-      "away_score": 0,
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
       "is_live": false,
-      "local_date": "2026-11-03"
+      "local_date": "2026-11-04"
     },
     {
       "type": "news",
@@ -131,23 +131,16 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "ACWA Power Company annuncia la firma di un accordo di acquisto dell'acqua con la Dubai Electricity and Water Authority - MarketScreener Italia",
-      "source": "MarketScreener Italia",
-      "published": "Tue, 03 Nov 2026 13:34:01 GMT"
+      "title": "Roma - Electrolux, attesa ad ore la firma dell’accordo - VeraTV.it",
+      "source": "VeraTV.it",
+      "published": "Tue, 03 Nov 2026 19:37:45 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Edi Rama, 'possibile rinnovo dell'accordo Italia-Albania nel 2028' - ANSA",
-      "source": "ANSA",
-      "published": "Tue, 03 Nov 2026 17:56:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "+[!STREAMING@TV] AS Roma-Manchester United partita di Champions League in diretta 04 novembre 2026 - Anayasa.gov.tr",
-      "source": "Anayasa.gov.tr",
-      "published": "Tue, 03 Nov 2026 19:32:02 GMT"
+      "title": "Il Milan tornerà a vestire Adidas dal 2028: accordo clamoroso da 500 milioni in 10 anni - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Tue, 03 Nov 2026 23:05:04 GMT"
     },
     {
       "type": "news",
@@ -172,31 +165,45 @@
     },
     {
       "type": "news",
+      "category": "CALCIO",
+      "title": "[DIRETTA@HD] Roma-Manchester United partita di Champions League in diretta trasmette streaming - Anayasa.gov.tr",
+      "source": "Anayasa.gov.tr",
+      "published": "Tue, 03 Nov 2026 21:03:57 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Tennis, ora è ufficiale: Zverev supera Sinner ed è il nuovo numero 1 nel ranking Atp - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "Mon, 02 Nov 2026 10:16:32 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Atp Vienna 2026: Alcaraz in finale con De Minaur, fuori Zverev - Sky Sport",
+      "source": "Sky Sport",
+      "published": "Sat, 31 Oct 2026 13:31:00 GMT"
+    },
+    {
+      "type": "news",
       "category": "TENNIS",
       "title": "ATP Finals 2026: il programma dell'ultimo torneo stagionale, i qualificati e quando si gioca a Torino · Tennis - Olympics",
       "source": "Olympics",
-      "published": "Tue, 03 Nov 2026 09:00:00 GMT"
+      "published": "Tue, 03 Nov 2026 21:59:00 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Alcaraz avvisa Sinner, il duopolio è finito: “Nel 2027 non saremo solo noi due”. I nomi indicati da Carlos - Virgilio",
-      "source": "Virgilio",
-      "published": "Tue, 03 Nov 2026 11:01:00 GMT"
+      "title": "Da oggi Zverev è il nuovo n.1 del tennis: completato il sorpasso su Sinner - RaiNews",
+      "source": "RaiNews",
+      "published": "Tue, 03 Nov 2026 07:53:47 GMT"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Alcaraz rivela: 'Ho avuto paura di non tornare più al mio livello' - Sky Sport",
-      "source": "Sky Sport",
-      "published": "Tue, 03 Nov 2026 11:19:20 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Cobolli qualificato alle Atp Finals di Torino, decisiva la sconfitta di Jodar a Parigi. L'azzurro: «Notti magiche» - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "Tue, 03 Nov 2026 21:25:42 GMT"
+      "category": "PADEL",
+      "title": "Premier Padel Milano: Lebron batte Galan in rimonta e si prende la finale - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "Sat, 17 Oct 2026 07:00:00 GMT"
     },
     {
       "type": "news",
@@ -218,13 +225,6 @@
       "title": "Premier Padel, Major in Kuwait: grande show dei numeri 1. Coello-Tapia senza rivali - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "Sun, 01 Nov 2026 15:01:11 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Sireix e Razafindranaly eliminano la testa di serie numero 1 e si assicurano un posto in finale al FIP Bronze Cyprus - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "Sun, 01 Nov 2026 11:02:36 GMT"
     }
   ]
 }
