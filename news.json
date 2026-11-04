@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-11-04T02:29:27.062457+00:00",
+  "updated_at": "2026-11-04T17:37:04.461102+00:00",
   "local_date": "2026-11-04",
   "articles": [
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Fenerbahçe",
-      "away": "Liverpool",
-      "time": "18:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-11-04"
-    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -34,8 +20,22 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "RC Lens",
-      "away": "Como 1907",
+      "home": "Fenerbahçe",
+      "away": "Liverpool",
+      "time": "18:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-04"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "PSV",
+      "away": "Club Brugge",
       "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -48,22 +48,8 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Slavia Praha",
-      "away": "Arsenal",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-11-04"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Dortmund",
-      "away": "Real Betis",
+      "home": "Porto",
+      "away": "Napoli",
       "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -104,8 +90,22 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "PSV",
-      "away": "Club Brugge",
+      "home": "Dortmund",
+      "away": "Real Betis",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-04"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "RC Lens",
+      "away": "Como 1907",
       "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -117,100 +117,86 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Elimoghale-Juve, firmato il rinnovo di contratto: i dettagli dell'accordo - Tuttosport",
-      "source": "Tuttosport",
-      "published": "Tue, 03 Nov 2026 16:01:00 GMT"
+      "title": "UFFICIALE – Napoli-Lazio, scelta la sestina arbitrale - Radio Marte",
+      "source": "Radio Marte",
+      "published": "Wed, 04 Nov 2026 15:02:04 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Qualifica OSS in Emilia-Romagna: firmato l'accordo per favorire la formazione delle lavoratrici e dei lavoratori - FP CGIL Emilia-Romagna",
-      "source": "FP CGIL Emilia-Romagna",
-      "published": "Tue, 03 Nov 2026 11:07:38 GMT"
+      "title": "Marotta: \"Dimarco? Esercitata clausola di comune accordo\". Il Milan vuole Tresoldi - Eurosport.it",
+      "source": "Eurosport.it",
+      "published": "Wed, 04 Nov 2026 07:07:38 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Roma - Electrolux, attesa ad ore la firma dell’accordo - VeraTV.it",
-      "source": "VeraTV.it",
-      "published": "Tue, 03 Nov 2026 19:37:45 GMT"
+      "title": "Operazione Samuel Chukwueze: il comunicato ufficiale - AC Milan | Sito Ufficiale",
+      "source": "AC Milan | Sito Ufficiale",
+      "published": "Wed, 04 Nov 2026 11:00:00 GMT"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Il Milan tornerà a vestire Adidas dal 2028: accordo clamoroso da 500 milioni in 10 anni - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Tue, 03 Nov 2026 23:05:04 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "!$+[DIRETTA] Roma-Manchester United partita di Champions League partita in tv 04 novembre 2026 - Anayasa.gov.tr",
-      "source": "Anayasa.gov.tr",
-      "published": "Tue, 03 Nov 2026 20:53:20 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "[DIRETTA]LIVE!] Manchester United - Roma di Champions League partita in tv 04 novembre 2026 - Anayasa.gov.tr",
-      "source": "Anayasa.gov.tr",
-      "published": "Tue, 03 Nov 2026 20:38:38 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "!$+[DIRETTA] Manchester United-Roma partita di Champions League oggi in diretta 04 novembre 2026 - Anayasa.gov.tr",
-      "source": "Anayasa.gov.tr",
-      "published": "Tue, 03 Nov 2026 20:26:04 GMT"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "[DIRETTA@HD] Roma-Manchester United partita di Champions League in diretta trasmette streaming - Anayasa.gov.tr",
-      "source": "Anayasa.gov.tr",
-      "published": "Tue, 03 Nov 2026 21:03:57 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Tennis, ora è ufficiale: Zverev supera Sinner ed è il nuovo numero 1 nel ranking Atp - Sportmediaset",
+      "title": "Il Milan torna Adidas: accordo record da 500 milioni - Sportmediaset",
       "source": "Sportmediaset",
-      "published": "Mon, 02 Nov 2026 10:16:32 GMT"
+      "published": "Wed, 04 Nov 2026 12:07:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A, Lazio in fuga: Inter e Roma inseguono, Como sorprende, Napoli e Juve in difficoltà - Giro FVG",
+      "source": "Giro FVG",
+      "published": "Wed, 04 Nov 2026 16:16:44 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Come procurarsi i biglietti per il Liverpool in Champions League 2026/27: calendario della fase campionato, prezzi e altre informazioni - Goal.com",
+      "source": "Goal.com",
+      "published": "Wed, 04 Nov 2026 17:01:32 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Coppa Italia Serie C: Campobasso-Spezia fissata per l'8 dicembre - Spezia Calcio - Sito ufficiale",
+      "source": "Spezia Calcio - Sito ufficiale",
+      "published": "Wed, 04 Nov 2026 09:23:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Champions League: Porto-Napoli in campo alle 21 DIRETTA - ANSA",
+      "source": "ANSA",
+      "published": "Wed, 04 Nov 2026 15:35:50 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Atp Vienna 2026: Alcaraz in finale con De Minaur, fuori Zverev - Sky Sport",
+      "title": "Chi va a Torino? 2 posti per 6 tennisti: a Djokovic serve la semifinale a Parigi - Eurosport.it",
+      "source": "Eurosport.it",
+      "published": "Wed, 04 Nov 2026 13:23:42 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "WTA Finals 2026, il sorteggio non stupisce Rybakina e Sabalenka mentre Errani/Paolini dovranno trovare risorse nuove per la semifinale - Virgilio",
+      "source": "Virgilio",
+      "published": "Wed, 04 Nov 2026 11:10:00 GMT"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Atp Parigi, i risultati di oggi: Djokovic in campo con Hijikata - Sky Sport",
       "source": "Sky Sport",
-      "published": "Sat, 31 Oct 2026 13:31:00 GMT"
+      "published": "Wed, 04 Nov 2026 14:31:41 GMT"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Finals 2026: il programma dell'ultimo torneo stagionale, i qualificati e quando si gioca a Torino · Tennis - Olympics",
-      "source": "Olympics",
-      "published": "Tue, 03 Nov 2026 21:59:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Da oggi Zverev è il nuovo n.1 del tennis: completato il sorpasso su Sinner - RaiNews",
+      "title": "Cobolli, l’anno del trionfo: finale storica a Parigi e qualificazione alle ATP Finals - RaiNews",
       "source": "RaiNews",
-      "published": "Tue, 03 Nov 2026 07:53:47 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Premier Padel Milano: Lebron batte Galan in rimonta e si prende la finale - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sat, 17 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Kuwait Major: Coello e Tapia trionfo e per la 4° volta N°1 del FIP Ranking - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "Sat, 31 Oct 2026 18:29:18 GMT"
+      "published": "Wed, 04 Nov 2026 11:24:00 GMT"
     },
     {
       "type": "news",
@@ -222,9 +208,23 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel, Major in Kuwait: grande show dei numeri 1. Coello-Tapia senza rivali - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "Sun, 01 Nov 2026 15:01:11 GMT"
+      "title": "FIP Tour – Fine del percorso per i francesi a Torino, Sireix e Buteau raggiungono i quarti di finale a Cipro. - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Sat, 31 Oct 2026 08:24:28 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Mondiali 2026: la Francia travolge l'Australia, ma per raggiungere i quarti di finale ora serve un miracolo - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Tue, 03 Nov 2026 18:00:06 GMT"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Campionati del mondo 2026 – Joris e Bergeron ribaltano il risultato contro Meijer/Nolten in un finale al cardiopalma, la Francia è ancora in corsa - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "Mon, 02 Nov 2026 18:28:49 GMT"
     }
   ]
 }
