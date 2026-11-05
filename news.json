@@ -1,126 +1,7 @@
 {
-  "updated_at": "2026-11-04T22:53:19.375590+00:00",
-  "local_date": "2026-11-04",
+  "updated_at": "2026-11-05T03:17:05.866318+00:00",
+  "local_date": "2026-11-05",
   "articles": [
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Fenerbahçe",
-      "away": "Liverpool",
-      "time": "18:45",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 3,
-      "away_score": 2,
-      "is_live": false,
-      "local_date": "2026-11-04"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "PAE AEK",
-      "away": "Real Madrid",
-      "time": "18:45",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 2,
-      "away_score": 3,
-      "is_live": false,
-      "local_date": "2026-11-04"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "RC Lens",
-      "away": "Como 1907",
-      "time": "21:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 1,
-      "away_score": 9,
-      "is_live": false,
-      "local_date": "2026-11-04"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Slavia Praha",
-      "away": "Arsenal",
-      "time": "21:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 1,
-      "away_score": 2,
-      "is_live": false,
-      "local_date": "2026-11-04"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Dortmund",
-      "away": "Real Betis",
-      "time": "21:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 2,
-      "away_score": 1,
-      "is_live": false,
-      "local_date": "2026-11-04"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "RB Leipzig",
-      "away": "Man City",
-      "time": "21:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 2,
-      "away_score": 3,
-      "is_live": false,
-      "local_date": "2026-11-04"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Viking",
-      "away": "Sabah FK",
-      "time": "21:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 4,
-      "away_score": 1,
-      "is_live": false,
-      "local_date": "2026-11-04"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "PSV",
-      "away": "Club Brugge",
-      "time": "21:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 1,
-      "away_score": 2,
-      "is_live": false,
-      "local_date": "2026-11-04"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Serie A: Napoli, si cercano botti da Champions. Milan-Camarda… - gazzettaGranata",
-      "source": "gazzettaGranata",
-      "published": "2026-11-04T20:36:39+00:00"
-    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -131,9 +12,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, fari puntati su Kvernadze. Pronta l’offerta? - AllRoma",
-      "source": "AllRoma",
-      "published": "2026-11-04T18:11:29+00:00"
+      "title": "Calciomercato Serie A: Napoli, si cercano botti da Champions. Milan-Camarda… - gazzettaGranata",
+      "source": "gazzettaGranata",
+      "published": "2026-11-04T20:01:12+00:00"
     },
     {
       "type": "news",
@@ -144,73 +25,80 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Como, è la vittoria esterna con scarto più ampio della storia della Champions League - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "2026-11-04T22:19:19+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League, Como nella storia: Lens spazzato via 9-1 - QS Quotidiano Sportivo",
-      "source": "QS Quotidiano Sportivo",
-      "published": "2026-11-04T22:18:31+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Quel ramo del lago di Como… che travolge l’Europa: 9 gol al Lens, in Champions League è una serata storica! - StrettoWeb",
-      "source": "StrettoWeb",
-      "published": "2026-11-04T22:08:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Champions League, Donnarumma disastroso a Lipsia: lo salva Haaland. Tresoldi inarrestabile, Mancini sogna. Risultati e classifica - Virgilio",
+      "category": "CALCIOMERCATO",
+      "title": "Lazio, Gattuso ha convinto Lotito: rinnovo subito e rivincita su De Laurentiis, c’è un tabù da sfatare - Virgilio",
       "source": "Virgilio",
-      "published": "2026-11-04T22:07:00+00:00"
+      "published": "2026-11-04T14:51:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Dove vedere tutte le partite della Roma in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
+      "source": "Goal.com",
+      "published": "2026-11-05T00:37:06+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Partite oggi, stasera e domani: guida alla Diretta TV - Calcio News 24",
+      "source": "Calcio News 24",
+      "published": "2026-11-05T00:09:33+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Champions League, Lens-Como: goleada show per Fabregas - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "2026-11-04T22:45:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Chi è Matteo Papaccioli, giovane gioiello del Como che ha segnato a Lens all'esordio in Champions League - Goal.com",
+      "source": "Goal.com",
+      "published": "2026-11-04T22:30:04+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Musetti, pensiero e azione: così ha battuto Zverev - SuperTennis",
-      "source": "SuperTennis",
-      "published": "2026-11-04T22:22:08+00:00"
+      "title": "Atp Parigi, Djokovic eliminato al secondo turno, addio alle Atp Finals dove si qualifica Fils - Cremaoggi",
+      "source": "Cremaoggi",
+      "published": "2026-11-05T00:08:55+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Berrettini vince con classe: agli ottavi c'è Alcaraz - SuperTennis",
-      "source": "SuperTennis",
-      "published": "2026-11-04T22:22:08+00:00"
+      "title": "Atp Parigi, Djokovic eliminato al secondo turno, addio alle Atp Finals dove si qualifica Fils - OglioPoNews",
+      "source": "OglioPoNews",
+      "published": "2026-11-05T00:01:48+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Parigi, Zverev: “Sono l’unico numero 1 che deve spiegare perché merita di esserlo” - Ubitennis",
-      "source": "Ubitennis",
-      "published": "2026-11-04T22:09:05+00:00"
+      "title": "ATP Parigi 2026, capolavoro Musetti. Berrettini sfiderà Alcaraz, Djokovic dice addio alle Finals - OA Sport",
+      "source": "OA Sport",
+      "published": "2026-11-04T23:29:15+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Campionati del mondo 2026 – Francia/Argentina: Boronad/Robert e Guichard/Blanqué confermati, Fonteny in coppia con Joris - Padel Magazine",
+      "title": "Campionati del mondo 2026: Fonteny e Joris mettono in difficoltà Tapia e Libaak, risvegliando rimpianti nella squadra francese - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "2026-11-04T14:59:54+00:00"
+      "published": "2026-11-04T22:47:52+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Campionati del mondo 2026 – La nazionale femminile francese surclassata dall'Argentina, ma la cosa più importante è altrove: si accede ai quarti di finale - Padel Magazine",
+      "title": "Mondiali 2026: la Francia condannata a giocarsi il nono posto... e si comincia contro il Qatar. - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "2026-11-04T14:40:09+00:00"
+      "published": "2026-11-04T22:24:36+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Barcellona vuole essere la capitale mondiale del padel: le Finals ampliano il Sant Jordi per battere il record di presenze - Demócrata",
-      "source": "Demócrata",
-      "published": "2026-11-04T12:42:36+00:00"
+      "title": "Campionati del mondo 2026: la Francia evita l'Italia, affronta nuovamente l'Olanda e vede già profilarsi all'orizzonte la finale per la medaglia di bronzo. - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "2026-11-04T21:22:43+00:00"
     }
   ],
   "sources_ok": 5,
