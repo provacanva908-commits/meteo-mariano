@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-11-05T18:49:32.613518+00:00",
-  "local_date": "2026-11-05",
+  "updated_at": "2026-11-05T23:53:32.402887+00:00",
+  "local_date": "2026-11-06",
   "articles": [
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Venezia FC",
+      "away": "Udinese",
+      "time": "20:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-06"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Possibile sfida sul mercato per Bakola tra la Juve e un altro club di Serie A: probabile affondo già a gennaio? Le ultime e il prezzo fissato dal Sassuolo - Juventus News 24",
+      "source": "Juventus News 24",
+      "published": "2026-11-05T17:45:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Ex Juventus, Damien Comolli: \"Pisa già da Serie A senza scomodare il mercato di gennaio\" - Calciomercato",
+      "source": "Calciomercato",
+      "published": "2026-11-05T17:22:00+00:00"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -18,87 +46,73 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Genoa-Milan pronostico e quote: la chicca dell'esperto - Calciomercato",
-      "source": "Calciomercato",
-      "published": "2026-11-05T14:22:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "TRIBUNA.COM * SERIE A: «RINNOVO MCTOMINAY-NAPOLI, ACCORDO VICINO MA IL GIOCATORE CHIEDE CHIAREZZA SUL FUTURO DEL CLUB - Opinione Agenzia Giornalistica",
-      "source": "Opinione Agenzia Giornalistica",
-      "published": "2026-11-05T14:10:00+00:00"
-    },
-    {
-      "type": "news",
       "category": "CALCIO",
-      "title": "Italia, Mancini spiazza tutti con i convocati: quattro novità assolute, ci sono Palestra e Zaniolo ma manca Retegui - Virgilio",
+      "title": "Kolo Muani si sblocca, Vlahovic affonda: Besiktas ko in Europa League, Italiano e l’ex Juve travolti dalle critiche - Virgilio",
       "source": "Virgilio",
-      "published": "2026-11-05T18:18:00+00:00"
+      "published": "2026-11-05T22:52:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Italia, i convocati di Mancini per Francia e Belgio: dentro Cissè, Lontani, Liberali e Cassano - Eurosport.it",
+      "title": "Pronostici calcio 6 novembre 2026 | Calciomagazine - Calciomagazine",
+      "source": "Calciomagazine",
+      "published": "2026-11-05T22:42:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Conference League, Atalanta-Kairat Almaty 1-1: i nerazzurri pareggiano col brivido - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "2026-11-05T22:32:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Jesus deluso: “Ritiro di Ronaldo? Gli avevo chiesto di restare al mio fianco” - Eurosport.it",
       "source": "Eurosport.it",
-      "published": "2026-11-05T18:16:11+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Roberto Galia in esclusiva: “Fabregas allenatore vero, Como ha fame di traguardi importanti. Cosa manca alla Juve” - Virgilio",
-      "source": "Virgilio",
-      "published": "2026-11-05T17:56:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Nottataccia per la Juve prima della sfida contro l'Az Alkmaar, cosa è accaduto - Virgilio",
-      "source": "Virgilio",
-      "published": "2026-11-05T17:31:00+00:00"
+      "published": "2026-11-05T22:16:51+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Carlos Alcaraz: «Il tennis ha bisogno di Sinner, mi manca incontrarlo negli spogliatoi» - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "2026-11-05T18:32:37+00:00"
+      "title": "Terni, Claudio Pistolesi presenta il suo libro: ‘C’era una volta il (mio) tennis’ - UmbriaON",
+      "source": "UmbriaON",
+      "published": "2026-11-05T23:45:37+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Parigi: favola Hijikata, Paul sogna ancora la qualificazione alle Finals - Ubitennis",
-      "source": "Ubitennis",
-      "published": "2026-11-05T18:19:05+00:00"
+      "title": "Sorana Cîrstea - Alexandra Shubladze Riassunto della partita - www.eurosport.it",
+      "source": "www.eurosport.it",
+      "published": "2026-11-05T23:12:21+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Corsa verso le ATP Finals: Paul principale insidia per Rafa Jodar - Il Tennis Italiano",
-      "source": "Il Tennis Italiano",
-      "published": "2026-11-05T18:02:58+00:00"
+      "title": "Gabriella Da Silva-Fick/Zhibek Kulambayeva - Weronika Falkowska/Alana Smith Riassunto della partita - www.eurosport.it",
+      "source": "www.eurosport.it",
+      "published": "2026-11-05T23:12:20+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Mondiali, verso Spagna-Argentina: senza Galan cambia tutto? - padelmagazine.it",
-      "source": "padelmagazine.it",
-      "published": "2026-11-05T14:31:26+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "P1000 Ladies On Padel – I favoriti di Majdoubi/Moga, pareggio aperto a Escalquens - Padel Magazine",
+      "title": "Mondiali 2026: una comoda vittoria per la Francia contro il Qatar. - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "2026-11-05T12:31:23+00:00"
+      "published": "2026-11-05T17:08:11+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Campionati del mondo 2026 – Francia/Paesi Bassi: la squadra femminile francese si riunisce con le sue partner abituali per cercare di raggiungere le semifinali. - Padel Magazine",
+      "title": "Mondiali 2026: la Spagna schiaccia la Svezia, ma è nella conferenza stampa che le sue stelle si rivelano - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "2026-11-05T10:24:09+00:00"
+      "published": "2026-11-05T15:12:12+00:00"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Campionati del mondo 2026 – Francia/Qatar: Leygue/Fonteny, Joris/Bergeron e Boronad/Robert schierati per rilanciare la squadra francese - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "2026-11-05T15:10:03+00:00"
     }
   ],
   "sources_ok": 5,
