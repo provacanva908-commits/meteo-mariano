@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T23:53:32.402887+00:00",
+  "updated_at": "2026-11-06T05:40:49.498776+00:00",
   "local_date": "2026-11-06",
   "articles": [
     {
@@ -15,6 +15,13 @@
       "away_score": null,
       "is_live": false,
       "local_date": "2026-11-06"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato, rinforzi all'Aquila e a Celano - Abruzzo Popolare",
+      "source": "Abruzzo Popolare",
+      "published": "2026-11-05T20:18:41+00:00"
     },
     {
       "type": "news",
@@ -39,10 +46,10 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Inter-Como pronostico e quote: la chicca dell'esperto - Calciomercato",
-      "source": "Calciomercato",
-      "published": "2026-11-05T15:10:00+00:00"
+      "category": "CALCIO",
+      "title": "Ostia Mare-Spezia: pronostico, statistiche e orario in tv - SetteCalcio",
+      "source": "SetteCalcio",
+      "published": "2026-11-06T05:00:00+00:00"
     },
     {
       "type": "news",
@@ -54,13 +61,6 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Pronostici calcio 6 novembre 2026 | Calciomagazine - Calciomagazine",
-      "source": "Calciomagazine",
-      "published": "2026-11-05T22:42:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
       "title": "Conference League, Atalanta-Kairat Almaty 1-1: i nerazzurri pareggiano col brivido - Sportmediaset",
       "source": "Sportmediaset",
       "published": "2026-11-05T22:32:00+00:00"
@@ -68,9 +68,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Jesus deluso: “Ritiro di Ronaldo? Gli avevo chiesto di restare al mio fianco” - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "2026-11-05T22:16:51+00:00"
+      "title": "Ranking Uefa per il 5° posto Champions: 4 vittorie su 4 per l'Italia e scatto in classifica - Calciomercato",
+      "source": "Calciomercato",
+      "published": "2026-11-05T22:15:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Finals, non solo tennis: Torino pronta a stupire - Tuttosport",
+      "source": "Tuttosport",
+      "published": "2026-11-06T05:00:00+00:00"
     },
     {
       "type": "news",
@@ -82,16 +89,23 @@
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sorana Cîrstea - Alexandra Shubladze Riassunto della partita - www.eurosport.it",
-      "source": "www.eurosport.it",
-      "published": "2026-11-05T23:12:21+00:00"
+      "title": "Chi va a Torino? 2 posti per 4 tennisti: Jodar, Tiafoe, Fritz e Paul - Eurosport.it",
+      "source": "Eurosport.it",
+      "published": "2026-11-05T23:28:21+00:00"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Gabriella Da Silva-Fick/Zhibek Kulambayeva - Weronika Falkowska/Alana Smith Riassunto della partita - www.eurosport.it",
-      "source": "www.eurosport.it",
-      "published": "2026-11-05T23:12:20+00:00"
+      "category": "PADEL",
+      "title": "Premier Padel 2026: GNP Mexico Major | Live - Red Bull",
+      "source": "Red Bull",
+      "published": "2026-11-06T01:52:01+00:00"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Campionati del mondo 2026: Tapia rende omaggio a Fonteny/Joris, Chingotto parla della pressione e Reca mette in guardia la Spagna - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "2026-11-05T21:38:34+00:00"
     },
     {
       "type": "news",
@@ -99,20 +113,6 @@
       "title": "Mondiali 2026: una comoda vittoria per la Francia contro il Qatar. - Padel Magazine",
       "source": "Padel Magazine",
       "published": "2026-11-05T17:08:11+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Mondiali 2026: la Spagna schiaccia la Svezia, ma è nella conferenza stampa che le sue stelle si rivelano - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "2026-11-05T15:12:12+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Campionati del mondo 2026 – Francia/Qatar: Leygue/Fonteny, Joris/Bergeron e Boronad/Robert schierati per rilanciare la squadra francese - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "2026-11-05T15:10:03+00:00"
     }
   ],
   "sources_ok": 5,
