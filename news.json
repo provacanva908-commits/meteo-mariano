@@ -1,33 +1,138 @@
 {
-  "updated_at": "2026-11-06T19:59:00.710006+00:00",
-  "local_date": "2026-11-06",
+  "updated_at": "2026-11-07T00:03:31.890731+00:00",
+  "local_date": "2026-11-07",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
+      "competition": "Premier League",
+      "home": "Leeds United",
+      "away": "Tottenham",
+      "time": "13:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-07"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Venezia FC",
-      "away": "Udinese",
-      "time": "20:45",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 0,
-      "away_score": 0,
-      "is_live": true,
-      "local_date": "2026-11-06"
+      "home": "Torino",
+      "away": "Lecce",
+      "time": "15:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-07"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Cagliari",
+      "away": "Frosinone",
+      "time": "15:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-07"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Bundesliga",
+      "home": "Mainz",
+      "away": "Bayern",
+      "time": "15:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-07"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Bundesliga",
+      "home": "Dortmund",
+      "away": "Elversberg",
+      "time": "15:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-07"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Premier League",
+      "home": "Arsenal",
+      "away": "Hull City",
+      "time": "16:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-07"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Primera Division",
+      "home": "Espanyol",
+      "away": "Deportivo",
+      "time": "16:15",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-07"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Parma",
+      "away": "Bologna",
+      "time": "18:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-07"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Serie A, Balde è un’opportunità? Il Barcellona valuta offerte: la situazione - DirettaCalcioMercato",
-      "source": "DirettaCalcioMercato",
-      "published": "2026-11-06T18:36:34+00:00"
+      "title": "Calciomercato Oltrepò - I biancorossi rinforzano la squadra. I nomi - Tuttocampo",
+      "source": "Tuttocampo",
+      "published": "2026-11-06T21:03:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato, Icardi vuole l’Italia: una big di Serie A è la pista più concreta - www.lottomatica.sport",
-      "source": "www.lottomatica.sport",
+      "title": "Inter, adesso è ufficiale: arriva un ex Roma - Calciomercato.it",
+      "source": "Calciomercato.it",
+      "published": "2026-11-06T18:48:58+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato, Icardi vuole l’Italia: una big di Serie A è la pista più concreta - Lottomatica.Sport",
+      "source": "Lottomatica.Sport",
       "published": "2026-11-06T18:04:02+00:00"
     },
     {
@@ -39,59 +144,59 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Mercato Torino: il Parma valuta la cessione dell’attaccante ai granata - Sportal.it",
-      "source": "Sportal.it",
-      "published": "2026-11-06T15:04:35+00:00"
+      "category": "CALCIO",
+      "title": "Roma-Sassuolo: dove vedere la partita in TV e streaming, orario e formazioni - Calciomercato",
+      "source": "Calciomercato",
+      "published": "2026-11-06T23:50:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Palestra e Ahanor, la fiducia di Mancini non basta: uno deve conquistare il Chelsea, l’altro è nella bufera - Virgilio",
+      "title": "Le partite di oggi, sabato 7 novembre 2026 | Calciomagazine - Calciomagazine",
+      "source": "Calciomagazine",
+      "published": "2026-11-06T23:35:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Milan attento, rischi 100 milioni! Maxi perdita per il Diavolo se non corre in A ed esce dall'Europa - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "2026-11-06T23:21:13+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Italia, la Polonia tenta Vavassori: Mancini rischia la beffa. L’agente di Calò punge: “Così muore la meritocrazia” - Virgilio",
       "source": "Virgilio",
-      "published": "2026-11-06T19:43:00+00:00"
+      "published": "2026-11-06T23:07:00+00:00"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Napoli, AdL predica calma ma pensa a Montella: l’infortunio di Di Lorenzo e il calendario fanno tremare Allegri - Virgilio",
-      "source": "Virgilio",
-      "published": "2026-11-06T19:01:00+00:00"
+      "category": "TENNIS",
+      "title": "ATP Parigi 2026, Alcaraz salva due match point ed è in semifinale. Continua il sogno di Van Assche - OA Sport",
+      "source": "OA Sport",
+      "published": "2026-11-06T23:53:18+00:00"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "I convocati della Francia: torna Thuram, conferma Da Cunha, 6 \"italiani\" in tutto - Eurosport.it",
+      "category": "TENNIS",
+      "title": "Carlos Alcaraz firma il punto dell'anno? La magia contro Fritz è assurda: rivivi l'incredibile scambio a Parigi - Eurosport.it",
       "source": "Eurosport.it",
-      "published": "2026-11-06T18:27:44+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "È la Francia ma sembra l’Italia, Zidane richiama Thuram: i convocati per la sfida a Mancini e l’elogio al Como - Virgilio",
-      "source": "Virgilio",
-      "published": "2026-11-06T18:20:00+00:00"
+      "published": "2026-11-06T23:13:25+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Parigi: Shelton qualifica Tiafoe alle ATP Finals, sarà semifinale con Van Assche - Ubitennis",
-      "source": "Ubitennis",
-      "published": "2026-11-06T19:52:24+00:00"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "WTA Chennai 2026, Lucrezia Stefanini si ritira sul match point a sfavore nei quarti di finale - OA Sport",
+      "title": "Definiti i qualificati alle ATP Finals 2026 di Torino: Alcaraz fa un regalo a Jodar - OA Sport",
       "source": "OA Sport",
-      "published": "2026-11-06T19:20:12+00:00"
+      "published": "2026-11-06T22:40:38+00:00"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Lorenzo Musetti a Stoccolma: il cambio di regolamento e perché i punti varranno per il ranking ATP del 2027 - OA Sport",
-      "source": "OA Sport",
-      "published": "2026-11-06T18:50:06+00:00"
+      "category": "PADEL",
+      "title": "Mondiali 2026 – La Francia vince 2-1 contro il Messico e giocherà per il 9° posto contro il Paraguay - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "2026-11-06T19:56:37+00:00"
     },
     {
       "type": "news",
@@ -106,13 +211,6 @@
       "title": "Mondiali 2026 – I Bleus svelano la formazione titolare contro il Messico, senza sorprese: Leygue / Fonteny, Bergeron / Joris e Guichard / Blanqué - Padel Magazine",
       "source": "Padel Magazine",
       "published": "2026-11-06T14:20:39+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "P1000 Padel St Charles – Risultati, aggiornamenti in diretta e programma - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "2026-11-06T13:07:33+00:00"
     }
   ],
   "sources_ok": 5,
