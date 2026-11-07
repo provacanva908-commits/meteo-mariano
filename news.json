@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T00:03:31.890731+00:00",
+  "updated_at": "2026-11-07T05:52:14.469127+00:00",
   "local_date": "2026-11-07",
   "articles": [
     {
@@ -9,20 +9,6 @@
       "home": "Leeds United",
       "away": "Tottenham",
       "time": "13:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-11-07"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Torino",
-      "away": "Lecce",
-      "time": "15:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -47,10 +33,10 @@
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Bundesliga",
-      "home": "Mainz",
-      "away": "Bayern",
-      "time": "15:30",
+      "competition": "Serie A",
+      "home": "Torino",
+      "away": "Lecce",
+      "time": "15:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -64,6 +50,20 @@
       "competition": "Bundesliga",
       "home": "Dortmund",
       "away": "Elversberg",
+      "time": "15:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-07"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Bundesliga",
+      "home": "Mainz",
+      "away": "Bayern",
       "time": "15:30",
       "status": "TIMED",
       "status_label": "In programma",
@@ -117,13 +117,6 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Oltrepò - I biancorossi rinforzano la squadra. I nomi - Tuttocampo",
-      "source": "Tuttocampo",
-      "published": "2026-11-06T21:03:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "Inter, adesso è ufficiale: arriva un ex Roma - Calciomercato.it",
       "source": "Calciomercato.it",
       "published": "2026-11-06T18:48:58+00:00"
@@ -144,52 +137,73 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Roma-Sassuolo: dove vedere la partita in TV e streaming, orario e formazioni - Calciomercato",
-      "source": "Calciomercato",
-      "published": "2026-11-06T23:50:00+00:00"
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Milan, Tresoldi e Kaio Jorge incroci pericolosi in attacco con la Juventus - Krosche e quel nome che gli continua a \"frullare nella testa\" - Rumor rossoneri - Il Giornale d'Italia",
+      "source": "Il Giornale d'Italia",
+      "published": "2026-11-06T15:24:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Le partite di oggi, sabato 7 novembre 2026 | Calciomagazine - Calciomagazine",
-      "source": "Calciomagazine",
-      "published": "2026-11-06T23:35:00+00:00"
+      "title": "Parma-Bologna: dove vedere la partita in TV e streaming, orario e formazioni - Calciomercato",
+      "source": "Calciomercato",
+      "published": "2026-11-07T05:09:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Cosa guardare su DAZN durante la sosta - DAZN",
+      "source": "DAZN",
+      "published": "2026-11-07T05:00:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
       "title": "Milan attento, rischi 100 milioni! Maxi perdita per il Diavolo se non corre in A ed esce dall'Europa - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
-      "published": "2026-11-06T23:21:13+00:00"
+      "published": "2026-11-06T23:21:52+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Italia, la Polonia tenta Vavassori: Mancini rischia la beffa. L’agente di Calò punge: “Così muore la meritocrazia” - Virgilio",
-      "source": "Virgilio",
-      "published": "2026-11-06T23:07:00+00:00"
+      "title": "Goztepe v Basaksehir LIVE 07/11/2026 | Calcio - Diretta",
+      "source": "Diretta",
+      "published": "2026-11-06T22:21:50+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Parigi 2026, Alcaraz salva due match point ed è in semifinale. Continua il sogno di Van Assche - OA Sport",
-      "source": "OA Sport",
-      "published": "2026-11-06T23:53:18+00:00"
+      "title": "Tennis – Per la Canottieri Casale una domenica tutta da vivere nel Campionato di Serie A1 - Monferrato Web TV",
+      "source": "Monferrato Web TV",
+      "published": "2026-11-07T05:47:12+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Carlos Alcaraz firma il punto dell'anno? La magia contro Fritz è assurda: rivivi l'incredibile scambio a Parigi - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "2026-11-06T23:13:25+00:00"
+      "title": "Jannik Sinner saluta Darren Cahill, nello staff entra Magnus Norman - L'Eco Vicentino",
+      "source": "L'Eco Vicentino",
+      "published": "2026-11-07T05:41:10+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Definiti i qualificati alle ATP Finals 2026 di Torino: Alcaraz fa un regalo a Jodar - OA Sport",
-      "source": "OA Sport",
-      "published": "2026-11-06T22:40:38+00:00"
+      "title": "Sinner, da Cahill a Norman: la svolta dopo quattro anni. ​«Darren è stato un allenatore e un amico» - Il Messaggero",
+      "source": "Il Messaggero",
+      "published": "2026-11-07T05:00:05+00:00"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Campionati del mondo 2026 – Francia/Paraguay: Les Bleus a una sola vittoria dal 9° posto nel mondo - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "2026-11-06T22:54:50+00:00"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Campionati del mondo 2026 – Francia/Italia: l'attesissimo scontro per il bronzo, le francesi contro una potenza italiana - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "2026-11-06T22:09:28+00:00"
     },
     {
       "type": "news",
@@ -197,20 +211,6 @@
       "title": "Mondiali 2026 – La Francia vince 2-1 contro il Messico e giocherà per il 9° posto contro il Paraguay - Padel Magazine",
       "source": "Padel Magazine",
       "published": "2026-11-06T19:56:37+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Fonteny/Joris dopo la loro \"quasi\" vittoria a sorpresa contro Tapia/Libaak: \"Ci abbiamo creduto fino all'ultimo punto\". - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "2026-11-06T16:27:37+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Mondiali 2026 – I Bleus svelano la formazione titolare contro il Messico, senza sorprese: Leygue / Fonteny, Bergeron / Joris e Guichard / Blanqué - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "2026-11-06T14:20:39+00:00"
     }
   ],
   "sources_ok": 5,
