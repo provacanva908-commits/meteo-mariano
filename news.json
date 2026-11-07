@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-11-07T12:30:42.268285+00:00",
+  "updated_at": "2026-11-07T17:50:20.080891+00:00",
   "local_date": "2026-11-07",
   "articles": [
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Parma",
+      "away": "Bologna",
+      "time": "18:00",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "is_live": true,
+      "local_date": "2026-11-07"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Premier League",
+      "home": "Nottingham",
+      "away": "Man City",
+      "time": "18:30",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 1,
+      "away_score": 0,
+      "is_live": true,
+      "local_date": "2026-11-07"
+    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -9,10 +37,10 @@
       "home": "Leeds United",
       "away": "Tottenham",
       "time": "13:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 0,
       "is_live": false,
       "local_date": "2026-11-07"
     },
@@ -23,10 +51,10 @@
       "home": "Cagliari",
       "away": "Frosinone",
       "time": "15:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 0,
       "is_live": false,
       "local_date": "2026-11-07"
     },
@@ -37,10 +65,10 @@
       "home": "Torino",
       "away": "Lecce",
       "time": "15:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 1,
       "is_live": false,
       "local_date": "2026-11-07"
     },
@@ -51,10 +79,10 @@
       "home": "Dortmund",
       "away": "Elversberg",
       "time": "15:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
+      "away_score": 1,
       "is_live": false,
       "local_date": "2026-11-07"
     },
@@ -65,10 +93,10 @@
       "home": "Mainz",
       "away": "Bayern",
       "time": "15:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 2,
       "is_live": false,
       "local_date": "2026-11-07"
     },
@@ -79,138 +107,110 @@
       "home": "Arsenal",
       "away": "Hull City",
       "time": "16:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-11-07"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Primera Division",
-      "home": "Espanyol",
-      "away": "Deportivo",
-      "time": "16:15",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-11-07"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Parma",
-      "away": "Bologna",
-      "time": "18:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 0,
       "is_live": false,
       "local_date": "2026-11-07"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Roma, mercato di gennaio: Gasp vuole nuovi rinforzi - SetteCalcio",
-      "source": "SetteCalcio",
-      "published": "2026-11-07T12:01:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "TRIBUNA.COM * SERIE A: «MODRIC CUORE ROSSONERO, IL RETROSCENA ESTIVO: \"AL MILAN SONO AMATO, MAI AVUTO DUBBI SUL RINNOVO!\" - agenzia giornalistica opinione",
-      "source": "agenzia giornalistica opinione",
-      "published": "2026-11-07T11:40:31+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Mercato Inter: Calhanoglu verso l’addio, due pretendenti in Serie A - Sportal.it",
-      "source": "Sportal.it",
-      "published": "2026-11-07T10:21:51+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Inter, rinnovo Calhanoglu in salita: distanza sull'ingaggio, Juventus e Como osservano - TUTTOmercatoWEB",
-      "source": "TUTTOmercatoWEB",
-      "published": "2026-11-07T09:33:01+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Infortunati Serie A 11^ giornata: emergenza totale per i club - 11contro11",
-      "source": "11contro11",
-      "published": "2026-11-07T12:25:06+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Napoli-Lazio: dove vedere la partita in TV e streaming, orario e formazioni - Calciomercato",
+      "title": "Icardi torna in Serie A? Quanto chiede d'ingaggio: cifre e dettagli - Calciomercato",
       "source": "Calciomercato",
-      "published": "2026-11-07T11:30:00+00:00"
+      "published": "2026-11-07T17:44:19+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Panchina Napoli, nome clamoroso se salta Allegri: tutti i dettagli - Calciomercato.it",
+      "source": "Calciomercato.it",
+      "published": "2026-11-07T17:22:28+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Serie A, Roma-Sassuolo LIVE - Calciomercato",
+      "source": "Calciomercato",
+      "published": "2026-11-07T16:31:33+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Milan: Cardinale vede in Tresoldi il futuro - 11contro11",
+      "source": "11contro11",
+      "published": "2026-11-07T16:26:04+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Chi è Simone Lontani: quando rifiutare una big ti porta in Nazionale - Virgilio",
+      "title": "Inter-Como: dove vedere in TV e streaming, orario e formazioni - Calciomercato",
+      "source": "Calciomercato",
+      "published": "2026-11-07T17:00:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Como, Suwarso punta in alto: \"Vogliamo diventare come il Barcellona, facendo mercato come Brighton e Brentford. Premier League? Nulla rimane in vetta per sempre, dall'anno scorso la Serie A è come il giorno e la notte. Milan e Roma sempre pronti a collab - Calciomercato",
+      "source": "Calciomercato",
+      "published": "2026-11-07T16:19:33+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "FLASH| Forfait Italia, Mancini out: il ct pesca dall'Udinese per la Nations League - Tribuna.com",
+      "source": "Tribuna.com",
+      "published": "2026-11-07T15:23:42+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Italia, Palma da record: è italiano da pochi giorni e va già in Nazionale, il ct lo chiama al posto di Mancini - Virgilio",
       "source": "Virgilio",
-      "published": "2026-11-07T10:37:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Serie D, gir. A. Altro sabato di campionato per la Fezzanese, i verdi provano a riscattarsi tra le mura amiche contro il Borgosesia - Tuttocampo",
-      "source": "Tuttocampo",
-      "published": "2026-11-07T10:30:00+00:00"
+      "published": "2026-11-07T15:20:00+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Aryna Sabalenka in rosso, le foto ufficiali in top e gonna accendono le Wta Finals - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "2026-11-07T12:17:10+00:00"
+      "title": "Shelton: “Ho detto a Carlos di Ferrero prima dell’annuncio. Mi ha fatto subito i complimenti” - Ubitennis",
+      "source": "Ubitennis",
+      "published": "2026-11-07T17:45:15+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Finals 2026: Cobolli, Bolelli e Vavassori tra i maestri qualificati, il programma e dove vederle in tv - Today",
-      "source": "Today",
-      "published": "2026-11-07T12:15:33+00:00"
+      "title": "Tennis, Shelton batte Van Assche e vola in finale a Parigi - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "2026-11-07T17:34:00+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Jodar vedrà Torino grazie ad Alcaraz! - Tuttosport",
-      "source": "Tuttosport",
-      "published": "2026-11-07T12:15:00+00:00"
+      "title": "Ferrari contro Mecarelli in finale a San Gregorio di Catania - SuperTennis",
+      "source": "SuperTennis",
+      "published": "2026-11-07T17:33:44+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Campionati del Mondo 2026 – Spagna/Argentina: formazioni non sorprendenti per una finale di altissimo livello, con l'attesissimo duello tra Josemaría/Triay e Jensen/Brea - Padel Magazine",
+      "title": "Mondiali: la Spagna suona la decima! Ancora bronzo per le azzurre - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "2026-11-07T10:24:08+00:00"
+      "published": "2026-11-07T16:51:26+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Campionati del mondo 2026 – Nessuna medaglia per le donne francesi, sconfitte per 2-0 dall'Italia nella finale per il terzo posto - Padel Magazine",
+      "title": "Mondiali 2026: le formazioni sono state annunciate, la Spagna tenta la sorte con Goñi/Lebrón per vendicarsi dell'Argentina - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "2026-11-07T10:15:49+00:00"
+      "published": "2026-11-07T14:59:55+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Campionati del mondo 2026 – La nazionale femminile francese perde il primo punto contro l'Italia nonostante un'ottima partita di Touly / Pothier, Collombon / Bahurel non può più permettersi errori - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "2026-11-07T08:46:14+00:00"
+      "title": "Il denaro del Mondiale di Padel: 1,2 milioni in premi e ripartizione ugualitaria - Demócrata",
+      "source": "Demócrata",
+      "published": "2026-11-07T14:35:11+00:00"
     }
   ],
   "sources_ok": 5,
