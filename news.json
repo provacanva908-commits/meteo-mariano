@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T00:48:08.844687+00:00",
+  "updated_at": "2026-11-08T06:46:53.974120+00:00",
   "local_date": "2026-11-08",
   "articles": [
     {
@@ -48,34 +48,6 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "Premier League",
-      "home": "Crystal Palace",
-      "away": "Liverpool",
-      "time": "15:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-11-08"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Genoa",
-      "away": "Milan",
-      "time": "15:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-11-08"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Premier League",
       "home": "Sunderland",
       "away": "Chelsea",
       "time": "15:00",
@@ -103,6 +75,34 @@
     {
       "type": "match",
       "category": "CALCIO",
+      "competition": "Premier League",
+      "home": "Crystal Palace",
+      "away": "Liverpool",
+      "time": "15:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-08"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Genoa",
+      "away": "Milan",
+      "time": "15:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-08"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
       "competition": "Eredivisie",
       "home": "Cambuur",
       "away": "PSV",
@@ -113,6 +113,13 @@
       "away_score": null,
       "is_live": false,
       "local_date": "2026-11-08"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 7 novembre - TUTTOmercatoWEB",
+      "source": "TUTTOmercatoWEB",
+      "published": "2026-11-08T00:00:00+00:00"
     },
     {
       "type": "news",
@@ -137,10 +144,17 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Parma-Bologna, Miranda sostituito per infortunio: le condizioni - Calciomercato",
+      "category": "CALCIO",
+      "title": "Bocchetti riparte dal Fatih Karagumruk: le tappe del mister 39enne - 11contro11",
+      "source": "11contro11",
+      "published": "2026-11-08T06:00:12+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Como, Suwarso punta in alto: \"Vogliamo diventare come il Barcellona, facendo mercato come Brighton e Brentford. Premier League? Nulla rimane in vetta per sempre, dall'anno scorso la Serie A è come il giorno e la notte. Milan e Roma sempre pronti a collab - Calciomercato",
       "source": "Calciomercato",
-      "published": "2026-11-07T17:50:00+00:00"
+      "published": "2026-11-08T04:22:59+00:00"
     },
     {
       "type": "news",
@@ -152,44 +166,44 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Le partite di oggi, domenica 8 novembre 2026 | Calciomagazine - Calciomagazine",
-      "source": "Calciomagazine",
-      "published": "2026-11-07T23:36:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Dalla Juventus del '96 al calcio senza pause: trent'anni dopo il pallone presenta il conto - Bianconera News",
-      "source": "Bianconera News",
-      "published": "2026-11-07T22:40:27+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Como, Suwarso punta in alto: \"Vogliamo diventare come il Barcellona, facendo mercato come Brighton e Brentford. Premier League? Nulla rimane in vetta per sempre, dall'anno scorso la Serie A è come il giorno e la notte. Milan e Roma sempre pronti a collab - Calciomercato",
-      "source": "Calciomercato",
-      "published": "2026-11-07T22:20:05+00:00"
+      "title": "Suwarso (presidente Como) a TNT Sports: \"Ci ispiriamo al Barça, vogliamo diventare come loro\" - Eurosport.it",
+      "source": "Eurosport.it",
+      "published": "2026-11-07T14:11:45+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Quentin Halys/Pierre-Hugues Herbert - Christian Harrison/Neal Skupski Riassunto della partita - www.eurosport.it",
-      "source": "www.eurosport.it",
-      "published": "2026-11-07T23:47:07+00:00"
+      "title": "WTA Finals, Rybakina abbandona: subentra Kostyuk - SuperTennis",
+      "source": "SuperTennis",
+      "published": "2026-11-08T06:40:02+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Nessuna sorpresa a Parigi, la finale sarà una rivincita tra Alcaraz e Shelton - Tennis Magazine Italia",
+      "title": "Masters 1000 Parigi, oggi la finale Alcaraz-Shelton: orario e dove vederla in diretta - Tennis Magazine Italia",
       "source": "Tennis Magazine Italia",
-      "published": "2026-11-07T23:07:39+00:00"
+      "published": "2026-11-08T06:34:49+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Zverev, l’ultimo affronto arriva dall’ATP: Sascha finisce dietro ad Alcaraz. La sentenza di Bertolucci su Sinner e Norman - Virgilio",
-      "source": "Virgilio",
-      "published": "2026-11-07T22:52:00+00:00"
+      "title": "Dove vedere in tv il doppio Errani-Paolini alle Wta Finals 2026 di Indian Wells - Corriere della Sera",
+      "source": "Corriere della Sera",
+      "published": "2026-11-08T06:07:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP World Cup 2026: La Spagna maschile batte l’Argentina - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "2026-11-08T04:09:23+00:00"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP World Cup 2026: Settima di fila per la Spagna femminile - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "2026-11-08T04:09:21+00:00"
     },
     {
       "type": "news",
@@ -197,20 +211,6 @@
       "title": "Campionati del mondo 2026: la Spagna riconquista il titolo mondiale, un Coello fuori dal comune sconfigge l'Argentina - Padel Magazine",
       "source": "Padel Magazine",
       "published": "2026-11-07T21:46:28+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Campionati del mondo 2026 – Argentina/Spagna: terza sfida per il titolo mondiale! - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "2026-11-07T20:28:42+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Campionati del mondo 2026 – Ustero in lacrime, Triay contro Brea: le confessioni dei campioni del mondo - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "2026-11-07T20:15:38+00:00"
     }
   ],
   "sources_ok": 5,
