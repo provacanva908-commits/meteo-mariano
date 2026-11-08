@@ -1,18 +1,32 @@
 {
-  "updated_at": "2026-11-08T13:54:59.851545+00:00",
+  "updated_at": "2026-11-08T18:43:59.739469+00:00",
   "local_date": "2026-11-08",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "Twente",
-      "away": "Ajax",
-      "time": "14:30",
+      "competition": "Serie A",
+      "home": "Inter",
+      "away": "Como 1907",
+      "time": "18:00",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 2,
+      "away_score": 0,
+      "is_live": true,
+      "local_date": "2026-11-08"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Primeira Liga",
+      "home": "Vitória SC",
+      "away": "Porto",
+      "time": "19:00",
       "status": "IN_PLAY",
       "status_label": "LIVE",
       "home_score": 0,
-      "away_score": 1,
+      "away_score": 0,
       "is_live": true,
       "local_date": "2026-11-08"
     },
@@ -47,42 +61,14 @@
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Genoa",
-      "away": "Milan",
-      "time": "15:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-11-08"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Premier League",
-      "home": "Crystal Palace",
-      "away": "Liverpool",
-      "time": "15:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-11-08"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Monza",
-      "away": "Atalanta",
-      "time": "15:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "competition": "Eredivisie",
+      "home": "Twente",
+      "away": "Ajax",
+      "time": "14:30",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
+      "away_score": 2,
       "is_live": false,
       "local_date": "2026-11-08"
     },
@@ -93,124 +79,138 @@
       "home": "Sunderland",
       "away": "Chelsea",
       "time": "15:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 0,
       "is_live": false,
       "local_date": "2026-11-08"
     },
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "Cambuur",
-      "away": "PSV",
-      "time": "16:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "competition": "Serie A",
+      "home": "Monza",
+      "away": "Atalanta",
+      "time": "15:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 0,
+      "away_score": 1,
+      "is_live": false,
+      "local_date": "2026-11-08"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Genoa",
+      "away": "Milan",
+      "time": "15:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 2,
       "is_live": false,
       "local_date": "2026-11-08"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Genoa-Milan, dove vederla in tv e streaming: canale, orario, formazioni - Calciomercato",
+      "title": "Serie A, Fiorentina-Juventus LIVE - Calciomercato",
       "source": "Calciomercato",
-      "published": "2026-11-08T12:54:00+00:00"
+      "published": "2026-11-08T18:00:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan, il destino di Camarda può essere in prestito: in arrivo i primi sondaggi - Pianeta Milan",
-      "source": "Pianeta Milan",
-      "published": "2026-11-08T10:02:10+00:00"
+      "title": "Inter-Como LIVE 2-0 - Calciomercato",
+      "source": "Calciomercato",
+      "published": "2026-11-08T17:43:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Serie A, Napoli-Lazio LIVE dalle 12.30 - Calciomercato",
-      "source": "Calciomercato",
-      "published": "2026-11-08T09:40:00+00:00"
+      "title": "Il rinnovo non arriva e Paratici è in agguato, colpo a zero in Serie A - FiorentinaUno",
+      "source": "FiorentinaUno",
+      "published": "2026-11-08T17:00:40+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Juventus, idea Ødegaard: ultimissime sulla trattativa - SetteCalcio",
-      "source": "SetteCalcio",
-      "published": "2026-11-08T09:00:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Como, Suwarso punta in alto: \"Vogliamo diventare come il Barcellona, facendo mercato come Brighton e Brentford. Premier League? Nulla rimane in vetta per sempre, dall'anno scorso la Serie A è come il giorno e la notte. Milan e Roma sempre pronti a collab - Calciomercato",
+      "title": "Genoa-Milan, le pagelle di CM: Cisse ha il killer istinct, lezione di Modric. Pulisic non si ferma più, cuore Ellertsson - Calciomercato",
       "source": "Calciomercato",
-      "published": "2026-11-08T13:28:30+00:00"
+      "published": "2026-11-08T15:02:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "I risultati dell'8 novembre 2026 | Calciomagazine - Calciomagazine",
-      "source": "Calciomagazine",
-      "published": "2026-11-08T13:00:04+00:00"
+      "title": "Italia, come stanno gli azzurri di Mancini: allarme Donnarumma, Tonali e Zaniolo in affanno, Pio e Frattesi al top - Virgilio",
+      "source": "Virgilio",
+      "published": "2026-11-08T18:17:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Alessandro Matri si confessa: \"Dopo il fallimento al Milan sono andato in depressione, pensavo di avere la SLA\" - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "2026-11-08T12:38:10+00:00"
+      "title": "Diretta gran premio GP Brasile Formula 1 2026 - la Repubblica",
+      "source": "la Repubblica",
+      "published": "2026-11-08T17:48:45+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Fiorentina-Juventus chiude la giornata 11 di Serie A, dove vederla in tv e diretta streaming: orario e formazioni - DAZN",
-      "source": "DAZN",
-      "published": "2026-11-08T12:00:00+00:00"
+      "title": "Diretta Inter - Como (2-0) Serie A 2026 - la Repubblica",
+      "source": "la Repubblica",
+      "published": "2026-11-08T17:00:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A, in campo Inter-Como DIRETTA - ANSA",
+      "source": "ANSA",
+      "published": "2026-11-08T16:58:17+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Junior: Cattaneo \"rompe il ghiaccio\" ad Agno, Cona a Leimen - SuperTennis",
-      "source": "SuperTennis",
-      "published": "2026-11-08T13:35:11+00:00"
+      "title": "Tennis, il Ct Massa Lombarda chiude imbattuto la fase a gironi: ora le semifinali scudetto - Ravenna e Dintorni",
+      "source": "Ravenna e Dintorni",
+      "published": "2026-11-08T18:34:00+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Stoccolma, Sonego entra in tabellone: affiancherà Musetti - Ubitennis",
-      "source": "Ubitennis",
-      "published": "2026-11-08T13:32:23+00:00"
+      "title": "ATP Finals 2026: date, tabellone, programma e dove vedere - Sisal",
+      "source": "Sisal",
+      "published": "2026-11-08T18:33:45+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Stoccolma – Lorenzo Sonego supera le qualificazioni: sconfitto Montes-De La Torre - Il Tennis Italiano",
-      "source": "Il Tennis Italiano",
-      "published": "2026-11-08T13:32:15+00:00"
+      "title": "Alcaraz batte Shelton nella finale ATP di Parigi, 7-6 7-5 - Sofascore",
+      "source": "Sofascore",
+      "published": "2026-11-08T18:25:42+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Dubai P1 – Pesante sconfitta per Fonteny al primo turno di qualificazione; la stanchezza accumulata durante i Campionati del Mondo si è fatta sentire. - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "2026-11-08T10:31:31+00:00"
+      "title": "Dubai P1 – Leygue accede al turno di qualificazione finale, Godallier eliminato al primo turno - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "2026-11-08T16:42:08+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Clarissa Aima, l'orgoglio novarese: bronzo ai Mondiali di padel a Doha al debutto in Nazionale - NovaraToday",
-      "source": "NovaraToday",
-      "published": "2026-11-08T09:41:10+00:00"
+      "title": "Nel padel come nel calcio | la Spagna batte l' Argentina e vince il Mondiale Italia | bronzo donne - Zazoom Social News",
+      "source": "Zazoom Social News",
+      "published": "2026-11-08T14:58:06+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Servizio nel padel: un buon servizio prepara principalmente al terzo colpo - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "2026-11-08T08:31:44+00:00"
+      "title": "Nel padel come nel calcio: la Spagna batte l'Argentina e vince il Mondiale. Italia: bronzo donne - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "2026-11-08T14:50:37+00:00"
     }
   ],
   "sources_ok": 5,
