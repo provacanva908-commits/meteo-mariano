@@ -1,146 +1,48 @@
 {
-  "updated_at": "2026-11-08T22:31:29.651663+00:00",
-  "local_date": "2026-11-08",
+  "updated_at": "2026-11-09T01:56:19.057477+00:00",
+  "local_date": "2026-11-09",
   "articles": [
     {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "Heerenveen",
-      "away": "Feyenoord",
-      "time": "12:15",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 5,
-      "away_score": 3,
-      "is_live": false,
-      "local_date": "2026-11-08"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Napoli",
-      "away": "Lazio",
-      "time": "12:30",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 1,
-      "away_score": 1,
-      "is_live": false,
-      "local_date": "2026-11-08"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "Twente",
-      "away": "Ajax",
-      "time": "14:30",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 2,
-      "away_score": 2,
-      "is_live": false,
-      "local_date": "2026-11-08"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Monza",
-      "away": "Atalanta",
-      "time": "15:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 0,
-      "away_score": 1,
-      "is_live": false,
-      "local_date": "2026-11-08"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Premier League",
-      "home": "Sunderland",
-      "away": "Chelsea",
-      "time": "15:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 1,
-      "away_score": 0,
-      "is_live": false,
-      "local_date": "2026-11-08"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Genoa",
-      "away": "Milan",
-      "time": "15:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 1,
-      "away_score": 2,
-      "is_live": false,
-      "local_date": "2026-11-08"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Premier League",
-      "home": "Crystal Palace",
-      "away": "Liverpool",
-      "time": "15:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 1,
-      "away_score": 3,
-      "is_live": false,
-      "local_date": "2026-11-08"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "Cambuur",
-      "away": "PSV",
-      "time": "16:45",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 2,
-      "away_score": 5,
-      "is_live": false,
-      "local_date": "2026-11-08"
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato no stop - Indiscrezioni, trattative e retroscena dell'8 novembre - TUTTOmercatoWEB",
+      "source": "TUTTOmercatoWEB",
+      "published": "2026-11-09T00:34:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Fiorentina-Juventus, la MOVIOLA: ammonito Cabal - Calciomercato",
+      "title": "Fiorentina-Juventus, le pagelle di CM dei viola: Pellegrino lotta e segna, De Gea rovina tutto su Bremer. Mastantuono si accende a sprazzi - Calciomercato",
       "source": "Calciomercato",
-      "published": "2026-11-08T20:03:00+00:00"
+      "published": "2026-11-08T21:54:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan, sirene arabe per Maignan: emissari in Italia per il portiere rossonero - Pianeta Milan",
-      "source": "Pianeta Milan",
-      "published": "2026-11-08T19:30:39+00:00"
+      "title": "Calciomercato, il Catanzaro punta Camarda: il Milan valuta il prestito - InfoOggi",
+      "source": "InfoOggi",
+      "published": "2026-11-08T21:01:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "L'Inter vince e accorcia in vetta: 2-0 al Como, Chivu secondo a -1 dalla Lazio - Calciomercato",
+      "title": "Fiorentina-Juventus, la MOVIOLA: Kolo Muani chiede due rigori, Oulaï rischia l'espulsione. Annullato goal a Dragusin - Calciomercato",
       "source": "Calciomercato",
-      "published": "2026-11-08T18:56:00+00:00"
+      "published": "2026-11-08T20:35:00+00:00"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Serie A, Fiorentina-Juventus LIVE - Calciomercato",
-      "source": "Calciomercato",
-      "published": "2026-11-08T18:00:00+00:00"
+      "category": "CALCIO",
+      "title": "Il Napoli reagisce tra i fischi, Allegri manda tutti in vacanza. Alla sosta la Lazio sola in testa - la Repubblica",
+      "source": "la Repubblica",
+      "published": "2026-11-08T23:01:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Italia, contro Belgio e Francia come due finali. Mancini allunga la lista: convocato anche Gatti - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "2026-11-08T22:49:35+00:00"
     },
     {
       "type": "news",
@@ -158,44 +60,37 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Classifica Serie A 2026-2027: Napoli al 10° posto - CalcioNapoli24",
-      "source": "CalcioNapoli24",
-      "published": "2026-11-08T22:00:10+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Nations League: Mancini convoca anche Gatti - ANSA",
-      "source": "ANSA",
-      "published": "2026-11-08T21:54:00+00:00"
-    },
-    {
-      "type": "news",
       "category": "TENNIS",
-      "title": "WTA Finals: Molti errori, nel match delle debuttanti Noskova ha ragione di Kostyuk in due set - Ubitennis",
+      "title": "WTA Finals: Pegula spreca, Gauff vince alla distanza - Ubitennis",
       "source": "Ubitennis",
-      "published": "2026-11-08T22:21:44+00:00"
+      "published": "2026-11-09T01:04:24+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Buona la prima per Linda Noskova alle WTA Finals 2026: batte Kostyuk in due set - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "2026-11-08T21:59:45+00:00"
+      "title": "Come acquistare i biglietti per le Nitto ATP Finals 2026: programma a Torino, prezzi, informazioni sulla sede e altro - Goal.com",
+      "source": "Goal.com",
+      "published": "2026-11-09T00:55:04+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "WTA Finals 2026, Linda Noskova supera Marta Kostyuk all’esordio nella fase a gironi - OA Sport",
+      "title": "WTA Finals 2026, Coco Gauff vince il derby all’esordio contro Pegula - OA Sport",
       "source": "OA Sport",
-      "published": "2026-11-08T21:56:46+00:00"
+      "published": "2026-11-09T00:52:57+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Dubai P1 – Leygue accede al turno di qualificazione finale, Godallier eliminato al primo turno - padel-magazine.it",
-      "source": "padel-magazine.it",
+      "title": "Galán conferma Chingalán nel 2027: nuova squadra, infortunio e obiettivo numero uno al mondo - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "2026-11-08T20:51:15+00:00"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Dubai P1 – Leygue accede al turno di qualificazione finale, Godallier eliminato al primo turno - Padel Magazine",
+      "source": "Padel Magazine",
       "published": "2026-11-08T16:42:08+00:00"
     },
     {
@@ -204,13 +99,6 @@
       "title": "Nel padel come nel calcio | la Spagna batte l' Argentina e vince il Mondiale Italia | bronzo donne - Zazoom Social News",
       "source": "Zazoom Social News",
       "published": "2026-11-08T14:58:06+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Nel padel come nel calcio: la Spagna batte l'Argentina e vince il Mondiale. Italia: bronzo donne - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "2026-11-08T14:50:37+00:00"
     }
   ],
   "sources_ok": 5,
