@@ -1,83 +1,90 @@
 {
-  "updated_at": "2026-11-09T01:56:19.057477+00:00",
+  "updated_at": "2026-11-09T09:36:40.810226+00:00",
   "local_date": "2026-11-09",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato no stop - Indiscrezioni, trattative e retroscena dell'8 novembre - TUTTOmercatoWEB",
-      "source": "TUTTOmercatoWEB",
-      "published": "2026-11-09T00:34:00+00:00"
+      "title": "Inter, rinnovi: le novità su Dimarco e Carlos Augusto - CalcioStyle",
+      "source": "CalcioStyle",
+      "published": "2026-11-09T08:31:06+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Fiorentina-Juventus, le pagelle di CM dei viola: Pellegrino lotta e segna, De Gea rovina tutto su Bremer. Mastantuono si accende a sprazzi - Calciomercato",
+      "title": "Napoli, Noa Lang verso la cessione: l'Atalanta è interessata - Atalanta Oggi",
+      "source": "Atalanta Oggi",
+      "published": "2026-11-09T08:16:25+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Serie A, la top 11 della 11a giornata: da Kolo Muani a Mora e Spence, chi sono stati i migliori - Calciomercato",
       "source": "Calciomercato",
-      "published": "2026-11-08T21:54:00+00:00"
+      "published": "2026-11-09T08:06:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato, il Catanzaro punta Camarda: il Milan valuta il prestito - InfoOggi",
-      "source": "InfoOggi",
-      "published": "2026-11-08T21:01:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Fiorentina-Juventus, la MOVIOLA: Kolo Muani chiede due rigori, Oulaï rischia l'espulsione. Annullato goal a Dragusin - Calciomercato",
-      "source": "Calciomercato",
-      "published": "2026-11-08T20:35:00+00:00"
+      "title": "L'Inter si avvicina alla vetta della Serie A dopo l'acquisto di Como, ex giocatore di Fabregas. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "published": "2026-11-09T07:21:18+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Il Napoli reagisce tra i fischi, Allegri manda tutti in vacanza. Alla sosta la Lazio sola in testa - la Repubblica",
-      "source": "la Repubblica",
-      "published": "2026-11-08T23:01:00+00:00"
+      "title": "Inter Milan, Kamara nel mercato: l'ostacolo Aston Villa - SetteCalcio",
+      "source": "SetteCalcio",
+      "published": "2026-11-09T09:33:14+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Italia, contro Belgio e Francia come due finali. Mancini allunga la lista: convocato anche Gatti - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "2026-11-08T22:49:35+00:00"
+      "title": "Mercato Juve, Cambiaso: Barça a 25 mln, United in pista - CalcioStyle",
+      "source": "CalcioStyle",
+      "published": "2026-11-09T09:14:03+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Gasperini si commuove per l'Atalanta: \"La finale di Europa League era la partita più difficile\" - Tutto Atalanta",
-      "source": "Tutto Atalanta",
-      "published": "2026-11-08T22:06:41+00:00"
+      "title": "Cesena calcio. Sandro Mencucci è il nuovo direttore esecutivo - - Corriere Cesenate",
+      "source": "- Corriere Cesenate",
+      "published": "2026-11-09T08:21:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Nations League: il ct azzurro Mancini convoca anche Gatti - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "2026-11-08T22:01:38+00:00"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "WTA Finals: Pegula spreca, Gauff vince alla distanza - Ubitennis",
-      "source": "Ubitennis",
-      "published": "2026-11-09T01:04:24+00:00"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Come acquistare i biglietti per le Nitto ATP Finals 2026: programma a Torino, prezzi, informazioni sulla sede e altro - Goal.com",
+      "title": "Dove vedere tutte le partite del Como in Serie A, Champions League e Coppa Italia in tv e in streaming: programmazione e costi degli abbonamenti - Goal.com",
       "source": "Goal.com",
-      "published": "2026-11-09T00:55:04+00:00"
+      "published": "2026-11-09T08:05:16+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "WTA Finals 2026, Coco Gauff vince il derby all’esordio contro Pegula - OA Sport",
-      "source": "OA Sport",
-      "published": "2026-11-09T00:52:57+00:00"
+      "title": "Leandro Riedi: \"Ho tentato il suicidio, vincere nel tennis non conta. Oggi sono grato di essere vivo\" - Fanpage",
+      "source": "Fanpage",
+      "published": "2026-11-09T09:32:28+00:00"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Il Circolo Tennis Massa Lombarda non conosce sconfitte: Vicenza ko 4-2, ora i playoff - Il Nuovo Diario Messaggero",
+      "source": "Il Nuovo Diario Messaggero",
+      "published": "2026-11-09T09:27:22+00:00"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Quote vincente Atp Finals 2026: Cobolli sfida Alcaraz e Zverev - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "2026-11-09T09:21:53+00:00"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Watch Antenna | Mondiale padel Live Stream Online | DAZN IT - DAZN",
+      "source": "DAZN",
+      "published": "2026-11-09T00:00:00+00:00"
     },
     {
       "type": "news",
@@ -92,13 +99,6 @@
       "title": "Dubai P1 – Leygue accede al turno di qualificazione finale, Godallier eliminato al primo turno - Padel Magazine",
       "source": "Padel Magazine",
       "published": "2026-11-08T16:42:08+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Nel padel come nel calcio | la Spagna batte l' Argentina e vince il Mondiale Italia | bronzo donne - Zazoom Social News",
-      "source": "Zazoom Social News",
-      "published": "2026-11-08T14:58:06+00:00"
     }
   ],
   "sources_ok": 5,
