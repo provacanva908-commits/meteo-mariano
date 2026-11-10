@@ -1,83 +1,97 @@
 {
-  "updated_at": "2026-11-10T18:11:00.606190+00:00",
-  "local_date": "2026-11-10",
+  "updated_at": "2026-11-10T23:27:30.189378+00:00",
+  "local_date": "2026-11-11",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Napoli, Varela pronto a dire sì, ma scoppia il caso McTominay: rebus rinnovo, ci pensa anche il Milan - Virgilio",
-      "source": "Virgilio",
-      "published": "2026-11-10T17:07:00+00:00"
+      "title": "Inzaghi, addio all’Al-Hilal: nessun rinnovo a fine stagione - Notizie Inter",
+      "source": "Notizie Inter",
+      "published": "2026-11-10T22:08:22+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Ekhator e il 9 di Spalletti: il punto sul mercato Juve - Calcio style",
-      "source": "Calcio style",
-      "published": "2026-11-10T16:39:19+00:00"
+      "title": "Inter-Calhanoglu, il rinnovo può arrivare entro Natale - Notizie Inter",
+      "source": "Notizie Inter",
+      "published": "2026-11-10T22:07:16+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Serie A: Floriani Mussolini con la Lazio fino al 2031, 'rinnovo è motivo d'orgoglio' - ANSA",
+      "title": "Thuram-Inter, rinnovo in salita: Marcus vuole restare senza sconti - Notizie Inter",
+      "source": "Notizie Inter",
+      "published": "2026-11-10T22:07:16+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Serie A: Roma, per lo scudetto c'è la Premier... - Toro News",
+      "source": "Toro News",
+      "published": "2026-11-10T21:05:03+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Nations League, Italia-Francia: dove vedere la partita, probabili formazioni e quote - Diretta",
+      "source": "Diretta",
+      "published": "2026-11-10T23:04:02+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Francia, anche Tchouameni lascia il ritiro per infortunio - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "2026-11-10T22:45:40+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Nations League: anche Tchouameni lascia il ritiro della Francia per infortunio - ANSA",
       "source": "ANSA",
-      "published": "2026-11-10T15:35:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, occhi su Riquelme: sfida a Lazio e Napoli per l'esterno del Betis. Il prezzo è alto - RomaForever",
-      "source": "RomaForever",
-      "published": "2026-11-10T15:20:00+00:00"
+      "published": "2026-11-10T22:38:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Bayern, riecco Kompany dopo il malore: quando tornerà in panchina? - Eurosport.it",
+      "title": "Zaniolo saluta la Nazionale: \"Non è facile, rispetto per la mia sfera privata\" - Eurosport.it",
       "source": "Eurosport.it",
-      "published": "2026-11-10T17:17:28+00:00"
+      "published": "2026-11-10T22:18:45+00:00"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Wenger candidato presidente della FIFA: ecco l'idea UEFA per sfidare Infantino - www.eurosport.it",
+      "category": "TENNIS",
+      "title": "Hsieh Su-Wei/Jelena Ostapenko - Elise Mertens/Zhang Shuai Riassunto della partita - www.eurosport.it",
       "source": "www.eurosport.it",
-      "published": "2026-11-10T16:41:22+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Manchester United, spunta l'idea Pochettino: l'argentino pronto a lasciare gli USA - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "2026-11-10T16:41:21+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Klopp voleva Tresoldi ma ha ritrovato Fullkrug, tornato bomber a 33 anni: “Cosa non ha funzionato al Milan” - Virgilio",
-      "source": "Virgilio",
-      "published": "2026-11-10T16:31:00+00:00"
+      "published": "2026-11-10T23:02:53+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis, Sinner punta gli Australian Open: «Giocherò per altri 15 anni» - Giornale di Sicilia",
-      "source": "Giornale di Sicilia",
-      "published": "2026-11-10T17:48:34+00:00"
+      "title": "Gabriela Dabrowski/Luisa Stefani - Guo Hanyu/Kristina Mladenovic Riassunto della partita - www.eurosport.it",
+      "source": "www.eurosport.it",
+      "published": "2026-11-10T23:02:50+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Allianz, campagna globale con Sinner - ItaliaOggi",
-      "source": "ItaliaOggi",
-      "published": "2026-11-10T17:45:26+00:00"
+      "title": "La benedizione di Cahill sul futuro di Sinner con Norman: “Migliora tutti gli atleti” - la Repubblica",
+      "source": "la Repubblica",
+      "published": "2026-11-10T23:01:00+00:00"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Nitto Atp Finals di tennis, a Torino inizia la magia - La Nuova Sardegna",
-      "source": "La Nuova Sardegna",
-      "published": "2026-11-10T17:43:12+00:00"
+      "category": "PADEL",
+      "title": "Svolta sconvolgente al Dubai P1: anche Coello e Tapia si sono ritirati! - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "2026-11-10T20:55:49+00:00"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Padel: 200 al via da 15 nazioni a Como per la Mediolanum Cup, con gli azzurri reduci dal Mondiale - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "2026-11-10T18:32:40+00:00"
     },
     {
       "type": "news",
@@ -85,20 +99,6 @@
       "title": "Clarissa Aima dopo lo splendido bronzo ai Mondiali di Doha è tra le protagoniste del FIP Silver a Como - NovaraToday",
       "source": "NovaraToday",
       "published": "2026-11-10T13:46:54+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Mediolanum Padel Cup, a Como il red carpet tra campioni del mondo, azzurri e nextgen - Agipronews",
-      "source": "Agipronews",
-      "published": "2026-11-10T12:53:39+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Dubai: dietro al P1, un mercato del padel già ben consolidato - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "2026-11-10T12:12:20+00:00"
     }
   ],
   "sources_ok": 5,
