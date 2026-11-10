@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-11-09T20:06:30.764391+00:00",
-  "local_date": "2026-11-09",
+  "updated_at": "2026-11-10T02:43:47.486526+00:00",
+  "local_date": "2026-11-10",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Da Dybala e Svilar a Lautaro Martinez e Kean: gli infortunati della Serie A, chi può rientrare alla ripresa dopo la sosta - Calciomercato",
+      "source": "Calciomercato",
+      "published": "2026-11-09T20:47:00+00:00"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -12,9 +19,9 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "TRIBUNA.COM * SERIE A: «MUSAH HA CONQUISTATO AMORIM: IL MILAN PREPARA IL RINNOVO, I DETTAGLI - agenzia giornalistica opinione",
-      "source": "agenzia giornalistica opinione",
-      "published": "2026-11-09T17:30:45+00:00"
+      "title": "McTominay, rinnovo arenato: il Napoli rischia di perderlo - Notizie Napoli Calcio",
+      "source": "Notizie Napoli Calcio",
+      "published": "2026-11-09T18:16:02+00:00"
     },
     {
       "type": "news",
@@ -25,59 +32,52 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Juventus, Bremer capocannoniere è il simbolo del fallimento del mercato attaccanti: tutti i numeri - Calciomercato",
-      "source": "Calciomercato",
-      "published": "2026-11-09T15:35:00+00:00"
-    },
-    {
-      "type": "news",
       "category": "CALCIO",
-      "title": "Guarda Roma contro Servette in diretta oggi: chi trasmette la partita in TV e in live streaming? - Goal.com",
-      "source": "Goal.com",
-      "published": "2026-11-09T20:03:46+00:00"
+      "title": "Italia ai quarti? Cosa deve fare contro Francia e Belgio: gli scenari a 180' dalla fine - Eurosport.it",
+      "source": "Eurosport.it",
+      "published": "2026-11-10T01:23:40+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
       "title": "⚽🔴 UEFA Nations League 2026: tutte le partite di calcio in diretta dell'Italia 🛑 Notizie dell'ultim'ora 📆 - musicletter",
       "source": "musicletter",
-      "published": "2026-11-09T19:20:04+00:00"
+      "published": "2026-11-10T01:20:05+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Zidane a scuola da Mancini, anche la Francia ha il suo Zoma: chi è il calciatore della B tedesca convocato al posto di Kalulu - Virgilio",
+      "title": "Francia, provocazione all’Italia e a chi marcherà Doué: l’incubo di Bastoni minaccia Palestra e fa più paura di Mbappé - Virgilio",
       "source": "Virgilio",
-      "published": "2026-11-09T19:10:00+00:00"
+      "published": "2026-11-09T22:51:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Accettare la mediocrità: un grave errore da non fare - CalcioNapoli24",
-      "source": "CalcioNapoli24",
-      "published": "2026-11-09T19:00:00+00:00"
+      "title": "Calcio Live: tutte le notizie in tempo reale - Diretta",
+      "source": "Diretta",
+      "published": "2026-11-09T22:13:00+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Il Tc Alghero vola ai playoff, Torres Tennis e Terranova Olbia ai playout - La Nuova Sardegna",
-      "source": "La Nuova Sardegna",
-      "published": "2026-11-09T19:34:00+00:00"
+      "title": "Laila Hasanovic, compleanno senza Sinner: è davvero finita? - Planetwin365 news",
+      "source": "Planetwin365 news",
+      "published": "2026-11-10T02:25:50+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Rune: \"Con Alcaraz e Sinner fuori, non era l'anno migliore per infortunarsi. Sono stato sfortunato\" - Il Tennis Italiano",
-      "source": "Il Tennis Italiano",
-      "published": "2026-11-09T19:33:20+00:00"
+      "title": "Franco Nero: «Ho chiesto al Papa di fare un doppio a tennis con me» - Gazzetta di Parma",
+      "source": "Gazzetta di Parma",
+      "published": "2026-11-10T02:01:00+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Finals 2026, le fasce dei gironi e quando si svolge il sorteggio - OA Sport",
-      "source": "OA Sport",
-      "published": "2026-11-09T19:01:27+00:00"
+      "title": "Torneo di tennis WTA: Coco Gauff sconfigge Jessica Pegula, Claire Liu vince l'Open di Hong Kong. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "published": "2026-11-10T01:33:12+00:00"
     },
     {
       "type": "news",
@@ -89,16 +89,16 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Mondiali di padel 2026 – Coello, Lebrón, Paquito: i segreti dei campioni del mondo spagnoli dopo la loro incoronazione - Padel Magazine",
+      "title": "Dubai P1 – Leygue e Moya si qualificano grazie alla forza mentale e conquistano un nuovo posto nel tabellone principale - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "2026-11-09T15:42:18+00:00"
+      "published": "2026-11-09T13:08:48+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Dubai P1 – Leygue e Moya si qualificano grazie alla forza mentale e conquistano un nuovo posto nel tabellone principale - Padel Magazine",
+      "title": "Campionati del mondo 2026 – Paquito Navarro si congeda dalla nazionale spagnola e conquista il suo quarto titolo mondiale, coronando così 18 anni di storia. - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "2026-11-09T13:08:48+00:00"
+      "published": "2026-11-09T08:38:48+00:00"
     }
   ],
   "sources_ok": 5,
