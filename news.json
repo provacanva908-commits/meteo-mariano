@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-11-10T23:27:30.189378+00:00",
+  "updated_at": "2026-11-11T02:57:18.474747+00:00",
   "local_date": "2026-11-11",
   "articles": [
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Inzaghi, addio all’Al-Hilal: nessun rinnovo a fine stagione - Notizie Inter",
-      "source": "Notizie Inter",
-      "published": "2026-11-10T22:08:22+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Inter-Calhanoglu, il rinnovo può arrivare entro Natale - Notizie Inter",
-      "source": "Notizie Inter",
-      "published": "2026-11-10T22:07:16+00:00"
-    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -26,37 +12,65 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Serie A: Roma, per lo scudetto c'è la Premier... - Toro News",
+      "title": "Gazzetta - Inter, Stones sotto esame: se parte a gennaio, può arrivare un altro difensore - Calciomercato",
+      "source": "Calciomercato",
+      "published": "2026-11-10T21:13:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Serie A: la Roma guarda in Premier, il Napoli punta a un big di A - Toro News",
       "source": "Toro News",
       "published": "2026-11-10T21:05:03+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Serie A: la Roma guarda in Premier, il Napoli punta a un big di A - gazzettaGranata",
+      "source": "gazzettaGranata",
+      "published": "2026-11-10T21:05:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
       "title": "Nations League, Italia-Francia: dove vedere la partita, probabili formazioni e quote - Diretta",
       "source": "Diretta",
-      "published": "2026-11-10T23:04:02+00:00"
+      "published": "2026-11-11T02:03:06+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Francia, anche Tchouameni lascia il ritiro per infortunio - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "2026-11-10T22:45:40+00:00"
+      "title": "Le partite di oggi, mercoledì 11 novembre 2026 | Calciomagazine - Calciomagazine",
+      "source": "Calciomagazine",
+      "published": "2026-11-11T00:32:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Nations League: anche Tchouameni lascia il ritiro della Francia per infortunio - ANSA",
-      "source": "ANSA",
-      "published": "2026-11-10T22:38:00+00:00"
+      "title": "Partite oggi, stasera e domani: guida alla Diretta TV - Calcio News 24",
+      "source": "Calcio News 24",
+      "published": "2026-11-11T00:26:13+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Zaniolo saluta la Nazionale: \"Non è facile, rispetto per la mia sfera privata\" - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "2026-11-10T22:18:45+00:00"
+      "title": "Italia, le prime news di formazione anti Francia - Sky Sport",
+      "source": "Sky Sport",
+      "published": "2026-11-10T23:03:09+00:00"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Diretta Elina Svitolina - Karolina Muchova - Women Single - WTA Finals 2026 - la Repubblica",
+      "source": "la Repubblica",
+      "published": "2026-11-11T00:39:22+00:00"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Wta Finals, Pegula batte Kostyuk ed è in corsa per le semifinali. Noskova supera Gauff e si qualifica - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "2026-11-10T23:04:55+00:00"
     },
     {
       "type": "news",
@@ -67,17 +81,10 @@
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Gabriela Dabrowski/Luisa Stefani - Guo Hanyu/Kristina Mladenovic Riassunto della partita - www.eurosport.it",
-      "source": "www.eurosport.it",
-      "published": "2026-11-10T23:02:50+00:00"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "La benedizione di Cahill sul futuro di Sinner con Norman: “Migliora tutti gli atleti” - la Repubblica",
-      "source": "la Repubblica",
-      "published": "2026-11-10T23:01:00+00:00"
+      "category": "PADEL",
+      "title": "Mediolanum Padel Cup, a Como il red carpet tra campioni del mondo, azzurri e nextgen - Agipronews",
+      "source": "Agipronews",
+      "published": "2026-11-11T00:21:03+00:00"
     },
     {
       "type": "news",
@@ -92,13 +99,6 @@
       "title": "Padel: 200 al via da 15 nazioni a Como per la Mediolanum Cup, con gli azzurri reduci dal Mondiale - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
       "published": "2026-11-10T18:32:40+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Clarissa Aima dopo lo splendido bronzo ai Mondiali di Doha è tra le protagoniste del FIP Silver a Como - NovaraToday",
-      "source": "NovaraToday",
-      "published": "2026-11-10T13:46:54+00:00"
     }
   ],
   "sources_ok": 5,
