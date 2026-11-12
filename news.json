@@ -1,83 +1,97 @@
 {
-  "updated_at": "2026-11-11T18:06:04.919012+00:00",
-  "local_date": "2026-11-11",
+  "updated_at": "2026-11-12T00:40:02.852135+00:00",
+  "local_date": "2026-11-12",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Roma, Lookman Finisce nel Mirino dei Giallorossi per l'Attacco! Tutti i Dettagli - www.news-sports.it",
+      "title": "Besitkas pronto ad accontentare Italiano: 2 acquisti dalla Serie A a gennaio - CalcioNapoli24",
+      "source": "CalcioNapoli24",
+      "published": "2026-11-11T22:45:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Mercato, i colpi sfumati delle big di Serie A - Atalanta Oggi",
+      "source": "Atalanta Oggi",
+      "published": "2026-11-11T19:39:42+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Juventus, Ait-Nouri Torna nel Mirino: il Manchester City Apre al Prestito! - www.news-sports.it",
       "source": "www.news-sports.it",
-      "published": "2026-11-11T16:48:16+00:00"
+      "published": "2026-11-11T19:27:07+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Manna: \"Mercato? Se abbiamo sbagliato, proveremo a migliorare la rosa. Ma ci sono prezzi folli\" - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "2026-11-11T16:32:18+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Hanno sfiorato la A quest'estate: come stanno andando gli acquisti sfumati in estate - Sky Sport",
-      "source": "Sky Sport",
-      "published": "2026-11-11T16:11:42+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "TRIBUNA.COM * SERIE A: «L'INTER ACCELERA PER IL RINNOVO DI CARLOS AUGUSTO: L'ENTOURAGE FISSA LA CIFRA RICHIESTA - agenzia giornalistica opinione",
-      "source": "agenzia giornalistica opinione",
-      "published": "2026-11-11T13:25:23+00:00"
+      "title": "Calciomercato Napoli, Kvernadze è già un affare: clausola da 4 milioni, ecco da quando è valida - CalcioNapoli24",
+      "source": "CalcioNapoli24",
+      "published": "2026-11-11T19:00:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Italia, Dimarco il dubbio di Mancini: tra Calafiori intoccabile, modulo e avvio con l’Inter il mancino non è più indispensabile - Virgilio",
+      "title": "Guardiola, altro schiaffo all’Italia: dopo il no a Maldini spunta una nuova tentazione - Virgilio",
       "source": "Virgilio",
-      "published": "2026-11-11T17:00:00+00:00"
+      "published": "2026-11-11T22:55:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Juventus, il tour de force dopo la sosta: quattro partite in dodici giorni - QS Quotidiano Sportivo",
-      "source": "QS Quotidiano Sportivo",
-      "published": "2026-11-11T16:26:56+00:00"
+      "title": "Juventus Women-Lione 0-6, notte da dimenticare in Champions League: la classifica e cosa cambia per la qualificazione - Il BiancoNero",
+      "source": "Il BiancoNero",
+      "published": "2026-11-11T22:07:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia, nuovo format stile FA Cup: tutte le novità - SetteCalcio",
-      "source": "SetteCalcio",
-      "published": "2026-11-11T15:57:00+00:00"
+      "title": "Yamal, giovane ma...stakanovista: nessuno ha giocato più di lui finora. CLASSIFICA - Sky Sport",
+      "source": "Sky Sport",
+      "published": "2026-11-11T21:44:53+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Inter, le prime risposte sull'infortunio di Marcus Thuram: come sta e quando può tornare a disposizione - Calciomercato",
+      "title": "Zidane: \"Mi piacerebbe allenare la Juventus\". Quando può tornare in bianconero - Calciomercato",
       "source": "Calciomercato",
-      "published": "2026-11-11T15:19:00+00:00"
+      "published": "2026-11-11T21:38:00+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Zverev, Alcaraz e gli altri “Maestri” arrivano a Torino. E c’è anche Cobolli! - Radio Capital",
-      "source": "Radio Capital",
-      "published": "2026-11-11T17:45:57+00:00"
+      "title": "nitto-atp-finals-draw-stream-2026 | Nitto ATP Finals | Tennis - Nitto ATP Finals",
+      "source": "Nitto ATP Finals",
+      "published": "2026-11-11T22:54:19+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Skywalk e Fan Village, le novità per le Nitto ATP Finals 2026 - FITP",
-      "source": "FITP",
-      "published": "2026-11-11T17:41:40+00:00"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Dove vedere in tv Errani/Paolini-Schuurs/Perez, WTA Finals 2026: orario, canale, streaming - OA Sport",
+      "title": "Carlos Alcaraz sbarca a Torino per le Finals con una vistosa fasciatura al ginocchio - OA Sport",
       "source": "OA Sport",
-      "published": "2026-11-11T17:36:20+00:00"
+      "published": "2026-11-11T22:51:20+00:00"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Svitolina rimonta e tiene viva la speranza semifinale. Muchova ko in tre set - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "2026-11-11T22:44:35+00:00"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Dubai P1: ghiottissima chance per Abbate! Deludono Dal Pozzo e Orsi - padelmagazine.it",
+      "source": "padelmagazine.it",
+      "published": "2026-11-11T20:32:52+00:00"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Mediolanum Padel Cup, la regina Sussarello torna a casa: “Il bronzo mondiale un sogno realizzato e festeggiarlo a Como è un’emozione pazzesca” - Agipronews",
+      "source": "Agipronews",
+      "published": "2026-11-11T20:25:29+00:00"
     },
     {
       "type": "news",
@@ -85,20 +99,6 @@
       "title": "Dubai P1: Senza Coello/Tapia o Galán/Chingotto, chi ne trarrà vantaggio? - Padel Magazine",
       "source": "Padel Magazine",
       "published": "2026-11-11T13:33:32+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Mediolanum Padel Cup: A Como il grande padel internazionale - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "2026-11-11T12:09:10+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Dubai P1: Triay e Brea possono già assicurarsi il primo posto al mondo - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "2026-11-11T10:09:00+00:00"
     }
   ],
   "sources_ok": 5,
