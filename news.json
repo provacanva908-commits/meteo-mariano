@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-11-12T22:21:09.927199+00:00",
-  "local_date": "2026-11-12",
+  "updated_at": "2026-11-13T02:44:59.613735+00:00",
+  "local_date": "2026-11-13",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 12 novembre - TUTTOmercatoWEB",
+      "source": "TUTTOmercatoWEB",
+      "published": "2026-11-13T00:00:29+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "De Bruyne-PSV, dall'Olanda: il belga non si opporrebbe a un trasferimento, contatti avviati - Calcio Napoli 1926",
+      "source": "Calcio Napoli 1926",
+      "published": "2026-11-12T22:40:43+00:00"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -18,66 +32,52 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Rinnovo Carlos Augusto, i dettagli: l'Inter e Chivu possono fare a meno di lui? - DAZN",
-      "source": "DAZN",
-      "published": "2026-11-12T18:20:14+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Colpo Lang in Serie A, si avvicina l’addio definitivo al Napoli - Calciomercato.it",
-      "source": "Calciomercato.it",
-      "published": "2026-11-12T17:32:21+00:00"
-    },
-    {
-      "type": "news",
       "category": "CALCIO",
-      "title": "Nations League, l'Italia inizia il viaggio verso i quarti di finale: ecco cosa serve agli azzurri - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "2026-11-12T22:13:24+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "L'Italia ribalta Francia e pronostici, ora è prima in Nations League - ANSA",
-      "source": "ANSA",
-      "published": "2026-11-12T22:01:25+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Le pagelle di Italia-Francia 3-1: sentenza Pio Esposito, Cambiaghi domina, Donnarumma si riscatta - Eurosport.it",
+      "title": "Rogers+Kane e Inghilterra ai quarti: 2-1 alla Croazia. Spagna sempre prima - Eurosport.it",
       "source": "Eurosport.it",
-      "published": "2026-11-12T21:58:56+00:00"
+      "published": "2026-11-13T02:04:20+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Italia-Francia, Antonelli in versione tifoso fa impazzire San Siro: l’offesa alla Marsigliese rovina il pre-partita - Virgilio",
-      "source": "Virgilio",
-      "published": "2026-11-12T21:58:00+00:00"
+      "title": "Nations League, l'Italia verso i quarti di finale: ecco cosa serve agli azzurri per centrare l'obiettivo - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "2026-11-13T01:08:16+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Partite oggi, stasera e domani: guida alla Diretta TV - Calcio News 24",
+      "source": "Calcio News 24",
+      "published": "2026-11-13T00:53:04+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "VIDEO. Nations League, tutti i gol delle partite del 12 novembre - Sky Sport",
+      "source": "Sky Sport",
+      "published": "2026-11-13T00:22:28+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
       "title": "Lorenzo Musetti vince la battaglia con Humbert in tre set! Sarà semifinale con Fritz a Stoccolma - Eurosport.it",
       "source": "Eurosport.it",
-      "published": "2026-11-12T22:15:30+00:00"
+      "published": "2026-11-13T01:04:15+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis: Stoccolma; Musetti supera Humbert e va in semifinale - Quotidiano Nazionale",
-      "source": "Quotidiano Nazionale",
-      "published": "2026-11-12T22:10:07+00:00"
+      "title": "Gauff c'è: batte Kostyuk in due set e spera ancora nelle semifinali - Eurosport.it",
+      "source": "Eurosport.it",
+      "published": "2026-11-13T01:01:05+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis: Stoccolma; Musetti supera Humbert e va in semifinale - ANSA",
-      "source": "ANSA",
-      "published": "2026-11-12T22:06:00+00:00"
+      "title": "Sorteggio Atp Finals, Cobolli trema: nel suo girone Alcaraz e Medvedev - Il Messaggero",
+      "source": "Il Messaggero",
+      "published": "2026-11-13T01:00:06+00:00"
     },
     {
       "type": "news",
