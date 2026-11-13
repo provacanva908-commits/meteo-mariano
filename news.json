@@ -1,83 +1,97 @@
 {
-  "updated_at": "2026-11-13T02:44:59.613735+00:00",
+  "updated_at": "2026-11-13T10:05:22.594558+00:00",
   "local_date": "2026-11-13",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 12 novembre - TUTTOmercatoWEB",
+      "title": "Il grande acquisto che l'Inter non ha ancora visto: Stones torna, Chivu aspetta la svolta - Tuttosport",
+      "source": "Tuttosport",
+      "published": "2026-11-13T09:24:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "TRIBUNA.COM * SERIE A: «IRAOLA SPINGE PER IL RINNOVO DI VAN DIJK CON IL LIVERPOOL: LA SUGGESTIONE MILAN E LA POSIZIONE DI AMORIM - agenzia giornalistica opinione",
+      "source": "agenzia giornalistica opinione",
+      "published": "2026-11-13T08:45:22+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Isaksen: \"Molto probabile che si arrivi a un accordo sul rinnovo con la Lazio\" - TUTTOmercatoWEB",
       "source": "TUTTOmercatoWEB",
-      "published": "2026-11-13T00:00:29+00:00"
+      "published": "2026-11-13T08:37:25+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "De Bruyne-PSV, dall'Olanda: il belga non si opporrebbe a un trasferimento, contatti avviati - Calcio Napoli 1926",
-      "source": "Calcio Napoli 1926",
-      "published": "2026-11-12T22:40:43+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato, Camarda alla Sampdoria? Il Milan sogna un altro caso Pio Esposito - Lottomatica.Sport",
-      "source": "Lottomatica.Sport",
-      "published": "2026-11-12T21:28:42+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Juventus, una cessione pronta per gennaio: sarà titolare in Serie A - FantaMaster",
-      "source": "FantaMaster",
-      "published": "2026-11-12T20:30:18+00:00"
+      "title": "TRIBUNA.COM * SERIE A: «RINNOVO AD UN PASSO PER CARLOS AUGUSTO E ALTRE 2 STORIE SULL'INTER CHE POTRESTI ESSERTI PERSO - agenzia giornalistica opinione",
+      "source": "agenzia giornalistica opinione",
+      "published": "2026-11-13T08:10:12+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Rogers+Kane e Inghilterra ai quarti: 2-1 alla Croazia. Spagna sempre prima - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "2026-11-13T02:04:20+00:00"
+      "title": "SIS Roma, nuova sfida in Champions League femminile: a Chiavari la rivincita contro Rapallo - Gaeta.it",
+      "source": "Gaeta.it",
+      "published": "2026-11-13T09:46:07+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Nations League, l'Italia verso i quarti di finale: ecco cosa serve agli azzurri per centrare l'obiettivo - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "2026-11-13T01:08:16+00:00"
+      "title": "Spagna-Inghilterra pronostico e quote: la chicca sul risultato esatto - Calciomercato",
+      "source": "Calciomercato",
+      "published": "2026-11-13T09:08:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
       "title": "Partite oggi, stasera e domani: guida alla Diretta TV - Calcio News 24",
       "source": "Calcio News 24",
-      "published": "2026-11-13T00:53:04+00:00"
+      "published": "2026-11-13T08:46:42+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "VIDEO. Nations League, tutti i gol delle partite del 12 novembre - Sky Sport",
+      "title": "Il Napoli vuole un nuovo attaccante al fianco di Rasmus Hojlund: non solo Gustavo Varela del Monza, spunta anche l'idea Joshua Zirkzee - Calciomercato",
+      "source": "Calciomercato",
+      "published": "2026-11-13T08:38:56+00:00"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "ATP Finals Torino: la guida per vivere l'Inalpi Arena tra trasporti, orari e Fan Village - Corriere Style",
+      "source": "Corriere Style",
+      "published": "2026-11-13T10:02:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Il G8 del tennis si sfida a Torino: otto campioni e una sola certezza - Sky Sport",
       "source": "Sky Sport",
-      "published": "2026-11-13T00:22:28+00:00"
+      "published": "2026-11-13T09:57:08+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Lorenzo Musetti vince la battaglia con Humbert in tre set! Sarà semifinale con Fritz a Stoccolma - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "2026-11-13T01:04:15+00:00"
+      "title": "ATP Stoccolma, Ruud rivela i piani dell'ATP: \"Alcuni tornei scompariranno, la stagione può terminare prima\" - Ubitennis",
+      "source": "Ubitennis",
+      "published": "2026-11-13T09:51:56+00:00"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Gauff c'è: batte Kostyuk in due set e spera ancora nelle semifinali - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "2026-11-13T01:01:05+00:00"
+      "category": "PADEL",
+      "title": "Mediolanum Padel Cup, Como e la Lombardia nel Quadrilatero d’oro della ‘Racchetta Corta’: qui un giocatore su tre - Agipronews",
+      "source": "Agipronews",
+      "published": "2026-11-13T08:45:38+00:00"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Sorteggio Atp Finals, Cobolli trema: nel suo girone Alcaraz e Medvedev - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "2026-11-13T01:00:06+00:00"
+      "category": "PADEL",
+      "title": "Mediolanum Padel Cup: A Como il grande padel internazionale - Mr Padel Paddle",
+      "source": "Mr Padel Paddle",
+      "published": "2026-11-13T08:36:05+00:00"
     },
     {
       "type": "news",
@@ -85,20 +99,6 @@
       "title": "Padel, Abbate da record: è il miglior italiano di sempre, 47° nel ranking mondiale - Siracusa News",
       "source": "Siracusa News",
       "published": "2026-11-12T16:49:30+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Mediolanum Padel Cup, Como e la Lombardia nel quadrilatero d’oro: qui un giocatore su tre - ComoZero",
-      "source": "ComoZero",
-      "published": "2026-11-12T16:34:18+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "TEDSports: a Torino l’unica edizione mondiale 2027 - Padelbiz",
-      "source": "Padelbiz",
-      "published": "2026-11-12T15:24:40+00:00"
     }
   ],
   "sources_ok": 5,
