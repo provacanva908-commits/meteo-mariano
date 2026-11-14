@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-11-14T02:57:32.750038+00:00",
+  "updated_at": "2026-11-14T10:05:45.297298+00:00",
   "local_date": "2026-11-14",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Inter, occhio alla Juventus su Calhanoglu: il retroscena e la promessa sul rinnovo - TUTTOmercatoWEB",
+      "source": "TUTTOmercatoWEB",
+      "published": "2026-11-14T08:45:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 13 novembre - TUTTOmercatoWEB",
+      "source": "TUTTOmercatoWEB",
+      "published": "2026-11-14T00:00:23+00:00"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -18,87 +32,73 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Sportitalia - Rinnovo McTominay e Anguissa: richieste alte e affari complessi, attesa per la decisione del Napoli - CalcioNapoli24",
-      "source": "CalcioNapoli24",
-      "published": "2026-11-13T19:45:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Il Milan rischia di perdere già Cisse: rinnovo in stallo e arriva una big di Premier - Tutto Napoli",
-      "source": "Tutto Napoli",
-      "published": "2026-11-13T19:10:29+00:00"
+      "category": "CALCIO",
+      "title": "Il calcio in TV oggi: la programmazione di sabato 14 novembre 2026, da Portogallo-Danimarca a Lazio-Mgarr United - Libero",
+      "source": "Libero",
+      "published": "2026-11-14T09:51:07+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Nations League, Olanda a valanga, doppio assist e gol per Malen, Reijnders esagera. Germania ok ma ancora i bilico - Virgilio",
+      "title": "Partite oggi stasera e domani | guida alla Diretta TV - Zazoom Social News",
+      "source": "Zazoom Social News",
+      "published": "2026-11-14T09:49:53+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Ronaldinho vai, domani è il tuo giorno: il brasiliano spiega perché ha accettato la sfida Ravenna - Virgilio",
       "source": "Virgilio",
-      "published": "2026-11-13T23:10:00+00:00"
+      "published": "2026-11-14T09:40:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Tutte le classifiche dei gironi di Nations League - Sky Sport",
-      "source": "Sky Sport",
-      "published": "2026-11-13T21:57:18+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "I risultati del 13 novembre 2026 | Calciomagazine - Calciomagazine",
-      "source": "Calciomagazine",
-      "published": "2026-11-13T18:50:11+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Tare e le delusioni sui giocatori del Milan: \"Per Leao la priorità non era più il calcio, deluso da Pulisic. Gimenez, cose mai viste\" - Calciomercato",
-      "source": "Calciomercato",
-      "published": "2026-11-13T17:44:40+00:00"
+      "title": "Milan, le promesse di Cardinale sono un boomerang: lo sfogo dei tifosi sul web - Virgilio",
+      "source": "Virgilio",
+      "published": "2026-11-14T09:09:00+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "«Nitto ATP Finals 2026»: su Canale 5 il match inaugurale 'Zverev-Jodar' - QuiMediaset",
-      "source": "QuiMediaset",
-      "published": "2026-11-14T02:54:14+00:00"
+      "title": "“Profumo di tennis”: protagonisti e voci delle Atp Finals si raccontano a Torino - La Stampa",
+      "source": "La Stampa",
+      "published": "2026-11-14T09:56:00+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis: Sabalenka eliminata nella fase a gironi delle WTA Finals Indian Wells da Svitolina - ANSA",
-      "source": "ANSA",
-      "published": "2026-11-14T02:20:23+00:00"
+      "title": "ATP Finals, MiTur: Italia al centro turismo con Piemonte e Torino - Studio90 Italia",
+      "source": "Studio90 Italia",
+      "published": "2026-11-14T09:53:52+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Zverev arriva a Torino con “gioia” e parla con prudenza del ruolo di favorito - Nitto ATP Finals",
-      "source": "Nitto ATP Finals",
-      "published": "2026-11-14T00:40:17+00:00"
+      "title": "Tennis Zevio, trofei a Reani e Nardi - FITP",
+      "source": "FITP",
+      "published": "2026-11-14T09:53:00+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Mediolanum Padel Cup, a Como la valanga azzurra: \"Queen\" Sussarello e Stellato ai quarti di finale - Agipronews",
-      "source": "Agipronews",
-      "published": "2026-11-13T18:15:00+00:00"
+      "title": "Javier Rodríguez Piris: \"Mi piacerebbe che la Spagna ospitasse i Campionati del Mondo nel 2030\" - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "2026-11-14T08:32:51+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Paolo Bonolis tra sport e cibo: \"Tanto padel con mio figlio Davide, ma a tavola...\" - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "2026-11-13T17:13:26+00:00"
+      "title": "Dubai P1 – Dalle qualificazioni alle semifinali: Abate diventa il primo italiano a raggiungere le semifinali di un torneo Premier Padel maschio - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "2026-11-14T08:22:59+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Triay/Brea vanno ko a Dubai! Si riaccende la lotta per il n. 1 - Padel Magazine",
+      "title": "Dove guardare le semifinali del Dubai P1? Programma, locandine e orari - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "2026-11-13T15:33:08+00:00"
+      "published": "2026-11-14T07:48:15+00:00"
     }
   ],
   "sources_ok": 5,
