@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-13T22:54:34.689116+00:00",
-  "local_date": "2026-11-13",
+  "updated_at": "2026-11-14T02:57:32.750038+00:00",
+  "local_date": "2026-11-14",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, cessione De Bruyne a gennaio? In Olanda sicuri: il dt del PSV allo stadio per Belgio-Italia, svelata la richiesta di De Laurentiis - CalcioNapoli24",
+      "title": "Calciomercato Napoli, Franco Mastantuono nel mirino per l'estate: duello con la Fiorentina e altri due club di Serie A - CalcioNapoli24",
       "source": "CalcioNapoli24",
-      "published": "2026-11-13T20:45:00+00:00"
+      "published": "2026-11-13T23:00:00+00:00"
     },
     {
       "type": "news",
@@ -33,9 +33,16 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Pronostici calcio oggi: dritte, variazioni, multiple e analisi Blab Index by #Pasto22. Quote, comparazione, exchange - B-Lab Live!",
-      "source": "B-Lab Live!",
-      "published": "2026-11-13T21:10:54+00:00"
+      "title": "Nations League, Olanda a valanga, doppio assist e gol per Malen, Reijnders esagera. Germania ok ma ancora i bilico - Virgilio",
+      "source": "Virgilio",
+      "published": "2026-11-13T23:10:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Tutte le classifiche dei gironi di Nations League - Sky Sport",
+      "source": "Sky Sport",
+      "published": "2026-11-13T21:57:18+00:00"
     },
     {
       "type": "news",
@@ -53,31 +60,24 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Italia, Frattesi lascia il ritiro per infortunio: la scelta di Mancini per la sfida decisiva col Belgio. Gattuso in ansia - Virgilio",
-      "source": "Virgilio",
-      "published": "2026-11-13T17:40:00+00:00"
+      "category": "TENNIS",
+      "title": "«Nitto ATP Finals 2026»: su Canale 5 il match inaugurale 'Zverev-Jodar' - QuiMediaset",
+      "source": "QuiMediaset",
+      "published": "2026-11-14T02:54:14+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Quando gioca Ben Shelton? Come e dove vedere la sua prossima partita | DAZN News Italia - DAZN",
-      "source": "DAZN",
-      "published": "2026-11-13T22:35:33+00:00"
+      "title": "Tennis: Sabalenka eliminata nella fase a gironi delle WTA Finals Indian Wells da Svitolina - ANSA",
+      "source": "ANSA",
+      "published": "2026-11-14T02:20:23+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Zverev: \"A Shanghai ero stanco, ora sto bene. Alcaraz? Non ci sto pensando\" - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "2026-11-13T22:30:47+00:00"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Carlos Alcaraz non si nasconde: \"Voglio vincere le Finals per la prima volta. Sulla fasciatura al ginocchio...\" - OA Sport",
-      "source": "OA Sport",
-      "published": "2026-11-13T22:25:34+00:00"
+      "title": "Zverev arriva a Torino con “gioia” e parla con prudenza del ruolo di favorito - Nitto ATP Finals",
+      "source": "Nitto ATP Finals",
+      "published": "2026-11-14T00:40:17+00:00"
     },
     {
       "type": "news",
