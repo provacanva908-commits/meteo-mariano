@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-14T20:55:41.443895+00:00",
-  "local_date": "2026-11-14",
+  "updated_at": "2026-11-15T00:56:27.266806+00:00",
+  "local_date": "2026-11-15",
   "articles": [
     {
       "type": "news",
@@ -14,7 +14,7 @@
       "category": "CALCIOMERCATO",
       "title": "Carlos Augusto, il rinnovo e la valigia: 20mila chilometri per giocare col Brasile a Singapore - La Gazzetta dello Sport",
       "source": "La Gazzetta dello Sport",
-      "published": "2026-11-14T17:15:08+00:00"
+      "published": "2026-11-14T17:16:45+00:00"
     },
     {
       "type": "news",
@@ -33,51 +33,58 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Tommaso Sala, la sentenza più dura: infortunio e stagione finita. Il messaggio di Brignone, l’Italia si aggrappa a Vinatzer - Virgilio",
-      "source": "Virgilio",
-      "published": "2026-11-14T20:10:00+00:00"
+      "title": "Ranking, premi, testa di serie ai sorteggi: Italia, cosa cambia dal vincere il girone al 2° posto - Eurosport.it",
+      "source": "Eurosport.it",
+      "published": "2026-11-15T00:18:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Nations League: Italia senza paura. Mancini: 'Bello giocarci i quarti con il Belgio' - ANSA",
-      "source": "ANSA",
-      "published": "2026-11-14T19:29:11+00:00"
+      "title": "Italia, Mancini non scarica Donnarumma ma c’è una statistica che lo condanna. Trafford alimenta i dubbi del City - Virgilio",
+      "source": "Virgilio",
+      "published": "2026-11-14T22:45:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
       "title": "Partite oggi, stasera e domani: guida alla Diretta TV - Calcio News 24",
       "source": "Calcio News 24",
-      "published": "2026-11-14T18:57:20+00:00"
+      "published": "2026-11-14T22:05:01+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Mancini: \"Che orgoglio giocarci i quarti col Belgio, ma io ci credevo anche dopo il ko dell'andata\" - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "2026-11-14T18:27:22+00:00"
+      "title": "Nations League, Hojlund rovina la festa al Portogallo: che figuraccia la prima senza Ronaldo, i tifosi abbandonano lo stadio - Virgilio",
+      "source": "Virgilio",
+      "published": "2026-11-14T21:46:00+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Atp Finals, Iapichino: \"Atmosfera pazzesca, tennis italiano sta facendo grandi cose\" - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
-      "published": "2026-11-14T20:45:09+00:00"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Sabalenka ha insultato Svitolina? Polemiche sulle immagini TV - Ubitennis",
+      "title": "ATP Finals al via: la miglior partita di ogni giornata in diretta TV in chiaro sulle reti Mediaset - Ubitennis",
       "source": "Ubitennis",
-      "published": "2026-11-14T20:35:16+00:00"
+      "published": "2026-11-15T00:49:23+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "A quanti punti da Sinner può portarsi Alcaraz alle ATP Finals: il margine massimo e minimo dopo Torino - OA Sport",
-      "source": "OA Sport",
-      "published": "2026-11-14T20:31:12+00:00"
+      "title": "Elina Svitolina batte Noskova 6-2, 6-1 nella semifinale delle WTA Finals - Sofascore",
+      "source": "Sofascore",
+      "published": "2026-11-15T00:29:13+00:00"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Andreeva per il titolo a Indian Wells: vittoria in due set su Pegula - Eurosport.it",
+      "source": "Eurosport.it",
+      "published": "2026-11-15T00:23:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Dal Pozzo n.23, Abbate n.47: doppio record italiano nel ranking FIP - SuperTennis",
+      "source": "SuperTennis",
+      "published": "2026-11-15T00:08:59+00:00"
     },
     {
       "type": "news",
@@ -92,13 +99,6 @@
       "title": "Mediolanum Padel Cup, domani il gran finale a Como. Per la 'Queen' Sussarello in arrivo il derby azzurro: \"Una valanga di emozioni\" - Agipronews",
       "source": "Agipronews",
       "published": "2026-11-14T18:15:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Orgoglio Siracusa nel padel mondiale: Flavio Abbate vola in semifinale a Dubai - SiracusaOggi.it",
-      "source": "SiracusaOggi.it",
-      "published": "2026-11-14T17:18:05+00:00"
     }
   ],
   "sources_ok": 5,
