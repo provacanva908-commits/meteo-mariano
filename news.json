@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-11-16T00:05:05.917244+00:00",
+  "updated_at": "2026-11-16T06:20:47.993093+00:00",
   "local_date": "2026-11-16",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli: Zabi sarà il sostituto di Anguissa? - 11contro11",
+      "source": "11contro11",
+      "published": "2026-11-16T06:00:59+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Lazio, la Premier può aspettare: per Isaksen si lavora al rinnovo - TUTTOmercatoWEB",
+      "source": "TUTTOmercatoWEB",
+      "published": "2026-11-16T05:30:51+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 15 novembre - TUTTOmercatoWEB",
+      "source": "TUTTOmercatoWEB",
+      "published": "2026-11-16T00:00:00+00:00"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -11,73 +32,59 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Inter-Thuram, il rinnovo è una priorità: Premier e clausola complicano tutto - Notizie Inter",
-      "source": "Notizie Inter",
-      "published": "2026-11-15T23:34:37+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calhanoglu-Inter, apertura al taglio dell’ingaggio per il rinnovo - Notizie Inter",
-      "source": "Notizie Inter",
-      "published": "2026-11-15T23:34:37+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Quanto guadagna Baldé, l'esterno del Barcellona che piace in Serie A - Calciomercato",
-      "source": "Calciomercato",
-      "published": "2026-11-15T21:01:21+00:00"
+      "category": "CALCIO",
+      "title": "Sport in TV oggi, lunedì 16 novembre 2026: orari e canali di calcio, tennis e basket - CronacaPop",
+      "source": "CronacaPop",
+      "published": "2026-11-16T06:10:54+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Le partite di oggi, lunedì 16 novembre 2026 | Calciomagazine - Calciomagazine",
-      "source": "Calciomagazine",
-      "published": "2026-11-15T23:20:00+00:00"
+      "title": "Calciomercato Napoli: Zabi sarà il sostituto di Anguissa? - 11contro11",
+      "source": "11contro11",
+      "published": "2026-11-16T06:00:59+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Maignan si fa male durante Francia-Turchia: problema alla coscia, Milan in ansia - Eurosport.it",
+      "title": "Belgio-Italia, moviola: regolare il 4-1 di Moreira, dubbi sul 2° gol per contatto Mechele-Calafiori - Eurosport.it",
       "source": "Eurosport.it",
-      "published": "2026-11-15T22:45:40+00:00"
+      "published": "2026-11-16T02:00:53+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Passo indietro Italia: azzurri travolti in Belgio 4-1 e fuori dalla Nations League - la Repubblica",
-      "source": "la Repubblica",
-      "published": "2026-11-15T22:38:21+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Nations League: Italia passo indietro, è travolta in Belgio e saluta la Nations League - ANSA",
-      "source": "ANSA",
-      "published": "2026-11-15T22:31:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Quali sono stati i risultati domenica alle Nitto ATP Finals? - Nitto ATP Finals",
-      "source": "Nitto ATP Finals",
-      "published": "2026-11-15T23:46:08+00:00"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ferrero: \"Rivedere Alcaraz è stato strano. Avrà sempre un posto nel cuore\" - Eurosport.it",
+      "title": "Ribaltone nel gruppo 3: Spagna-Inghilterra 2-3, i Tre Leoni i quarti di finale come primi - Eurosport.it",
       "source": "Eurosport.it",
-      "published": "2026-11-15T23:22:15+00:00"
+      "published": "2026-11-16T01:00:50+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Shelton parte col piede giusto: \"Ferrero nel box? Era previsto, contento del mio rovescio\" - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "2026-11-15T23:07:01+00:00"
+      "title": "Wta Finals, sfuma il sogno Errani-Paolini: le azzurre battute in finale - Agenzia Dire",
+      "source": "Agenzia Dire",
+      "published": "2026-11-16T06:16:50+00:00"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Errani-Paolini volano in finale alle WTA Finals di Indian Wells - Giornale di Barga",
+      "source": "Giornale di Barga",
+      "published": "2026-11-16T06:04:43+00:00"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "A che ora gioca Cobolli contro Medvedev il 16 novembre alle ATP Finals. Dove vederlo in tv - Corriere Style",
+      "source": "Corriere Style",
+      "published": "2026-11-16T06:02:43+00:00"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Dubai P1 Premier Padel: Lebron e Augsburger campioni - Sport Magazine",
+      "source": "Sport Magazine",
+      "published": "2026-11-16T03:22:06+00:00"
     },
     {
       "type": "news",
@@ -92,13 +99,6 @@
       "title": "Dubai P1 – Fernández e Calvo impressionano contro Josemaría/González e si aggiudicano il terzo titolo insieme - Padel Magazine",
       "source": "Padel Magazine",
       "published": "2026-11-15T16:23:58+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "FIP Junior America Padel Cup, L’Argentina centra il ‘Double’ a Cancun - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "2026-11-15T11:24:09+00:00"
     }
   ],
   "sources_ok": 5,
