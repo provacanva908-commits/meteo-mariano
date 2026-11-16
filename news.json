@@ -1,83 +1,97 @@
 {
-  "updated_at": "2026-11-15T14:59:46.705504+00:00",
-  "local_date": "2026-11-15",
+  "updated_at": "2026-11-16T00:05:05.917244+00:00",
+  "local_date": "2026-11-16",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan, una squadra di Serie A su Comotto e Camarda: la richiesta - Radio Rossonera",
-      "source": "Radio Rossonera",
-      "published": "2026-11-15T14:23:29+00:00"
+      "title": "Atalanta, De Roon verso il rinnovo: novità in vista dell’Inter - Notizie Inter",
+      "source": "Notizie Inter",
+      "published": "2026-11-15T23:34:37+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan News | Serve ordine in mezzo: Krösche ha due obiettivi (oggi 15 novembre 2026) - IlSussidiario.net",
-      "source": "IlSussidiario.net",
-      "published": "2026-11-15T14:22:16+00:00"
+      "title": "Inter-Thuram, il rinnovo è una priorità: Premier e clausola complicano tutto - Notizie Inter",
+      "source": "Notizie Inter",
+      "published": "2026-11-15T23:34:37+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Juventus News | Calhanoglu pista calda? Ecco gli aggiornamenti (oggi 15 novembre 2026) - IlSussidiario.net",
-      "source": "IlSussidiario.net",
-      "published": "2026-11-15T13:11:54+00:00"
+      "title": "Calhanoglu-Inter, apertura al taglio dell’ingaggio per il rinnovo - Notizie Inter",
+      "source": "Notizie Inter",
+      "published": "2026-11-15T23:34:37+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Lazio, Man continua a piacere: a sbloccare la trattativa potrebbe essere un altro ex Parma - Parma Live",
-      "source": "Parma Live",
-      "published": "2026-11-15T12:57:00+00:00"
+      "title": "Quanto guadagna Baldé, l'esterno del Barcellona che piace in Serie A - Calciomercato",
+      "source": "Calciomercato",
+      "published": "2026-11-15T21:01:21+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "FIGC, giovani e tecnica: il progetto di Viscidi prende il via - SetteCalcio",
-      "source": "SetteCalcio",
-      "published": "2026-11-15T14:55:00+00:00"
+      "title": "Le partite di oggi, lunedì 16 novembre 2026 | Calciomagazine - Calciomagazine",
+      "source": "Calciomagazine",
+      "published": "2026-11-15T23:20:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Il Brasile perde, Romario attacca: \"Ancelotti, basta! Prendi le tue cose e vai via!\" - Eurosport.it",
+      "title": "Maignan si fa male durante Francia-Turchia: problema alla coscia, Milan in ansia - Eurosport.it",
       "source": "Eurosport.it",
-      "published": "2026-11-15T14:54:38+00:00"
+      "published": "2026-11-15T22:45:40+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Nations League, l'Italia cerca i quarti in Belgio: una vittoria varrebbe anche il primato - Diretta",
-      "source": "Diretta",
-      "published": "2026-11-15T14:02:05+00:00"
+      "title": "Passo indietro Italia: azzurri travolti in Belgio 4-1 e fuori dalla Nations League - la Repubblica",
+      "source": "la Repubblica",
+      "published": "2026-11-15T22:38:21+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calcio Dilettanti Liguria. I risultati delle sfide del weekend - Tuttocampo",
-      "source": "Tuttocampo",
-      "published": "2026-11-15T14:00:00+00:00"
+      "title": "Nations League: Italia passo indietro, è travolta in Belgio e saluta la Nations League - ANSA",
+      "source": "ANSA",
+      "published": "2026-11-15T22:31:00+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Atp Finals 2026: calendario, classifica gironi e tabellone aggiornato - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "2026-11-15T14:55:57+00:00"
+      "title": "Quali sono stati i risultati domenica alle Nitto ATP Finals? - Nitto ATP Finals",
+      "source": "Nitto ATP Finals",
+      "published": "2026-11-15T23:46:08+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Nitto ATP Finals: Jodar tiene il servizio e accorcia su Zverev Video - Mediaset Infinity",
-      "source": "Mediaset Infinity",
-      "published": "2026-11-15T14:54:57+00:00"
+      "title": "Ferrero: \"Rivedere Alcaraz è stato strano. Avrà sempre un posto nel cuore\" - Eurosport.it",
+      "source": "Eurosport.it",
+      "published": "2026-11-15T23:22:15+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Nitto ATP Finals: Quattro punti di fila per Zverev, 4-2 nel secondo set Video - Mediaset Infinity",
-      "source": "Mediaset Infinity",
-      "published": "2026-11-15T14:54:57+00:00"
+      "title": "Shelton parte col piede giusto: \"Ferrero nel box? Era previsto, contento del mio rovescio\" - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "2026-11-15T23:07:01+00:00"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Dubai P1: Augsburger/Lebron mettono il sigillo! Altro show di Calvo/Fernandez - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "2026-11-15T20:51:07+00:00"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Dubai P1 – Fernández e Calvo impressionano contro Josemaría/González e si aggiudicano il terzo titolo insieme - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "2026-11-15T16:23:58+00:00"
     },
     {
       "type": "news",
@@ -85,20 +99,6 @@
       "title": "FIP Junior America Padel Cup, L’Argentina centra il ‘Double’ a Cancun - Mr Padel Paddle",
       "source": "Mr Padel Paddle",
       "published": "2026-11-15T11:24:09+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Dubai P1 Premier Padel 2026: Abbate fuori a testa alta in semifinale - Mr Padel Paddle",
-      "source": "Mr Padel Paddle",
-      "published": "2026-11-15T10:06:01+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Dubai P1 – Triay e Brea possono ringraziare Josemaría/González: una semifinale al Major del Messico per chiudere l'anno da numero 1 al mondo - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "2026-11-15T08:09:09+00:00"
     }
   ],
   "sources_ok": 5,
