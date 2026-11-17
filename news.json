@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-11-17T00:18:34.276070+00:00",
+  "updated_at": "2026-11-17T08:11:49.372202+00:00",
   "local_date": "2026-11-17",
   "articles": [
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Atalanta, le cifre del rinnovo di Lorenzo Bernasconi. Ma c'è anche la Juventus - TUTTOmercatoWEB",
+      "source": "TUTTOmercatoWEB",
+      "published": "2026-11-17T06:08:33+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 16 novembre - TUTTOmercatoWEB",
+      "source": "TUTTOmercatoWEB",
+      "published": "2026-11-17T00:00:16+00:00"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -18,90 +32,57 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, Mandas e Lotito ai Ferri Corti: il Portiere può Lasciare i Biancocelesti? - www.news-sports.it",
-      "source": "www.news-sports.it",
-      "published": "2026-11-16T19:30:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan, Occhi su Nathan Ngoy del Lille: il gol all’Italia fa Salire il Prezzo - www.news-sports.it",
-      "source": "www.news-sports.it",
-      "published": "2026-11-16T18:59:33+00:00"
+      "category": "CALCIO",
+      "title": "Lucca potrebbe liberare la casella del vice Hojlund, si discute l'idea del prestito con due club di Serie A - CalcioNapoli24",
+      "source": "CalcioNapoli24",
+      "published": "2026-11-17T07:45:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Tutti i risultati di luned' 16 novembre. La Germania batte l'Olanda di Malen 5-0! Grecia però fuori per la differenza reti - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "2026-11-16T21:58:17+00:00"
+      "title": "Ricorrenza. Chivu batte Fabregas per la Panchina d’oro: \"Corsa Scudetto? Non temo nessuno» - QS Quotidiano Sportivo",
+      "source": "QS Quotidiano Sportivo",
+      "published": "2026-11-17T07:41:03+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Tutte le classifiche dei gironi di Nations League - Sky Sport",
-      "source": "Sky Sport",
-      "published": "2026-11-16T21:49:17+00:00"
+      "title": "Diritti tv Serie A in calo, le coppe Uefa crescono del 33% - ilNapolista",
+      "source": "ilNapolista",
+      "published": "2026-11-17T07:16:06+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Nations League: Wirtz e Gruda firmano la manita della Germania all’Olanda del disastro Dumfries, Svizzera macchina da gol - Virgilio",
+      "title": "Sport oggi in tv, la programmazione di martedì 17 novembre: Atp Finals, coppa d'Africa, basket - Virgilio",
       "source": "Virgilio",
-      "published": "2026-11-16T21:42:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Dida difende Ancelotti: “È un grande, gli serve del tempo per la Nazionale. E Ronaldinho...” - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "2026-11-16T20:33:04+00:00"
+      "published": "2026-11-17T06:55:00+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "SportMediaset Monday Night: Tutto facile per Alcaraz: è lui il vero favorito alle ATP Finals? Video - Mediaset Infinity",
+      "title": "TG5: Torino: tennis amaro per gli italiani Video - Mediaset Infinity",
       "source": "Mediaset Infinity",
-      "published": "2026-11-17T00:16:23+00:00"
+      "published": "2026-11-17T08:05:15+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "ATP Finals, il programma di mercoledì 18 novembre: Cobolli-Tiafoe in serata - Ubitennis",
-      "source": "Ubitennis",
-      "published": "2026-11-17T00:09:07+00:00"
+      "title": "Daniil Medvedev sicuro di sé: “Posso battere Alcaraz a Torino” - OA Sport",
+      "source": "OA Sport",
+      "published": "2026-11-17T07:45:31+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "nitto-atp-finals-2026-sf-qualification-scenarios-16-november | Nitto ATP Finals | Tennis - Nitto ATP Finals",
-      "source": "Nitto ATP Finals",
-      "published": "2026-11-17T00:01:15+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Nel Regno Unito si riproverà a stabilire il record della partita più lunga di sempre - Padelbiz",
-      "source": "Padelbiz",
-      "published": "2026-11-16T16:42:52+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "CUPRA conquista Milano tra padel, nuove auto e mobilità elettrificata - Virgilio",
-      "source": "Virgilio",
-      "published": "2026-11-16T15:19:18+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Il portiere belga Thibaut Courtois investe nella società organizzatrice del Dubai P1 - Padelbiz",
-      "source": "Padelbiz",
-      "published": "2026-11-16T14:51:20+00:00"
+      "title": "Atp Finals, Cobolli: \"L'assenza di Sinner non mi aiuta\" - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "2026-11-17T07:42:29+00:00"
     }
   ],
-  "sources_ok": 5,
+  "sources_ok": 4,
   "sources_total": 5,
-  "warnings": []
+  "warnings": [
+    "PADEL: HTTP Error 429: Too Many Requests"
+  ]
 }
