@@ -1,34 +1,55 @@
 {
-  "updated_at": "2026-11-17T23:58:22.603321+00:00",
+  "updated_at": "2026-11-18T07:10:05.369134+00:00",
   "local_date": "2026-11-18",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Serie D, le trattative di martedì 17 novembre - Serie D 24",
-      "source": "Serie D 24",
-      "published": "2026-11-17T21:42:46+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "A Cesena tiene banco il rinnovo di Shpendi. L'attaccante sarebbe stato offerto al Frosinone - TUTTOmercatoWEB",
+      "title": "Istruzioni per l'uso del calciomercato: dallo scouting al moneyball e l'AI, tutto quello che c'è da sapere - TUTTOmercatoWEB",
       "source": "TUTTOmercatoWEB",
-      "published": "2026-11-17T19:49:06+00:00"
+      "published": "2026-11-18T06:17:49+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Serie A: Inter, Milan e Napoli pronte a cambiare pelle a gennaio - Toro News",
-      "source": "Toro News",
-      "published": "2026-11-17T17:59:42+00:00"
+      "title": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 17 novembre - TUTTOmercatoWEB",
+      "source": "TUTTOmercatoWEB",
+      "published": "2026-11-18T00:00:51+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Clamoroso rumor di calciomercato di dicembre: un ex attaccante di Serie B per una vicentina di D? - Tuttocampo",
+      "source": "Tuttocampo",
+      "published": "2026-11-17T22:02:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
       "title": "Calciomercato Serie A: Inter, Milan e Napoli pronte a cambiare pelle a gennaio - gazzettaGranata",
       "source": "gazzettaGranata",
-      "published": "2026-11-17T17:31:58+00:00"
+      "published": "2026-11-17T18:04:50+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Il futuro di Yildiz diventa un enigma: è tornato sul campo ma il completo recupero potrebbe slittare - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "2026-11-18T06:59:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Galles-Portogallo, moviola: due minuti di follia per Pedro Neto, l’ombra di Ronaldo e i dubbi sul gol - Virgilio",
+      "source": "Virgilio",
+      "published": "2026-11-18T06:45:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A, come sono andati i 190 giocatori convocati dalle Nazionali per la sosta di novembre - Sky Sport",
+      "source": "Sky Sport",
+      "published": "2026-11-17T23:43:13+00:00"
     },
     {
       "type": "news",
@@ -39,45 +60,24 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Pronostici calcio 18 novembre 2026 | Calciomagazine - Calciomagazine",
-      "source": "Calciomagazine",
-      "published": "2026-11-17T23:01:00+00:00"
+      "category": "TENNIS",
+      "title": "Pininfarina. Due architetture temporanee per le Nitto Atp Finals di Torino - Imprese Edili",
+      "source": "Imprese Edili",
+      "published": "2026-11-18T07:02:54+00:00"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Qualificazioni Euro 2028: come funziona il sorteggio? Italia testa di serie, ma… - Sportmediaset",
+      "category": "TENNIS",
+      "title": "Atp Finals, match da dentro o fuori per Cobolli: deve battere Tiafoe per sperare nelle semifinali | Il programma di oggi - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "2026-11-18T07:00:23+00:00"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "ATP Finals, Cobolli sfida Tiafoe: diretta della partita e punteggi live - Sportmediaset",
       "source": "Sportmediaset",
-      "published": "2026-11-17T22:37:36+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Nations League, Haaland trascina la Norvegia, Hojlund non basta alla Danimarca, Forbs lancia il Portogallo: risultati e classifiche - Virgilio",
-      "source": "Virgilio",
-      "published": "2026-11-17T22:26:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Nitto ATP Finals, day 4: Alcaraz-Medvedev, che sfida! - SuperTennis",
-      "source": "SuperTennis",
-      "published": "2026-11-17T23:55:41+00:00"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "C’è Tiafoe sulla strada di Cobolli: «Sinner mi avrebbe tolto pressioni» - Il Messaggero",
-      "source": "Il Messaggero",
-      "published": "2026-11-17T23:45:03+00:00"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "ATP Finals: Zverev batte Shelton ed è in semifinale! - SportPress24",
-      "source": "SportPress24",
-      "published": "2026-11-17T23:25:03+00:00"
+      "published": "2026-11-18T07:00:00+00:00"
     },
     {
       "type": "news",
