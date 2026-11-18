@@ -1,88 +1,88 @@
 {
-  "updated_at": "2026-11-18T16:28:57.432141+00:00",
-  "local_date": "2026-11-18",
+  "updated_at": "2026-11-18T23:03:34.171275+00:00",
+  "local_date": "2026-11-19",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Lecce, Gallo: \"Legame forte con questo club. Il rinnovo era ciò che volevo\" - TUTTOmercatoWEB",
+      "title": "Roma-Malen, c’è una promessa da rispettare: svolta sul rinnovo, l’aumento è da record per il club - Virgilio",
+      "source": "Virgilio",
+      "published": "2026-11-18T22:41:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Juventus, occhi su Retegui: ritorno in Serie A? - Tifo Juventus",
+      "source": "Tifo Juventus",
+      "published": "2026-11-18T22:30:09+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Shaqiri: \"Inter? C'era un grande caos, tanti problemi economici\" - Calciomercato",
+      "source": "Calciomercato",
+      "published": "2026-11-18T19:59:39+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Pisa, la situazione di Angori: fra rinnovo e suggestioni di mercato dalla A per gennaio - TUTTOmercatoWEB",
       "source": "TUTTOmercatoWEB",
-      "published": "2026-11-18T15:26:35+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Napoli, De Laurentiis firma per il centro sportivo a Qualiano - 365Scores",
-      "source": "365Scores",
-      "published": "2026-11-18T14:39:19+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Lazio, pazza idea Chiesa per continuare a volare: per i bookie vicino (a 1,75) l’addio dell’azzurro al Liverpool a gennaio - Agipronews",
-      "source": "Agipronews",
-      "published": "2026-11-18T14:10:03+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Napoli, nuovo centro sportivo. Nota del club: \"Firmati i contratti preliminari per l'acquisto dei terreni\" - TUTTOmercatoWEB",
-      "source": "TUTTOmercatoWEB",
-      "published": "2026-11-18T13:28:00+00:00"
+      "published": "2026-11-18T19:52:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie D, Coppa Italia: La Valenzana Mado vola ai Quarti di finale, Villa Valle eliminato dopo i calci di rigore - Tuttocampo",
+      "title": "Roma-Malen, c’è una promessa da rispettare: svolta sul rinnovo, l’aumento è da record per il club - Virgilio",
+      "source": "Virgilio",
+      "published": "2026-11-18T22:41:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Women Champions League. Juventus Women, vittoria nel finale: OH Leuven battuto 2-0 - Tuttocampo",
       "source": "Tuttocampo",
-      "published": "2026-11-18T15:45:00+00:00"
+      "published": "2026-11-18T22:04:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie D mercato. L'Imperia saluta il vice allenatore - Tuttocampo",
+      "title": "Coppa Italia Eccellenza. Risultati e tabellini delle semifinali d'andata: un super Pietra Ligure ipoteca la finale! - Tuttocampo",
       "source": "Tuttocampo",
-      "published": "2026-11-18T15:31:00+00:00"
+      "published": "2026-11-18T22:03:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Women Champions League. Juventus Women-OH Leuven Féminine, sfida europea a Biella: le bianconere cercano una vittoria pesante - Tuttocampo",
+      "title": "Women Champions League. Inter finale amaro, il Real Madrid prevale per 3-1 - Tuttocampo",
       "source": "Tuttocampo",
-      "published": "2026-11-18T15:05:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "I risultati del 18 novembre 2026 | Calciomagazine - Calciomagazine",
-      "source": "Calciomagazine",
-      "published": "2026-11-18T14:04:00+00:00"
+      "published": "2026-11-18T20:40:00+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Lorenzo Politanò, il tennis non ha limiti: dal debutto agli Us Open al sogno del numero uno - FITP",
-      "source": "FITP",
-      "published": "2026-11-18T16:26:15+00:00"
+      "title": "Atp Finals, Cobolli in lacrime: \"È la partita che più mi rende triste nella mia carriera\" - Sky Sport",
+      "source": "Sky Sport",
+      "published": "2026-11-18T22:59:34+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Dove vedere Cobolli-Tiafoe alle ATP Finals: l'orario e la diretta in chiaro della partita - Men's Health",
-      "source": "Men's Health",
-      "published": "2026-11-18T16:22:48+00:00"
+      "title": "Atp Finals: Cobolli in lacrime 'è la partita che mi rende più triste della carriera' - Quotidiano Nazionale",
+      "source": "Quotidiano Nazionale",
+      "published": "2026-11-18T22:50:06+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Nonostante un problema alla coscia sinistra, Carlos Alcaraz domina anche Daniil Madvedev - Torino Cronaca",
-      "source": "Torino Cronaca",
-      "published": "2026-11-18T16:19:51+00:00"
+      "title": "Cobolli: \"Coppa Davis non a rischio, match con Alcaraz un regalo\" - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "2026-11-18T22:40:56+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Platinum Aguascalientes: Bahurel affronta una grande sfida, i favoriti entrano in scena - Padel Magazine",
+      "title": "FIP Platinum Aguascalientes: Bahurel affronta una grande sfida, i favoriti entrano in gioco - Padel Magazine",
       "source": "Padel Magazine",
       "published": "2026-11-18T13:33:05+00:00"
     },
