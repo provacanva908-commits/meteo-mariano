@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T23:03:34.171275+00:00",
+  "updated_at": "2026-11-19T04:07:47.362536+00:00",
   "local_date": "2026-11-19",
   "articles": [
     {
@@ -19,23 +19,30 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Come l’intelligenza artificiale sta cambiando il modo di fare calciomercato - TUTTOmercatoWEB",
+      "source": "TUTTOmercatoWEB",
+      "published": "2026-11-18T21:15:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Shaqiri: \"Inter? C'era un grande caos, tanti problemi economici\" - Calciomercato",
       "source": "Calciomercato",
       "published": "2026-11-18T19:59:39+00:00"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Pisa, la situazione di Angori: fra rinnovo e suggestioni di mercato dalla A per gennaio - TUTTOmercatoWEB",
-      "source": "TUTTOmercatoWEB",
-      "published": "2026-11-18T19:52:00+00:00"
+      "category": "CALCIO",
+      "title": "Le partite di oggi, giovedì 19 novembre 2026 | Calciomagazine - Calciomagazine",
+      "source": "Calciomagazine",
+      "published": "2026-11-19T00:00:13+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Roma-Malen, c’è una promessa da rispettare: svolta sul rinnovo, l’aumento è da record per il club - Virgilio",
-      "source": "Virgilio",
-      "published": "2026-11-18T22:41:00+00:00"
+      "title": "Champions League femminile, Benfica-Roma: probabili formazioni e pronostico - SportNews BetFlag",
+      "source": "SportNews BetFlag",
+      "published": "2026-11-18T23:15:00+00:00"
     },
     {
       "type": "news",
@@ -53,36 +60,29 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Women Champions League. Inter finale amaro, il Real Madrid prevale per 3-1 - Tuttocampo",
-      "source": "Tuttocampo",
-      "published": "2026-11-18T20:40:00+00:00"
+      "category": "TENNIS",
+      "title": "La passione più grande per Flavio Cobolli: \"Il tatuaggio più importante l'ha disegnato mia mamma\" - Men's Health",
+      "source": "Men's Health",
+      "published": "2026-11-19T04:02:53+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Atp Finals, Cobolli in lacrime: \"È la partita che più mi rende triste nella mia carriera\" - Sky Sport",
-      "source": "Sky Sport",
-      "published": "2026-11-18T22:59:34+00:00"
+      "title": "Atp Finals, il sogno svanito di Cobolli - La Stampa",
+      "source": "La Stampa",
+      "published": "2026-11-19T04:00:00+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Atp Finals: Cobolli in lacrime 'è la partita che mi rende più triste della carriera' - Quotidiano Nazionale",
-      "source": "Quotidiano Nazionale",
-      "published": "2026-11-18T22:50:06+00:00"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Cobolli: \"Coppa Davis non a rischio, match con Alcaraz un regalo\" - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "2026-11-18T22:40:56+00:00"
+      "title": "ATP Finals, Tiafoe: \"Atmosfera a senso unico, ma mi sono divertito\" - Ubitennis",
+      "source": "Ubitennis",
+      "published": "2026-11-19T01:29:31+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Platinum Aguascalientes: Bahurel affronta una grande sfida, i favoriti entrano in gioco - Padel Magazine",
+      "title": "FIP Platinum Aguascalientes: Bahurel sogna una grande vittoria, i grandi nomi arrivano in Messico - Padel Magazine",
       "source": "Padel Magazine",
       "published": "2026-11-18T13:33:05+00:00"
     },
