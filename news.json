@@ -1,107 +1,88 @@
 {
-  "updated_at": "2026-11-19T13:07:05.216345+00:00",
+  "updated_at": "2026-11-19T21:31:57.326860+00:00",
   "local_date": "2026-11-19",
   "articles": [
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Juventus ancora su Sorloth dopo averlo avuto in pugno in estate. Com'è andata la trattativa - TUTTOmercatoWEB",
+      "title": "Abraham può tornare in Serie A: l’Aston Villa apre alla cessione, le ultime sul futuro dell’attaccante - DirettaCalcioMercato",
+      "source": "DirettaCalcioMercato",
+      "published": "2026-11-19T21:05:30+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "GTA VI e calciomercato, da Pirlo a Cambiasso: ecco le \"rapine\" più clamorose della storia - TUTTOmercatoWEB",
       "source": "TUTTOmercatoWEB",
-      "published": "2026-11-19T12:34:53+00:00"
+      "published": "2026-11-19T20:23:19+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Black Friday, shopping sul mercato: le possibili occasioni (e i pezzi da collezione) - Sky Sport",
-      "source": "Sky Sport",
-      "published": "2026-11-19T11:36:41+00:00"
+      "title": "Da GTA al calciomercato, i colpi annunciati con lo stile del videogioco: c'è anche un ex Serie A - TUTTOmercatoWEB",
+      "source": "TUTTOmercatoWEB",
+      "published": "2026-11-19T19:52:12+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Il Milan sogna McTominay, bomba di mercato in Serie A - Calciomercato.it",
-      "source": "Calciomercato.it",
-      "published": "2026-11-19T11:28:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan, facciamo il punto su possibili entrate ed uscite - Milan Vibes",
-      "source": "Milan Vibes",
-      "published": "2026-11-19T10:03:11+00:00"
+      "title": "Calciomercato Serie D, le trattative di giovedì 19 novembre - Serie D 24",
+      "source": "Serie D 24",
+      "published": "2026-11-19T19:46:54+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "TIRASSEGNO. Un esperto giallorosso torna a casa - Tuttocampo",
+      "title": "Union Vis Lendinara, saluta il centrocampista Penzo - Tuttocampo",
       "source": "Tuttocampo",
-      "published": "2026-11-19T12:42:00+00:00"
+      "published": "2026-11-19T21:15:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia Eccellenza. L'Athletic Club Albaro fa sua l'andata: Genova Calcio sconfitta 1 a 0 - Tuttocampo",
+      "title": "Serie A. Udinese, Risoluzione consensuale per Runjaic e i suoi collaboratori - Tuttocampo",
       "source": "Tuttocampo",
-      "published": "2026-11-19T12:22:00+00:00"
+      "published": "2026-11-19T21:13:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia Eccellenza FVG, mercoledì prossimo le semifinali di ritorno: quattro squadre sognano la finale - Tuttocampo",
+      "title": "Serie A. Lecce, prolungato il contratto con il Plamen Penev - Tuttocampo",
       "source": "Tuttocampo",
-      "published": "2026-11-19T12:20:00+00:00"
+      "published": "2026-11-19T21:05:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Coppa Italia Promozione. Colpo esterno per il Masone: Sestrese Bor. sconfitta 3 a 2 e semifinale conquistata - Tuttocampo",
+      "title": "PAGLIARE. Colpo in attacco - Tuttocampo",
       "source": "Tuttocampo",
-      "published": "2026-11-19T12:16:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Tennis in carrozzina: Lorenzo Politanò, dal debutto agli US Open al sogno del numero 1 - Comitato Italiano Paralimpico",
-      "source": "Comitato Italiano Paralimpico",
-      "published": "2026-11-19T13:04:32+00:00"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "SportMediaset: Tennis, le ultime su Yannik Sinner Video - Mediaset Infinity",
-      "source": "Mediaset Infinity",
-      "published": "2026-11-19T13:02:46+00:00"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Alcaraz si ritira? Ecco cosa sta succedendo - L'Identità",
-      "source": "L'Identità",
-      "published": "2026-11-19T12:57:16+00:00"
+      "published": "2026-11-19T21:04:00+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Leo Augsburger annuncia \"Pressure\", un documentario che racconta il dietro le quinte della sua sconfitta ai Mondiali - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "2026-11-19T11:23:00+00:00"
+      "title": "Tapia fissa il prossimo obiettivo: \"Ci permetterebbe di entrare nella storia\" - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "2026-11-19T17:04:29+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Le Premier Padel Finals puntano al record assoluto di pubblico a Barcellona - Padelbiz",
-      "source": "Padelbiz",
-      "published": "2026-11-19T11:04:25+00:00"
+      "title": "FIP Tour: Tre vittorie su tre per i francesi in Svezia, attesi altri atleti francesi sulle piste. - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "2026-11-19T16:35:09+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "\"Con il padel ho trovato tutto quello che cercavo\": Maradona, il fanatico del padel - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "2026-11-19T10:49:05+00:00"
+      "title": "Padel : Le 3 mosse da padroneggiare per vincere più partite secondo Andoni Bardasco - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "2026-11-19T15:37:00+00:00"
     }
   ],
-  "sources_ok": 5,
+  "sources_ok": 4,
   "sources_total": 5,
-  "warnings": []
+  "warnings": [
+    "TENNIS: HTTP Error 429: Too Many Requests"
+  ]
 }
