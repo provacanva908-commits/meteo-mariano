@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-11-19T21:31:57.326860+00:00",
-  "local_date": "2026-11-19",
+  "updated_at": "2026-11-20T02:33:49.477170+00:00",
+  "local_date": "2026-11-20",
   "articles": [
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Bundesliga",
+      "home": "Bayern",
+      "away": "1. FC Köln",
+      "time": "20:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-20"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Primera Division",
+      "home": "Athletic",
+      "away": "Espanyol",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-20"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Napoli, l'Inter punta Anguissa per l'estate: i nerazzurri lo vorrebbero a parametro zero - CalcioNapoli24",
+      "source": "CalcioNapoli24",
+      "published": "2026-11-20T02:00:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Giovane può lasciare il Napoli a gennaio: una squadra di Serie A lo vuole in prestito - AreaNapoli",
+      "source": "AreaNapoli",
+      "published": "2026-11-19T23:34:00+00:00"
+    },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
@@ -18,45 +60,52 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Da GTA al calciomercato, i colpi annunciati con lo stile del videogioco: c'è anche un ex Serie A - TUTTOmercatoWEB",
-      "source": "TUTTOmercatoWEB",
-      "published": "2026-11-19T19:52:12+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Serie D, le trattative di giovedì 19 novembre - Serie D 24",
-      "source": "Serie D 24",
-      "published": "2026-11-19T19:46:54+00:00"
+      "category": "CALCIO",
+      "title": "Pronostico Troyes Le Havre Ligue 1 20/11/2026- WordPress su Azure. - SportNews BetFlag",
+      "source": "SportNews BetFlag",
+      "published": "2026-11-19T23:30:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Union Vis Lendinara, saluta il centrocampista Penzo - Tuttocampo",
-      "source": "Tuttocampo",
-      "published": "2026-11-19T21:15:00+00:00"
+      "title": "Le partite di oggi, venerdì 20 novembre 2026 | Calciomagazine - Calciomagazine",
+      "source": "Calciomagazine",
+      "published": "2026-11-19T23:04:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A. Udinese, Risoluzione consensuale per Runjaic e i suoi collaboratori - Tuttocampo",
+      "title": "La panchina della juniores del Nove ha il suo nuovo padrone, firma mister Andrea Basso - Tuttocampo",
       "source": "Tuttocampo",
-      "published": "2026-11-19T21:13:00+00:00"
+      "published": "2026-11-19T21:56:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A. Lecce, prolungato il contratto con il Plamen Penev - Tuttocampo",
+      "title": "Orgoglio Nuovo Ponso Ospedaletto, il Ds Dall'Aglio: \"Prestazione maiuscola e non solo per il risultato finale....\" - Tuttocampo",
       "source": "Tuttocampo",
-      "published": "2026-11-19T21:05:00+00:00"
+      "published": "2026-11-19T21:52:00+00:00"
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "PAGLIARE. Colpo in attacco - Tuttocampo",
-      "source": "Tuttocampo",
-      "published": "2026-11-19T21:04:00+00:00"
+      "category": "TENNIS",
+      "title": "Quali sono gli orari di gioco alle Nitto ATP Finals? - Nitto ATP Finals",
+      "source": "Nitto ATP Finals",
+      "published": "2026-11-20T00:20:05+00:00"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Zverev vince anche l'ultima: Fils out, Shelton in semifinale con Alcaraz - Eurosport.it",
+      "source": "Eurosport.it",
+      "published": "2026-11-20T00:01:41+00:00"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Alcaraz in campo dopo la paura, “Ma la coscia va tenuta d’occhio” - La Stampa",
+      "source": "La Stampa",
+      "published": "2026-11-20T00:00:00+00:00"
     },
     {
       "type": "news",
@@ -80,9 +129,7 @@
       "published": "2026-11-19T15:37:00+00:00"
     }
   ],
-  "sources_ok": 4,
+  "sources_ok": 5,
   "sources_total": 5,
-  "warnings": [
-    "TENNIS: HTTP Error 429: Too Many Requests"
-  ]
+  "warnings": []
 }
