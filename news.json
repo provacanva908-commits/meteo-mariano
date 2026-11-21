@@ -1,111 +1,202 @@
 {
-  "updated_at": "2026-11-20T18:45:54.153820+00:00",
-  "local_date": "2026-11-20",
+  "updated_at": "2026-11-21T00:21:12.304093+00:00",
+  "local_date": "2026-11-21",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Bundesliga",
-      "home": "Bayern",
-      "away": "1. FC Köln",
-      "time": "20:30",
+      "competition": "Premier League",
+      "home": "Man City",
+      "away": "Fulham",
+      "time": "13:30",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
       "away_score": null,
       "is_live": false,
-      "local_date": "2026-11-20"
+      "local_date": "2026-11-21"
     },
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Primera Division",
-      "home": "Athletic",
-      "away": "Espanyol",
-      "time": "21:00",
+      "competition": "Serie A",
+      "home": "Como 1907",
+      "away": "Cagliari",
+      "time": "15:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
       "away_score": null,
       "is_live": false,
-      "local_date": "2026-11-20"
+      "local_date": "2026-11-21"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Lazio",
+      "away": "Lecce",
+      "time": "15:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-21"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Bundesliga",
+      "home": "M'gladbach",
+      "away": "Dortmund",
+      "time": "15:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-21"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Premier League",
+      "home": "Tottenham",
+      "away": "Ipswich Town",
+      "time": "16:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-21"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Premier League",
+      "home": "Chelsea",
+      "away": "Leeds United",
+      "time": "16:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-21"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Eredivisie",
+      "home": "NEC",
+      "away": "PSV",
+      "time": "16:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-21"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Ligue 1",
+      "home": "Nice",
+      "away": "PSG",
+      "time": "17:15",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-21"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "TRIBUNA.COM * SERIE A: «CALHANOGLU-INTER, LA PRIMA OFFERTA NON BASTA: L’AGENTE ATTESO A MILANO PER IL RINNOVO - www.agenziagiornalisticaopinione.it",
-      "source": "www.agenziagiornalisticaopinione.it",
-      "published": "2026-11-20T18:05:27+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Serie A, tutte le probabili formazioni della dodicesima giornata di campionato - Calciomercato",
+      "title": "Serie B, il Cesena vince 2-0 a Verona: ancora in goal Shpendi - Calciomercato",
       "source": "Calciomercato",
-      "published": "2026-11-20T17:27:22+00:00"
+      "published": "2026-11-20T21:23:56+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Como alla ricerca del sostituto di Kean: Fabregas pesca dalla Serie A ma sogno il colpaccio in Spagna, tutti i nomi - Calciomercato",
-      "source": "Calciomercato",
-      "published": "2026-11-20T15:39:52+00:00"
+      "title": "Trattativa Milan-Endrick, dal Brasile assicurano: no al prestito, si muove solo a titolo definitivo - TUTTOmercatoWEB",
+      "source": "TUTTOmercatoWEB",
+      "published": "2026-11-20T20:38:11+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli: Mijnans nel mirino, ostacolo PSV - SetteCalcio",
-      "source": "SetteCalcio",
-      "published": "2026-11-20T14:46:58+00:00"
+      "title": "Inter, Thuram chiede 8 milioni per rinnovare: Oaktree frena e spunta l’ipotesi cessione da 85 milioni - EuroCalcioNews.com",
+      "source": "EuroCalcioNews.com",
+      "published": "2026-11-20T20:30:37+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Cardinale, giornata di incontri a Casa Milan per programmare il mercato di gennaio - Sky Sport",
+      "source": "Sky Sport",
+      "published": "2026-11-20T18:34:58+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Conferenza stampa Como-Cagliari, Fabregas: \"Kean starà fuori qualche mese\" - 11contro11",
-      "source": "11contro11",
-      "published": "2026-11-20T18:33:01+00:00"
+      "title": "Calcio in tv oggi, 21 novembre 2026 | Calciomagazine - Calciomagazine",
+      "source": "Calciomagazine",
+      "published": "2026-11-20T23:22:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Lettonia, ufficiale l'esonero di Nicolato: solo 5 vittorie in 30 partite - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "2026-11-20T18:27:58+00:00"
+      "title": "Pronostico Schalke Stoccarda Bundesliga 21/11/2026 - Sportnews BetFlag",
+      "source": "Sportnews BetFlag",
+      "published": "2026-11-20T23:15:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "TRODICA. In attacco c'è un gradito ritorno - Tuttocampo",
-      "source": "Tuttocampo",
-      "published": "2026-11-20T18:14:00+00:00"
+      "title": "Partite oggi, stasera e domani: guida alla Diretta TV - Calcio News 24",
+      "source": "Calcio News 24",
+      "published": "2026-11-20T22:50:25+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Luis Enrique pensa alla Roma ma non perde la concentrazione: \"Qui non è Football Manager!\" - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "2026-11-20T18:06:59+00:00"
+      "title": "Infortunio Kane, il Pallone d’Oro è una maledizione: la caviglia va ko e il Bayern frena. Rovinato il ritorno di Kompany - Virgilio",
+      "source": "Virgilio",
+      "published": "2026-11-20T22:20:00+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Next Gen Atp Finals, Binaghi: \"Sarà un grande spettacolo, non vediamo l'ora\" - Corriere dello Sport",
-      "source": "Corriere dello Sport",
-      "published": "2026-11-20T18:35:37+00:00"
+      "title": "Nitto ATP Finals: a Torino vanno in scena le semifinali - SuperTennis",
+      "source": "SuperTennis",
+      "published": "2026-11-21T00:13:43+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Atp Finals, chi partecipava al torneo ai tempi dell'uscita di Gta V? - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "2026-11-20T18:20:41+00:00"
+      "title": "Marcelo Arévalo/Mate Pavic - Christian Harrison/Neal Skupski Riassunto della partita - www.eurosport.it",
+      "source": "www.eurosport.it",
+      "published": "2026-11-20T23:55:53+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Next Gen Atp, Reggio Calabria pronta ad accogliere grande tennis under 20 - ANSA",
-      "source": "ANSA",
-      "published": "2026-11-20T18:03:00+00:00"
+      "title": "Kevin Krawietz/Tim Pütz - Théo Arribage/Albano Olivetti Riassunto della partita - www.eurosport.it",
+      "source": "www.eurosport.it",
+      "published": "2026-11-20T23:55:52+00:00"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Platinum Aguascalientes: quattro semifinali e punti che valgono oro - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "2026-11-20T16:44:27+00:00"
     },
     {
       "type": "news",
@@ -117,16 +208,9 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "P1000 Da fare Padel Choppe / Vignat alla conquista del titolo - Padel Magazine",
+      "title": "P1000 Da fare Padel Choppe / Vignat alla ricerca del titolo - Padel Magazine",
       "source": "Padel Magazine",
       "published": "2026-11-20T15:47:54+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Padel Lab, due cugini che vogliono rivoluzionare il mondo della preparazione fisica nel padel - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "2026-11-20T15:17:47+00:00"
     }
   ],
   "sources_ok": 5,
