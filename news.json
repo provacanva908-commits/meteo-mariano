@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-11-21T15:34:59.936811+00:00",
+  "updated_at": "2026-11-21T21:08:46.244895+00:00",
   "local_date": "2026-11-21",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Como 1907",
-      "away": "Cagliari",
-      "time": "15:00",
+      "competition": "Ligue 1",
+      "home": "Lille",
+      "away": "Olympique Lyon",
+      "time": "20:45",
       "status": "IN_PLAY",
       "status_label": "LIVE",
-      "home_score": 2,
-      "away_score": 0,
+      "home_score": 0,
+      "away_score": 1,
       "is_live": true,
       "local_date": "2026-11-21"
     },
@@ -20,23 +20,9 @@
       "type": "match",
       "category": "CALCIO",
       "competition": "Serie A",
-      "home": "Lazio",
-      "away": "Lecce",
-      "time": "15:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 2,
-      "away_score": 0,
-      "is_live": true,
-      "local_date": "2026-11-21"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Bundesliga",
-      "home": "M'gladbach",
-      "away": "Dortmund",
-      "time": "15:30",
+      "home": "Napoli",
+      "away": "Torino",
+      "time": "20:45",
       "status": "IN_PLAY",
       "status_label": "LIVE",
       "home_score": 0,
@@ -47,27 +33,13 @@
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Premier League",
-      "home": "Tottenham",
-      "away": "Ipswich Town",
-      "time": "16:00",
+      "competition": "Primera Division",
+      "home": "Real Madrid",
+      "away": "Celta",
+      "time": "21:00",
       "status": "IN_PLAY",
       "status_label": "LIVE",
-      "home_score": 1,
-      "away_score": 0,
-      "is_live": true,
-      "local_date": "2026-11-21"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Premier League",
-      "home": "Chelsea",
-      "away": "Leeds United",
-      "time": "16:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 1,
+      "home_score": 0,
       "away_score": 1,
       "is_live": true,
       "local_date": "2026-11-21"
@@ -89,107 +61,149 @@
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Eredivisie",
-      "home": "NEC",
-      "away": "PSV",
-      "time": "16:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "competition": "Serie A",
+      "home": "Lazio",
+      "away": "Lecce",
+      "time": "15:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 3,
+      "away_score": 0,
       "is_live": false,
       "local_date": "2026-11-21"
     },
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Ligue 1",
-      "home": "Nice",
-      "away": "PSG",
-      "time": "17:15",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "competition": "Serie A",
+      "home": "Como 1907",
+      "away": "Cagliari",
+      "time": "15:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
+      "away_score": 0,
+      "is_live": false,
+      "local_date": "2026-11-21"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Bundesliga",
+      "home": "M'gladbach",
+      "away": "Dortmund",
+      "time": "15:30",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 0,
+      "away_score": 1,
+      "is_live": false,
+      "local_date": "2026-11-21"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Premier League",
+      "home": "Tottenham",
+      "away": "Ipswich Town",
+      "time": "16:00",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 2,
+      "away_score": 0,
       "is_live": false,
       "local_date": "2026-11-21"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "TRIBUNA.COM * SERIE A: «CALHANOGLU SI AVVICINA AL RINNOVO CON L'INTER: LE TEMPISTICHE FISSATE DALLA SOCIETÀ PER L'ACCORDO - agenzia giornalistica opinione",
-      "source": "agenzia giornalistica opinione",
-      "published": "2026-11-21T14:01:30+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "TRIBUNA.COM * SERIE A: «RABIOT AD UN PASSO DAL RINNOVO CON IL MILAN: LE CIFRE DELL'ACCORDO - agenzia giornalistica opinione",
-      "source": "agenzia giornalistica opinione",
-      "published": "2026-11-21T12:50:31+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Cagliari, idea Camarda per l'attacco: trattativa con il Milan, ai rossoneri piace Mendy - TUTTOmercatoWEB",
+      "title": "Il ciclone Malen cala il poker, ora tocca alla Roma: il rinnovo non può più aspettare - TUTTOmercatoWEB",
       "source": "TUTTOmercatoWEB",
-      "published": "2026-11-21T12:15:33+00:00"
+      "published": "2026-11-21T20:25:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Milan, Ngoy nel mirino: le ultime sul calciomercato - SetteCalcio",
-      "source": "SetteCalcio",
-      "published": "2026-11-21T12:04:00+00:00"
+      "title": "Napoli-Torino, dove vederla in tv e streaming: canale, orario, formazioni - Calciomercato",
+      "source": "Calciomercato",
+      "published": "2026-11-21T18:50:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Cardinale e il mercato Milan: \"Endrick top mondiale, vedremo! Rabiot simbolo, il rinnovo...\" - Tuttosport",
+      "source": "Tuttosport",
+      "published": "2026-11-21T17:21:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "TRIBUNA.COM * SERIE A: «DA ENDRICK AL RINNOVO DI RABIOT, CARDINALE SUL FUTURO DEL MILAN: \"UNO DEI MIGLIORI AL MONDO NEL SUO RUOLO!\" - agenzia giornalistica opinione",
+      "source": "agenzia giornalistica opinione",
+      "published": "2026-11-21T16:55:13+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "City e Donnarumma: crisi continua, solo pari in casa con il Fulham, il Napoli ora ci crede - Virgilio",
-      "source": "Virgilio",
-      "published": "2026-11-21T14:52:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Premier League: prosegue la crisi del Man City, è 1-1 col Fulham - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "2026-11-21T14:33:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Il City non ingrana! Anderson salva Maresca: col Fulham è 1-1 - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "2026-11-21T14:31:54+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Premier League, le formazioni ufficiali delle gare delle 16:00 - 11contro11",
+      "title": "Como-Cagliari (2-0), Fabregas: \"Non è stata una gara perfetta\" - 11contro11",
       "source": "11contro11",
-      "published": "2026-11-21T14:13:32+00:00"
+      "published": "2026-11-21T21:01:46+00:00"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Controsmorzata – L’amore evanescente dell’Italia per il tennis: le ATP Finals senza Sinner - Ubitennis",
-      "source": "Ubitennis",
-      "published": "2026-11-21T15:30:00+00:00"
+      "category": "CALCIO",
+      "title": "Donyell Malen l'uomo in più di una Roma da Scudetto, oggi vale come Kane e Mbappé. E se il Bayern Monaco e il PSG ci provassero a gennaio? - Calciomercato",
+      "source": "Calciomercato",
+      "published": "2026-11-21T20:30:05+00:00"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Nitto ATP Finals: Shelton conquista il primo game del terzo set Video - Mediaset Infinity",
-      "source": "Mediaset Infinity",
-      "published": "2026-11-21T15:09:13+00:00"
+      "category": "CALCIO",
+      "title": "Napoli, Vergara si fa male dopo 10 minuti e scoppia a piangere: salta il piano City di Allegri per De Bruyne - Virgilio",
+      "source": "Virgilio",
+      "published": "2026-11-21T20:18:00+00:00"
     },
     {
       "type": "news",
-      "category": "TENNIS",
-      "title": "Alcaraz, quattro punti consecutivi e game conquistato - Sportmediaset",
+      "category": "CALCIO",
+      "title": "Premier League: il City stecca ancora e pareggia col Fulham, il Newcastle ferma l’Arsenal - Sportmediaset",
       "source": "Sportmediaset",
-      "published": "2026-11-21T15:06:29+00:00"
+      "published": "2026-11-21T19:34:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Zverev-Medvedev, semifinale Atp Finals: dove vederla (tv e streaming), orario, precedenti e montepremi - Il Messaggero",
+      "source": "Il Messaggero",
+      "published": "2026-11-21T21:03:07+00:00"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Il tiebreak perfetto di Zverev: che passante sul set point - Sky Sport",
+      "source": "Sky Sport",
+      "published": "2026-11-21T20:51:49+00:00"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Ecco come funziona l’assistenza sanitaria alle Atp Finals - La Stampa",
+      "source": "La Stampa",
+      "published": "2026-11-21T20:38:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Mexico Major – Ale Galán si ritira, la sua partecipazione alla finale di Barcellona resta incerta - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "2026-11-21T14:40:45+00:00"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Galán si ritira dal Major del Messico: anche Chingotto salta l'ultimo Major della stagione. - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "2026-11-21T14:35:43+00:00"
     },
     {
       "type": "news",
@@ -197,20 +211,6 @@
       "title": "Galan contro Lebron: Red Bull lancia il torneo 1 vs 1! - Padel Magazine",
       "source": "Padel Magazine",
       "published": "2026-11-21T14:02:02+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Mexico Major – Leygue, Fonteny e Bahurel in lizza per le qualificazioni all'ultimo Major della stagione - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "2026-11-21T11:40:01+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Ari Sánchez prima del Major del Messico: \"Questo è un torneo che non mi ha mai portato fortuna, mi piacerebbe davvero vincerlo\" - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "2026-11-21T11:27:37+00:00"
     }
   ],
   "sources_ok": 5,
