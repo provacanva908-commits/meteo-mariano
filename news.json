@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-11-21T07:31:40.473506+00:00",
+  "updated_at": "2026-11-21T15:34:59.936811+00:00",
   "local_date": "2026-11-21",
   "articles": [
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Premier League",
-      "home": "Man City",
-      "away": "Fulham",
-      "time": "13:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-11-21"
-    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -23,11 +9,11 @@
       "home": "Como 1907",
       "away": "Cagliari",
       "time": "15:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 2,
+      "away_score": 0,
+      "is_live": true,
       "local_date": "2026-11-21"
     },
     {
@@ -37,11 +23,11 @@
       "home": "Lazio",
       "away": "Lecce",
       "time": "15:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 2,
+      "away_score": 0,
+      "is_live": true,
       "local_date": "2026-11-21"
     },
     {
@@ -51,11 +37,11 @@
       "home": "M'gladbach",
       "away": "Dortmund",
       "time": "15:30",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "is_live": true,
       "local_date": "2026-11-21"
     },
     {
@@ -65,11 +51,11 @@
       "home": "Tottenham",
       "away": "Ipswich Town",
       "time": "16:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 1,
+      "away_score": 0,
+      "is_live": true,
       "local_date": "2026-11-21"
     },
     {
@@ -79,10 +65,24 @@
       "home": "Chelsea",
       "away": "Leeds United",
       "time": "16:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 1,
+      "away_score": 1,
+      "is_live": true,
+      "local_date": "2026-11-21"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Premier League",
+      "home": "Man City",
+      "away": "Fulham",
+      "time": "13:30",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 1,
       "is_live": false,
       "local_date": "2026-11-21"
     },
@@ -117,100 +117,100 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Juve, i colpi di gennaio. Largo a Udogie, la shortlist del bomber e il sacrificabile - Tuttosport",
-      "source": "Tuttosport",
-      "published": "2026-11-21T06:42:00+00:00"
+      "title": "TRIBUNA.COM * SERIE A: «CALHANOGLU SI AVVICINA AL RINNOVO CON L'INTER: LE TEMPISTICHE FISSATE DALLA SOCIETÀ PER L'ACCORDO - agenzia giornalistica opinione",
+      "source": "agenzia giornalistica opinione",
+      "published": "2026-11-21T14:01:30+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 20 novembre - TUTTOmercatoWEB",
+      "title": "TRIBUNA.COM * SERIE A: «RABIOT AD UN PASSO DAL RINNOVO CON IL MILAN: LE CIFRE DELL'ACCORDO - agenzia giornalistica opinione",
+      "source": "agenzia giornalistica opinione",
+      "published": "2026-11-21T12:50:31+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Cagliari, idea Camarda per l'attacco: trattativa con il Milan, ai rossoneri piace Mendy - TUTTOmercatoWEB",
       "source": "TUTTOmercatoWEB",
-      "published": "2026-11-21T00:00:23+00:00"
+      "published": "2026-11-21T12:15:33+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Serie B, il Cesena vince 2-0 a Verona: ancora in goal Shpendi - Calciomercato",
-      "source": "Calciomercato",
-      "published": "2026-11-20T21:23:56+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Napoli, limite prestiti a gennaio? La fake news su un solo slot: ecco il regolamento - Tutto Napoli",
-      "source": "Tutto Napoli",
-      "published": "2026-11-20T21:00:00+00:00"
+      "title": "Milan, Ngoy nel mirino: le ultime sul calciomercato - SetteCalcio",
+      "source": "SetteCalcio",
+      "published": "2026-11-21T12:04:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Ripartono in campionati: le squadre in posizioni 'strane' di classifica - Sky Sport",
-      "source": "Sky Sport",
-      "published": "2026-11-21T07:14:07+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Sport oggi in tv, la programmazione di sabato 21 novembre: serie A, sci alpino, Motogp, Atp Finals - Virgilio",
+      "title": "City e Donnarumma: crisi continua, solo pari in casa con il Fulham, il Napoli ora ci crede - Virgilio",
       "source": "Virgilio",
-      "published": "2026-11-21T06:55:00+00:00"
+      "published": "2026-11-21T14:52:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, le partite di oggi: dove vedere Como-Cagliari, Lazio-Lecce, Parma-Roma e Napoli-Torino - Virgilio",
-      "source": "Virgilio",
-      "published": "2026-11-21T06:45:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "La Serie A riapre i battenti: il programma della dodicesima giornata al via oggi - 11contro11",
-      "source": "11contro11",
-      "published": "2026-11-21T06:38:44+00:00"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Lexus NX, debutto alle ATP Finals di Torino. Ecco quanto costa in Italia - Il Fatto Quotidiano",
-      "source": "Il Fatto Quotidiano",
-      "published": "2026-11-21T07:05:54+00:00"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Atp Finals 2026, il programma di oggi: partite e orari - Sky Sport",
-      "source": "Sky Sport",
-      "published": "2026-11-21T07:03:34+00:00"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Semifinali stellari nel sabato di Torino: Alcaraz sfida Shelton, Zverev opposto alla bestia nera Medvedev - Sportmediaset",
+      "title": "Premier League: prosegue la crisi del Man City, è 1-1 col Fulham - Sportmediaset",
       "source": "Sportmediaset",
-      "published": "2026-11-21T07:03:00+00:00"
+      "published": "2026-11-21T14:33:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Il City non ingrana! Anderson salva Maresca: col Fulham è 1-1 - Eurosport.it",
+      "source": "Eurosport.it",
+      "published": "2026-11-21T14:31:54+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Premier League, le formazioni ufficiali delle gare delle 16:00 - 11contro11",
+      "source": "11contro11",
+      "published": "2026-11-21T14:13:32+00:00"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Controsmorzata – L’amore evanescente dell’Italia per il tennis: le ATP Finals senza Sinner - Ubitennis",
+      "source": "Ubitennis",
+      "published": "2026-11-21T15:30:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Nitto ATP Finals: Shelton conquista il primo game del terzo set Video - Mediaset Infinity",
+      "source": "Mediaset Infinity",
+      "published": "2026-11-21T15:09:13+00:00"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Alcaraz, quattro punti consecutivi e game conquistato - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "2026-11-21T15:06:29+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Platinum Aguascalientes: quattro semifinali e punti che valgono oro - Padel Magazine",
+      "title": "Galan contro Lebron: Red Bull lancia il torneo 1 vs 1! - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "2026-11-20T16:44:27+00:00"
+      "published": "2026-11-21T14:02:02+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Lebrón contro Galán in una sfida uno contro uno: Red Bull riunisce sei stelle per un evento unico a Madrid - Padel Magazine",
+      "title": "Mexico Major – Leygue, Fonteny e Bahurel in lizza per le qualificazioni all'ultimo Major della stagione - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "2026-11-20T16:20:11+00:00"
+      "published": "2026-11-21T11:40:01+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "P1000 Da fare Padel Choppe / Vignat alla ricerca del titolo - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "2026-11-20T15:47:54+00:00"
+      "title": "Ari Sánchez prima del Major del Messico: \"Questo è un torneo che non mi ha mai portato fortuna, mi piacerebbe davvero vincerlo\" - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "2026-11-21T11:27:37+00:00"
     }
   ],
   "sources_ok": 5,
