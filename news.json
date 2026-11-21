@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T00:21:12.304093+00:00",
+  "updated_at": "2026-11-21T07:31:40.473506+00:00",
   "local_date": "2026-11-21",
   "articles": [
     {
@@ -117,6 +117,20 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Calciomercato Juve, i colpi di gennaio. Largo a Udogie, la shortlist del bomber e il sacrificabile - Tuttosport",
+      "source": "Tuttosport",
+      "published": "2026-11-21T06:42:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 20 novembre - TUTTOmercatoWEB",
+      "source": "TUTTOmercatoWEB",
+      "published": "2026-11-21T00:00:23+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Serie B, il Cesena vince 2-0 a Verona: ancora in goal Shpendi - Calciomercato",
       "source": "Calciomercato",
       "published": "2026-11-20T21:23:56+00:00"
@@ -124,72 +138,58 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Trattativa Milan-Endrick, dal Brasile assicurano: no al prestito, si muove solo a titolo definitivo - TUTTOmercatoWEB",
-      "source": "TUTTOmercatoWEB",
-      "published": "2026-11-20T20:38:11+00:00"
+      "title": "Calciomercato Napoli, limite prestiti a gennaio? La fake news su un solo slot: ecco il regolamento - Tutto Napoli",
+      "source": "Tutto Napoli",
+      "published": "2026-11-20T21:00:00+00:00"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Inter, Thuram chiede 8 milioni per rinnovare: Oaktree frena e spunta l’ipotesi cessione da 85 milioni - EuroCalcioNews.com",
-      "source": "EuroCalcioNews.com",
-      "published": "2026-11-20T20:30:37+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Cardinale, giornata di incontri a Casa Milan per programmare il mercato di gennaio - Sky Sport",
+      "category": "CALCIO",
+      "title": "Ripartono in campionati: le squadre in posizioni 'strane' di classifica - Sky Sport",
       "source": "Sky Sport",
-      "published": "2026-11-20T18:34:58+00:00"
+      "published": "2026-11-21T07:14:07+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Calcio in tv oggi, 21 novembre 2026 | Calciomagazine - Calciomagazine",
-      "source": "Calciomagazine",
-      "published": "2026-11-20T23:22:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Pronostico Schalke Stoccarda Bundesliga 21/11/2026 - Sportnews BetFlag",
-      "source": "Sportnews BetFlag",
-      "published": "2026-11-20T23:15:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Partite oggi, stasera e domani: guida alla Diretta TV - Calcio News 24",
-      "source": "Calcio News 24",
-      "published": "2026-11-20T22:50:25+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Infortunio Kane, il Pallone d’Oro è una maledizione: la caviglia va ko e il Bayern frena. Rovinato il ritorno di Kompany - Virgilio",
+      "title": "Sport oggi in tv, la programmazione di sabato 21 novembre: serie A, sci alpino, Motogp, Atp Finals - Virgilio",
       "source": "Virgilio",
-      "published": "2026-11-20T22:20:00+00:00"
+      "published": "2026-11-21T06:55:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Serie A, le partite di oggi: dove vedere Como-Cagliari, Lazio-Lecce, Parma-Roma e Napoli-Torino - Virgilio",
+      "source": "Virgilio",
+      "published": "2026-11-21T06:45:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "La Serie A riapre i battenti: il programma della dodicesima giornata al via oggi - 11contro11",
+      "source": "11contro11",
+      "published": "2026-11-21T06:38:44+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Nitto ATP Finals: a Torino vanno in scena le semifinali - SuperTennis",
-      "source": "SuperTennis",
-      "published": "2026-11-21T00:13:43+00:00"
+      "title": "Lexus NX, debutto alle ATP Finals di Torino. Ecco quanto costa in Italia - Il Fatto Quotidiano",
+      "source": "Il Fatto Quotidiano",
+      "published": "2026-11-21T07:05:54+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Marcelo Arévalo/Mate Pavic - Christian Harrison/Neal Skupski Riassunto della partita - www.eurosport.it",
-      "source": "www.eurosport.it",
-      "published": "2026-11-20T23:55:53+00:00"
+      "title": "Atp Finals 2026, il programma di oggi: partite e orari - Sky Sport",
+      "source": "Sky Sport",
+      "published": "2026-11-21T07:03:34+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Kevin Krawietz/Tim Pütz - Théo Arribage/Albano Olivetti Riassunto della partita - www.eurosport.it",
-      "source": "www.eurosport.it",
-      "published": "2026-11-20T23:55:52+00:00"
+      "title": "Semifinali stellari nel sabato di Torino: Alcaraz sfida Shelton, Zverev opposto alla bestia nera Medvedev - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "2026-11-21T07:03:00+00:00"
     },
     {
       "type": "news",
