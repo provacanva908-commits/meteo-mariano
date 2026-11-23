@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T02:35:14.566667+00:00",
+  "updated_at": "2026-11-23T11:16:05.531678+00:00",
   "local_date": "2026-11-23",
   "articles": [
     {
@@ -19,79 +19,93 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
+      "title": "Colpo Juventus sulla fascia, i bianconeri lo riportano in Serie A - Calciomercato.it",
+      "source": "Calciomercato.it",
+      "published": "2026-11-23T09:36:38+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Rabiot e McTominay sulla stessa barca. Ma un rinnovo è più facile dell'altro - TUTTOmercatoWEB",
+      "source": "TUTTOmercatoWEB",
+      "published": "2026-11-23T09:10:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Serie D, le trattative di lunedì 23 novembre - Serie D 24",
+      "source": "Serie D 24",
+      "published": "2026-11-23T08:09:20+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
       "title": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 22 novembre - TUTTOmercatoWEB",
       "source": "TUTTOmercatoWEB",
       "published": "2026-11-23T01:00:00+00:00"
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Milan, Amorim: \"Rabiot è straordinario, spero arrivi presto il suo rinnovo\" - TUTTOmercatoWEB",
-      "source": "TUTTOmercatoWEB",
-      "published": "2026-11-22T23:23:01+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "DIRETTA ATALANTA INTER | Risultato finale 4-4: Kessié firma il pari su rigore! (oggi 22 novembre 2026) - IlSussidiario.net",
-      "source": "IlSussidiario.net",
-      "published": "2026-11-22T21:49:52+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "De Bruyne verso il PSV: trattativa in corso, intesa di massima tra i club - https://tuttonapolicalcio.it/",
-      "source": "https://tuttonapolicalcio.it/",
-      "published": "2026-11-22T19:51:12+00:00"
+      "category": "CALCIO",
+      "title": "Promozione:il Tricesimo ritorna alla vittoria dopo 5 turni - Tuttocampo",
+      "source": "Tuttocampo",
+      "published": "2026-11-23T11:00:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Pronostico Como-AEK Atene 24 Novembre 2026: 5ª Giornata Champions League - Bottadiculo",
-      "source": "Bottadiculo",
-      "published": "2026-11-22T23:49:58+00:00"
+      "title": "Serie A femminile. La Juventus domina la Lazio, Sarriegi trascina le bianconere con una tripletta - Tuttocampo",
+      "source": "Tuttocampo",
+      "published": "2026-11-23T10:49:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Pronostici calcio 23 novembre 2026 | Calciomagazine - Calciomagazine",
-      "source": "Calciomagazine",
-      "published": "2026-11-22T23:04:00+00:00"
+      "title": "Partite oggi, stasera e domani: guida alla Diretta TV - Calcio News 24",
+      "source": "Calcio News 24",
+      "published": "2026-11-23T09:59:21+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A, Atalanta-Inter 4-4: non basta la tripletta di Pio, Chivu si fa riprendere - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "2026-11-22T23:00:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Brentford - Everton 23/11/2026, Comp. quote - Diretta",
-      "source": "Diretta",
-      "published": "2026-11-22T21:56:15+00:00"
+      "title": "Infortunio Calhanoglu: condizioni, esami e tempi di recupero dopo Atalanta-Inter | DAZN News Italia - DAZN",
+      "source": "DAZN",
+      "published": "2026-11-23T09:45:53+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Pressing: Atp Finals, Carlito's way Video - Mediaset Infinity",
-      "source": "Mediaset Infinity",
-      "published": "2026-11-23T01:51:32+00:00"
+      "title": "Tennis, quei magnifici ventinove numeri 1 - Il Sole 24 ORE",
+      "source": "Il Sole 24 ORE",
+      "published": "2026-11-23T11:06:31+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Atp Finals, Carlito's way - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "2026-11-23T01:37:53+00:00"
+      "title": "Canè torna sull’infortunio di Sinner: “Gli è scattato qualcosa nella testa dopo Parigi” - Il Tennis Italiano",
+      "source": "Il Tennis Italiano",
+      "published": "2026-11-23T11:04:44+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Pressing: Pellegatti: \"Ecco che soprannome darei ad Alcaraz\" Video - Mediaset Infinity",
-      "source": "Mediaset Infinity",
-      "published": "2026-11-23T01:13:18+00:00"
+      "title": "Alcaraz e la sfida di Davis: pronto a giocare anche il doppio - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "2026-11-23T10:54:06+00:00"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Bronze Accra – Ottava finale persa per Camille Sireix, ancora alla ricerca del suo primo titolo - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "2026-11-23T08:14:15+00:00"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Mexico Major – Leygue e Fonteny eliminate al primo turno, Bahurel unica francese ancora in gara nelle qualificazioni - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "2026-11-23T08:03:28+00:00"
     },
     {
       "type": "news",
@@ -99,20 +113,6 @@
       "title": "FIP Bronze Rochefort – Courrin / Muesser ribaltano il pronostico e conquistano il loro primo titolo nel circuito FIP - Padel Magazine",
       "source": "Padel Magazine",
       "published": "2026-11-22T17:58:44+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "P1000 Da fare Padel – Ben Lallahom ed Espinal Rey eliminano i favoriti e si aggiudicano il titolo - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "2026-11-22T16:13:10+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Mexico Major – Ale Galán si ritira, la sua partecipazione alle finali di Barcellona resta incerta - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "2026-11-22T14:40:00+00:00"
     }
   ],
   "sources_ok": 5,
