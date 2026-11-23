@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T11:16:05.531678+00:00",
+  "updated_at": "2026-11-23T22:44:54.361286+00:00",
   "local_date": "2026-11-23",
   "articles": [
     {
@@ -10,7 +10,7 @@
       "away": "Fiorentina",
       "time": "20:45",
       "status": "TIMED",
-      "status_label": "In programma",
+      "status_label": "Stato da verificare",
       "home_score": null,
       "away_score": null,
       "is_live": false,
@@ -19,100 +19,100 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Colpo Juventus sulla fascia, i bianconeri lo riportano in Serie A - Calciomercato.it",
+      "title": "Inter-Calhanoglu, nodo rinnovo. Como su Zirkzee, parlano Allegri e KDB: le top news delle 22 - TUTTOmercatoWEB",
+      "source": "TUTTOmercatoWEB",
+      "published": "2026-11-23T21:00:09+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Calciomercato Inter, a gennaio un rinforzo in difesa: un ex Juventus nel mirino - FantaMaster",
+      "source": "FantaMaster",
+      "published": "2026-11-23T20:45:01+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Baccin torna a Monza: Varela e gli altri obiettivi dell’Inter | VIDEO CM - Calciomercato.it",
       "source": "Calciomercato.it",
-      "published": "2026-11-23T09:36:38+00:00"
+      "published": "2026-11-23T20:37:21+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Rabiot e McTominay sulla stessa barca. Ma un rinnovo è più facile dell'altro - TUTTOmercatoWEB",
-      "source": "TUTTOmercatoWEB",
-      "published": "2026-11-23T09:10:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Serie D, le trattative di lunedì 23 novembre - Serie D 24",
-      "source": "Serie D 24",
-      "published": "2026-11-23T08:09:20+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 22 novembre - TUTTOmercatoWEB",
-      "source": "TUTTOmercatoWEB",
-      "published": "2026-11-23T01:00:00+00:00"
+      "title": "Serie A: Monza-Fiorentina LIVE - Calciomercato",
+      "source": "Calciomercato",
+      "published": "2026-11-23T18:58:13+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Promozione:il Tricesimo ritorna alla vittoria dopo 5 turni - Tuttocampo",
-      "source": "Tuttocampo",
-      "published": "2026-11-23T11:00:00+00:00"
+      "title": "Chi fa più sprint in Europa? Serie A ultima. La Champions League guida la classifica - AreaNapoli",
+      "source": "AreaNapoli",
+      "published": "2026-11-23T22:16:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A femminile. La Juventus domina la Lazio, Sarriegi trascina le bianconere con una tripletta - Tuttocampo",
-      "source": "Tuttocampo",
-      "published": "2026-11-23T10:49:00+00:00"
+      "title": "Champions League: martedì alle 21 in campo Manchester City-Napoli DIRETTA - ANSA",
+      "source": "ANSA",
+      "published": "2026-11-23T21:36:13+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Partite oggi, stasera e domani: guida alla Diretta TV - Calcio News 24",
-      "source": "Calcio News 24",
-      "published": "2026-11-23T09:59:21+00:00"
+      "title": "Champions League: martedì alle 21 in campo Como-Aek Atene DIRETTA - ANSA",
+      "source": "ANSA",
+      "published": "2026-11-23T21:34:56+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Infortunio Calhanoglu: condizioni, esami e tempi di recupero dopo Atalanta-Inter | DAZN News Italia - DAZN",
-      "source": "DAZN",
-      "published": "2026-11-23T09:45:53+00:00"
+      "title": "Champions League, Inter-Stoccarda: dove vedere la partita, probabili formazioni e quote - Diretta",
+      "source": "Diretta",
+      "published": "2026-11-23T21:20:10+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Tennis, quei magnifici ventinove numeri 1 - Il Sole 24 ORE",
-      "source": "Il Sole 24 ORE",
-      "published": "2026-11-23T11:06:31+00:00"
+      "title": "Una passerella sospesa e un portale luminoso ad ATP Finals Torino - Interni Magazine",
+      "source": "Interni Magazine",
+      "published": "2026-11-23T21:44:57+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Canè torna sull’infortunio di Sinner: “Gli è scattato qualcosa nella testa dopo Parigi” - Il Tennis Italiano",
-      "source": "Il Tennis Italiano",
-      "published": "2026-11-23T11:04:44+00:00"
+      "title": "Sinner vola dal 'guru' finlandese per operazione al ginocchio - ANSA",
+      "source": "ANSA",
+      "published": "2026-11-23T21:24:55+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Alcaraz e la sfida di Davis: pronto a giocare anche il doppio - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "2026-11-23T10:54:06+00:00"
+      "title": "Sinner: Castellacci 'possibili diversi interventi, da 2 a 4 mesi per il recupero' - ANSA",
+      "source": "ANSA",
+      "published": "2026-11-23T21:08:00+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Bronze Accra – Ottava finale persa per Camille Sireix, ancora alla ricerca del suo primo titolo - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "2026-11-23T08:14:15+00:00"
+      "title": "Juan Lebron e Ale Galan si sfideranno in un 1 vs 1 - Padelbiz",
+      "source": "Padelbiz",
+      "published": "2026-11-23T13:29:15+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Mexico Major – Leygue e Fonteny eliminate al primo turno, Bahurel unica francese ancora in gara nelle qualificazioni - Padel Magazine",
+      "title": "Classifica FIP – Osoro si avvicina a soli 35 punti dalla finale, la battaglia si intensifica nella competizione maschile in vista del Major del Messico - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "2026-11-23T08:03:28+00:00"
+      "published": "2026-11-23T12:14:00+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Bronze Rochefort – Courrin / Muesser ribaltano il pronostico e conquistano il loro primo titolo nel circuito FIP - Padel Magazine",
+      "title": "Premier Padel 2027 – Sono state annunciate le date per il Paris Major, il Bordeaux P2 e il Bruxelles P2 - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "2026-11-22T17:58:44+00:00"
+      "published": "2026-11-23T11:58:00+00:00"
     }
   ],
   "sources_ok": 5,
