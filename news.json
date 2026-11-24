@@ -1,97 +1,195 @@
 {
-  "updated_at": "2026-11-23T22:44:54.361286+00:00",
-  "local_date": "2026-11-23",
+  "updated_at": "2026-11-24T06:30:08.720163+00:00",
+  "local_date": "2026-11-24",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Monza",
-      "away": "Fiorentina",
-      "time": "20:45",
+      "competition": "UEFA Champions League",
+      "home": "Bodø/Glimt",
+      "away": "LASK",
+      "time": "18:45",
       "status": "TIMED",
-      "status_label": "Stato da verificare",
+      "status_label": "In programma",
       "home_score": null,
       "away_score": null,
       "is_live": false,
-      "local_date": "2026-11-23"
+      "local_date": "2026-11-24"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Galatasaray",
+      "away": "Aston Villa",
+      "time": "18:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-24"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "RB Leipzig",
+      "away": "RC Lens",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-24"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Man City",
+      "away": "Napoli",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-24"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Feyenoord",
+      "away": "Porto",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-24"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Sl. Bratislava",
+      "away": "Real Betis",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-24"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Real Madrid",
+      "away": "PSV",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-24"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Como 1907",
+      "away": "PAE AEK",
+      "time": "21:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-24"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Inter-Calhanoglu, nodo rinnovo. Como su Zirkzee, parlano Allegri e KDB: le top news delle 22 - TUTTOmercatoWEB",
+      "title": "Milan, si discute il rinnovo di Cisse: tutti i dettagli su cifre e scadenza - Planetwin365 news",
+      "source": "Planetwin365 news",
+      "published": "2026-11-24T05:38:41+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Aboukhlal delude ancora e la cessione si complica: Toro a forte rischio minusvalenza - Toro News",
+      "source": "Toro News",
+      "published": "2026-11-24T05:30:22+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Lazio, il gruppo sceglie: nessun addio a gennaio. E si pianifica il rinnovo di Gattuso - TUTTOmercatoWEB",
       "source": "TUTTOmercatoWEB",
-      "published": "2026-11-23T21:00:09+00:00"
+      "published": "2026-11-24T05:30:19+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Inter, a gennaio un rinforzo in difesa: un ex Juventus nel mirino - FantaMaster",
-      "source": "FantaMaster",
-      "published": "2026-11-23T20:45:01+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Baccin torna a Monza: Varela e gli altri obiettivi dell’Inter | VIDEO CM - Calciomercato.it",
-      "source": "Calciomercato.it",
-      "published": "2026-11-23T20:37:21+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Serie A: Monza-Fiorentina LIVE - Calciomercato",
-      "source": "Calciomercato",
-      "published": "2026-11-23T18:58:13+00:00"
+      "title": "Calhanoglu, segnali positivi sul rinnovo: l’Inter resta la priorità - Notizie Inter",
+      "source": "Notizie Inter",
+      "published": "2026-11-24T02:07:33+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Chi fa più sprint in Europa? Serie A ultima. La Champions League guida la classifica - AreaNapoli",
-      "source": "AreaNapoli",
-      "published": "2026-11-23T22:16:00+00:00"
+      "title": "Pronostico San Jose Earthquakes-Houston Dynamo 25 novembre 2026: Ottavi di finale di Major League Soccer - Bottadiculo",
+      "source": "Bottadiculo",
+      "published": "2026-11-24T06:09:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: martedì alle 21 in campo Manchester City-Napoli DIRETTA - ANSA",
-      "source": "ANSA",
-      "published": "2026-11-23T21:36:13+00:00"
+      "title": "Serie A 2026/2027, la classifica a confronto dopo 12 giornate - 11contro11",
+      "source": "11contro11",
+      "published": "2026-11-24T06:00:38+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League: martedì alle 21 in campo Como-Aek Atene DIRETTA - ANSA",
-      "source": "ANSA",
-      "published": "2026-11-23T21:34:56+00:00"
+      "title": "Pronostico Shakhtar-Fenerbahce 25 Novembre 2026: 5ª Giornata Champions League - Bottadiculo",
+      "source": "Bottadiculo",
+      "published": "2026-11-24T05:46:56+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, Inter-Stoccarda: dove vedere la partita, probabili formazioni e quote - Diretta",
-      "source": "Diretta",
-      "published": "2026-11-23T21:20:10+00:00"
+      "title": "Pronostici del computer: Arsenal e Manchester City trionfano in Champions League. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "published": "2026-11-24T05:40:32+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Una passerella sospesa e un portale luminoso ad ATP Finals Torino - Interni Magazine",
-      "source": "Interni Magazine",
-      "published": "2026-11-23T21:44:57+00:00"
+      "title": "Lasse Lempainen, chi è il chirurgo finlandese che aspetta Sinner? - Ubitennis",
+      "source": "Ubitennis",
+      "published": "2026-11-24T06:00:00+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner vola dal 'guru' finlandese per operazione al ginocchio - ANSA",
-      "source": "ANSA",
-      "published": "2026-11-23T21:24:55+00:00"
+      "title": "Almeno quattro mesi di stop per Sinner: ecco perché il recupero sarà così lungo - RaiNews",
+      "source": "RaiNews",
+      "published": "2026-11-24T05:34:00+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sinner: Castellacci 'possibili diversi interventi, da 2 a 4 mesi per il recupero' - ANSA",
-      "source": "ANSA",
-      "published": "2026-11-23T21:08:00+00:00"
+      "title": "L’operazione di Sinner: perchè Jannik non avrà bisogno del ranking protetto - Ubitennis",
+      "source": "Ubitennis",
+      "published": "2026-11-24T05:00:00+00:00"
     },
     {
       "type": "news",
@@ -103,7 +201,7 @@
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Classifica FIP – Osoro si avvicina a soli 35 punti dalla finale, la battaglia si intensifica nella competizione maschile in vista del Major del Messico - Padel Magazine",
+      "title": "Classifica FIP – Osoro si avvicina a soli 35 punti dalla finale, la battaglia si intensifica nella classifica maschile in vista del Major del Messico - Padel Magazine",
       "source": "Padel Magazine",
       "published": "2026-11-23T12:14:00+00:00"
     },
