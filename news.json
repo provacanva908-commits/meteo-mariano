@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T06:30:08.720163+00:00",
+  "updated_at": "2026-11-24T18:14:01.584497+00:00",
   "local_date": "2026-11-24",
   "articles": [
     {
@@ -9,11 +9,11 @@
       "home": "Bodø/Glimt",
       "away": "LASK",
       "time": "18:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "is_live": true,
       "local_date": "2026-11-24"
     },
     {
@@ -23,6 +23,20 @@
       "home": "Galatasaray",
       "away": "Aston Villa",
       "time": "18:45",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "is_live": true,
+      "local_date": "2026-11-24"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Feyenoord",
+      "away": "Porto",
+      "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
@@ -50,20 +64,6 @@
       "competition": "UEFA Champions League",
       "home": "Man City",
       "away": "Napoli",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-11-24"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Feyenoord",
-      "away": "Porto",
       "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
@@ -117,100 +117,100 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Milan, si discute il rinnovo di Cisse: tutti i dettagli su cifre e scadenza - Planetwin365 news",
-      "source": "Planetwin365 news",
-      "published": "2026-11-24T05:38:41+00:00"
+      "title": "Inter, la difesa preoccupa: il mercato resta un’opzione - notizie-inter.it",
+      "source": "notizie-inter.it",
+      "published": "2026-11-24T17:09:38+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Aboukhlal delude ancora e la cessione si complica: Toro a forte rischio minusvalenza - Toro News",
-      "source": "Toro News",
-      "published": "2026-11-24T05:30:22+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Lazio, il gruppo sceglie: nessun addio a gennaio. E si pianifica il rinnovo di Gattuso - TUTTOmercatoWEB",
+      "title": "Novità sul rinnovo di McTominay, ansia per Ostigard, Milan-Juve su Balde: le top news delle 18 - TUTTOmercatoWEB",
       "source": "TUTTOmercatoWEB",
-      "published": "2026-11-24T05:30:19+00:00"
+      "published": "2026-11-24T17:00:17+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calhanoglu, segnali positivi sul rinnovo: l’Inter resta la priorità - Notizie Inter",
-      "source": "Notizie Inter",
-      "published": "2026-11-24T02:07:33+00:00"
+      "title": "Calciomercato, Zirkzee apre alla Serie A: ottimi rapporti tra gli agenti e il Napoli - IamNaples",
+      "source": "IamNaples",
+      "published": "2026-11-24T15:00:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Serie A, rinnovato il protocollo con Unar contro ogni discriminazione - Gonfia la Rete",
+      "source": "Gonfia la Rete",
+      "published": "2026-11-24T14:10:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Pronostico San Jose Earthquakes-Houston Dynamo 25 novembre 2026: Ottavi di finale di Major League Soccer - Bottadiculo",
-      "source": "Bottadiculo",
-      "published": "2026-11-24T06:09:00+00:00"
+      "title": "Eccellenza TAA, stasera il recupero: Anaune Val di Non-Benacense accende la 13ª giornata - Tuttocampo",
+      "source": "Tuttocampo",
+      "published": "2026-11-24T18:05:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Serie A 2026/2027, la classifica a confronto dopo 12 giornate - 11contro11",
-      "source": "11contro11",
-      "published": "2026-11-24T06:00:38+00:00"
+      "title": "Manchester City-Napoli, formazioni ufficiali: le scelte di Allegri su Politano, Giovane e De Bruyne - Virgilio",
+      "source": "Virgilio",
+      "published": "2026-11-24T17:55:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Pronostico Shakhtar-Fenerbahce 25 Novembre 2026: 5ª Giornata Champions League - Bottadiculo",
-      "source": "Bottadiculo",
-      "published": "2026-11-24T05:46:56+00:00"
+      "title": "Chi salta e chi recupera per la 13^ giornata - Sky Sport",
+      "source": "Sky Sport",
+      "published": "2026-11-24T17:52:59+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Pronostici del computer: Arsenal e Manchester City trionfano in Champions League. - Vietnam.vn",
-      "source": "Vietnam.vn",
-      "published": "2026-11-24T05:40:32+00:00"
+      "title": "Dove vedere la Champions League femminile di volley: il programma delle italiane - L Football",
+      "source": "L Football",
+      "published": "2026-11-24T17:48:32+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Lasse Lempainen, chi è il chirurgo finlandese che aspetta Sinner? - Ubitennis",
-      "source": "Ubitennis",
-      "published": "2026-11-24T06:00:00+00:00"
+      "title": "Studio Aperto: Sinner, \"L'intervento è riuscito\" Video - Mediaset Infinity",
+      "source": "Mediaset Infinity",
+      "published": "2026-11-24T18:08:27+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Almeno quattro mesi di stop per Sinner: ecco perché il recupero sarà così lungo - RaiNews",
-      "source": "RaiNews",
-      "published": "2026-11-24T05:34:00+00:00"
+      "title": "Buenos Aires: esordio amaro per Bronzetti - SuperTennis",
+      "source": "SuperTennis",
+      "published": "2026-11-24T18:05:07+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "L’operazione di Sinner: perchè Jannik non avrà bisogno del ranking protetto - Ubitennis",
-      "source": "Ubitennis",
-      "published": "2026-11-24T05:00:00+00:00"
+      "title": "Binaghi: \"Jannik, fai con calma. Tutto il tennis italiano è al tuo fianco\" - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "2026-11-24T18:04:27+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Juan Lebron e Ale Galan si sfideranno in un 1 vs 1 - Padelbiz",
-      "source": "Padelbiz",
-      "published": "2026-11-23T13:29:15+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Classifica FIP – Osoro si avvicina a soli 35 punti dalla finale, la battaglia si intensifica nella classifica maschile in vista del Major del Messico - Padel Magazine",
+      "title": "P1000 Impact Stadium La Rochelle – Un campo di partecipanti di altissimo livello con Joris e Grue come grandi favoriti - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "2026-11-23T12:14:00+00:00"
+      "published": "2026-11-24T15:25:45+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Premier Padel 2027 – Sono state annunciate le date per il Paris Major, il Bordeaux P2 e il Bruxelles P2 - Padel Magazine",
+      "title": "Bronzo mondiale per l'Italia femminile alla FIP World Cup, Giulia Dal Pozzo decisiva - Virgilio",
+      "source": "Virgilio",
+      "published": "2026-11-24T10:24:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Classifica FIP: Guichard rientra tra i primi 80, Courrin e Muesser brillano dopo la vittoria del titolo, Mansart scala otto posizioni - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "2026-11-23T11:58:00+00:00"
+      "published": "2026-11-24T08:46:29+00:00"
     }
   ],
   "sources_ok": 5,
