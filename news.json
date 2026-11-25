@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T02:35:40.078550+00:00",
+  "updated_at": "2026-11-25T11:43:34.620437+00:00",
   "local_date": "2026-11-25",
   "articles": [
     {
@@ -117,79 +117,93 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 24 novembre - TUTTOmercatoWEB",
-      "source": "TUTTOmercatoWEB",
-      "published": "2026-11-25T00:00:28+00:00"
+      "title": "MERCATO - Schira: \"Napoli, visionato il giovane terzino Bailo, si valuta l'acquisto per poi girarlo in prestito ad un club amico in Serie B\" - Napoli Magazine",
+      "source": "Napoli Magazine",
+      "published": "2026-11-25T11:09:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Roma, dalla Germania: su Soulé c'è mezza Europa, cessione possibile per una ragione - TUTTOmercatoWEB",
-      "source": "TUTTOmercatoWEB",
-      "published": "2026-11-24T23:15:23+00:00"
+      "title": "Shpendi, il Cagliari pensa a gennaio: Cesena in stallo sul rinnovo - Bottadiculo",
+      "source": "Bottadiculo",
+      "published": "2026-11-25T10:03:24+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "VIDEO. Como, Suwarso: 'Nuovo attaccante? Non ci sono acquisti in programma a gennaio' - Sky Sport",
-      "source": "Sky Sport",
-      "published": "2026-11-24T20:29:17+00:00"
+      "title": "Calciomercato Milan, tutti i nomi per gennaio dalla difesa all'attacco e la sfida con la Juve - Tuttosport",
+      "source": "Tuttosport",
+      "published": "2026-11-25T09:23:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Palestra da primo acquisto di Xabi Alonso a possibile partente | Juventus Milan e Napoli studiano il ritorno in Serie A - Zazoom Social News",
-      "source": "Zazoom Social News",
-      "published": "2026-11-24T20:00:52+00:00"
+      "title": "Calciomercato Como, la strategia di gennaio dopo lo stop Kean - SetteCalcio",
+      "source": "SetteCalcio",
+      "published": "2026-11-25T09:08:11+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Le pagelle di Como-AEK Atene 1-0: Ramon e Chalobah chiudono i boccaporti. Milla e Valle top - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "2026-11-25T02:00:07+00:00"
+      "title": "Kylian Mbappé ha raggiunto numerosi traguardi nella Champions League. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "published": "2026-11-25T11:41:15+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, Sporting United: pronostico e probabili formazioni - Sportnews BetFlag",
-      "source": "Sportnews BetFlag",
-      "published": "2026-11-24T23:30:00+00:00"
+      "title": "Sport in tv mercoledì 25 novembre: Seghetti-Lepei con Sportface su Prime Video e Samsung TV, Italia-Corea del Sud in Coppa Davis - Sportface.it",
+      "source": "Sportface.it",
+      "published": "2026-11-25T11:28:26+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "City-Napoli: Allegri ingabbia Maresca, ma che proteste nel finale, Enzo è una furia. La vendetta di Donnarumma contro i cori - Virgilio",
+      "title": "Scheda squadra ST Borgo Carso - Tuttocampo",
+      "source": "Tuttocampo",
+      "published": "2026-11-25T11:18:48+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Il Como vista lago di Fabregas è una potenza Champions, capolavoro Milla e Nico Paz c'è anche quando non segna: a che serve Zirkzee? - Virgilio",
       "source": "Virgilio",
-      "published": "2026-11-24T23:06:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Pronostico Sabah-Barcellona: analisi e probabili formazioni 25/11/2026 Champions League - Calcio.com",
-      "source": "Calcio.com",
-      "published": "2026-11-24T23:05:33+00:00"
+      "published": "2026-11-25T11:13:00+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "La nuova BolognaFiere Tennis Arena - Comune di Bologna",
-      "source": "Comune di Bologna",
-      "published": "2026-11-25T01:18:55+00:00"
+      "title": "La ASD Pro Recco Tennis conquista l’argento ai Campionati Italiani Autunnali di Pickleball - Liguriasport",
+      "source": "Liguriasport",
+      "published": "2026-11-25T11:41:59+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "TENNIS, JANNIK SINNER DOMANI TORNA IN ITALIA, OGGI HA FESTEGGIATO IL COMPLEANNO DEL PAPA' HANSPETER - Radio NBC Rete Regione",
-      "source": "Radio NBC Rete Regione",
-      "published": "2026-11-25T00:44:32+00:00"
+      "title": "Alcaraz, Coppa Davis a rischio e Spagna in allarme: l’infortunio frena Carlos, ma Ferrer ha un piano - Virgilio",
+      "source": "Virgilio",
+      "published": "2026-11-25T11:35:00+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Rinderknech ha rifiutato un controllo antidoping: possibile squalifica - Ubitennis",
+      "title": "Darderi: “Che sogno la Davis! All’inizio sentivo il pregiudizio, ma ho scelto io l’Italia” - Ubitennis",
       "source": "Ubitennis",
-      "published": "2026-11-25T00:14:49+00:00"
+      "published": "2026-11-25T11:33:26+00:00"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Miguel Lamperti, l'addio di una leggenda che ha fatto innamorare un'intera generazione del padel - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "2026-11-25T10:12:53+00:00"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "FIP Silver Roeselare – 23 giocatori francesi in Belgio per l'ultimo evento Silver della stagione - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "2026-11-25T08:29:12+00:00"
     },
     {
       "type": "news",
@@ -197,20 +211,6 @@
       "title": "P1000 Impact Stadium La Rochelle – Un campo di partecipanti di altissimo livello con Joris e Grue come grandi favoriti - Padel Magazine",
       "source": "Padel Magazine",
       "published": "2026-11-24T15:25:45+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Bronzo mondiale per l'Italia femminile alla FIP World Cup, Giulia Dal Pozzo decisiva - Virgilio",
-      "source": "Virgilio",
-      "published": "2026-11-24T10:24:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Classifica FIP: Guichard rientra tra i primi 80, Courrin e Muesser brillano dopo la vittoria del titolo, Mansart scala otto posizioni - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "2026-11-24T08:46:29+00:00"
     }
   ],
   "sources_ok": 5,
