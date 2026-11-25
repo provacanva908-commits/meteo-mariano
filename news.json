@@ -1,33 +1,19 @@
 {
-  "updated_at": "2026-11-25T11:43:34.620437+00:00",
+  "updated_at": "2026-11-25T20:41:31.376893+00:00",
   "local_date": "2026-11-25",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Sabah FK",
-      "away": "Barça",
-      "time": "18:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-11-25"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Slavia Praha",
-      "away": "Villarreal",
-      "time": "18:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "home": "PSG",
+      "away": "Roma",
+      "time": "21:00",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 1,
+      "away_score": 1,
+      "is_live": true,
       "local_date": "2026-11-25"
     },
     {
@@ -37,11 +23,11 @@
       "home": "Lille",
       "away": "Bayern",
       "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 1,
+      "is_live": true,
       "local_date": "2026-11-25"
     },
     {
@@ -51,11 +37,11 @@
       "home": "Inter",
       "away": "Stuttgart",
       "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 0,
+      "is_live": true,
       "local_date": "2026-11-25"
     },
     {
@@ -65,25 +51,11 @@
       "home": "Shaktar",
       "away": "Fenerbahçe",
       "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
-      "local_date": "2026-11-25"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "PSG",
-      "away": "Roma",
-      "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 1,
+      "is_live": true,
       "local_date": "2026-11-25"
     },
     {
@@ -93,11 +65,11 @@
       "home": "Club Brugge",
       "away": "Liverpool",
       "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
-      "is_live": false,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 0,
+      "away_score": 1,
+      "is_live": true,
       "local_date": "2026-11-25"
     },
     {
@@ -107,110 +79,138 @@
       "home": "Sporting CP",
       "away": "Man United",
       "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 1,
+      "away_score": 0,
+      "is_live": true,
+      "local_date": "2026-11-25"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Atleti",
+      "away": "Viking",
+      "time": "21:00",
+      "status": "IN_PLAY",
+      "status_label": "LIVE",
+      "home_score": 2,
+      "away_score": 0,
+      "is_live": true,
+      "local_date": "2026-11-25"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "UEFA Champions League",
+      "home": "Sabah FK",
+      "away": "Barça",
+      "time": "18:45",
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 1,
+      "away_score": 4,
       "is_live": false,
       "local_date": "2026-11-25"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "MERCATO - Schira: \"Napoli, visionato il giovane terzino Bailo, si valuta l'acquisto per poi girarlo in prestito ad un club amico in Serie B\" - Napoli Magazine",
-      "source": "Napoli Magazine",
-      "published": "2026-11-25T11:09:00+00:00"
+      "title": "Calciomercato Serie A: Napoli su Zirkzee, Cagliari su Camarda. Torna Palestra? - Toro News",
+      "source": "Toro News",
+      "published": "2026-11-25T20:10:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Shpendi, il Cagliari pensa a gennaio: Cesena in stallo sul rinnovo - Bottadiculo",
-      "source": "Bottadiculo",
-      "published": "2026-11-25T10:03:24+00:00"
+      "title": "Atalanta, Bernasconi: \"Domani vogliamo vincere. Rinnovo? Merito di Luca Percassi\" - TUTTOmercatoWEB",
+      "source": "TUTTOmercatoWEB",
+      "published": "2026-11-25T18:34:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato Milan, tutti i nomi per gennaio dalla difesa all'attacco e la sfida con la Juve - Tuttosport",
-      "source": "Tuttosport",
-      "published": "2026-11-25T09:23:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Como, la strategia di gennaio dopo lo stop Kean - SetteCalcio",
-      "source": "SetteCalcio",
-      "published": "2026-11-25T09:08:11+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Kylian Mbappé ha raggiunto numerosi traguardi nella Champions League. - Vietnam.vn",
-      "source": "Vietnam.vn",
-      "published": "2026-11-25T11:41:15+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Sport in tv mercoledì 25 novembre: Seghetti-Lepei con Sportface su Prime Video e Samsung TV, Italia-Corea del Sud in Coppa Davis - Sportface.it",
-      "source": "Sportface.it",
-      "published": "2026-11-25T11:28:26+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Scheda squadra ST Borgo Carso - Tuttocampo",
-      "source": "Tuttocampo",
-      "published": "2026-11-25T11:18:48+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Il Como vista lago di Fabregas è una potenza Champions, capolavoro Milla e Nico Paz c'è anche quando non segna: a che serve Zirkzee? - Virgilio",
+      "title": "Napoli-McTominay, passi avanti per il rinnovo: la proposta alla Hamsik del club e il passo indietro di Scott, influirà anche De Bruyne - Virgilio",
       "source": "Virgilio",
-      "published": "2026-11-25T11:13:00+00:00"
+      "published": "2026-11-25T18:08:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "TRIBUNA.COM * SERIE A: «RABIOT AD UN PASSO DAL RINNOVO CON IL MILAN: QUANDO ARRIVERÀ LA FIRMA DEL FRANCESE - agenzia giornalistica opinione",
+      "source": "agenzia giornalistica opinione",
+      "published": "2026-11-25T18:05:15+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Marotta non si nasconde: \"Varela non piace solo a noi, normale che Baccin lo osservi\" - Eurosport.it",
+      "source": "Eurosport.it",
+      "published": "2026-11-25T19:58:33+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Champions League, il Barcellona ne fa 4 al Sabah. Successo anche per il Villarreal a Praga - Sportmediaset",
+      "source": "Sportmediaset",
+      "published": "2026-11-25T19:43:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Champions League, alle 21 Inter-Stoccarda e Psg-Roma. Le formazioni ufficiali - Sky TG24",
+      "source": "Sky TG24",
+      "published": "2026-11-25T19:34:20+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Europa League, Juventus-Omonia Nicosia: dove vedere la partita, probabili formazioni e quote - Diretta",
+      "source": "Diretta",
+      "published": "2026-11-25T18:59:15+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "La ASD Pro Recco Tennis conquista l’argento ai Campionati Italiani Autunnali di Pickleball - Liguriasport",
-      "source": "Liguriasport",
-      "published": "2026-11-25T11:41:59+00:00"
+      "title": "Italia-Corea 1-1: Cobolli ko, ora il doppio - Sky Sport",
+      "source": "Sky Sport",
+      "published": "2026-11-25T20:36:09+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Alcaraz, Coppa Davis a rischio e Spagna in allarme: l’infortunio frena Carlos, ma Ferrer ha un piano - Virgilio",
-      "source": "Virgilio",
-      "published": "2026-11-25T11:35:00+00:00"
+      "title": "Coppa Davis, parte la caccia al trofeo dell'Italia - Diretta",
+      "source": "Diretta",
+      "published": "2026-11-25T20:11:22+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Darderi: “Che sogno la Davis! All’inizio sentivo il pregiudizio, ma ho scelto io l’Italia” - Ubitennis",
-      "source": "Ubitennis",
-      "published": "2026-11-25T11:33:26+00:00"
+      "title": "Cobolli si arrende a Kwon al 3° set: Italia-Corea del Sud si decide al doppio - Eurosport.it",
+      "source": "Eurosport.it",
+      "published": "2026-11-25T20:07:55+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Miguel Lamperti, l'addio di una leggenda che ha fatto innamorare un'intera generazione del padel - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "2026-11-25T10:12:53+00:00"
+      "title": "Padelness & Sport si chiude con 30mila presenze a Napoli - Padelbiz",
+      "source": "Padelbiz",
+      "published": "2026-11-25T16:21:01+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "FIP Silver Roeselare – 23 giocatori francesi in Belgio per l'ultimo evento Silver della stagione - padel-magazine.it",
-      "source": "padel-magazine.it",
-      "published": "2026-11-25T08:29:12+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "P1000 Impact Stadium La Rochelle – Un campo di partecipanti di altissimo livello con Joris e Grue come grandi favoriti - Padel Magazine",
+      "title": "Mexico Major – Guichard e Godallier, le ultime due speranze francesi dell'anno - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "2026-11-24T15:25:45+00:00"
+      "published": "2026-11-25T14:20:09+00:00"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Pazzesco in Inghilterra: 50 ore in campo tra record e solidarietà - Padel Magazine",
+      "source": "Padel Magazine",
+      "published": "2026-11-25T14:02:00+00:00"
     }
   ],
   "sources_ok": 5,
