@@ -1,195 +1,195 @@
 {
-  "updated_at": "2026-11-24T18:14:01.584497+00:00",
-  "local_date": "2026-11-24",
+  "updated_at": "2026-11-25T02:35:40.078550+00:00",
+  "local_date": "2026-11-25",
   "articles": [
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Bodø/Glimt",
-      "away": "LASK",
+      "home": "Sabah FK",
+      "away": "Barça",
       "time": "18:45",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 0,
-      "away_score": 0,
-      "is_live": true,
-      "local_date": "2026-11-24"
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-25"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Galatasaray",
-      "away": "Aston Villa",
+      "home": "Slavia Praha",
+      "away": "Villarreal",
       "time": "18:45",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 0,
-      "away_score": 0,
-      "is_live": true,
-      "local_date": "2026-11-24"
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-25"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Feyenoord",
-      "away": "Porto",
+      "home": "Lille",
+      "away": "Bayern",
       "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
       "away_score": null,
       "is_live": false,
-      "local_date": "2026-11-24"
+      "local_date": "2026-11-25"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "RB Leipzig",
-      "away": "RC Lens",
+      "home": "Inter",
+      "away": "Stuttgart",
       "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
       "away_score": null,
       "is_live": false,
-      "local_date": "2026-11-24"
+      "local_date": "2026-11-25"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Man City",
-      "away": "Napoli",
+      "home": "Shaktar",
+      "away": "Fenerbahçe",
       "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
       "away_score": null,
       "is_live": false,
-      "local_date": "2026-11-24"
+      "local_date": "2026-11-25"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Sl. Bratislava",
-      "away": "Real Betis",
+      "home": "PSG",
+      "away": "Roma",
       "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
       "away_score": null,
       "is_live": false,
-      "local_date": "2026-11-24"
+      "local_date": "2026-11-25"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Real Madrid",
-      "away": "PSV",
+      "home": "Club Brugge",
+      "away": "Liverpool",
       "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
       "away_score": null,
       "is_live": false,
-      "local_date": "2026-11-24"
+      "local_date": "2026-11-25"
     },
     {
       "type": "match",
       "category": "CALCIO",
       "competition": "UEFA Champions League",
-      "home": "Como 1907",
-      "away": "PAE AEK",
+      "home": "Sporting CP",
+      "away": "Man United",
       "time": "21:00",
       "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
       "away_score": null,
       "is_live": false,
-      "local_date": "2026-11-24"
+      "local_date": "2026-11-25"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Inter, la difesa preoccupa: il mercato resta un’opzione - notizie-inter.it",
-      "source": "notizie-inter.it",
-      "published": "2026-11-24T17:09:38+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Novità sul rinnovo di McTominay, ansia per Ostigard, Milan-Juve su Balde: le top news delle 18 - TUTTOmercatoWEB",
+      "title": "Calciomercato no stop - Indiscrezioni, trattative e retroscena del 24 novembre - TUTTOmercatoWEB",
       "source": "TUTTOmercatoWEB",
-      "published": "2026-11-24T17:00:17+00:00"
+      "published": "2026-11-25T00:00:28+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Calciomercato, Zirkzee apre alla Serie A: ottimi rapporti tra gli agenti e il Napoli - IamNaples",
-      "source": "IamNaples",
-      "published": "2026-11-24T15:00:00+00:00"
+      "title": "Roma, dalla Germania: su Soulé c'è mezza Europa, cessione possibile per una ragione - TUTTOmercatoWEB",
+      "source": "TUTTOmercatoWEB",
+      "published": "2026-11-24T23:15:23+00:00"
     },
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Serie A, rinnovato il protocollo con Unar contro ogni discriminazione - Gonfia la Rete",
-      "source": "Gonfia la Rete",
-      "published": "2026-11-24T14:10:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Eccellenza TAA, stasera il recupero: Anaune Val di Non-Benacense accende la 13ª giornata - Tuttocampo",
-      "source": "Tuttocampo",
-      "published": "2026-11-24T18:05:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Manchester City-Napoli, formazioni ufficiali: le scelte di Allegri su Politano, Giovane e De Bruyne - Virgilio",
-      "source": "Virgilio",
-      "published": "2026-11-24T17:55:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Chi salta e chi recupera per la 13^ giornata - Sky Sport",
+      "title": "VIDEO. Como, Suwarso: 'Nuovo attaccante? Non ci sono acquisti in programma a gennaio' - Sky Sport",
       "source": "Sky Sport",
-      "published": "2026-11-24T17:52:59+00:00"
+      "published": "2026-11-24T20:29:17+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Palestra da primo acquisto di Xabi Alonso a possibile partente | Juventus Milan e Napoli studiano il ritorno in Serie A - Zazoom Social News",
+      "source": "Zazoom Social News",
+      "published": "2026-11-24T20:00:52+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Dove vedere la Champions League femminile di volley: il programma delle italiane - L Football",
-      "source": "L Football",
-      "published": "2026-11-24T17:48:32+00:00"
+      "title": "Le pagelle di Como-AEK Atene 1-0: Ramon e Chalobah chiudono i boccaporti. Milla e Valle top - Eurosport.it",
+      "source": "Eurosport.it",
+      "published": "2026-11-25T02:00:07+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Champions League, Sporting United: pronostico e probabili formazioni - Sportnews BetFlag",
+      "source": "Sportnews BetFlag",
+      "published": "2026-11-24T23:30:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "City-Napoli: Allegri ingabbia Maresca, ma che proteste nel finale, Enzo è una furia. La vendetta di Donnarumma contro i cori - Virgilio",
+      "source": "Virgilio",
+      "published": "2026-11-24T23:06:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Pronostico Sabah-Barcellona: analisi e probabili formazioni 25/11/2026 Champions League - Calcio.com",
+      "source": "Calcio.com",
+      "published": "2026-11-24T23:05:33+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Studio Aperto: Sinner, \"L'intervento è riuscito\" Video - Mediaset Infinity",
-      "source": "Mediaset Infinity",
-      "published": "2026-11-24T18:08:27+00:00"
+      "title": "La nuova BolognaFiere Tennis Arena - Comune di Bologna",
+      "source": "Comune di Bologna",
+      "published": "2026-11-25T01:18:55+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Buenos Aires: esordio amaro per Bronzetti - SuperTennis",
-      "source": "SuperTennis",
-      "published": "2026-11-24T18:05:07+00:00"
+      "title": "TENNIS, JANNIK SINNER DOMANI TORNA IN ITALIA, OGGI HA FESTEGGIATO IL COMPLEANNO DEL PAPA' HANSPETER - Radio NBC Rete Regione",
+      "source": "Radio NBC Rete Regione",
+      "published": "2026-11-25T00:44:32+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Binaghi: \"Jannik, fai con calma. Tutto il tennis italiano è al tuo fianco\" - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "2026-11-24T18:04:27+00:00"
+      "title": "Rinderknech ha rifiutato un controllo antidoping: possibile squalifica - Ubitennis",
+      "source": "Ubitennis",
+      "published": "2026-11-25T00:14:49+00:00"
     },
     {
       "type": "news",
