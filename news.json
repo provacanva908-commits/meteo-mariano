@@ -1,118 +1,13 @@
 {
-  "updated_at": "2026-11-25T20:41:31.376893+00:00",
-  "local_date": "2026-11-25",
+  "updated_at": "2026-11-26T03:11:32.087781+00:00",
+  "local_date": "2026-11-26",
   "articles": [
     {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "PSG",
-      "away": "Roma",
-      "time": "21:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 1,
-      "away_score": 1,
-      "is_live": true,
-      "local_date": "2026-11-25"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Lille",
-      "away": "Bayern",
-      "time": "21:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 0,
-      "away_score": 1,
-      "is_live": true,
-      "local_date": "2026-11-25"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Inter",
-      "away": "Stuttgart",
-      "time": "21:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 0,
-      "away_score": 0,
-      "is_live": true,
-      "local_date": "2026-11-25"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Shaktar",
-      "away": "Fenerbahçe",
-      "time": "21:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 0,
-      "away_score": 1,
-      "is_live": true,
-      "local_date": "2026-11-25"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Club Brugge",
-      "away": "Liverpool",
-      "time": "21:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 0,
-      "away_score": 1,
-      "is_live": true,
-      "local_date": "2026-11-25"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Sporting CP",
-      "away": "Man United",
-      "time": "21:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 1,
-      "away_score": 0,
-      "is_live": true,
-      "local_date": "2026-11-25"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Atleti",
-      "away": "Viking",
-      "time": "21:00",
-      "status": "IN_PLAY",
-      "status_label": "LIVE",
-      "home_score": 2,
-      "away_score": 0,
-      "is_live": true,
-      "local_date": "2026-11-25"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "UEFA Champions League",
-      "home": "Sabah FK",
-      "away": "Barça",
-      "time": "18:45",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 1,
-      "away_score": 4,
-      "is_live": false,
-      "local_date": "2026-11-25"
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Inter, forcing finale per il rinnovo di Carlos Augusto: restano pochi dettagli per chiudere - TUTTOmercatoWEB",
+      "source": "TUTTOmercatoWEB",
+      "published": "2026-11-25T22:35:00+00:00"
     },
     {
       "type": "news",
@@ -126,7 +21,7 @@
       "category": "CALCIOMERCATO",
       "title": "Atalanta, Bernasconi: \"Domani vogliamo vincere. Rinnovo? Merito di Luca Percassi\" - TUTTOmercatoWEB",
       "source": "TUTTOmercatoWEB",
-      "published": "2026-11-25T18:34:00+00:00"
+      "published": "2026-11-25T18:33:00+00:00"
     },
     {
       "type": "news",
@@ -137,66 +32,66 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "TRIBUNA.COM * SERIE A: «RABIOT AD UN PASSO DAL RINNOVO CON IL MILAN: QUANDO ARRIVERÀ LA FIRMA DEL FRANCESE - agenzia giornalistica opinione",
-      "source": "agenzia giornalistica opinione",
-      "published": "2026-11-25T18:05:15+00:00"
+      "category": "CALCIO",
+      "title": "Partite oggi, stasera e domani: guida alla Diretta TV - Calcio News 24",
+      "source": "Calcio News 24",
+      "published": "2026-11-26T01:18:26+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Marotta non si nasconde: \"Varela non piace solo a noi, normale che Baccin lo osservi\" - Eurosport.it",
+      "title": "Inter-Stoccarda 2-0: Sucic si ripete su rigore e Lautaro Martinez torna al gol, nerazzurri in volo - Eurosport.it",
       "source": "Eurosport.it",
-      "published": "2026-11-25T19:58:33+00:00"
+      "published": "2026-11-26T01:02:39+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, il Barcellona ne fa 4 al Sabah. Successo anche per il Villarreal a Praga - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "2026-11-25T19:43:00+00:00"
+      "title": "Calcio Champions League – Esame di maturità superato per l’Inter: Stoccarda battuto 2-0 - Alessandria Oggi",
+      "source": "Alessandria Oggi",
+      "published": "2026-11-26T01:02:14+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Champions League, alle 21 Inter-Stoccarda e Psg-Roma. Le formazioni ufficiali - Sky TG24",
-      "source": "Sky TG24",
-      "published": "2026-11-25T19:34:20+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Europa League, Juventus-Omonia Nicosia: dove vedere la partita, probabili formazioni e quote - Diretta",
-      "source": "Diretta",
-      "published": "2026-11-25T18:59:15+00:00"
+      "title": "Champions: ecco cosa serve a Como, Inter, Napoli e Roma per centrare ottavi o playoff - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "2026-11-25T23:35:57+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Italia-Corea 1-1: Cobolli ko, ora il doppio - Sky Sport",
-      "source": "Sky Sport",
-      "published": "2026-11-25T20:36:09+00:00"
+      "title": "Jannik Sinner non parteciperà agli Australian Open - ANSA",
+      "source": "ANSA",
+      "published": "2026-11-26T03:05:00+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Coppa Davis, parte la caccia al trofeo dell'Italia - Diretta",
-      "source": "Diretta",
-      "published": "2026-11-25T20:11:22+00:00"
+      "title": "Volandri: \"Con la Cechia sarà tosta: servirà recuperare le energie\" - SuperTennis",
+      "source": "SuperTennis",
+      "published": "2026-11-26T00:58:13+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Cobolli si arrende a Kwon al 3° set: Italia-Corea del Sud si decide al doppio - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "2026-11-25T20:07:55+00:00"
+      "title": "Coppa Davis, quanto manca Sinner all’Italia: Cobolli flop e critiche, Berrettini e Vavassori evitano il tracollo - Virgilio",
+      "source": "Virgilio",
+      "published": "2026-11-25T23:14:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Grand Slam Padel Tour: PokerStarsNews Presenting Partner a Latina - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "2026-11-25T19:53:27+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
       "title": "Padelness & Sport si chiude con 30mila presenze a Napoli - Padelbiz",
       "source": "Padelbiz",
-      "published": "2026-11-25T16:21:01+00:00"
+      "published": "2026-11-25T16:42:34+00:00"
     },
     {
       "type": "news",
@@ -204,13 +99,6 @@
       "title": "Mexico Major – Guichard e Godallier, le ultime due speranze francesi dell'anno - Padel Magazine",
       "source": "Padel Magazine",
       "published": "2026-11-25T14:20:09+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Pazzesco in Inghilterra: 50 ore in campo tra record e solidarietà - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "2026-11-25T14:02:00+00:00"
     }
   ],
   "sources_ok": 5,
