@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T04:07:13.001947+00:00",
+  "updated_at": "2026-11-27T13:51:18.848952+00:00",
   "local_date": "2026-11-27",
   "articles": [
     {
@@ -46,104 +46,58 @@
     },
     {
       "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Parma, Cherubini: \"Valenti via a gennaio. Bernabé? Non credo ci sarà un rinnovo a breve\" - TUTTOmercatoWEB",
-      "source": "TUTTOmercatoWEB",
-      "published": "2026-11-26T21:30:36+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Serie A: Camarda in Olanda? Intanto il Napoli… - gazzettaGranata",
-      "source": "gazzettaGranata",
-      "published": "2026-11-26T21:22:03+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Calciomercato Serie A: Camarda in Olanda? Intanto il Napoli... - Toro News",
-      "source": "Toro News",
-      "published": "2026-11-26T21:07:59+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
-      "title": "Il Bayern Monaco su Mauro Icardi: si allontana il ritorno in Serie A - Calciomercato",
-      "source": "Calciomercato",
-      "published": "2026-11-26T20:21:05+00:00"
+      "category": "CALCIO",
+      "title": "Ingvar Jónsson è morto a soli 37 anni, il portiere dell'Islanda migliore di sempre e capace di infastidire l'Inter - Virgilio",
+      "source": "Virgilio",
+      "published": "2026-11-27T12:30:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Pazza Dea a Banja Luka! Sotto 2-0 all'86', Krstovic, Kolasinac e Zappacosta ribaltano il Borac 2-3 - Eurosport.it",
+      "title": "Europa: la panchina di Malen, i gregari del Como, il ritorno di Lautaro e il «Trio rimonta» - Eurosport.it",
       "source": "Eurosport.it",
-      "published": "2026-11-27T01:18:55+00:00"
+      "published": "2026-11-27T12:15:19+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Europa League: la Juve si spaventa e poi dilaga, poker all'Omonia - ANSA",
-      "source": "ANSA",
-      "published": "2026-11-26T22:29:00+00:00"
+      "title": "Roma-Monza, probabili formazioni: Gasperini ha solo due dubbi, Juric cambia l'attacco - Virgilio",
+      "source": "Virgilio",
+      "published": "2026-11-27T11:41:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Europa League: Hutchinson ribalta l'Olympiacos e salva il Milan dall'incubo - ANSA",
-      "source": "ANSA",
-      "published": "2026-11-26T22:28:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIO",
-      "title": "Scontri tra tifosi del Besiktas e polizia georgiana: gara sospesa con l'Hapoel Beer Sheva. La Federcalcio turca: \"Ci rivolgeremo alla Uefa\" - Sportmediaset",
-      "source": "Sportmediaset",
-      "published": "2026-11-26T22:24:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Angelo Binaghi: “Atp Finals, certezza Torino è come stare sulla Luna. Italia coraggiosa in Davis” - La Stampa",
-      "source": "La Stampa",
-      "published": "2026-11-27T04:00:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Ecco l’ATP Challenger a un passo dal Varesotto - La Prealpina",
-      "source": "La Prealpina",
-      "published": "2026-11-27T01:31:00+00:00"
-    },
-    {
-      "type": "news",
-      "category": "TENNIS",
-      "title": "Il grande tennis a Guanzate: a dicembre l’ultimo torneo ATP Challenger della stagione - VareseNews",
-      "source": "VareseNews",
-      "published": "2026-11-26T23:37:30+00:00"
+      "title": "Pronostico Como-Juventus: analisi, quote e consigli - Siti scommesse",
+      "source": "Siti scommesse",
+      "published": "2026-11-27T11:25:00+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "EA7 World Legends Padel Tour: nel weekend le Finals a Dubai. In campo anche Vieri e Shevchenko - la Repubblica",
-      "source": "la Repubblica",
-      "published": "2026-11-26T15:02:44+00:00"
+      "title": "Ea7 World Legends Padel tour 2026; alle finals di Dubai si incorona la coppia regina - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "2026-11-27T10:02:56+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Ale Galán si imbarca in una nuova sfida con la creazione della sua accademia - Padel Magazine",
+      "title": "Miguel Lamperti esclusivo: “La mia ultima stagione in Premier Padel prima di diventare allenatore: che bello portare la felicità in campo\" - Corriere dello Sport",
+      "source": "Corriere dello Sport",
+      "published": "2026-11-27T08:55:48+00:00"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Rodri Ovide riflette sulla decisione di lasciare Coello fuori dalla terza partita: \"Juanjo è un eroe e noi siamo degli asini\" - Padel Magazine",
       "source": "Padel Magazine",
-      "published": "2026-11-26T14:36:59+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "P2000 Rivesaltes: Scatena torna in pista, Leygue in qualifica e nuove collaborazioni! - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "2026-11-26T14:20:05+00:00"
+      "published": "2026-11-27T08:01:00+00:00"
     }
   ],
-  "sources_ok": 5,
+  "sources_ok": 3,
   "sources_total": 5,
-  "warnings": []
+  "warnings": [
+    "CALCIOMERCATO: HTTP Error 429: Too Many Requests",
+    "TENNIS: HTTP Error 429: Too Many Requests"
+  ]
 }
