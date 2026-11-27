@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T13:51:18.848952+00:00",
+  "updated_at": "2026-11-27T22:27:51.787071+00:00",
   "local_date": "2026-11-27",
   "articles": [
     {
@@ -9,10 +9,10 @@
       "home": "Venezia FC",
       "away": "Bologna",
       "time": "20:45",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 0,
+      "away_score": 0,
       "is_live": false,
       "local_date": "2026-11-27"
     },
@@ -23,10 +23,10 @@
       "home": "Nottingham",
       "away": "Chelsea",
       "time": "21:00",
-      "status": "TIMED",
-      "status_label": "In programma",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "status_label": "Finale",
+      "home_score": 3,
+      "away_score": 2,
       "is_live": false,
       "local_date": "2026-11-27"
     },
@@ -46,31 +46,87 @@
     },
     {
       "type": "news",
-      "category": "CALCIO",
-      "title": "Ingvar Jónsson è morto a soli 37 anni, il portiere dell'Islanda migliore di sempre e capace di infastidire l'Inter - Virgilio",
-      "source": "Virgilio",
-      "published": "2026-11-27T12:30:00+00:00"
+      "category": "CALCIOMERCATO",
+      "title": "Hainaut: \"Credo in questo Venezia, felice del rinnovo. Juve? Siamo andati bene per 50 minuti\" - TUTTOmercatoWEB",
+      "source": "TUTTOmercatoWEB",
+      "published": "2026-11-27T19:37:53+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Serie A, tutte le probabili formazioni della tredicesima giornata di campionato - Calciomercato",
+      "source": "Calciomercato",
+      "published": "2026-11-27T19:27:25+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Venezia-Bologna, dove vederla in tv e streaming: canale, orario, formazioni - Calciomercato",
+      "source": "Calciomercato",
+      "published": "2026-11-27T18:48:08+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "TRIBUNA.COM * SERIE A: «VARELA CONVINCE CHIVU: IL TALENTO DEL MONZA PUÒ CAMBIARE IL FUTURO DI BONNY ALL'INTER, NOVITÀ SUL RINNOVO DI THURAM - agenzia giornalistica opinione",
+      "source": "agenzia giornalistica opinione",
+      "published": "2026-11-27T18:40:31+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Europa: la panchina di Malen, i gregari del Como, il ritorno di Lautaro e il «Trio rimonta» - Eurosport.it",
-      "source": "Eurosport.it",
-      "published": "2026-11-27T12:15:19+00:00"
+      "title": "Diretta Davis Cup Finals - la Repubblica",
+      "source": "la Repubblica",
+      "published": "2026-11-27T19:40:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Roma-Monza, probabili formazioni: Gasperini ha solo due dubbi, Juric cambia l'attacco - Virgilio",
-      "source": "Virgilio",
-      "published": "2026-11-27T11:41:00+00:00"
+      "title": "Brighton & Hove Albion-Newcastle United: Pronostico e Quote Premier League - 29/11/2026 - ToffeeWeb",
+      "source": "ToffeeWeb",
+      "published": "2026-11-27T19:27:13+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Pronostico Como-Juventus: analisi, quote e consigli - Siti scommesse",
-      "source": "Siti scommesse",
-      "published": "2026-11-27T11:25:00+00:00"
+      "title": "L'eroe per caso e i due minuti più pazzi di sempre in Champions League - La Gazzetta dello Sport",
+      "source": "La Gazzetta dello Sport",
+      "published": "2026-11-27T19:02:09+00:00"
+    },
+    {
+      "type": "news",
+      "category": "CALCIO",
+      "title": "Il primo Pallone d’Oro della storia di Calcio Flash Ponente brilla in Europa: Lamin Jawo a segno in Conference League - Calcio Flash Ponente",
+      "source": "Calcio Flash Ponente",
+      "published": "2026-11-27T18:38:05+00:00"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Coppa Davis, Italia-Cechia 2-1: il doppio è ancora magico, con Musetti e Vavassori c’è la quarta finale! - Ubitennis",
+      "source": "Ubitennis",
+      "published": "2026-11-27T22:11:56+00:00"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "TENNIS COPPA DAVIS- L’Italia batte la Repubblica Ceca e vola in finale - FirenzeViolaSuperSport Live",
+      "source": "FirenzeViolaSuperSport Live",
+      "published": "2026-11-27T22:07:30+00:00"
+    },
+    {
+      "type": "news",
+      "category": "TENNIS",
+      "title": "Sal Da Vinci segato dal tennis su Rai 1: Meravigliosamente salta per la Coppa Davis e su X è rivolta contro la Rai - Libero",
+      "source": "Libero",
+      "published": "2026-11-27T22:04:00+00:00"
+    },
+    {
+      "type": "news",
+      "category": "PADEL",
+      "title": "Mexico Major: la partita della stagione per Leal e Libaak, Triay e Brea a una sola vittoria dal primo posto. - padel-magazine.it",
+      "source": "padel-magazine.it",
+      "published": "2026-11-27T18:28:01+00:00"
     },
     {
       "type": "news",
@@ -85,19 +141,9 @@
       "title": "Miguel Lamperti esclusivo: “La mia ultima stagione in Premier Padel prima di diventare allenatore: che bello portare la felicità in campo\" - Corriere dello Sport",
       "source": "Corriere dello Sport",
       "published": "2026-11-27T08:55:48+00:00"
-    },
-    {
-      "type": "news",
-      "category": "PADEL",
-      "title": "Rodri Ovide riflette sulla decisione di lasciare Coello fuori dalla terza partita: \"Juanjo è un eroe e noi siamo degli asini\" - Padel Magazine",
-      "source": "Padel Magazine",
-      "published": "2026-11-27T08:01:00+00:00"
     }
   ],
-  "sources_ok": 3,
+  "sources_ok": 5,
   "sources_total": 5,
-  "warnings": [
-    "CALCIOMERCATO: HTTP Error 429: Too Many Requests",
-    "TENNIS: HTTP Error 429: Too Many Requests"
-  ]
+  "warnings": []
 }
