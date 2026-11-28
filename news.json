@@ -1,35 +1,7 @@
 {
-  "updated_at": "2026-11-27T22:27:51.787071+00:00",
-  "local_date": "2026-11-27",
+  "updated_at": "2026-11-28T04:09:52.837781+00:00",
+  "local_date": "2026-11-28",
   "articles": [
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Serie A",
-      "home": "Venezia FC",
-      "away": "Bologna",
-      "time": "20:45",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 0,
-      "away_score": 0,
-      "is_live": false,
-      "local_date": "2026-11-27"
-    },
-    {
-      "type": "match",
-      "category": "CALCIO",
-      "competition": "Premier League",
-      "home": "Nottingham",
-      "away": "Chelsea",
-      "time": "21:00",
-      "status": "FINISHED",
-      "status_label": "Finale",
-      "home_score": 3,
-      "away_score": 2,
-      "is_live": false,
-      "local_date": "2026-11-27"
-    },
     {
       "type": "match",
       "category": "CALCIO",
@@ -38,11 +10,116 @@
       "away": "Da definire",
       "time": "01:00",
       "status": "SCHEDULED",
+      "status_label": "Stato da verificare",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-28"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Frosinone",
+      "away": "Parma",
+      "time": "15:00",
+      "status": "TIMED",
       "status_label": "In programma",
       "home_score": null,
       "away_score": null,
       "is_live": false,
       "local_date": "2026-11-28"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Bundesliga",
+      "home": "HSV",
+      "away": "Bayern",
+      "time": "15:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-28"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Premier League",
+      "home": "Man United",
+      "away": "Brentford",
+      "time": "16:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-28"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Serie A",
+      "home": "Torino",
+      "away": "Lazio",
+      "time": "18:00",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-28"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Primera Division",
+      "home": "Elche",
+      "away": "Atleti",
+      "time": "18:30",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-28"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Eredivisie",
+      "home": "PSV",
+      "away": "Go Ahead",
+      "time": "18:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-28"
+    },
+    {
+      "type": "match",
+      "category": "CALCIO",
+      "competition": "Ligue 1",
+      "home": "PSG",
+      "away": "Lorient",
+      "time": "20:45",
+      "status": "TIMED",
+      "status_label": "In programma",
+      "home_score": null,
+      "away_score": null,
+      "is_live": false,
+      "local_date": "2026-11-28"
+    },
+    {
+      "type": "news",
+      "category": "CALCIOMERCATO",
+      "title": "Napoli, Zirkzee è il prescelto: trattativa con lo United - https://tuttonapolicalcio.it/",
+      "source": "https://tuttonapolicalcio.it/",
+      "published": "2026-11-28T00:08:06+00:00"
     },
     {
       "type": "news",
@@ -61,13 +138,6 @@
     {
       "type": "news",
       "category": "CALCIOMERCATO",
-      "title": "Venezia-Bologna, dove vederla in tv e streaming: canale, orario, formazioni - Calciomercato",
-      "source": "Calciomercato",
-      "published": "2026-11-27T18:48:08+00:00"
-    },
-    {
-      "type": "news",
-      "category": "CALCIOMERCATO",
       "title": "TRIBUNA.COM * SERIE A: «VARELA CONVINCE CHIVU: IL TALENTO DEL MONZA PUÒ CAMBIARE IL FUTURO DI BONNY ALL'INTER, NOVITÀ SUL RINNOVO DI THURAM - agenzia giornalistica opinione",
       "source": "agenzia giornalistica opinione",
       "published": "2026-11-27T18:40:31+00:00"
@@ -75,57 +145,57 @@
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Diretta Davis Cup Finals - la Repubblica",
-      "source": "la Repubblica",
-      "published": "2026-11-27T19:40:00+00:00"
+      "title": "Pronostico Amburgo Bayern Monaco Champions League 28/11/2026 - Sportnews BetFlag",
+      "source": "Sportnews BetFlag",
+      "published": "2026-11-28T04:00:00+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Brighton & Hove Albion-Newcastle United: Pronostico e Quote Premier League - 29/11/2026 - ToffeeWeb",
-      "source": "ToffeeWeb",
-      "published": "2026-11-27T19:27:13+00:00"
+      "title": "Il Como vola, la Roma mastica amaro: la classifica della League Phase - Eurosport.it",
+      "source": "Eurosport.it",
+      "published": "2026-11-28T00:45:32+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "L'eroe per caso e i due minuti più pazzi di sempre in Champions League - La Gazzetta dello Sport",
-      "source": "La Gazzetta dello Sport",
-      "published": "2026-11-27T19:02:09+00:00"
+      "title": "Partite oggi, stasera e domani: guida alla Diretta TV - Calcio News 24",
+      "source": "Calcio News 24",
+      "published": "2026-11-28T00:07:44+00:00"
     },
     {
       "type": "news",
       "category": "CALCIO",
-      "title": "Il primo Pallone d’Oro della storia di Calcio Flash Ponente brilla in Europa: Lamin Jawo a segno in Conference League - Calcio Flash Ponente",
-      "source": "Calcio Flash Ponente",
-      "published": "2026-11-27T18:38:05+00:00"
+      "title": "Pronostico Frosinone Parma Serie A 28/11/2026 - Sportnews BetFlag",
+      "source": "Sportnews BetFlag",
+      "published": "2026-11-27T23:00:00+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Coppa Davis, Italia-Cechia 2-1: il doppio è ancora magico, con Musetti e Vavassori c’è la quarta finale! - Ubitennis",
-      "source": "Ubitennis",
-      "published": "2026-11-27T22:11:56+00:00"
+      "title": "Italia in finale di Coppa Davis 2026: quando giocano gli azzurri a Bologna per il quinto titolo · Tennis - Olympics",
+      "source": "Olympics",
+      "published": "2026-11-28T04:07:02+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "TENNIS COPPA DAVIS- L’Italia batte la Repubblica Ceca e vola in finale - FirenzeViolaSuperSport Live",
-      "source": "FirenzeViolaSuperSport Live",
-      "published": "2026-11-27T22:07:30+00:00"
+      "title": "LIVE Gran Bretagna-Spagna, Coppa Davis 2026 in DIRETTA: i britannici confidano di arrivare al doppio decisivo - OA Sport",
+      "source": "OA Sport",
+      "published": "2026-11-28T03:55:15+00:00"
     },
     {
       "type": "news",
       "category": "TENNIS",
-      "title": "Sal Da Vinci segato dal tennis su Rai 1: Meravigliosamente salta per la Coppa Davis e su X è rivolta contro la Rai - Libero",
-      "source": "Libero",
-      "published": "2026-11-27T22:04:00+00:00"
+      "title": "LIVE Gran Bretagna-Spagna, Coppa Davis 2026 in DIRETTA: quasi certo il debutto di Alcaraz - OA Sport",
+      "source": "OA Sport",
+      "published": "2026-11-28T03:50:18+00:00"
     },
     {
       "type": "news",
       "category": "PADEL",
-      "title": "Mexico Major: la partita della stagione per Leal e Libaak, Triay e Brea a una sola vittoria dal primo posto. - padel-magazine.it",
-      "source": "padel-magazine.it",
+      "title": "Mexico Major: la partita della stagione per Leal e Libaak, Triay e Brea a una sola vittoria dal primo posto. - Padel Magazine",
+      "source": "Padel Magazine",
       "published": "2026-11-27T18:28:01+00:00"
     },
     {
